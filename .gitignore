@@ -1,3 +1,4 @@
 logs/
 curator_run.json
 .DS_Store
+dist/

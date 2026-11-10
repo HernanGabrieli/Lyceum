@@ -6,9 +6,9 @@ Microlearning app: one idea per card from Silicon Valley builders ("Valley", ids
 - `site/index.template.html` – the whole UI (CSS + JS). Data goes where `/*__LYCEUM_DATA__*/` sits. Edit this file for UI changes only.
 - `content/` – source of truth: `topics.json`, `thinkers.json`, `cards.json`, `duos.json`, `runs.json`, `batches/` (one file per curator run, kept as audit trail).
 - `scripts/build.py` – content → `dist/index.html` (also referential checks). `validate_batch.py` and `merge_batch.py` – curator pipeline.
-- `dist/index.html` – generated. Never edit by hand; it is the file served by Docker and the one to publish as a claude.ai artifact.
+- `dist/index.html` – generated and git-ignored. Never edit by hand; `scripts/build.py` produces it (locally for Docker and for publishing as a claude.ai artifact; GitHub Actions builds it for Pages).
 - `.claude/skills/lyceum-curator/` – the curator agent (skill), with its schema and roster.
-- `ops/` – scheduled runs (Windows Task Scheduler, cron) and Docker serving.
+- `ops/` – scheduled runs (Windows Task Scheduler, cron) and Docker serving. `.github/workflows/` – Pages deploy on push, cloud curator on cron.
 
 ## Commands
 - Build: `python3 scripts/build.py`

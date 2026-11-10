@@ -1,15 +1,23 @@
 name: Lyceum curator
 on:
   schedule:
-    - cron: "0 6,18 * * *"   # 08:00 and 20:00 Europe/Rome in winter
+    - cron: "0 7 * * *"      # 08:00 Europe/Rome in winter; the owner asked for every 12 h ("0 6,18 * * *"), daily is the recommended cadence
   workflow_dispatch: {}
 permissions:
   contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: curator
+  cancel-in-progress: false
 jobs:
   curate:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.push.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
       - uses: actions/setup-node@v4
         with: { node-version: "20" }
       - uses: actions/setup-python@v5
@@ -19,12 +27,36 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
+          git config user.name "lyceum-curator"
+          git config user.email "curator@users.noreply.github.com"
           claude -p "$(cat ops/curator_prompt.txt)" \
             --permission-mode acceptEdits \
             --allowedTools "Read,Edit,Write,Glob,Grep,WebSearch,WebFetch,Bash(python3 scripts/*),Bash(git add *),Bash(git commit *),Bash(git status*),Bash(git log*),Bash(git remote*)" \
-            --output-format json > curator_run.json
-      - name: Push the commit made by the curator
+            --output-format json > curator_run.json || true
+          tail -c 4000 curator_run.json
+      - name: Push the curator's commit, if any
+        id: push
         run: |
-          git config user.name "lyceum-curator"
-          git config user.email "curator@users.noreply.github.com"
-          git push
+          if [ "$(git rev-list origin/main..HEAD --count)" -gt 0 ]; then git push; echo "changed=true" >> "$GITHUB_OUTPUT"; else echo "changed=false" >> "$GITHUB_OUTPUT"; fi
+  # Pushes made with GITHUB_TOKEN do not trigger other workflows, so the Pages deploy runs here.
+  build:
+    needs: curate
+    if: needs.curate.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python3 scripts/build.py
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: dist }
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
