@@ -1,0 +1,54 @@
+{
+ "ids": [
+  "strategy",
+  "leadership",
+  "focus",
+  "risk",
+  "building",
+  "power",
+  "character",
+  "money"
+ ],
+ "names": {
+  "en": {
+   "strategy": "Strategy",
+   "leadership": "Leadership",
+   "focus": "Focus",
+   "risk": "Risk",
+   "building": "Building",
+   "power": "Power",
+   "character": "Character",
+   "money": "Money"
+  },
+  "it": {
+   "strategy": "Strategia",
+   "leadership": "Leadership",
+   "focus": "Focus",
+   "risk": "Rischio",
+   "building": "Costruire",
+   "power": "Potere",
+   "character": "Carattere",
+   "money": "Denaro"
+  },
+  "es": {
+   "strategy": "Estrategia",
+   "leadership": "Liderazgo",
+   "focus": "Foco",
+   "risk": "Riesgo",
+   "building": "Construir",
+   "power": "Poder",
+   "character": "Carácter",
+   "money": "Dinero"
+  },
+  "la": {
+   "strategy": "Consilium",
+   "leadership": "Ducatus",
+   "focus": "Intentio",
+   "risk": "Periculum",
+   "building": "Aedificatio",
+   "power": "Potestas",
+   "character": "Mores",
+   "money": "Pecunia"
+  }
+ }
+}

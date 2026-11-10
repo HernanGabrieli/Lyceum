@@ -1,0 +1,13 @@
+[
+ {
+  "at": "2026-10-15T19:00:00Z",
+  "batch": "2026-10-15-seed",
+  "by": "claude-chat",
+  "ids": [
+   "v27",
+   "a29"
+  ],
+  "verified": 0,
+  "note": "Seed batch written to the claude.ai artifact db; exported into this repo on 2026-11-10."
+ }
+]

@@ -1,0 +1,30 @@
+name: Lyceum curator
+on:
+  schedule:
+    - cron: "0 6,18 * * *"   # 08:00 and 20:00 Europe/Rome in winter
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: npm install -g @anthropic-ai/claude-code
+      - name: Run the curator headless
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          claude -p "$(cat ops/curator_prompt.txt)" \
+            --permission-mode acceptEdits \
+            --allowedTools "Read,Edit,Write,Glob,Grep,WebSearch,WebFetch,Bash(python3 scripts/*),Bash(git add *),Bash(git commit *),Bash(git status*),Bash(git log*),Bash(git remote*)" \
+            --output-format json > curator_run.json
+      - name: Push the commit made by the curator
+        run: |
+          git config user.name "lyceum-curator"
+          git config user.email "curator@users.noreply.github.com"
+          git push

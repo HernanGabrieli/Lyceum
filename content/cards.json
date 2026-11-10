@@ -1,0 +1,1827 @@
+[
+ {
+  "id": "v01",
+  "t": "jobs",
+  "era": "1997",
+  "src": "Apple product-line reset, 1997; grid shown at Macworld 1998",
+  "h": "Saying no is the product.",
+  "b": "Back at Apple in 1997, Jobs cut dozens of models to a two-by-two grid: consumer or pro, desktop or portable. Focus is measured by what you refuse, not by what you ship; a crowded line hides the one thing worth being excellent at.",
+  "d": "List every live initiative. Kill anything you would be embarrassed to call your only product.",
+  "tg": [
+   "focus",
+   "strategy"
+  ],
+  "v": true,
+  "tr": {
+   "it": [
+    "Dire di no è il prodotto.",
+    "Tornato in Apple nel 1997, Jobs ridusse decine di modelli a una griglia due per due: consumer o pro, desktop o portatile. Il focus si misura da ciò che rifiuti, non da ciò che lanci; una gamma affollata nasconde l'unica cosa in cui vale la pena eccellere.",
+    "Elenca ogni iniziativa in corso. Elimina tutto ciò che ti imbarazzerebbe chiamare il tuo unico prodotto.",
+    "Riassetto della gamma Apple, 1997; griglia mostrata al Macworld 1998"
+   ],
+   "es": [
+    "Decir que no es el producto.",
+    "De vuelta en Apple en 1997, Jobs redujo decenas de modelos a una cuadrícula de dos por dos: consumo o pro, sobremesa o portátil. El foco se mide por lo que rechazas, no por lo que lanzas; una gama abarrotada esconde lo único en lo que vale la pena ser excelente.",
+    "Enumera cada iniciativa viva. Elimina todo lo que te daría vergüenza llamar tu único producto.",
+    "Reajuste de la gama de Apple, 1997; cuadrícula mostrada en Macworld 1998"
+   ],
+   "la": [
+    "Negare est ipsum opus."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v02",
+  "t": "jobs",
+  "era": "2005",
+  "src": "Stanford commencement address, 2005",
+  "h": "The dots only connect backwards.",
+  "b": "A calligraphy class taken after dropping out became the typography of the Macintosh a decade later. You cannot plan coherence forward; you can only trust that today's detour will be tomorrow's advantage.",
+  "d": "Keep a log of skills that look useless. They are dots waiting for a line.",
+  "tg": [
+   "character",
+   "risk"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "I punti si collegano solo guardando indietro.",
+    "Un corso di calligrafia seguito dopo aver lasciato l'università divenne, dieci anni dopo, la tipografia del Macintosh. Non puoi pianificare la coerenza in avanti; puoi solo fidarti che la deviazione di oggi sia il vantaggio di domani.",
+    "Tieni un registro delle competenze che sembrano inutili. Sono punti in attesa di una linea.",
+    "Discorso di laurea a Stanford, 2005"
+   ],
+   "es": [
+    "Los puntos solo se conectan mirando atrás.",
+    "Un curso de caligrafía tomado tras dejar la universidad se convirtió, una década después, en la tipografía del Macintosh. No puedes planificar la coherencia hacia adelante; solo puedes confiar en que el desvío de hoy sea la ventaja de mañana.",
+    "Lleva un registro de las habilidades que parecen inútiles. Son puntos esperando una línea.",
+    "Discurso de graduación en Stanford, 2005"
+   ],
+   "la": [
+    "Puncta retrospicienti tantum conectuntur."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v03",
+  "t": "graham",
+  "era": "2005",
+  "src": "Y Combinator motto, 2005",
+  "h": "Make something people want.",
+  "b": "Most startups die of indifference, not competition. The only early test that matters is whether a small group of users would be upset if you disappeared tomorrow. Everything else, logo, deck and press, is decoration.",
+  "d": "Find ten people who would pay today. Ignore everyone else until you have them.",
+  "tg": [
+   "building"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Costruisci qualcosa che la gente vuole.",
+    "La maggior parte delle startup muore di indifferenza, non di concorrenza. L'unico test iniziale che conta è se un piccolo gruppo di utenti si arrabbierebbe se domani sparissi. Tutto il resto, logo, deck e stampa, è decorazione.",
+    "Trova dieci persone disposte a pagare oggi. Ignora tutti gli altri finché non le hai.",
+    "Motto di Y Combinator, 2005"
+   ],
+   "es": [
+    "Haz algo que la gente quiera.",
+    "La mayoría de las startups mueren de indiferencia, no de competencia. La única prueba temprana que importa es si un pequeño grupo de usuarios se molestaría si desaparecieras mañana. Todo lo demás, logo, deck y prensa, es decoración.",
+    "Encuentra diez personas que pagarían hoy. Ignora al resto hasta tenerlas.",
+    "Lema de Y Combinator, 2005"
+   ],
+   "la": [
+    "Fac quod homines volunt."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v04",
+  "t": "graham",
+  "era": "2013",
+  "src": "Essay: Do Things That Don't Scale, 2013",
+  "h": "Scale is earned by the unscalable.",
+  "b": "Airbnb's founders photographed listings by hand; Stripe installed itself on users' laptops. Early traction is manual, personal and absurd at scale, which is exactly why incumbents will not copy it.",
+  "d": "Pick one thing you do for customers that no competitor would bother doing. Do more of it.",
+  "tg": [
+   "building",
+   "strategy"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "La scala si guadagna con ciò che non scala.",
+    "I fondatori di Airbnb fotografavano gli annunci a mano; Stripe installava il prodotto sui laptop degli utenti. La trazione iniziale è manuale, personale e assurda su larga scala, ed è esattamente per questo che gli incumbent non la copieranno.",
+    "Scegli una cosa che fai per i clienti e che nessun concorrente si prenderebbe la briga di fare. Fanne di più.",
+    "Saggio: Do Things That Don't Scale, 2013"
+   ],
+   "es": [
+    "La escala se gana con lo que no escala.",
+    "Los fundadores de Airbnb fotografiaban los anuncios a mano; Stripe instalaba el producto en los portátiles de los usuarios. La tracción inicial es manual, personal y absurda a escala, y por eso mismo los incumbentes no la copiarán.",
+    "Elige una cosa que haces por los clientes y que ningún competidor se molestaría en hacer. Haz más de eso.",
+    "Ensayo: Do Things That Don't Scale, 2013"
+   ],
+   "la": [
+    "Ex rebus minutis magnitudo nascitur."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v05",
+  "t": "thiel",
+  "era": "2014",
+  "src": "Zero to One, 2014",
+  "h": "Competition is for losers.",
+  "b": "Under perfect competition every profit is competed away. Durable value comes from owning a small market completely and expanding from that position, not from fighting a hundred rivals for the same crumbs.",
+  "d": "Ask: what valuable company is nobody building? Then ask why.",
+  "tg": [
+   "strategy",
+   "money"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "La concorrenza è per i perdenti.",
+    "In concorrenza perfetta ogni profitto viene eroso. Il valore duraturo nasce dal possedere completamente un piccolo mercato ed espandersi da quella posizione, non dal contendere a cento rivali le stesse briciole.",
+    "Chiediti: quale azienda di valore nessuno sta costruendo? Poi chiediti perché.",
+    "Zero to One, 2014"
+   ],
+   "es": [
+    "La competencia es para perdedores.",
+    "En competencia perfecta todo beneficio se erosiona. El valor duradero nace de poseer por completo un mercado pequeño y expandirse desde esa posición, no de disputar a cien rivales las mismas migajas.",
+    "Pregúntate: ¿qué empresa valiosa no está construyendo nadie? Luego pregúntate por qué.",
+    "Zero to One, 2014"
+   ],
+   "la": [
+    "Contentio victis relinquitur."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v06",
+  "t": "thiel",
+  "era": "2014",
+  "src": "Zero to One, 2014",
+  "h": "The best companies are built on secrets.",
+  "b": "A secret is an important truth few people agree with you on. Conventional wisdom is already priced in; contrarian truths that turn out to be right are the only source of outsized returns.",
+  "d": "Write down one belief you hold that most smart people would call wrong. That is your edge or your blind spot. Find out which.",
+  "tg": [
+   "strategy",
+   "risk"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Le migliori aziende si fondano su segreti.",
+    "Un segreto è una verità importante su cui pochi sono d'accordo con te. Il senso comune è già prezzato; le verità controcorrente che si rivelano giuste sono l'unica fonte di rendimenti straordinari.",
+    "Scrivi una convinzione che hai e che la maggior parte delle persone intelligenti chiamerebbe sbagliata. È il tuo vantaggio o il tuo punto cieco. Scopri quale.",
+    "Zero to One, 2014"
+   ],
+   "es": [
+    "Las mejores empresas se construyen sobre secretos.",
+    "Un secreto es una verdad importante con la que pocos están de acuerdo contigo. La sabiduría convencional ya está descontada; las verdades contrarias que resultan ciertas son la única fuente de rendimientos extraordinarios.",
+    "Escribe una convicción tuya que la mayoría de la gente inteligente llamaría errónea. Es tu ventaja o tu punto ciego. Averigua cuál.",
+    "Zero to One, 2014"
+   ],
+   "la": [
+    "Optimae societates arcanis nituntur."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v07",
+  "t": "hoffman",
+  "era": "2018",
+  "src": "Blitzscaling, 2018",
+  "h": "In a land grab, speed beats efficiency.",
+  "b": "When a market is winner-take-most, the cost of arriving second exceeds the waste of growing too fast. Blitzscaling accepts chaos deliberately: hire ahead of process, launch ahead of polish, fix the plane while flying it.",
+  "d": "Decide which inefficiencies you will tolerate on purpose this quarter, and which you will not.",
+  "tg": [
+   "risk",
+   "strategy"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Nella corsa al territorio, la velocità batte l'efficienza.",
+    "Quando un mercato è winner-take-most, il costo di arrivare secondi supera lo spreco di crescere troppo in fretta. Il blitzscaling accetta il caos di proposito: assumi prima del processo, lancia prima della rifinitura, ripara l'aereo in volo.",
+    "Decidi quali inefficienze tollererai di proposito questo trimestre, e quali no.",
+    "Blitzscaling, 2018"
+   ],
+   "es": [
+    "En la carrera por el territorio, la velocidad vence a la eficiencia.",
+    "Cuando un mercado es winner-take-most, el coste de llegar segundo supera el despilfarro de crecer demasiado rápido. El blitzscaling acepta el caos a propósito: contrata antes del proceso, lanza antes del pulido, repara el avión en vuelo.",
+    "Decide qué ineficiencias tolerarás a propósito este trimestre, y cuáles no.",
+    "Blitzscaling, 2018"
+   ],
+   "la": [
+    "In praeda, celeritas efficientiam vincit."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v08",
+  "t": "hoffman",
+  "era": "c. 2010",
+  "src": "On launching early; widely attributed, c. 2010",
+  "h": "Ship before you are proud of it.",
+  "b": "If the first version does not embarrass you, you launched too late. A release is a question put to the market, not a statement of who you are; waiting for polish hands the answer to whoever learns faster.",
+  "d": "Set the launch date before the product is ready. Then cut scope to fit the date.",
+  "tg": [
+   "building",
+   "risk"
+  ],
+  "v": true,
+  "tr": {
+   "it": [
+    "Lancia prima di esserne orgoglioso.",
+    "Se la prima versione non ti imbarazza, hai lanciato troppo tardi. Un rilascio è una domanda posta al mercato, non una dichiarazione di chi sei; aspettare la rifinitura consegna la risposta a chi impara più in fretta.",
+    "Fissa la data di lancio prima che il prodotto sia pronto. Poi taglia lo scope per rispettarla.",
+    "Sul lanciare presto; attribuzione diffusa, c. 2010"
+   ],
+   "es": [
+    "Lanza antes de estar orgulloso.",
+    "Si la primera versión no te avergüenza, lanzaste demasiado tarde. Un lanzamiento es una pregunta al mercado, no una declaración de quién eres; esperar el pulido entrega la respuesta a quien aprende más rápido.",
+    "Fija la fecha de lanzamiento antes de que el producto esté listo. Luego recorta el alcance para cumplirla.",
+    "Sobre lanzar pronto; atribución extendida, c. 2010"
+   ],
+   "la": [
+    "Emitte prius quam placeat tibi."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v09",
+  "t": "horowitz",
+  "era": "2014",
+  "src": "The Hard Thing About Hard Things, 2014",
+  "h": "Peacetime CEO, wartime CEO.",
+  "b": "Expansion rewards consensus, culture and long horizons. An existential threat rewards a leader who overrules, moves and tolerates no deviation from the plan. The fatal error is running one mode in the other's season.",
+  "d": "Say out loud which mode the company is in. Most teams are never told.",
+  "tg": [
+   "leadership"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "CEO in tempo di pace, CEO in tempo di guerra.",
+    "L'espansione premia consenso, cultura e orizzonti lunghi. Una minaccia esistenziale premia un leader che decide da solo, si muove e non tollera deviazioni dal piano. L'errore fatale è guidare in una modalità nella stagione dell'altra.",
+    "Di' ad alta voce in quale modalità è l'azienda. Alla maggior parte dei team non viene mai detto.",
+    "The Hard Thing About Hard Things, 2014"
+   ],
+   "es": [
+    "CEO en tiempos de paz, CEO en tiempos de guerra.",
+    "La expansión premia el consenso, la cultura y los horizontes largos. Una amenaza existencial premia a un líder que decide solo, se mueve y no tolera desviaciones del plan. El error fatal es dirigir en un modo durante la estación del otro.",
+    "Di en voz alta en qué modo está la empresa. A la mayoría de los equipos nunca se lo dicen.",
+    "The Hard Thing About Hard Things, 2014"
+   ],
+   "la": [
+    "Dux pacis, dux belli."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v10",
+  "t": "horowitz",
+  "era": "2014",
+  "src": "The Hard Thing About Hard Things, 2014",
+  "h": "People, then products, then profits.",
+  "b": "When things fall apart, the only thing that keeps a company alive is whether people still believe it is a place worth staying. Training managers and giving honest feedback are not soft work; they are the survival system.",
+  "d": "Audit whether your managers have ever been taught how to give feedback. Most have not.",
+  "tg": [
+   "leadership",
+   "character"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Prima le persone, poi i prodotti, poi i profitti.",
+    "Quando tutto crolla, l'unica cosa che tiene in vita un'azienda è se le persone credono ancora che sia un posto in cui vale la pena restare. Formare i manager e dare feedback onesti non sono lavoro soft: sono il sistema di sopravvivenza.",
+    "Verifica se ai tuoi manager è mai stato insegnato a dare feedback. Alla maggior parte no.",
+    "The Hard Thing About Hard Things, 2014"
+   ],
+   "es": [
+    "Primero las personas, luego los productos, luego los beneficios.",
+    "Cuando todo se derrumba, lo único que mantiene viva a una empresa es si la gente aún cree que es un lugar donde vale la pena quedarse. Formar a los directivos y dar feedback honesto no es trabajo blando: es el sistema de supervivencia.",
+    "Comprueba si a tus directivos alguna vez les enseñaron a dar feedback. A la mayoría, no.",
+    "The Hard Thing About Hard Things, 2014"
+   ],
+   "la": [
+    "Homines, deinde opera, deinde lucra."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v11",
+  "t": "andreessen",
+  "era": "2007",
+  "src": "Blog post: The Only Thing That Matters, 2007",
+  "h": "Product/market fit is the only thing that matters.",
+  "b": "In a great market the market pulls the product out of the startup. Before fit, no amount of talent or execution saves you; after fit, almost any execution works. Everything else is a second-order concern.",
+  "d": "Measure how disappointed customers would be if the product vanished. That number, not NPS, tells you where you stand.",
+  "tg": [
+   "building"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Il product/market fit è l'unica cosa che conta.",
+    "In un grande mercato è il mercato a tirare fuori il prodotto dalla startup. Prima del fit, nessuna quantità di talento o esecuzione ti salva; dopo il fit, quasi qualsiasi esecuzione funziona. Tutto il resto è di secondo ordine.",
+    "Misura quanto sarebbero delusi i clienti se il prodotto sparisse. Quel numero, non l'NPS, ti dice dove sei.",
+    "Post: The Only Thing That Matters, 2007"
+   ],
+   "es": [
+    "El product/market fit es lo único que importa.",
+    "En un gran mercado, es el mercado el que saca el producto de la startup. Antes del fit, ningún talento ni ejecución te salva; después del fit, casi cualquier ejecución funciona. Todo lo demás es de segundo orden.",
+    "Mide cuán decepcionados estarían los clientes si el producto desapareciera. Ese número, no el NPS, te dice dónde estás.",
+    "Post: The Only Thing That Matters, 2007"
+   ],
+   "la": [
+    "Sola res: opus mercatui aptum."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v12",
+  "t": "grove",
+  "era": "1996",
+  "src": "Only the Paranoid Survive, 1996",
+  "h": "Inflection points arrive as a tenfold force.",
+  "b": "Intel's exit from memory chips taught Grove that the game can change ten times over in a single dimension: a competitor, a technology, a regulation. The survival skill is reading the signal before the P&L does.",
+  "d": "Ask your front line what customers now request that you cannot deliver. That is the inflection point, early.",
+  "tg": [
+   "strategy",
+   "risk"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "I punti di flesso arrivano come una forza dieci volte maggiore.",
+    "L'uscita di Intel dalle memorie insegnò a Grove che il gioco può cambiare di dieci volte in una sola dimensione: un concorrente, una tecnologia, una regolamentazione. La capacità di sopravvivere sta nel leggere il segnale prima del conto economico.",
+    "Chiedi alla prima linea cosa chiedono ora i clienti che tu non riesci a dare. Quello è il punto di flesso, in anticipo.",
+    "Only the Paranoid Survive, 1996"
+   ],
+   "es": [
+    "Los puntos de inflexión llegan como una fuerza diez veces mayor.",
+    "La salida de Intel de las memorias enseñó a Grove que el juego puede cambiar diez veces en una sola dimensión: un competidor, una tecnología, una regulación. La habilidad de supervivencia es leer la señal antes que la cuenta de resultados.",
+    "Pregunta a tu primera línea qué piden ahora los clientes que no puedes entregar. Ese es el punto de inflexión, a tiempo.",
+    "Only the Paranoid Survive, 1996"
+   ],
+   "la": [
+    "Flexus adveniunt vi decupla."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v13",
+  "t": "grove",
+  "era": "1983",
+  "src": "High Output Management, 1983",
+  "h": "A manager's output is the output of the teams they influence.",
+  "b": "Nothing a manager does personally matters as much as the leverage of their decisions, training and one-on-ones. Time spent making others more productive compounds; time spent being busy does not.",
+  "d": "Protect weekly one-on-ones as leverage, not courtesy. Cancel the meeting that has no decision instead.",
+  "tg": [
+   "leadership"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "L'output di un manager è l'output dei team che influenza.",
+    "Niente di ciò che un manager fa personalmente conta quanto la leva delle sue decisioni, della formazione e degli incontri individuali. Il tempo speso a rendere gli altri più produttivi si compone; il tempo speso a essere occupati no.",
+    "Proteggi gli incontri settimanali uno a uno come leva, non come cortesia. Cancella invece la riunione senza decisioni.",
+    "High Output Management, 1983"
+   ],
+   "es": [
+    "El output de un directivo es el output de los equipos que influye.",
+    "Nada de lo que un directivo hace personalmente importa tanto como el apalancamiento de sus decisiones, su formación y sus reuniones individuales. El tiempo dedicado a hacer más productivos a los demás se capitaliza; el tiempo dedicado a estar ocupado, no.",
+    "Protege las reuniones semanales uno a uno como palanca, no como cortesía. Cancela, en cambio, la reunión sin decisiones.",
+    "High Output Management, 1983"
+   ],
+   "la": [
+    "Fructus rectoris est fructus eorum quos regit."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v14",
+  "t": "bezos",
+  "era": "2016",
+  "src": "Amazon shareholder letter, 2016",
+  "h": "It is always Day 1.",
+  "b": "Day 2 is stasis, followed by irrelevance, followed by a painful decline. Staying on Day 1 means obsessing over customers, distrusting proxies such as process and surveys, and making high-quality decisions quickly.",
+  "d": "Which metric have you started managing instead of the customer it was meant to represent?",
+  "tg": [
+   "strategy",
+   "character"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "È sempre il Giorno 1.",
+    "Il Giorno 2 è stasi, seguita da irrilevanza, seguita da un declino doloroso. Restare al Giorno 1 significa ossessione per il cliente, diffidenza verso i surrogati come processi e sondaggi, e decisioni di qualità prese in fretta.",
+    "Quale metrica hai iniziato a gestire al posto del cliente che doveva rappresentare?",
+    "Lettera agli azionisti Amazon, 2016"
+   ],
+   "es": [
+    "Siempre es el Día 1.",
+    "El Día 2 es estancamiento, seguido de irrelevancia, seguido de un declive doloroso. Permanecer en el Día 1 significa obsesión por el cliente, desconfianza de los sustitutos como procesos y encuestas, y decisiones de calidad tomadas rápido.",
+    "¿Qué métrica has empezado a gestionar en lugar del cliente que debía representar?",
+    "Carta a los accionistas de Amazon, 2016"
+   ],
+   "la": [
+    "Semper dies primus est."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v15",
+  "t": "bezos",
+  "era": "2015",
+  "src": "Amazon shareholder letter, 2015",
+  "h": "Most decisions are two-way doors.",
+  "b": "Some choices are irreversible one-way doors and deserve slow, careful deliberation. Most are two-way doors: walk through, look around, walk back if wrong. Treating every decision as one-way makes a company slow and timid.",
+  "d": "Label each decision this week as one-way or two-way. Then move at the speed each allows.",
+  "tg": [
+   "risk",
+   "leadership"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "La maggior parte delle decisioni sono porte a due vie.",
+    "Alcune scelte sono porte a senso unico, irreversibili, e meritano una deliberazione lenta e attenta. La maggior parte sono porte a due vie: entra, guardati intorno, torna indietro se sbagli. Trattare ogni decisione come irreversibile rende un'azienda lenta e timida.",
+    "Etichetta ogni decisione di questa settimana: a senso unico o a due vie. Poi muoviti alla velocità che ciascuna consente.",
+    "Lettera agli azionisti Amazon, 2015"
+   ],
+   "es": [
+    "La mayoría de las decisiones son puertas de doble sentido.",
+    "Algunas elecciones son puertas de un solo sentido, irreversibles, y merecen una deliberación lenta y cuidadosa. La mayoría son de doble sentido: cruza, mira alrededor, vuelve si te equivocas. Tratar cada decisión como irreversible hace a una empresa lenta y tímida.",
+    "Etiqueta cada decisión de esta semana: de un sentido o de doble sentido. Luego muévete a la velocidad que cada una permite.",
+    "Carta a los accionistas de Amazon, 2015"
+   ],
+   "la": [
+    "Plurimae ianuae utrimque patent."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v16",
+  "t": "christensen",
+  "era": "1997",
+  "src": "The Innovator's Dilemma, 1997",
+  "h": "Good management kills incumbents.",
+  "b": "Listening to the best customers and chasing the highest margins leads great companies to ignore the cheap, inferior product that later eats the market from below. Disruption is not a failure of management; it is management done by the book.",
+  "d": "Which low-end entrant are you dismissing because its margins look bad?",
+  "tg": [
+   "strategy"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "La buona gestione uccide gli incumbent.",
+    "Ascoltare i clienti migliori e inseguire i margini più alti porta le grandi aziende a ignorare il prodotto economico e inferiore che poi si mangia il mercato dal basso. La disruption non è un fallimento del management; è il management fatto secondo il manuale.",
+    "Quale nuovo entrante di fascia bassa stai ignorando perché i suoi margini sembrano cattivi?",
+    "Il dilemma dell'innovatore, 1997"
+   ],
+   "es": [
+    "La buena gestión mata a los incumbentes.",
+    "Escuchar a los mejores clientes y perseguir los márgenes más altos lleva a las grandes empresas a ignorar el producto barato e inferior que luego se come el mercado desde abajo. La disrupción no es un fallo de gestión; es la gestión hecha según el manual.",
+    "¿Qué entrante de gama baja estás descartando porque sus márgenes parecen malos?",
+    "El dilema del innovador, 1997"
+   ],
+   "la": [
+    "Bona administratio veteres interficit."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v17",
+  "t": "christensen",
+  "era": "2016",
+  "src": "Competing Against Luck, 2016",
+  "h": "Customers hire products to do a job.",
+  "b": "People do not buy a milkshake; they hire it to make a dull commute bearable, so it competes with bananas and bagels, not other milkshakes. Segment by the job to be done, not the demographic.",
+  "d": "Interview three customers about the exact moment they decided to buy. That moment is your job.",
+  "tg": [
+   "building"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "I clienti assumono i prodotti per fare un lavoro.",
+    "Le persone non comprano un frappè; lo assumono per rendere sopportabile un tragitto noioso, quindi compete con banane e bagel, non con altri frappè. Segmenta per il lavoro da svolgere, non per la demografia.",
+    "Intervista tre clienti sul momento esatto in cui hanno deciso di comprare. Quel momento è il tuo lavoro.",
+    "Competing Against Luck, 2016"
+   ],
+   "es": [
+    "Los clientes contratan productos para hacer un trabajo.",
+    "La gente no compra un batido; lo contrata para hacer soportable un trayecto aburrido, así que compite con plátanos y bagels, no con otros batidos. Segmenta por el trabajo a realizar, no por la demografía.",
+    "Entrevista a tres clientes sobre el momento exacto en que decidieron comprar. Ese momento es tu trabajo.",
+    "Competing Against Luck, 2016"
+   ],
+   "la": [
+    "Emptores opera conducunt ad munus."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v18",
+  "t": "drucker",
+  "era": "1954",
+  "src": "The Practice of Management, 1954",
+  "h": "The purpose of a business is to create a customer.",
+  "b": "Profit is not the purpose but the test of validity. Because the business exists to create a customer, it has only two basic functions, marketing and innovation. Everything else is cost.",
+  "d": "List your activities. Which neither create nor keep a customer? That is your overhead.",
+  "tg": [
+   "money",
+   "strategy"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Lo scopo di un'impresa è creare un cliente.",
+    "Il profitto non è lo scopo ma la prova di validità. Poiché l'impresa esiste per creare un cliente, ha solo due funzioni fondamentali, marketing e innovazione. Tutto il resto è costo.",
+    "Elenca le tue attività. Quali non creano né trattengono un cliente? Quello è il tuo overhead.",
+    "The Practice of Management, 1954"
+   ],
+   "es": [
+    "El propósito de una empresa es crear un cliente.",
+    "El beneficio no es el propósito sino la prueba de validez. Como la empresa existe para crear un cliente, solo tiene dos funciones básicas, marketing e innovación. Todo lo demás es coste.",
+    "Enumera tus actividades. ¿Cuáles no crean ni retienen un cliente? Ese es tu overhead.",
+    "The Practice of Management, 1954"
+   ],
+   "la": [
+    "Negotii finis est emptorem creare."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v19",
+  "t": "collins",
+  "era": "2001",
+  "src": "Good to Great, 2001",
+  "h": "First who, then what.",
+  "b": "The companies that broke away decided who was on the bus before deciding where to drive it. The right people do not need to be motivated; the wrong people cannot be managed into fit.",
+  "d": "Fill seats slowly. Empty them quickly.",
+  "tg": [
+   "leadership"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Prima chi, poi cosa.",
+    "Le aziende che si sono staccate dal gruppo hanno deciso chi fosse sull'autobus prima di decidere dove guidarlo. Le persone giuste non hanno bisogno di essere motivate; quelle sbagliate non possono essere gestite fino a farle calzare.",
+    "Riempi i posti lentamente. Svuotali in fretta.",
+    "Good to Great, 2001"
+   ],
+   "es": [
+    "Primero quién, luego qué.",
+    "Las empresas que se despegaron decidieron quién iba en el autobús antes de decidir adónde conducirlo. Las personas adecuadas no necesitan ser motivadas; las equivocadas no pueden ser gestionadas hasta encajar.",
+    "Llena los asientos despacio. Vacíalos rápido.",
+    "Good to Great, 2001"
+   ],
+   "la": [
+    "Primum quis, deinde quid."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v20",
+  "t": "ries",
+  "era": "2011",
+  "src": "The Lean Startup, 2011",
+  "h": "A startup is an experiment, not a small company.",
+  "b": "Validated learning per unit of time is the real metric. The minimum viable product is the fastest route to it: not a smaller product but a smarter test of the riskiest assumption.",
+  "d": "Name your riskiest assumption. What is the cheapest experiment that could prove it wrong this week?",
+  "tg": [
+   "building",
+   "risk"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Una startup è un esperimento, non una piccola azienda.",
+    "L'apprendimento validato per unità di tempo è la vera metrica. Il prodotto minimo funzionante è la via più rapida per ottenerlo: non un prodotto più piccolo, ma un test più intelligente dell'ipotesi più rischiosa.",
+    "Nomina la tua ipotesi più rischiosa. Qual è l'esperimento più economico che potrebbe smentirla questa settimana?",
+    "The Lean Startup, 2011"
+   ],
+   "es": [
+    "Una startup es un experimento, no una empresa pequeña.",
+    "El aprendizaje validado por unidad de tiempo es la métrica real. El producto mínimo viable es la vía más rápida hacia él: no un producto más pequeño, sino una prueba más inteligente de la hipótesis más arriesgada.",
+    "Nombra tu hipótesis más arriesgada. ¿Cuál es el experimento más barato que podría refutarla esta semana?",
+    "The Lean Startup, 2011"
+   ],
+   "la": [
+    "Nova societas experimentum est, non parva societas."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v21",
+  "t": "blank",
+  "era": "2005",
+  "src": "The Four Steps to the Epiphany, 2005",
+  "h": "There are no facts inside the building.",
+  "b": "Customer discovery, talking to real buyers before building, is the founder's job, not marketing's. The business plan rarely survives first contact with customers; the discovery process is what survives.",
+  "d": "Five customer conversations before the next feature. No exceptions.",
+  "tg": [
+   "building"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Dentro l'edificio non ci sono fatti.",
+    "La customer discovery, parlare con veri acquirenti prima di costruire, è compito del fondatore, non del marketing. Il business plan raramente sopravvive al primo contatto con i clienti; ciò che sopravvive è il processo di scoperta.",
+    "Cinque conversazioni con i clienti prima della prossima funzionalità. Nessuna eccezione.",
+    "The Four Steps to the Epiphany, 2005"
+   ],
+   "es": [
+    "Dentro del edificio no hay hechos.",
+    "El customer discovery, hablar con compradores reales antes de construir, es tarea del fundador, no del marketing. El plan de negocio rara vez sobrevive al primer contacto con los clientes; lo que sobrevive es el proceso de descubrimiento.",
+    "Cinco conversaciones con clientes antes de la próxima funcionalidad. Sin excepciones.",
+    "The Four Steps to the Epiphany, 2005"
+   ],
+   "la": [
+    "Intra aedificium nulla sunt facta."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v22",
+  "t": "doerr",
+  "era": "2018",
+  "src": "Measure What Matters, 2018",
+  "h": "Objectives say where; key results say how you will know.",
+  "b": "OKRs, inherited from Grove at Intel and installed at Google in 1999, work through scarcity: few goals, public, scored honestly. The discipline is in what you leave out.",
+  "d": "Three objectives maximum. If everything is a priority, nothing is.",
+  "tg": [
+   "focus",
+   "leadership"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Gli obiettivi dicono dove; i risultati chiave dicono come saprai di esserci arrivato.",
+    "Gli OKR, ereditati da Grove in Intel e installati in Google nel 1999, funzionano per scarsità: pochi obiettivi, pubblici, valutati con onestà. La disciplina sta in ciò che lasci fuori.",
+    "Tre obiettivi al massimo. Se tutto è una priorità, niente lo è.",
+    "Measure What Matters, 2018"
+   ],
+   "es": [
+    "Los objetivos dicen adónde; los resultados clave dicen cómo sabrás que llegaste.",
+    "Los OKR, heredados de Grove en Intel e instalados en Google en 1999, funcionan por escasez: pocos objetivos, públicos, puntuados con honestidad. La disciplina está en lo que dejas fuera.",
+    "Tres objetivos como máximo. Si todo es prioridad, nada lo es.",
+    "Measure What Matters, 2018"
+   ],
+   "la": [
+    "Propositum dicit quo; signa dicunt an perveneris."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v23",
+  "t": "campbell",
+  "era": "2019",
+  "src": "Trillion Dollar Coach, 2019",
+  "h": "Titles make managers; people make leaders.",
+  "b": "Campbell coached Jobs, Page and Bezos with the same rule: trust is built in small moments, showing up, listening to the end, caring about the person before the output.",
+  "d": "Start your next one-on-one with the person, not the project.",
+  "tg": [
+   "leadership",
+   "character"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "I titoli fanno i manager; le persone fanno i leader.",
+    "Campbell ha allenato Jobs, Page e Bezos con la stessa regola: la fiducia si costruisce nei piccoli momenti, presentandosi, ascoltando fino alla fine, curando la persona prima del risultato.",
+    "Inizia il prossimo incontro uno a uno dalla persona, non dal progetto.",
+    "Trillion Dollar Coach, 2019"
+   ],
+   "es": [
+    "Los títulos hacen directivos; las personas hacen líderes.",
+    "Campbell entrenó a Jobs, Page y Bezos con la misma regla: la confianza se construye en los pequeños momentos, apareciendo, escuchando hasta el final, cuidando a la persona antes que el resultado.",
+    "Empieza tu próxima reunión uno a uno por la persona, no por el proyecto.",
+    "Trillion Dollar Coach, 2019"
+   ],
+   "la": [
+    "Tituli rectores faciunt; homines duces."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v24",
+  "t": "naval",
+  "era": "2018",
+  "src": "How to Get Rich (without getting lucky), 2018",
+  "h": "Specific knowledge, plus leverage.",
+  "b": "Wealth comes from owning equity in things that work while you sleep, code, media, capital, people, applied to knowledge that cannot be taught, only earned through real curiosity.",
+  "d": "What do you do that feels like play to you but looks like work to others? Build there.",
+  "tg": [
+   "money",
+   "character"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Conoscenza specifica, più leva.",
+    "La ricchezza nasce dal possedere quote di cose che lavorano mentre dormi, codice, media, capitale, persone, applicate a una conoscenza che non si può insegnare, solo guadagnare con vera curiosità.",
+    "Cosa fai che a te sembra gioco e agli altri sembra lavoro? Costruisci lì.",
+    "How to Get Rich (without getting lucky), 2018"
+   ],
+   "es": [
+    "Conocimiento específico, más apalancamiento.",
+    "La riqueza nace de poseer participaciones en cosas que trabajan mientras duermes, código, medios, capital, personas, aplicadas a un conocimiento que no se puede enseñar, solo ganar con curiosidad real.",
+    "¿Qué haces que a ti te parece juego y a los demás trabajo? Construye ahí.",
+    "How to Get Rich (without getting lucky), 2018"
+   ],
+   "la": [
+    "Scientia propria, et vectis."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v25",
+  "t": "huang",
+  "era": "2024",
+  "src": "Stanford GSB talk, March 2024",
+  "h": "Resilience, not brilliance, decides who finishes.",
+  "b": "Huang tells students he wishes them ample doses of pain and suffering: people with very high expectations often have very low resilience, and greatness is forged in adversity, not comfort.",
+  "d": "Of two viable projects, pick the harder one. The capacity it builds is the asset.",
+  "tg": [
+   "character"
+  ],
+  "v": true,
+  "tr": {
+   "it": [
+    "La resilienza, non il genio, decide chi arriva in fondo.",
+    "Huang dice agli studenti di augurare loro abbondanti dosi di dolore e sofferenza: chi ha aspettative molto alte spesso ha una resilienza molto bassa, e la grandezza si forgia nelle avversità, non nel comfort.",
+    "Tra due progetti validi, scegli il più difficile. La capacità che costruisce è il vero asset.",
+    "Intervento alla Stanford GSB, marzo 2024"
+   ],
+   "es": [
+    "La resiliencia, no el talento, decide quién termina.",
+    "Huang dice a los estudiantes que les desea abundantes dosis de dolor y sufrimiento: la gente con expectativas muy altas suele tener muy poca resiliencia, y la grandeza se forja en la adversidad, no en la comodidad.",
+    "Entre dos proyectos viables, elige el más difícil. La capacidad que construye es el activo.",
+    "Charla en la Stanford GSB, marzo de 2024"
+   ],
+   "la": [
+    "Constantia, non ingenium, finem decernit."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "v26",
+  "t": "musk",
+  "era": "2012",
+  "src": "Interview on first-principles thinking, 2012",
+  "h": "Reason from first principles, not analogy.",
+  "b": "Analogy says batteries are expensive because they always have been. First principles asks what the materials cost on the spot market, a fraction, and treats the gap as engineering, not fate.",
+  "d": "Decompose one impossible cost into its raw inputs. Then price the cleverness.",
+  "tg": [
+   "strategy",
+   "building"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Ragiona dai primi principi, non per analogia.",
+    "L'analogia dice che le batterie sono care perché lo sono sempre state. I primi principi chiedono quanto costano i materiali sul mercato spot, una frazione, e trattano il divario come ingegneria, non come destino.",
+    "Scomponi un costo impossibile nei suoi input grezzi. Poi dai un prezzo all'ingegno.",
+    "Intervista sul pensiero per primi principi, 2012"
+   ],
+   "es": [
+    "Razona desde primeros principios, no por analogía.",
+    "La analogía dice que las baterías son caras porque siempre lo han sido. Los primeros principios preguntan cuánto cuestan los materiales en el mercado spot, una fracción, y tratan la brecha como ingeniería, no como destino.",
+    "Descompón un coste imposible en sus insumos brutos. Luego ponle precio al ingenio.",
+    "Entrevista sobre pensamiento desde primeros principios, 2012"
+   ],
+   "la": [
+    "A principiis ratiocinare, non ex similitudine."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a01",
+  "t": "seneca",
+  "era": "c. 49 AD",
+  "src": "On the Shortness of Life, c. 49 AD",
+  "h": "Life is not short. We waste most of it.",
+  "b": "We guard our property jealously and give our time to anyone who asks. The person busy with everything is master of nothing; time is the one asset that cannot be earned back.",
+  "d": "Audit one week. What did you give away without noticing?",
+  "tg": [
+   "focus",
+   "character"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "La vita non è breve. Ne sprechiamo la maggior parte.",
+    "Custodiamo gelosamente i nostri beni e regaliamo il nostro tempo a chiunque lo chieda. Chi è occupato in tutto non è padrone di niente; il tempo è l'unico bene che non si può riguadagnare.",
+    "Fai l'audit di una settimana. Cosa hai regalato senza accorgertene?",
+    "La brevità della vita, c. 49 d.C."
+   ],
+   "es": [
+    "La vida no es corta. Desperdiciamos la mayor parte.",
+    "Guardamos celosamente nuestras propiedades y regalamos nuestro tiempo a cualquiera que lo pida. Quien está ocupado en todo no es dueño de nada; el tiempo es el único activo que no se puede recuperar.",
+    "Audita una semana. ¿Qué regalaste sin darte cuenta?",
+    "Sobre la brevedad de la vida, c. 49 d. C."
+   ],
+   "la": [
+    "Non brevis vita, sed multum perdimus."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a02",
+  "t": "seneca",
+  "era": "c. 65 AD",
+  "src": "Letters to Lucilius, c. 65 AD",
+  "h": "Rehearse misfortune before it arrives.",
+  "b": "Premeditatio malorum: picture the loss, the failure, the exile in advance. What is foreseen loses its force; the unprepared are wounded twice, by the blow and by the surprise.",
+  "d": "Run a pre-mortem on your biggest bet. Write how it died.",
+  "tg": [
+   "risk"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Prova la sventura prima che arrivi.",
+    "Premeditatio malorum: immagina in anticipo la perdita, il fallimento, l'esilio. Ciò che è previsto perde forza; chi è impreparato viene ferito due volte, dal colpo e dalla sorpresa.",
+    "Fai un pre-mortem della tua scommessa più grande. Scrivi come è morta.",
+    "Lettere a Lucilio, c. 65 d.C."
+   ],
+   "es": [
+    "Ensaya la desgracia antes de que llegue.",
+    "Premeditatio malorum: imagina de antemano la pérdida, el fracaso, el exilio. Lo previsto pierde su fuerza; el desprevenido es herido dos veces, por el golpe y por la sorpresa.",
+    "Haz un pre-mortem de tu mayor apuesta. Escribe cómo murió.",
+    "Cartas a Lucilio, c. 65 d. C."
+   ],
+   "la": [
+    "Adversa ante meditare."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a03",
+  "t": "marcus",
+  "era": "c. 170 AD",
+  "src": "Meditations, c. 170 AD",
+  "h": "What stands in the way becomes the way.",
+  "b": "Writing to himself on campaign, the emperor noted that the mind turns every obstacle to its own purpose: the impediment to action advances action. The blocker contains the material of the next move.",
+  "d": "Reframe today's blocker as the project. Then plan it.",
+  "tg": [
+   "character",
+   "risk"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Ciò che ostacola la via diventa la via.",
+    "Scrivendo a se stesso in campagna militare, l'imperatore notò che la mente volge ogni ostacolo al proprio scopo: l'impedimento all'azione fa avanzare l'azione. L'ostacolo contiene il materiale della prossima mossa.",
+    "Riformula il blocco di oggi come il progetto. Poi pianificalo.",
+    "Pensieri, c. 170 d.C."
+   ],
+   "es": [
+    "Lo que se interpone en el camino se convierte en el camino.",
+    "Escribiéndose a sí mismo en campaña, el emperador observó que la mente vuelve cada obstáculo a su propio fin: el impedimento a la acción hace avanzar la acción. El bloqueo contiene el material del siguiente movimiento.",
+    "Reformula el bloqueo de hoy como el proyecto. Luego planifícalo.",
+    "Meditaciones, c. 170 d. C."
+   ],
+   "la": [
+    "Quod obstat, via fit."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a04",
+  "t": "marcus",
+  "era": "c. 170 AD",
+  "src": "Meditations, c. 170 AD",
+  "h": "Do less, but do it better.",
+  "b": "If you want tranquillity, do fewer things, only what is essential, and do those well. Most of what we say and do is unnecessary; remove it and gain both time and calm.",
+  "d": "Before each task ask: is this necessary? If not, cut it.",
+  "tg": [
+   "focus"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Fai meno, ma fallo meglio.",
+    "Se vuoi la tranquillità, fai meno cose, solo quelle essenziali, e falle bene. La maggior parte di ciò che diciamo e facciamo è superflua; eliminala e guadagni tempo e calma insieme.",
+    "Prima di ogni compito chiediti: è necessario? Se no, taglialo.",
+    "Pensieri, c. 170 d.C."
+   ],
+   "es": [
+    "Haz menos, pero hazlo mejor.",
+    "Si quieres tranquilidad, haz menos cosas, solo las esenciales, y hazlas bien. La mayor parte de lo que decimos y hacemos es innecesario; elimínalo y ganarás tiempo y calma.",
+    "Antes de cada tarea pregúntate: ¿es necesaria? Si no, elimínala.",
+    "Meditaciones, c. 170 d. C."
+   ],
+   "la": [
+    "Pauca age, sed melius."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a05",
+  "t": "epictetus",
+  "era": "c. 125 AD",
+  "src": "Enchiridion, c. 125 AD",
+  "h": "Some things are up to us; most are not.",
+  "b": "Our judgments, desires and actions are ours. Our bodies, property and reputations are not. Spend effort where it moves the outcome and withhold it where it cannot.",
+  "d": "Split your worry list into the two columns. Act only on the first.",
+  "tg": [
+   "risk",
+   "character"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Alcune cose dipendono da noi; la maggior parte no.",
+    "I nostri giudizi, desideri e azioni sono nostri. Il nostro corpo, i beni e la reputazione no. Spendi energia dove sposta il risultato e trattienila dove non può.",
+    "Dividi la tua lista di preoccupazioni nelle due colonne. Agisci solo sulla prima.",
+    "Manuale, c. 125 d.C."
+   ],
+   "es": [
+    "Algunas cosas dependen de nosotros; la mayoría no.",
+    "Nuestros juicios, deseos y acciones son nuestros. Nuestro cuerpo, propiedades y reputación no lo son. Gasta esfuerzo donde mueve el resultado y retenlo donde no puede.",
+    "Divide tu lista de preocupaciones en las dos columnas. Actúa solo sobre la primera.",
+    "Manual (Enquiridión), c. 125 d. C."
+   ],
+   "la": [
+    "Quaedam in nobis sunt; plurima non."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a06",
+  "t": "epictetus",
+  "era": "c. 125 AD",
+  "src": "Enchiridion, c. 125 AD",
+  "h": "Do not explain your philosophy. Embody it.",
+  "b": "Sheep do not show the shepherd how much grass they ate; they digest it and produce wool. Talk less about principles and show the results they produce.",
+  "d": "Replace the next mission statement with a demonstrated outcome.",
+  "tg": [
+   "leadership",
+   "character"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Non spiegare la tua filosofia. Incarnala.",
+    "Le pecore non mostrano al pastore quanta erba hanno mangiato; la digeriscono e producono lana. Parla meno di principi e mostra i risultati che producono.",
+    "Sostituisci la prossima mission con un risultato dimostrato.",
+    "Manuale, c. 125 d.C."
+   ],
+   "es": [
+    "No expliques tu filosofía. Encárnala.",
+    "Las ovejas no le muestran al pastor cuánta hierba han comido; la digieren y producen lana. Habla menos de principios y muestra los resultados que producen.",
+    "Sustituye la próxima declaración de misión por un resultado demostrado.",
+    "Manual (Enquiridión), c. 125 d. C."
+   ],
+   "la": [
+    "Noli philosophiam exponere; eam vive."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a07",
+  "t": "suntzu",
+  "era": "c. 500 BC",
+  "src": "The Art of War, c. 500 BC",
+  "h": "Win before you fight.",
+  "b": "The highest skill is to subdue the enemy without battle: shape terrain, timing and alliances until the outcome is settled before contact. Fighting is what happens when strategy has already failed.",
+  "d": "Which negotiation can you win before it starts, by who is in the room and what they already believe?",
+  "tg": [
+   "strategy",
+   "power"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Vinci prima di combattere.",
+    "L'abilità suprema è sottomettere il nemico senza battaglia: modella terreno, tempi e alleanze finché l'esito è deciso prima del contatto. Combattere è ciò che accade quando la strategia ha già fallito.",
+    "Quale negoziazione puoi vincere prima che inizi, decidendo chi è nella stanza e cosa già crede?",
+    "L'arte della guerra, c. 500 a.C."
+   ],
+   "es": [
+    "Vence antes de luchar.",
+    "La habilidad suprema es someter al enemigo sin batalla: moldea el terreno, los tiempos y las alianzas hasta que el resultado esté decidido antes del contacto. Luchar es lo que ocurre cuando la estrategia ya ha fallado.",
+    "¿Qué negociación puedes ganar antes de que empiece, por quién está en la sala y qué cree ya?",
+    "El arte de la guerra, c. 500 a. C."
+   ],
+   "la": [
+    "Vince antequam pugnes."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a08",
+  "t": "suntzu",
+  "era": "c. 500 BC",
+  "src": "The Art of War, c. 500 BC",
+  "h": "Know yourself, know the other.",
+  "b": "Know both and a hundred battles bring no danger; know only the other and you win half; know neither and you lose every time. Most strategy failures are failures of self-knowledge.",
+  "d": "Write your own weaknesses as your rival would. Then plan around them.",
+  "tg": [
+   "strategy"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Conosci te stesso, conosci l'altro.",
+    "Conosci entrambi e cento battaglie non porteranno pericolo; conosci solo l'altro e vincerai la metà; non conosci nessuno dei due e perderai sempre. La maggior parte dei fallimenti strategici è un fallimento di autoconoscenza.",
+    "Scrivi le tue debolezze come le scriverebbe il tuo rivale. Poi pianifica intorno a esse.",
+    "L'arte della guerra, c. 500 a.C."
+   ],
+   "es": [
+    "Conócete a ti mismo, conoce al otro.",
+    "Conoce a ambos y cien batallas no traerán peligro; conoce solo al otro y ganarás la mitad; no conozcas a ninguno y perderás siempre. La mayoría de los fracasos estratégicos son fracasos de autoconocimiento.",
+    "Escribe tus propias debilidades como lo haría tu rival. Luego planifica alrededor de ellas.",
+    "El arte de la guerra, c. 500 a. C."
+   ],
+   "la": [
+    "Nosce te, nosce alterum."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a09",
+  "t": "machiavelli",
+  "era": "1513",
+  "src": "The Prince, 1513",
+  "h": "Fortune is a river; build the dykes in dry weather.",
+  "b": "Fortune governs half of what we do, but like a flooding river it destroys only where no embankments were raised in calm times. Preparation is the half we control.",
+  "d": "In the good quarter, build the reserve and sign the second supplier.",
+  "tg": [
+   "risk"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "La fortuna è un fiume; costruisci gli argini col bel tempo.",
+    "La fortuna governa metà delle nostre azioni, ma come un fiume in piena distrugge solo dove nessun argine è stato alzato nei tempi calmi. La preparazione è la metà che controlliamo.",
+    "Nel trimestre buono, costruisci la riserva e firma il secondo fornitore.",
+    "Il Principe, 1513"
+   ],
+   "es": [
+    "La fortuna es un río; construye los diques con buen tiempo.",
+    "La fortuna gobierna la mitad de lo que hacemos, pero como un río desbordado destruye solo donde no se levantaron diques en tiempos de calma. La preparación es la mitad que controlamos.",
+    "En el buen trimestre, construye la reserva y firma al segundo proveedor.",
+    "El Príncipe, 1513"
+   ],
+   "la": [
+    "Fortuna flumen est; aggeres sereno caelo strue."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a10",
+  "t": "machiavelli",
+  "era": "1513",
+  "src": "The Prince, 1513",
+  "h": "Feared or loved, but never hated.",
+  "b": "If you cannot be both, it is safer to be feared than loved, because affection is fickle and respect endures. But fear must never curdle into hatred, which no fortress can withstand.",
+  "d": "Be predictable in consequences, generous in credit. Hatred comes from arbitrariness.",
+  "tg": [
+   "power",
+   "leadership"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Temuto o amato, ma mai odiato.",
+    "Se non puoi essere entrambi, è più sicuro essere temuto che amato, perché l'affetto è volubile e il rispetto dura. Ma la paura non deve mai inacidire in odio, cui nessuna fortezza resiste.",
+    "Sii prevedibile nelle conseguenze, generoso nel merito. L'odio nasce dall'arbitrio.",
+    "Il Principe, 1513"
+   ],
+   "es": [
+    "Temido o amado, pero nunca odiado.",
+    "Si no puedes ser ambos, es más seguro ser temido que amado, porque el afecto es voluble y el respeto perdura. Pero el miedo nunca debe agriarse en odio, al que ninguna fortaleza resiste.",
+    "Sé predecible en las consecuencias, generoso en el mérito. El odio nace de la arbitrariedad.",
+    "El Príncipe, 1513"
+   ],
+   "la": [
+    "Timeri an amari: numquam odio haberi."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a11",
+  "t": "aristotle",
+  "era": "c. 340 BC",
+  "src": "Nicomachean Ethics, c. 340 BC",
+  "h": "Excellence is a habit, not an act.",
+  "b": "We become just by doing just acts and brave by doing brave ones. Character is not decided in a moment; it is the compound interest of repeated behaviour.",
+  "d": "Choose one behaviour to repeat daily for thirty days. Character follows.",
+  "tg": [
+   "character"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "L'eccellenza è un'abitudine, non un atto.",
+    "Diventiamo giusti compiendo atti giusti e coraggiosi compiendo atti coraggiosi. Il carattere non si decide in un momento; è l'interesse composto del comportamento ripetuto.",
+    "Scegli un comportamento da ripetere ogni giorno per trenta giorni. Il carattere seguirà.",
+    "Etica Nicomachea, c. 340 a.C."
+   ],
+   "es": [
+    "La excelencia es un hábito, no un acto.",
+    "Nos volvemos justos haciendo actos justos y valientes haciendo actos valientes. El carácter no se decide en un momento; es el interés compuesto de la conducta repetida.",
+    "Elige una conducta para repetir a diario durante treinta días. El carácter seguirá.",
+    "Ética a Nicómaco, c. 340 a. C."
+   ],
+   "la": [
+    "Excellentia habitus est, non actus."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a12",
+  "t": "aristotle",
+  "era": "c. 340 BC",
+  "src": "Nicomachean Ethics, c. 340 BC",
+  "h": "Virtue is the mean between two vices.",
+  "b": "Courage lies between cowardice and recklessness; generosity between stinginess and waste. Excellence is calibration, not maximisation: the right amount, at the right time, for the right reason.",
+  "d": "For your dominant strength, name the excess it becomes under pressure.",
+  "tg": [
+   "leadership",
+   "character"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "La virtù è il giusto mezzo tra due vizi.",
+    "Il coraggio sta tra la codardia e la temerarietà; la generosità tra l'avarizia e lo spreco. L'eccellenza è calibrazione, non massimizzazione: la quantità giusta, al momento giusto, per la ragione giusta.",
+    "Per la tua forza dominante, nomina l'eccesso in cui si trasforma sotto pressione.",
+    "Etica Nicomachea, c. 340 a.C."
+   ],
+   "es": [
+    "La virtud es el término medio entre dos vicios.",
+    "El valor está entre la cobardía y la temeridad; la generosidad entre la tacañería y el derroche. La excelencia es calibración, no maximización: la cantidad justa, en el momento justo, por la razón justa.",
+    "Para tu fortaleza dominante, nombra el exceso en que se convierte bajo presión.",
+    "Ética a Nicómaco, c. 340 a. C."
+   ],
+   "la": [
+    "Virtus medium inter duo vitia."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a13",
+  "t": "socrates",
+  "era": "399 BC",
+  "src": "Plato's Apology, 399 BC",
+  "h": "Knowing that you do not know is where wisdom starts.",
+  "b": "On trial for his life, Socrates claimed only one advantage over the experts of Athens: he did not pretend to know what he did not. The question, not the answer, is the tool.",
+  "d": "In the next meeting, ask the one question you fear reveals ignorance.",
+  "tg": [
+   "character"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Sapere di non sapere è l'inizio della saggezza.",
+    "Sotto processo per la sua vita, Socrate rivendicò un solo vantaggio sugli esperti di Atene: non fingeva di sapere ciò che non sapeva. La domanda, non la risposta, è lo strumento.",
+    "Nella prossima riunione, fai la domanda che temi riveli ignoranza.",
+    "Apologia di Socrate, 399 a.C."
+   ],
+   "es": [
+    "Saber que no sabes es donde empieza la sabiduría.",
+    "Juzgado por su vida, Sócrates reclamó una sola ventaja sobre los expertos de Atenas: no fingía saber lo que no sabía. La pregunta, no la respuesta, es la herramienta.",
+    "En la próxima reunión, haz la pregunta que temes que revele ignorancia.",
+    "Apología de Sócrates, 399 a. C."
+   ],
+   "la": [
+    "Scire te nescire, sapientiae initium."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a14",
+  "t": "confucius",
+  "era": "c. 500 BC",
+  "src": "Analects, c. 500 BC",
+  "h": "Call things by their right names.",
+  "b": "If names are not correct, language does not match reality, affairs are not carried out and nothing gets done. A pivot that is a failure, a partnership that is a sale: mislabelling is where execution dies.",
+  "d": "Rename one project honestly this week: bet, rescue or shutdown.",
+  "tg": [
+   "leadership"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Chiama le cose con il loro nome.",
+    "Se i nomi non sono corretti, il linguaggio non corrisponde alla realtà, gli affari non vengono condotti e nulla si compie. Un pivot che è un fallimento, una partnership che è una vendita: l'etichetta sbagliata è dove muore l'esecuzione.",
+    "Rinomina onestamente un progetto questa settimana: scommessa, salvataggio o chiusura.",
+    "Dialoghi, c. 500 a.C."
+   ],
+   "es": [
+    "Llama a las cosas por su nombre.",
+    "Si los nombres no son correctos, el lenguaje no corresponde a la realidad, los asuntos no se llevan a cabo y nada se logra. Un pivote que es un fracaso, una alianza que es una venta: la etiqueta equivocada es donde muere la ejecución.",
+    "Renombra con honestidad un proyecto esta semana: apuesta, rescate o cierre.",
+    "Analectas, c. 500 a. C."
+   ],
+   "la": [
+    "Res suis nominibus appella."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a15",
+  "t": "confucius",
+  "era": "c. 500 BC",
+  "src": "Analects, c. 500 BC",
+  "h": "Govern by example, not by punishment.",
+  "b": "Lead by virtue and people align like stars around the pole; lead by penalties and they merely avoid getting caught, without shame. Rules set the floor; example sets the ceiling.",
+  "d": "Pick one standard you expect of others and make it visibly your own.",
+  "tg": [
+   "leadership",
+   "power"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Governa con l'esempio, non con la punizione.",
+    "Guida con la virtù e le persone si allineano come stelle intorno alla polare; guida con le pene e si limitano a evitare di farsi cogliere, senza vergogna. Le regole fissano il pavimento; l'esempio fissa il soffitto.",
+    "Scegli uno standard che pretendi dagli altri e fallo visibilmente tuo.",
+    "Dialoghi, c. 500 a.C."
+   ],
+   "es": [
+    "Gobierna con el ejemplo, no con el castigo.",
+    "Dirige con virtud y la gente se alinea como estrellas en torno a la polar; dirige con castigos y solo evitarán que los atrapen, sin vergüenza. Las reglas fijan el suelo; el ejemplo fija el techo.",
+    "Elige un estándar que exiges a los demás y hazlo visiblemente tuyo.",
+    "Analectas, c. 500 a. C."
+   ],
+   "la": [
+    "Exemplo rege, non poena."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a16",
+  "t": "laotzu",
+  "era": "c. 400 BC",
+  "src": "Tao Te Ching, c. 400 BC",
+  "h": "The best leader is barely known.",
+  "b": "The worst leader is despised; the next is feared; the next is praised. The best is hardly noticed, and when the work is done the people say: we did this ourselves.",
+  "d": "Give away credit for the next win in public. Watch what it buys you.",
+  "tg": [
+   "leadership"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Il miglior leader è appena conosciuto.",
+    "Il peggior leader è disprezzato; il successivo è temuto; il successivo è lodato. Il migliore passa quasi inosservato, e quando il lavoro è compiuto la gente dice: lo abbiamo fatto noi.",
+    "Cedi in pubblico il merito della prossima vittoria. Osserva cosa ti compra.",
+    "Tao Te Ching, c. 400 a.C."
+   ],
+   "es": [
+    "El mejor líder apenas es conocido.",
+    "El peor líder es despreciado; el siguiente es temido; el siguiente es alabado. El mejor apenas se nota, y cuando el trabajo está hecho la gente dice: lo hicimos nosotros.",
+    "Cede en público el mérito de la próxima victoria. Observa qué te compra.",
+    "Tao Te Ching, c. 400 a. C."
+   ],
+   "la": [
+    "Optimus dux vix notus est."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a17",
+  "t": "laotzu",
+  "era": "c. 400 BC",
+  "src": "Tao Te Ching, c. 400 BC",
+  "h": "Water wins by yielding.",
+  "b": "Nothing is softer than water, yet nothing wears away the hard and strong so well. Persistence and adaptability beat force; the river does not argue with the rock.",
+  "d": "Where you are pushing hardest, try flowing around instead.",
+  "tg": [
+   "strategy",
+   "power"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "L'acqua vince cedendo.",
+    "Nulla è più morbido dell'acqua, eppure nulla consuma meglio ciò che è duro e forte. Persistenza e adattabilità battono la forza; il fiume non discute con la roccia.",
+    "Dove stai spingendo più forte, prova invece a scorrere intorno.",
+    "Tao Te Ching, c. 400 a.C."
+   ],
+   "es": [
+    "El agua vence cediendo.",
+    "Nada es más blando que el agua y, sin embargo, nada desgasta mejor lo duro y lo fuerte. La persistencia y la adaptabilidad vencen a la fuerza; el río no discute con la roca.",
+    "Donde más estás empujando, prueba a fluir alrededor.",
+    "Tao Te Ching, c. 400 a. C."
+   ],
+   "la": [
+    "Aqua cedendo vincit."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a18",
+  "t": "heraclitus",
+  "era": "c. 500 BC",
+  "src": "Fragments, c. 500 BC",
+  "h": "You cannot step into the same river twice.",
+  "b": "Everything flows: the river is new water each time and you are a new person. The only stable strategy is one that assumes the market will not hold still.",
+  "d": "Which plan assumes last year's customer still exists? Revisit it.",
+  "tg": [
+   "strategy",
+   "risk"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Non puoi entrare due volte nello stesso fiume.",
+    "Tutto scorre: il fiume è acqua nuova ogni volta e tu sei una persona nuova. L'unica strategia stabile è quella che presume che il mercato non resterà fermo.",
+    "Quale piano presume che il cliente dell'anno scorso esista ancora? Rivedilo.",
+    "Frammenti, c. 500 a.C."
+   ],
+   "es": [
+    "No puedes entrar dos veces en el mismo río.",
+    "Todo fluye: el río es agua nueva cada vez y tú eres una persona nueva. La única estrategia estable es la que asume que el mercado no se quedará quieto.",
+    "¿Qué plan asume que el cliente del año pasado todavía existe? Revísalo.",
+    "Fragmentos, c. 500 a. C."
+   ],
+   "la": [
+    "In idem flumen bis non descendes."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a19",
+  "t": "montaigne",
+  "era": "1580",
+  "src": "Essays, 1580",
+  "h": "What do I know?",
+  "b": "Montaigne's motto, que sais-je, was a discipline: hold opinions loosely, write to find out what you think, and treat doubt as the sign of a strong mind rather than a weak one.",
+  "d": "Write one page on a decision before you make it. The page will disagree with you.",
+  "tg": [
+   "character"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Che cosa so?",
+    "Il motto di Montaigne, que sais-je, era una disciplina: tenere le opinioni con leggerezza, scrivere per scoprire cosa si pensa, e trattare il dubbio come il segno di una mente forte, non debole.",
+    "Scrivi una pagina su una decisione prima di prenderla. La pagina ti contraddirà.",
+    "Saggi, 1580"
+   ],
+   "es": [
+    "¿Qué sé yo?",
+    "El lema de Montaigne, que sais-je, era una disciplina: sostener las opiniones sin aferrarse, escribir para descubrir lo que se piensa, y tratar la duda como signo de una mente fuerte, no débil.",
+    "Escribe una página sobre una decisión antes de tomarla. La página te contradirá.",
+    "Ensayos, 1580"
+   ],
+   "la": [
+    "Quid scio?"
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a20",
+  "t": "smith",
+  "era": "1776",
+  "src": "The Wealth of Nations, 1776",
+  "h": "Specialisation creates wealth.",
+  "b": "Ten workers in a pin factory, each on one step, make thousands of times more pins than ten generalists. Division of labour creates abundance, and is limited only by the size of the market.",
+  "d": "Which task is your most expensive person doing that a specialist could do better?",
+  "tg": [
+   "money",
+   "building"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "La specializzazione crea ricchezza.",
+    "Dieci operai in una fabbrica di spilli, ciascuno su una fase, producono migliaia di volte più spilli di dieci generalisti. La divisione del lavoro crea abbondanza, ed è limitata solo dall'ampiezza del mercato.",
+    "Quale compito sta svolgendo la tua persona più costosa che uno specialista farebbe meglio?",
+    "La ricchezza delle nazioni, 1776"
+   ],
+   "es": [
+    "La especialización crea riqueza.",
+    "Diez obreros en una fábrica de alfileres, cada uno en un paso, producen miles de veces más alfileres que diez generalistas. La división del trabajo crea abundancia, y solo la limita el tamaño del mercado.",
+    "¿Qué tarea está haciendo tu persona más cara que un especialista haría mejor?",
+    "La riqueza de las naciones, 1776"
+   ],
+   "la": [
+    "Divisio laboris divitias parit."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a21",
+  "t": "smith",
+  "era": "1776",
+  "src": "The Wealth of Nations, 1776",
+  "h": "Design for self-interest, not benevolence.",
+  "b": "It is not from the benevolence of the butcher or the baker that we expect our dinner, but from their regard for their own interest. Durable systems align private incentive with the common outcome.",
+  "d": "Check every partner contract for who profits when the customer wins.",
+  "tg": [
+   "money"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Progetta per l'interesse, non per la benevolenza.",
+    "Non è dalla benevolenza del macellaio o del fornaio che ci aspettiamo la cena, ma dal loro riguardo per il proprio interesse. I sistemi duraturi allineano l'incentivo privato al risultato comune.",
+    "Controlla in ogni contratto con i partner chi guadagna quando vince il cliente.",
+    "La ricchezza delle nazioni, 1776"
+   ],
+   "es": [
+    "Diseña para el interés propio, no para la benevolencia.",
+    "No es de la benevolencia del carnicero o del panadero de donde esperamos la cena, sino de su atención a su propio interés. Los sistemas duraderos alinean el incentivo privado con el resultado común.",
+    "Revisa en cada contrato con socios quién gana cuando gana el cliente.",
+    "La riqueza de las naciones, 1776"
+   ],
+   "la": [
+    "Utilitati, non benevolentiae, confide."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a22",
+  "t": "franklin",
+  "era": "1748",
+  "src": "Advice to a Young Tradesman, 1748",
+  "h": "Money begets money, and its offspring beget more.",
+  "b": "Time is money: an idle afternoon costs the wage not earned. And a coin left to grow outruns a fortune spent; compounding is the quiet engine of wealth.",
+  "d": "Automate one transfer into assets. Let it compound unseen.",
+  "tg": [
+   "money"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Il denaro genera denaro, e la sua prole ne genera altro.",
+    "Il tempo è denaro: un pomeriggio ozioso costa il salario non guadagnato. E una moneta lasciata crescere supera una fortuna spesa; la capitalizzazione è il motore silenzioso della ricchezza.",
+    "Automatizza un trasferimento in attivi. Lascialo capitalizzare senza guardarlo.",
+    "Consigli a un giovane commerciante, 1748"
+   ],
+   "es": [
+    "El dinero engendra dinero, y su descendencia engendra más.",
+    "El tiempo es dinero: una tarde ociosa cuesta el salario no ganado. Y una moneda dejada crecer supera a una fortuna gastada; la capitalización es el motor silencioso de la riqueza.",
+    "Automatiza una transferencia a activos. Deja que capitalice sin mirar.",
+    "Consejos a un joven comerciante, 1748"
+   ],
+   "la": [
+    "Pecunia pecuniam parit, et proles prolem."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a23",
+  "t": "franklin",
+  "era": "1791",
+  "src": "Autobiography, 1791",
+  "h": "Measure your character like a ledger.",
+  "b": "Franklin tracked thirteen virtues on a weekly chart, one in focus per week, cycling four times a year. Improvement came from measurement, not willpower.",
+  "d": "Pick one virtue for this week. Mark the chart every night.",
+  "tg": [
+   "character",
+   "focus"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Misura il tuo carattere come un libro mastro.",
+    "Franklin tracciava tredici virtù su una tabella settimanale, una in focus a settimana, ripetendo il ciclo quattro volte l'anno. Il miglioramento veniva dalla misurazione, non dalla forza di volontà.",
+    "Scegli una virtù per questa settimana. Segna la tabella ogni sera.",
+    "Autobiografia, 1791"
+   ],
+   "es": [
+    "Mide tu carácter como un libro de cuentas.",
+    "Franklin registraba trece virtudes en una tabla semanal, una en foco por semana, repitiendo el ciclo cuatro veces al año. La mejora venía de la medición, no de la fuerza de voluntad.",
+    "Elige una virtud para esta semana. Marca la tabla cada noche.",
+    "Autobiografía, 1791"
+   ],
+   "la": [
+    "Mores tuos ut rationes metire."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a24",
+  "t": "musashi",
+  "era": "1645",
+  "src": "The Book of Five Rings, 1645",
+  "h": "From one thing, know ten thousand things.",
+  "b": "The undefeated swordsman studied carpentry, painting and the ways of all professions: mastery in one craft reveals the structure of others. Depth is the fastest route to range.",
+  "d": "Take your best skill and ask what it teaches you about a field you know nothing about.",
+  "tg": [
+   "building",
+   "focus"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Da una cosa, conosci diecimila cose.",
+    "Lo spadaccino imbattuto studiò falegnameria, pittura e le vie di tutte le professioni: la maestria in un'arte rivela la struttura delle altre. La profondità è la via più rapida all'ampiezza.",
+    "Prendi la tua abilità migliore e chiediti cosa ti insegna su un campo di cui non sai nulla.",
+    "Il libro dei cinque anelli, 1645"
+   ],
+   "es": [
+    "De una cosa, conoce diez mil cosas.",
+    "El espadachín invicto estudió carpintería, pintura y los caminos de todas las profesiones: la maestría en un oficio revela la estructura de los demás. La profundidad es la vía más rápida a la amplitud.",
+    "Toma tu mejor habilidad y pregúntate qué te enseña sobre un campo del que no sabes nada.",
+    "El libro de los cinco anillos, 1645"
+   ],
+   "la": [
+    "Ex una re decem milia cognosce."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a25",
+  "t": "thucydides",
+  "era": "c. 400 BC",
+  "src": "History of the Peloponnesian War, c. 400 BC",
+  "h": "The strong do what they can; the weak suffer what they must.",
+  "b": "At Melos the Athenians refused to argue about justice between unequal powers. Thucydides is not endorsing it; he is warning you to know your real leverage before you argue your rights.",
+  "d": "Before the negotiation, write down what happens if you walk away. That is your leverage.",
+  "tg": [
+   "power"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "I forti fanno ciò che possono; i deboli subiscono ciò che devono.",
+    "A Melo gli Ateniesi rifiutarono di discutere di giustizia tra potenze disuguali. Tucidide non lo approva; ti avverte di conoscere la tua vera leva prima di rivendicare i tuoi diritti.",
+    "Prima della trattativa, scrivi cosa succede se te ne vai. Quella è la tua leva.",
+    "La guerra del Peloponneso, c. 400 a.C."
+   ],
+   "es": [
+    "Los fuertes hacen lo que pueden; los débiles sufren lo que deben.",
+    "En Melos los atenienses se negaron a discutir de justicia entre potencias desiguales. Tucídides no lo aprueba; te advierte que conozcas tu verdadero apalancamiento antes de reclamar tus derechos.",
+    "Antes de la negociación, escribe qué pasa si te levantas de la mesa. Ese es tu apalancamiento.",
+    "Historia de la guerra del Peloponeso, c. 400 a. C."
+   ],
+   "la": [
+    "Potentes faciunt quod possunt; infirmi patiuntur quod necesse est."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a26",
+  "t": "cicero",
+  "era": "44 BC",
+  "src": "On Duties, 44 BC",
+  "h": "The honourable and the useful never truly conflict.",
+  "b": "A profitable shortcut that costs integrity is not useful at all; a reputation for honesty is the most valuable asset a public person holds.",
+  "d": "When a deal requires silence about something material, price the reputation, not the margin.",
+  "tg": [
+   "leadership",
+   "character"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "L'onesto e l'utile non sono mai davvero in conflitto.",
+    "Una scorciatoia redditizia che costa l'integrità non è affatto utile; la reputazione di onestà è il bene più prezioso che un uomo pubblico possieda.",
+    "Quando un accordo richiede il silenzio su qualcosa di rilevante, metti a prezzo la reputazione, non il margine.",
+    "Sui doveri, 44 a.C."
+   ],
+   "es": [
+    "Lo honesto y lo útil nunca entran realmente en conflicto.",
+    "Un atajo rentable que cuesta la integridad no es útil en absoluto; la reputación de honestidad es el activo más valioso que posee una persona pública.",
+    "Cuando un acuerdo exige silencio sobre algo relevante, pon precio a la reputación, no al margen.",
+    "Sobre los deberes, 44 a. C."
+   ],
+   "la": [
+    "Honestum et utile numquam vere pugnant."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a27",
+  "t": "bacon",
+  "era": "1597",
+  "src": "Meditationes Sacrae, 1597",
+  "h": "Knowledge itself is power.",
+  "b": "Bacon's claim preceded the scientific method he championed: the one who knows acts first. Information asymmetry is the oldest edge in business.",
+  "d": "Which number do you know that your competitors do not? Build on it.",
+  "tg": [
+   "power",
+   "strategy"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "La conoscenza stessa è potere.",
+    "L'affermazione di Bacone precedette il metodo scientifico che promosse: chi sa agisce per primo. L'asimmetria informativa è il vantaggio più antico negli affari.",
+    "Quale numero conosci che i tuoi concorrenti non conoscono? Costruisci su quello.",
+    "Meditationes Sacrae, 1597"
+   ],
+   "es": [
+    "El conocimiento mismo es poder.",
+    "La afirmación de Bacon precedió al método científico que promovió: quien sabe actúa primero. La asimetría de información es la ventaja más antigua de los negocios.",
+    "¿Qué número conoces que tus competidores no conocen? Construye sobre eso.",
+    "Meditationes Sacrae, 1597"
+   ],
+   "la": [
+    "Ipsa scientia potestas est."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a28",
+  "t": "gracian",
+  "era": "1647",
+  "src": "The Art of Worldly Wisdom, 1647",
+  "h": "Keep something in reserve.",
+  "b": "Three hundred maxims for the court include these: never show the bottom of your resources, keep expectations alive, reveal your ends slowly. Power is attention held in suspense.",
+  "d": "In your next pitch, hold back one strong card for the follow-up.",
+  "tg": [
+   "power"
+  ],
+  "v": false,
+  "tr": {
+   "it": [
+    "Tieni sempre qualcosa in riserva.",
+    "Trecento massime per la corte includono queste: non mostrare mai il fondo delle tue risorse, tieni vive le aspettative, rivela i tuoi fini lentamente. Il potere è attenzione tenuta in sospeso.",
+    "Nel prossimo pitch, trattieni una carta forte per il follow-up.",
+    "Oracolo manuale e arte di prudenza, 1647"
+   ],
+   "es": [
+    "Guarda siempre algo en reserva.",
+    "Trescientas máximas para la corte incluyen estas: nunca muestres el fondo de tus recursos, mantén vivas las expectativas, revela tus fines despacio. El poder es atención mantenida en suspenso.",
+    "En tu próximo pitch, guárdate una carta fuerte para el seguimiento.",
+    "Oráculo manual y arte de prudencia, 1647"
+   ],
+   "la": [
+    "Semper aliquid reserva."
+   ]
+  },
+  "batch": "base",
+  "added": "2026-10-15T12:00:00Z"
+ },
+ {
+  "id": "a29",
+  "t": "clausewitz",
+  "era": "1832",
+  "src": "On War, 1832",
+  "h": "Friction is why the simple becomes difficult.",
+  "b": "Clausewitz's friction: countless small delays, misunderstandings and accidents that no plan contains, which together make the easiest action hard. The commander's skill is not the plan but the margin left for friction.",
+  "d": "Add a friction budget to every plan: time, money and attention you expect to lose to nothing in particular.",
+  "tg": [
+   "risk",
+   "leadership"
+  ],
+  "v": false,
+  "tr": {
+   "es": [
+    "La fricción es la razón por la que lo simple se vuelve difícil.",
+    "La fricción de Clausewitz: innumerables pequeños retrasos, malentendidos y accidentes que ningún plan contiene y que juntos vuelven ardua la acción más fácil. La habilidad del comandante no es el plan, sino el margen que deja para la fricción.",
+    "Añade a cada plan un presupuesto de fricción: tiempo, dinero y atención que esperas perder sin causa precisa.",
+    "De la guerra, 1832"
+   ],
+   "it": [
+    "L'attrito è il motivo per cui il semplice diventa difficile.",
+    "L'attrito di Clausewitz: innumerevoli piccoli ritardi, fraintendimenti e incidenti che nessun piano contiene e che insieme rendono ardua l'azione più facile. L'abilità del comandante non è il piano, ma il margine che lascia all'attrito.",
+    "Aggiungi a ogni piano un budget di attrito: tempo, denaro e attenzione che ti aspetti di perdere senza una causa precisa.",
+    "Della guerra, 1832"
+   ],
+   "la": [
+    "Frictio est cur simplicia difficilia fiant."
+   ]
+  },
+  "batch": "2026-10-15-seed",
+  "added": "2026-10-15T19:00:00Z"
+ },
+ {
+  "id": "v27",
+  "t": "chesky",
+  "era": "2017",
+  "src": "Masters of Scale podcast, 2017",
+  "h": "Design the eleven-star experience, then dial it back.",
+  "b": "Chesky's exercise for Airbnb: imagine a check-in so good it is absurd, Elon Musk picking you up at the airport, then work backwards to what is buildable. The absurd version shows what the merely good one is missing.",
+  "d": "Write the absurd version of your service. Keep one element of it in the real one.",
+  "tg": [
+   "building"
+  ],
+  "v": false,
+  "tr": {
+   "es": [
+    "Diseña la experiencia de once estrellas y luego ajústala.",
+    "El ejercicio de Chesky para Airbnb: imagina un check-in tan bueno que resulte absurdo, con Elon Musk recogiéndote en el aeropuerto, y luego trabaja hacia atrás hasta lo que se puede construir. La versión absurda muestra lo que le falta a la meramente buena.",
+    "Escribe la versión absurda de tu servicio. Conserva un elemento en la real.",
+    "Pódcast Masters of Scale, 2017"
+   ],
+   "it": [
+    "Progetta l'esperienza a undici stelle, poi riducila.",
+    "L'esercizio di Chesky per Airbnb: immagina un check-in talmente buono da essere assurdo, con Elon Musk che ti viene a prendere in aeroporto, poi lavora a ritroso fino a ciò che si può costruire. La versione assurda mostra cosa manca a quella semplicemente buona.",
+    "Scrivi la versione assurda del tuo servizio. Tienine un elemento in quella reale.",
+    "Podcast Masters of Scale, 2017"
+   ],
+   "la": [
+    "Undecim stellarum experientiam finge, deinde minue."
+   ]
+  },
+  "batch": "2026-10-15-seed",
+  "added": "2026-10-15T19:00:00Z"
+ }
+]

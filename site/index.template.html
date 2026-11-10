@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="en" data-skin="night">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lyceum — five minutes a day</title>
+<style>
+:root{
+  color-scheme:dark;
+  --bg:#0B1426;--bg2:#0E1930;--panel:#121E39;--panel2:#182648;--line:rgba(201,206,214,.14);
+  --ink:#E6E9EE;--ink2:#C9CED6;--mute:#8A94A6;--accent:#00D4FF;--accent-ink:#0B1426;--accent-soft:rgba(0,212,255,.12);
+  --red:#FF3B5C;--shadow:0 10px 28px rgba(0,0,0,.35);--backdrop:#05090F;
+  --serif:"Book Antiqua","Palatino Linotype",Palatino,"Iowan Old Style","Times New Roman",serif;
+  --sans:Calibri,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: light){
+  :root:not([data-theme="dark"]){
+    color-scheme:light;--bg:#DDE1E7;--bg2:#E8EBEF;--panel:#F4F5F7;--panel2:#FFFFFF;--line:rgba(11,20,38,.12);
+    --ink:#0B1426;--ink2:#1A2846;--mute:#5B6579;--accent:#0088BE;--accent-ink:#FFFFFF;--accent-soft:rgba(0,136,190,.12);
+    --red:#D4183A;--shadow:0 10px 28px rgba(11,20,38,.14);--backdrop:#0B1426;
+  }
+}
+:root[data-theme="light"]{
+  color-scheme:light;--bg:#DDE1E7;--bg2:#E8EBEF;--panel:#F4F5F7;--panel2:#FFFFFF;--line:rgba(11,20,38,.12);
+  --ink:#0B1426;--ink2:#1A2846;--mute:#5B6579;--accent:#0088BE;--accent-ink:#FFFFFF;--accent-soft:rgba(0,136,190,.12);
+  --red:#D4183A;--shadow:0 10px 28px rgba(11,20,38,.14);--backdrop:#0B1426;
+}
+:root[data-skin="night"]{
+  color-scheme:dark;--bg:#0B1426;--bg2:#0E1930;--panel:#121E39;--panel2:#182648;--line:rgba(201,206,214,.14);
+  --ink:#E6E9EE;--ink2:#C9CED6;--mute:#8A94A6;--accent:#00D4FF;--accent-ink:#0B1426;--accent-soft:rgba(0,212,255,.12);
+  --red:#FF3B5C;--shadow:0 10px 28px rgba(0,0,0,.35);--backdrop:#05090F;
+}
+:root[data-skin="silver"]{
+  color-scheme:light;--bg:#DDE1E7;--bg2:#E8EBEF;--panel:#F4F5F7;--panel2:#FFFFFF;--line:rgba(11,20,38,.12);
+  --ink:#0B1426;--ink2:#1A2846;--mute:#5B6579;--accent:#0088BE;--accent-ink:#FFFFFF;--accent-soft:rgba(0,136,190,.12);
+  --red:#D4183A;--shadow:0 10px 28px rgba(11,20,38,.14);--backdrop:#0B1426;
+}
+*,*::before,*::after{box-sizing:border-box}
+html{height:100%;scroll-padding-top:env(safe-area-inset-top,0px)}
+body{height:100%;margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.45;-webkit-font-smoothing:antialiased;overflow:hidden}
+button{font-family:inherit;font-size:inherit;color:inherit;cursor:pointer}
+input{font-family:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+
+.stage{height:100%;display:flex;justify-content:center;align-items:stretch;background:var(--bg)}
+.device{position:relative;width:100%;height:100%;display:flex;flex-direction:column;background:var(--bg);overflow:hidden}
+@media (min-width:720px){
+  body{background:var(--backdrop)}
+  .stage{background:var(--backdrop);align-items:center;padding:24px}
+  .device{width:414px;height:min(880px,100%);border-radius:44px;border:10px solid #182034;box-shadow:0 30px 80px rgba(0,0,0,.6)}
+}
+
+/* header */
+.top{display:flex;align-items:center;justify-content:space-between;padding:14px 18px 4px;flex:0 0 auto}
+.brand{font-family:var(--serif);font-size:21px;letter-spacing:.02em;color:var(--ink)}
+.brand small{display:block;font-family:var(--sans);font-size:11px;letter-spacing:0;color:var(--mute);margin-top:-2px}
+.hdr-right{display:flex;align-items:center;gap:12px}
+.streak{display:flex;align-items:center;gap:4px;font-size:13.5px;color:var(--mute)}
+.streak.hot{color:var(--accent)}
+.streak.risk{color:var(--red)}
+.streak svg{width:16px;height:16px}
+.ringwrap{position:relative;width:38px;height:38px}
+.ringwrap svg{width:38px;height:38px;transform:rotate(-90deg)}
+.ringwrap .bgc{stroke:var(--line);fill:none;stroke-width:3}
+.ringwrap .fgc{stroke:var(--accent);fill:none;stroke-width:3;stroke-linecap:round;transition:stroke-dashoffset .4s ease}
+.ringwrap .num{position:absolute;inset:0;display:grid;place-items:center;font-family:var(--serif);font-size:13px;color:var(--ink)}
+.langs{display:flex;gap:4px;padding:2px 14px 6px;flex:0 0 auto;border-bottom:1px solid var(--line)}
+.lb{flex:1;background:none;border:0;border-bottom:2px solid transparent;color:var(--mute);font-size:12px;letter-spacing:.08em;padding:6px 0 5px;border-radius:0}
+.lb.on{color:var(--accent);border-bottom-color:var(--accent)}
+.lanote{font-size:12px;color:var(--mute);padding:8px 4px 0}
+
+/* main scroll area */
+.main{flex:1 1 auto;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:0 14px 28px;scrollbar-width:none}
+.main::-webkit-scrollbar{display:none}
+.view{display:none}.view.on{display:block}
+h2.sec{font-family:var(--serif);font-weight:400;font-size:19px;margin:22px 2px 10px;color:var(--ink)}
+h2.sec:first-child{margin-top:10px}
+.sub{color:var(--mute);font-size:13.5px;margin:-6px 2px 12px}
+
+/* tabs */
+.tabs{display:flex;border-top:1px solid var(--line);background:var(--bg2);flex:0 0 auto}
+.tab{flex:1;padding:9px 0 8px;display:flex;flex-direction:column;align-items:center;gap:3px;color:var(--mute);font-size:11px;background:none;border:0}
+.tab svg{width:22px;height:22px}
+.tab.on{color:var(--accent)}
+
+/* today hero */
+.hero{padding:8px 4px 2px}
+.date{color:var(--mute);font-size:13.5px}
+.goal{display:flex;align-items:center;gap:14px;margin:10px 0 4px}
+.goal .big{font-family:var(--serif);font-size:30px;line-height:1.1;color:var(--ink);white-space:nowrap}
+.goal .big span{font-size:17px;color:var(--mute)}
+.goal .txt{font-size:13.5px;color:var(--mute);margin-top:2px}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:6px 2px 4px;scrollbar-width:none;margin:8px -2px 2px}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;border:1px solid var(--line);background:transparent;color:var(--ink2);border-radius:999px;padding:7px 13px;font-size:13px}
+.chip.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.tuned{font-size:12.5px;color:var(--mute);padding:2px 4px 0}
+.tuned b{color:var(--ink2);font-weight:600}
+
+/* idea cards: two materials */
+.card{border-radius:20px;padding:16px 16px 8px;margin:12px 0;position:relative}
+.card.cv{background:#101C36;color:#E6E9EE;border:1px solid rgba(201,206,214,.14)}
+.card.ca{background:linear-gradient(140deg,#E6E9EE 0%,#F6F7F9 42%,#C5CBD5 100%);color:#0B1426;box-shadow:var(--shadow)}
+:root[data-skin="silver"] .card.cv{box-shadow:var(--shadow);border-color:transparent}
+.who{display:flex;align-items:center;gap:10px}
+.av{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;font-family:var(--serif);font-size:14px;flex:0 0 auto}
+.av.v{background:#0B1426;color:#00D4FF;box-shadow:inset 0 0 0 1.5px #00D4FF}
+.av.a{background:linear-gradient(140deg,#F2F4F7,#B9C0CB);color:#0B1426}
+.ca .av.a{background:#0B1426;color:#E6E9EE}
+.nm{font-weight:600;font-size:14px;line-height:1.2}
+.rl{font-size:11.5px;opacity:.72;margin-top:2px}
+.meta{margin-left:auto;display:flex;align-items:center;gap:6px;flex:0 0 auto}
+.era{font-size:11.5px;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.cv .era{border:1px solid rgba(201,206,214,.25);color:#C9CED6}
+.ca .era{border:1px solid rgba(11,20,38,.28);color:#1A2846}
+.era.read{padding-left:7px}
+.era.read::before{content:"✓ "}
+.vchk{width:18px;height:18px;border-radius:50%;background:#FF3B5C;color:#fff;display:grid;place-items:center;flex:0 0 auto}
+.vchk svg{width:12px;height:12px}
+.newb{font-size:10.5px;letter-spacing:.04em;padding:3px 7px;border-radius:999px;background:#00D4FF;color:#0B1426;font-weight:600}
+.ca .newb{background:#0B1426;color:#E6E9EE}
+.h{font-family:var(--serif);font-weight:400;font-size:22px;line-height:1.22;margin:14px 0 8px}
+.b{font-size:15px;line-height:1.52;margin:0}
+.cv .b{color:#C9CED6}
+.ca .b{color:#1A2846}
+.src{font-size:12.5px;font-style:italic;margin-top:10px}
+.cv .src{color:#8A94A6}
+.ca .src{color:#4C5669}
+.tags{margin-top:6px}
+.tg{display:inline-block;font-size:11.5px;padding:3px 9px;border-radius:999px;margin:6px 6px 0 0;border:0}
+.cv .tg{background:rgba(0,212,255,.12);color:#00D4FF}
+.ca .tg{background:rgba(11,20,38,.08);color:#0B1426}
+.deep{display:none;margin-top:12px;padding:11px 12px;border-radius:0 12px 12px 0;font-size:14px;line-height:1.5}
+.cv .deep{border-left:2px solid #00D4FF;background:rgba(0,212,255,.1)}
+.ca .deep{border-left:2px solid #0B1426;background:rgba(11,20,38,.06)}
+.deep b{display:block;font-weight:600;margin-bottom:3px}
+.card.open .deep{display:block}
+.acts{display:flex;gap:2px;margin-top:10px;padding-top:6px}
+.cv .acts{border-top:1px solid rgba(201,206,214,.14)}
+.ca .acts{border-top:1px solid rgba(11,20,38,.14)}
+.ab{flex:1;display:flex;align-items:center;justify-content:center;gap:6px;background:none;border:0;font-size:12.5px;padding:8px 2px;border-radius:10px}
+.ab svg{width:18px;height:18px}
+.ab span{white-space:nowrap}
+.cv .ab{color:#8A94A6}.cv .ab.on{color:#00D4FF}
+.ca .ab{color:#4C5669}.ca .ab.on{color:#0077A8}
+.card.open .ab.deeper svg{transform:rotate(180deg)}
+.hg{width:20px;height:20px;border-radius:50%;border:1.5px solid currentColor;display:grid;place-items:center;font-family:var(--serif);font-size:13px;line-height:1;font-weight:700}
+.ab.on .hg{border-color:transparent}
+.cv .ab.on .hg{background:#00D4FF;color:#0B1426}
+.ca .ab.on .hg{background:#0B1426;color:#E6E9EE}
+
+/* diptych */
+.duo{border-radius:20px;overflow:hidden;background:#101C36;border:1px solid rgba(201,206,214,.14);margin:12px 0;color:#E6E9EE}
+:root[data-skin="silver"] .duo{box-shadow:var(--shadow);border-color:transparent}
+.duo-h{padding:12px 16px 0;font-size:13px;color:#8A94A6}
+.duo-h em{font-style:normal;font-family:var(--serif);font-size:17px;color:#E6E9EE;margin-left:6px}
+.duo-row{display:flex;position:relative;margin-top:10px}
+.side{flex:1;padding:14px 14px 16px;min-width:0;border:0;text-align:left;font-family:inherit}
+.side.then{background:linear-gradient(140deg,#E6E9EE 0%,#F6F7F9 42%,#C5CBD5 100%);color:#0B1426;padding-right:28px}
+.side.now{background:#101C36;color:#E6E9EE;padding-left:30px}
+.duo.mini .side.then{padding-right:26px}.duo.mini .side.now{padding-left:28px}
+.side .lbl{font-size:12px;opacity:.7}
+.side .sw{font-weight:600;font-size:13.5px;margin-top:4px}
+.side .si{font-family:var(--serif);font-size:17px;line-height:1.25;margin-top:6px}
+.amp{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:30px;height:30px;border-radius:50%;background:#00D4FF;color:#0B1426;display:grid;place-items:center;font-family:var(--serif);font-size:17px;box-shadow:0 0 0 4px #101C36}
+.bridge{padding:12px 16px 14px;font-size:14px;line-height:1.5;color:#C9CED6;border-top:1px solid rgba(201,206,214,.14)}
+.duo.mini .side{padding-top:12px;padding-bottom:14px}
+.rail{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 2px 14px;scrollbar-width:none;margin:0 -2px}
+.rail::-webkit-scrollbar{display:none}
+.rail .duo{flex:0 0 94%;scroll-snap-align:center;margin:0}
+.dots{display:flex;justify-content:center;gap:6px;margin:-4px 0 8px}
+.dots i{width:6px;height:6px;border-radius:50%;background:var(--line)}
+.dots i.on{background:var(--accent)}
+
+/* explore */
+.search{display:flex;align-items:center;gap:8px;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:10px 12px;margin:10px 0 4px}
+.search svg{width:18px;height:18px;color:var(--mute);flex:0 0 auto}
+.search input{flex:1;background:none;border:0;color:var(--ink);font-size:15px;outline:none;min-width:0}
+.search input::placeholder{color:var(--mute)}
+.seg{display:flex;background:var(--panel);border-radius:12px;padding:3px;margin:10px 0 4px}
+.seg button{flex:1;text-align:center;padding:8px;border-radius:10px;font-weight:600;font-size:13px;color:var(--mute);background:none;border:0}
+.seg button.on{background:var(--panel2);color:var(--ink);box-shadow:0 1px 4px rgba(0,0,0,.15)}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.tile{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:14px 6px 12px;text-align:center;display:flex;flex-direction:column;align-items:center;gap:6px}
+.tile .av{width:44px;height:44px;font-size:15px}
+.tile .tn{font-size:12.5px;font-weight:600;line-height:1.2;color:var(--ink)}
+.tile .tc{font-size:11px;color:var(--mute)}
+.row{width:100%;display:flex;align-items:center;justify-content:space-between;gap:10px;padding:14px 14px;background:var(--panel);border:1px solid var(--line);border-radius:16px;margin-bottom:8px;text-align:left}
+.row .rn{font-family:var(--serif);font-size:17px;color:var(--ink)}
+.row .rc{font-size:12.5px;color:var(--mute);margin-top:2px}
+.row svg{width:18px;height:18px;color:var(--mute);flex:0 0 auto}
+.back{display:inline-flex;align-items:center;gap:4px;background:none;border:0;color:var(--accent);font-size:14px;padding:12px 0 2px}
+.back svg{width:18px;height:18px}
+.empty{color:var(--mute);font-size:14px;padding:18px 4px;line-height:1.5}
+
+/* buttons, stats */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;border-radius:12px;padding:11px 16px;border:1px solid var(--line);background:var(--panel);color:var(--ink);font-size:14px}
+.btn.pri{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);font-weight:600}
+.btn.block{width:100%}
+.btn.danger{color:var(--red);border-color:transparent;background:transparent}
+.btn svg{width:18px;height:18px}
+.stats{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:14px}
+.stat .n{font-family:var(--serif);font-size:30px;line-height:1;color:var(--ink)}
+.stat .l{font-size:12.5px;color:var(--mute);margin-top:6px}
+.pref{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 2px;border-bottom:1px solid var(--line)}
+.pref .pl{font-size:15px}
+.pref .ph{font-size:12.5px;color:var(--mute);margin-top:2px}
+.pills{display:flex;gap:6px;flex:0 0 auto}
+.pill{border:1px solid var(--line);background:transparent;color:var(--ink2);border-radius:999px;padding:6px 12px;font-size:13px}
+.pill.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.about{color:var(--mute);font-size:12.5px;line-height:1.5;padding:16px 2px}
+.vline{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--ink2);padding:10px 2px 0}
+
+/* onboarding, sheet, toast */
+.ob{position:absolute;inset:0;background:var(--bg);z-index:30;display:none;flex-direction:column;padding:34px 24px 24px;overflow:auto}
+.ob.on{display:flex}
+.ob .wm{font-family:var(--serif);font-size:40px;color:var(--ink)}
+.ob .tag{font-family:var(--serif);font-size:19px;line-height:1.35;color:var(--ink2);margin:14px 0 26px}
+.ob .q{font-size:15px;color:var(--ink);margin-bottom:10px}
+.obchips{display:flex;flex-wrap:wrap;gap:8px}
+.ob .foot{margin-top:auto;padding-top:26px;display:flex;flex-direction:column;gap:10px}
+.sheetwrap{position:absolute;inset:0;background:rgba(5,9,15,.55);z-index:20;display:none;align-items:flex-end}
+.sheetwrap.on{display:flex}
+.sheet{width:100%;background:var(--bg2);border-radius:22px 22px 0 0;padding:16px 16px 18px;max-height:72%;overflow:auto}
+.sheet h3{font-family:var(--serif);font-weight:400;font-size:19px;margin:4px 2px 12px;color:var(--ink)}
+.sheet .row{margin-bottom:6px}
+.sheet .row.on{border-color:var(--accent)}
+.newrow{display:flex;gap:8px;margin-top:10px}
+.newrow input{flex:1;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px 12px;color:var(--ink);font-size:15px;min-width:0}
+.toast{position:absolute;left:50%;bottom:74px;transform:translateX(-50%) translateY(8px);background:var(--ink);color:var(--bg);padding:10px 14px;border-radius:12px;font-size:13.5px;opacity:0;pointer-events:none;transition:.22s;z-index:40;max-width:92%;display:flex;gap:12px;align-items:center;white-space:nowrap}
+.toast.on{opacity:1;transform:translateX(-50%);pointer-events:auto}
+.toast button{background:none;border:0;color:#0077A8;font-weight:600;padding:0}
+:root[data-skin="silver"] .toast button{color:#00D4FF}
+.end{color:var(--mute);font-size:13.5px;text-align:center;padding:18px 10px 8px;line-height:1.5}
+</style>
+</head>
+<body>
+<div class="stage"><div class="device" id="device">
+
+  <div class="top">
+    <div class="brand">Lyceum<small id="tagline">Five minutes a day</small></div>
+    <div class="hdr-right">
+      <div class="streak" id="streak"></div>
+      <div class="ringwrap" id="ring"></div>
+    </div>
+  </div>
+  <div class="langs" id="langs"></div>
+
+  <div class="main" id="main">
+    <section class="view" id="v-today"></section>
+    <section class="view" id="v-explore"></section>
+    <section class="view" id="v-dialogues"></section>
+    <section class="view" id="v-stash"></section>
+    <section class="view" id="v-you"></section>
+    <section class="view" id="v-list"></section>
+  </div>
+
+  <nav class="tabs" id="tabs"></nav>
+
+  <div class="ob" id="ob"></div>
+  <div class="sheetwrap" id="sheetwrap"><div class="sheet" id="sheet"></div></div>
+  <div class="toast" id="toast"></div>
+
+</div></div>
+
+<script>
+/* ---------- languages ---------- */
+const LANGS=[["it","ITA"],["en","ENG"],["es","ESP"],["la","LAT"]];
+const UI={
+en:{tag:"Five minutes a day",today:"Today",explore:"Explore",dialogues:"Dialogues",stash:"Stash",you:"You",ofIdeas:"of {g} ideas",goalDone:"Daily goal done. Keep reading, or come back tomorrow.",streakLine:"{s}-day streak. {n} more {ideas} today.",startLine:"Read {g} ideas to start a streak.",idea:"idea",ideas:"ideas",foryou:"For you",all:"All",valley:"The Valley",ancients:"The Ancients",more:"Show {n} more ideas",end:"That is everything for today. New order tomorrow.",save:"Save",saved:"Saved",agree:"Agree",agreed:"Agreed",share:"Share",deeper:"Deeper",useToday:"Use it today",todayDuo:"Today's dialogue",thenNow:"Then and now",then:"Then",now:"Now",duoSub:"One idea from the Ancients, one from the Valley, and the line between them. Swipe.",searchPh:"Search ideas, thinkers, topics",thinkers:"Thinkers",topics:"Topics",bothEras:"both eras",noMatch:"No ideas match \u201c{q}\u201d. Try a thinker's name, a topic, or a word like doors, river, customer.",yourStashes:"Your stashes",stashEmpty:"Nothing saved yet. Tap Save on any idea and it lands in a stash here.",newStash:"New stash",myStash:"My stash",saveTo:"Save to",orNew:"Or a new stash",namePh:"Name, e.g. Board prep",create:"Create",giveName:"Give it a name first",savedTo:"Saved to {s}",change:"Change",removed:"Removed from stash",created:"Created {s}",emptyStash:"This stash is empty. Save an idea to fill it.",progress:"Your progress",dayStreak:"day streak",ideasRead:"ideas read",ideasSaved:"ideas saved",hSignals:"H signals",settings:"Settings",dailyGoal:"Daily goal",dailyGoalHint:"Ideas per day before the ring fills",look:"Look",lookHint:"Night or shined silver",night:"Night",silver:"Silver",yourTopics:"Your topics",noneChosen:"None chosen, feed shows everything",changeBtn:"Change",resetT:"Reset progress",resetHint:"Clears streak, reads, H signals and stashes on this device",reset:"Reset",tapAgain:"Tap again to confirm",cleared:"Progress cleared",goalToast:"Daily goal done. {s}-day streak.",verified:"Source verified by deep research",verifiedCount:"{v} of {n} sources verified by deep research. The rest await the research pass.",about:"Lyceum is a prototype. Every idea is distilled in the curator's own words from public sources and is not a quotation; dates are approximate for ancient works. {n} ideas, {t} thinkers, {d} dialogues. Not affiliated with any app, publisher or author.",tuned:"Your H signals are tuning the feed toward: {x}.",tunedNone:"Tap H on ideas you agree with. The feed learns from it.",obTag:"Five minutes a day with the minds that built business: the Valley's founders, and the thinkers who came long before them.",obQ:"What do you want to get better at?",start:"Start reading",skip:"Skip, show me everything",saveTopics:"Save topics",back:"Back",bothOnTheme:"Both eras on one theme",laNote:"",hHint:"H: I agree. The feed learns from it.",newB:"New"},
+it:{tag:"Cinque minuti al giorno",today:"Oggi",explore:"Esplora",dialogues:"Dialoghi",stash:"Raccolte",you:"Tu",ofIdeas:"di {g} idee",goalDone:"Obiettivo del giorno raggiunto. Continua a leggere, o torna domani.",streakLine:"Serie di {s} giorni. Ancora {n} {ideas} oggi.",startLine:"Leggi {g} idee per iniziare una serie.",idea:"idea",ideas:"idee",foryou:"Per te",all:"Tutte",valley:"La Valley",ancients:"Gli Antichi",more:"Mostra altre {n} idee",end:"Per oggi \u00e8 tutto. Domani un nuovo ordine.",save:"Salva",saved:"Salvata",agree:"Concordo",agreed:"Concordato",share:"Condividi",deeper:"Approfondisci",useToday:"Usala oggi",todayDuo:"Il dialogo di oggi",thenNow:"Allora e oggi",then:"Allora",now:"Oggi",duoSub:"Un'idea degli Antichi, una della Valley, e la linea che le unisce. Scorri.",searchPh:"Cerca idee, pensatori, temi",thinkers:"Pensatori",topics:"Temi",bothEras:"entrambe le epoche",noMatch:"Nessuna idea corrisponde a \u201c{q}\u201d. Prova il nome di un pensatore, un tema o una parola come porte, fiume, cliente.",yourStashes:"Le tue raccolte",stashEmpty:"Niente di salvato. Tocca Salva su un'idea e finir\u00e0 in una raccolta qui.",newStash:"Nuova raccolta",myStash:"La mia raccolta",saveTo:"Salva in",orNew:"Oppure una nuova raccolta",namePh:"Nome, es. Preparazione CdA",create:"Crea",giveName:"Prima dalle un nome",savedTo:"Salvata in {s}",change:"Cambia",removed:"Rimossa dalla raccolta",created:"Creata {s}",emptyStash:"Questa raccolta \u00e8 vuota. Salva un'idea per riempirla.",progress:"I tuoi progressi",dayStreak:"giorni di serie",ideasRead:"idee lette",ideasSaved:"idee salvate",hSignals:"segnali H",settings:"Impostazioni",dailyGoal:"Obiettivo giornaliero",dailyGoalHint:"Idee al giorno prima che l'anello si riempia",look:"Aspetto",lookHint:"Notte o argento",night:"Notte",silver:"Argento",yourTopics:"I tuoi temi",noneChosen:"Nessuno scelto, il feed mostra tutto",changeBtn:"Cambia",resetT:"Azzera i progressi",resetHint:"Cancella serie, letture, segnali H e raccolte su questo dispositivo",reset:"Azzera",tapAgain:"Tocca di nuovo per confermare",cleared:"Progressi azzerati",goalToast:"Obiettivo del giorno raggiunto. Serie di {s} giorni.",verified:"Fonte verificata con deep research",verifiedCount:"{v} fonti su {n} verificate con deep research. Le altre attendono il passaggio di ricerca.",about:"Lyceum \u00e8 un prototipo. Ogni idea \u00e8 distillata con parole del curatore da fonti pubbliche e non \u00e8 una citazione; le date delle opere antiche sono approssimative. {n} idee, {t} pensatori, {d} dialoghi. Nessuna affiliazione con app, editori o autori.",tuned:"I tuoi segnali H stanno orientando il feed verso: {x}.",tunedNone:"Tocca H sulle idee con cui concordi. Il feed impara da l\u00ec.",obTag:"Cinque minuti al giorno con le menti che hanno costruito il business: i fondatori della Valley e i pensatori venuti molto prima di loro.",obQ:"In cosa vuoi migliorare?",start:"Inizia a leggere",skip:"Salta, mostrami tutto",saveTopics:"Salva i temi",back:"Indietro",bothOnTheme:"Entrambe le epoche su un tema",laNote:"",hHint:"H: concordo. Il feed impara da qui.",newB:"Nuova"},
+es:{tag:"Cinco minutos al d\u00eda",today:"Hoy",explore:"Explorar",dialogues:"Di\u00e1logos",stash:"Colecciones",you:"T\u00fa",ofIdeas:"de {g} ideas",goalDone:"Meta del d\u00eda cumplida. Sigue leyendo o vuelve ma\u00f1ana.",streakLine:"Racha de {s} d\u00edas. {n} {ideas} m\u00e1s hoy.",startLine:"Lee {g} ideas para empezar una racha.",idea:"idea",ideas:"ideas",foryou:"Para ti",all:"Todas",valley:"El Valley",ancients:"Los Antiguos",more:"Mostrar {n} ideas m\u00e1s",end:"Eso es todo por hoy. Ma\u00f1ana, nuevo orden.",save:"Guardar",saved:"Guardada",agree:"Concuerdo",agreed:"Marcada",share:"Compartir",deeper:"Profundizar",useToday:"\u00dasala hoy",todayDuo:"El di\u00e1logo de hoy",thenNow:"Entonces y ahora",then:"Entonces",now:"Ahora",duoSub:"Una idea de los Antiguos, una del Valley, y la l\u00ednea que las une. Desliza.",searchPh:"Buscar ideas, pensadores, temas",thinkers:"Pensadores",topics:"Temas",bothEras:"ambas \u00e9pocas",noMatch:"Ninguna idea coincide con \u201c{q}\u201d. Prueba con el nombre de un pensador, un tema o una palabra como puertas, r\u00edo, cliente.",yourStashes:"Tus colecciones",stashEmpty:"Nada guardado a\u00fan. Toca Guardar en una idea y aparecer\u00e1 en una colecci\u00f3n aqu\u00ed.",newStash:"Nueva colecci\u00f3n",myStash:"Mi colecci\u00f3n",saveTo:"Guardar en",orNew:"O una nueva colecci\u00f3n",namePh:"Nombre, p. ej. Preparar consejo",create:"Crear",giveName:"Primero ponle un nombre",savedTo:"Guardada en {s}",change:"Cambiar",removed:"Quitada de la colecci\u00f3n",created:"Creada {s}",emptyStash:"Esta colecci\u00f3n est\u00e1 vac\u00eda. Guarda una idea para llenarla.",progress:"Tu progreso",dayStreak:"d\u00edas de racha",ideasRead:"ideas le\u00eddas",ideasSaved:"ideas guardadas",hSignals:"se\u00f1ales H",settings:"Ajustes",dailyGoal:"Meta diaria",dailyGoalHint:"Ideas por d\u00eda antes de que el anillo se llene",look:"Aspecto",lookHint:"Noche o plata",night:"Noche",silver:"Plata",yourTopics:"Tus temas",noneChosen:"Ninguno elegido, el feed muestra todo",changeBtn:"Cambiar",resetT:"Reiniciar progreso",resetHint:"Borra racha, lecturas, se\u00f1ales H y colecciones en este dispositivo",reset:"Reiniciar",tapAgain:"Toca de nuevo para confirmar",cleared:"Progreso borrado",goalToast:"Meta del d\u00eda cumplida. Racha de {s} d\u00edas.",verified:"Fuente verificada con deep research",verifiedCount:"{v} de {n} fuentes verificadas con deep research. El resto espera la pasada de investigaci\u00f3n.",about:"Lyceum es un prototipo. Cada idea est\u00e1 destilada con palabras del curador a partir de fuentes p\u00fablicas y no es una cita; las fechas de las obras antiguas son aproximadas. {n} ideas, {t} pensadores, {d} di\u00e1logos. Sin afiliaci\u00f3n con ninguna app, editorial o autor.",tuned:"Tus se\u00f1ales H est\u00e1n orientando el feed hacia: {x}.",tunedNone:"Toca H en las ideas con las que est\u00e1s de acuerdo. El feed aprende de ah\u00ed.",obTag:"Cinco minutos al d\u00eda con las mentes que construyeron los negocios: los fundadores del Valley y los pensadores que llegaron mucho antes.",obQ:"\u00bfEn qu\u00e9 quieres mejorar?",start:"Empezar a leer",skip:"Saltar, mu\u00e9strame todo",saveTopics:"Guardar temas",back:"Atr\u00e1s",bothOnTheme:"Ambas \u00e9pocas en un tema",laNote:"",hHint:"H: estoy de acuerdo. El feed aprende de ah\u00ed.",newB:"Nueva"},
+la:{tag:"Quinque minuta cotidie",today:"Hodie",explore:"Explora",dialogues:"Dialogi",stash:"Thesaurus",you:"Tu",ofIdeas:"ex {g} sententiis",goalDone:"Pensum hodiernum factum. Perge legere, aut cras redi.",streakLine:"Series {s} dierum. {n} {ideas} hodie restant.",startLine:"Lege {g} sententias ut seriem incipias.",idea:"sententia",ideas:"sententiae",foryou:"Tibi",all:"Omnia",valley:"Vallis",ancients:"Antiqui",more:"Ostende {n} sententias plures",end:"Hoc est omne hodiernum. Cras novus ordo.",save:"Serva",saved:"Servata",agree:"Consentio",agreed:"Consensi",share:"Communica",deeper:"Altius",useToday:"Hodie adhibe",todayDuo:"Dialogus hodiernus",thenNow:"Tunc et nunc",then:"Tunc",now:"Nunc",duoSub:"Una sententia Antiquorum, una Vallis, et linea inter eas. Digito trahe.",searchPh:"Quaere sententias, auctores, argumenta",thinkers:"Auctores",topics:"Argumenta",bothEras:"ambae aetates",noMatch:"Nulla sententia congruit cum \u201c{q}\u201d. Tenta nomen auctoris aut argumentum.",yourStashes:"Thesauri tui",stashEmpty:"Nihil adhuc servatum. Tange Serva in qualibet sententia.",newStash:"Novus thesaurus",myStash:"Thesaurus meus",saveTo:"Serva in",orNew:"Aut novus thesaurus",namePh:"Nomen, e.g. Consilium",create:"Crea",giveName:"Primum nomen da",savedTo:"Servata in {s}",change:"Muta",removed:"E thesauro remota",created:"Creatus {s}",emptyStash:"Thesaurus vacuus est. Serva sententiam.",progress:"Progressus tuus",dayStreak:"dies continui",ideasRead:"sententiae lectae",ideasSaved:"sententiae servatae",hSignals:"signa H",settings:"Optiones",dailyGoal:"Pensum cotidianum",dailyGoalHint:"Sententiae per diem antequam anulus impleatur",look:"Species",lookHint:"Nox aut argentum",night:"Nox",silver:"Argentum",yourTopics:"Argumenta tua",noneChosen:"Nullum electum; omnia ostenduntur",changeBtn:"Muta",resetT:"Progressum dele",resetHint:"Seriem, lectiones, signa H et thesauros in hoc instrumento delet",reset:"Dele",tapAgain:"Iterum tange ut confirmes",cleared:"Progressus deletus",goalToast:"Pensum factum. Series {s} dierum.",verified:"Fons inquisitione profunda confirmatus",verifiedCount:"{v} ex {n} fontibus confirmati. Ceteri inquisitionem exspectant.",about:"Lyceum specimen est. Quaeque sententia verbis curatoris e fontibus publicis contracta est, non citata; tempora operum antiquorum circiter. {n} sententiae, {t} auctores, {d} dialogi. Nulli societati, editori aut auctori adiunctum.",tuned:"Signa H tua ordinem flectunt ad: {x}.",tunedNone:"Tange H in sententiis quibus consentis. Ordo discit.",obTag:"Quinque minuta cotidie cum mentibus quae negotia aedificaverunt: conditores Vallis, et qui multo ante venerunt.",obQ:"In qua re melior fieri vis?",start:"Incipe legere",skip:"Omitte, omnia ostende",saveTopics:"Argumenta serva",back:"Retro",bothOnTheme:"Ambae aetates uno argumento",laNote:"Latine: tituli, indices et pontes dialogorum; corpus sententiarum Anglice manet.",hHint:"H: consentio. Ordo inde discit.",newB:"Nova"}
+};
+/*__LYCEUM_DATA__*/
+
+/* ---------- icons ---------- */
+function I(n,on){
+ const s='<svg viewBox="0 0 24 24" aria-hidden="true">';
+ const e='</svg>';
+ const st='fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"';
+ switch(n){
+  case "home":return s+'<path d="M3 11.5 12 4l9 7.5V20a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z" '+st+'/>'+e;
+  case "explore":return s+'<circle cx="12" cy="12" r="9" '+st+'/><path d="m15.5 8.5-2 5-5 2 2-5z" fill="currentColor"/>'+e;
+  case "duo":return s+'<path d="M4 5h10a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H9l-4 3v-3a2 2 0 0 1-2-2V7a2 2 0 0 1 1-2z" '+st+'/><path d="M18 9h1a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2h-1v3l-4-3h-3" '+st+'/>'+e;
+  case "bm":return s+'<path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z" '+(on?'fill="currentColor"':st)+'/>'+e;
+  case "you":return s+'<circle cx="12" cy="8" r="4" '+st+'/><path d="M4 21a8 8 0 0 1 16 0" '+st+'/>'+e;
+  case "share":return s+'<path d="M12 3v12M8 7l4-4 4 4M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6" '+st+'/>'+e;
+  case "flame":return s+'<path d="M12 2c1 4 5 6.5 5 11a5 5 0 0 1-10 0c0-2 1-3.5 1-3.5s.2 3.5 2 3.5c0-4-1-6 2-11z" fill="currentColor"/>'+e;
+  case "search":return s+'<circle cx="11" cy="11" r="6" '+st+'/><path d="m16 16 4 4" '+st+'/>'+e;
+  case "back":return s+'<path d="m14 6-6 6 6 6" '+st+'/>'+e;
+  case "chev":return s+'<path d="m6 9 6 6 6-6" '+st+'/>'+e;
+  case "chevr":return s+'<path d="m9 6 6 6-6 6" '+st+'/>'+e;
+  case "plus":return s+'<path d="M12 5v14M5 12h14" '+st+'/>'+e;
+  case "check":return s+'<path d="m5 12 4.5 4.5L19 7" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>'+e;
+ }
+ return "";
+}
+
+/* ---------- state ---------- */
+const KEY="lyceum_v1";
+const DEF={onb:false,int:[],skin:"night",lang:null,goal:5,streak:0,last:null,td:{d:null,c:0},read:[],h:[],saved:{},stashes:[{id:"s1",n:""}],total:0,tab:"today",filter:"foryou"};
+function load(){try{const r=localStorage.getItem(KEY);if(r){const o=JSON.parse(r);if(o.likes&&!o.h)o.h=o.likes;return Object.assign(JSON.parse(JSON.stringify(DEF)),o);}}catch(e){}return JSON.parse(JSON.stringify(DEF));}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(S));}catch(e){}}
+let S=load();
+if(!S.lang){const nl=(navigator.language||"en").slice(0,2).toLowerCase();S.lang=(nl==="it"||nl==="es")?nl:"en";}
+function ymd(d){return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
+const TODAY=ymd(new Date()),YEST=ymd(new Date(Date.now()-864e5));
+const countToday=()=>S.td.d===TODAY?S.td.c:0;
+const streakNow=()=>(S.last===TODAY||S.last===YEST)?S.streak:0;
+const byId=id=>CARDS.find(c=>c.id===id);
+const wing=c=>THINKERS[c.t].w;
+const esc=s=>String(s).replace(/[&<>"]/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
+
+/* i18n helpers */
+function T(k,vars){let s=(UI[S.lang]&&UI[S.lang][k]!==undefined)?UI[S.lang][k]:UI.en[k];if(vars)for(const x in vars)s=s.split("{"+x+"}").join(vars[x]);return s;}
+const tn=k=>(TOPN[S.lang]&&TOPN[S.lang][k])||TOPN.en[k];
+function tx(c){const t=L[S.lang]&&L[S.lang][c.id];if(!t)return{h:c.h,b:c.b,d:c.d,s:c.src};return{h:t[0]||c.h,b:t[1]||c.b,d:t[2]||c.d,s:t[3]||c.src};}
+const tname=k=>(TNAME[S.lang]&&TNAME[S.lang][k])||THINKERS[k].n;
+const trole=k=>(TROLE[S.lang]&&TROLE[S.lang][k])||THINKERS[k].r;
+const stashName=s=>s.n||T("myStash");
+function roman(n){const m=[[10,"X"],[9,"IX"],[5,"V"],[4,"IV"],[1,"I"]];let r="";for(const [v,s] of m){while(n>=v){r+=s;n-=v;}}return r;}
+function dateLine(){
+ const d=new Date();
+ if(S.lang==="la"){const days=["Solis","Lunae","Martis","Mercurii","Iovis","Veneris","Saturni"],mons=["Ianuarii","Februarii","Martii","Aprilis","Maii","Iunii","Iulii","Augusti","Septembris","Octobris","Novembris","Decembris"];return "Dies "+days[d.getDay()]+", "+roman(d.getDate())+" "+mons[d.getMonth()];}
+ const loc={it:"it-IT",en:"en-GB",es:"es-ES"}[S.lang]||"en-GB";
+ const s=d.toLocaleDateString(loc,{weekday:"long",day:"numeric",month:"long"});return s.charAt(0).toUpperCase()+s.slice(1);
+}
+
+function seeded(str){let h=2166136261;for(const ch of str){h^=ch.charCodeAt(0);h=Math.imul(h,16777619);}return function(){h+=0x6D2B79F5;let t=h;t=Math.imul(t^t>>>15,t|1);t^=t+Math.imul(t^t>>>7,t|61);return((t^t>>>14)>>>0)/4294967296;};}
+function shuffle(arr,rnd){for(let i=arr.length-1;i>0;i--){const j=Math.floor(rnd()*(i+1));[arr[i],arr[j]]=[arr[j],arr[i]];}return arr;}
+
+/* ---------- ranking: H signals ---------- */
+function affinity(){
+ const tg={},th={};
+ S.h.forEach(id=>{const c=byId(id);if(!c)return;c.tg.forEach(t=>tg[t]=(tg[t]||0)+1);th[c.t]=(th[c.t]||0)+1;});
+ return {tg,th};
+}
+function score(c,aff){
+ let s=0;
+ if(S.filter==="foryou")c.tg.forEach(t=>{if(S.int.includes(t))s+=1;});
+ c.tg.forEach(t=>s+=1.5*(aff.tg[t]||0));
+ s+=2*(aff.th[c.t]||0);
+ if(S.h.includes(c.id))s-=1;
+ if(S.read.includes(c.id))s-=0.5;
+ return s;
+}
+function tunedLabel(){
+ const aff=affinity();
+ const tops=Object.entries(aff.tg).sort((x,y)=>y[1]-x[1]).slice(0,2).map(x=>tn(x[0]));
+ const ths=Object.entries(aff.th).sort((x,y)=>y[1]-x[1]).slice(0,2).map(x=>tname(x[0]));
+ return tops.concat(ths).join(", ");
+}
+
+/* ---------- views ---------- */
+const $=s=>document.querySelector(s);
+let cur={tab:S.tab||"today",list:null};
+let feedN=8;
+let pendingSave=null;
+let toastT=null;
+
+function todayDuo(){const rnd=seeded("duo"+TODAY);return DUOS[Math.floor(rnd()*DUOS.length)];}
+
+function feed(){
+ const rnd=seeded("feed"+TODAY);
+ let cs=CARDS.slice();
+ if(S.filter==="valley")cs=cs.filter(c=>wing(c)==="v");
+ else if(S.filter==="ancients")cs=cs.filter(c=>wing(c)==="a");
+ shuffle(cs,rnd);
+ const aff=affinity();
+ const sc=new Map(cs.map(c=>[c.id,score(c,aff)]));
+ cs.sort((x,y)=>sc.get(y.id)-sc.get(x.id));
+ if(S.filter==="foryou"||S.filter==="all"){
+  const a=cs.filter(c=>wing(c)==="a"),v=cs.filter(c=>wing(c)==="v"),out=[];let i=0;
+  while(a.length||v.length){out.push(i%2===0?(v.shift()||a.shift()):(a.shift()||v.shift()));i++;}
+  cs=out;
+ }
+ return cs;
+}
+
+function cardHTML(c){
+ const t=THINKERS[c.t],w=t.w,x=tx(c),saved=!!S.saved[c.id],hon=S.h.includes(c.id),rd=S.read.includes(c.id);
+ return `<article class="card ${w==="v"?"cv":"ca"}" data-id="${c.id}">
+  <div class="who"><div class="av ${w}">${esc(t.i)}</div><div><div class="nm">${esc(tname(c.t))}</div><div class="rl">${esc(trole(c.t))}</div></div>
+   <div class="meta">${isNew(c)?`<span class="newb">${esc(T("newB"))}</span>`:""}${c.v?`<span class="vchk" title="${esc(T("verified"))}" aria-label="${esc(T("verified"))}">${I("check")}</span>`:""}<div class="era${rd?" read":""}">${esc(c.era)}</div></div></div>
+  <h3 class="h">${esc(x.h)}</h3>
+  <p class="b">${esc(x.b)}</p>
+  <div class="src">${esc(x.s)}</div>
+  <div class="tags">${c.tg.map(k=>`<button class="tg" data-act="topic" data-v="${k}">${esc(tn(k))}</button>`).join("")}</div>
+  <div class="deep"><b>${esc(T("useToday"))}</b>${esc(x.d)}</div>
+  <div class="acts">
+   <button class="ab${saved?" on":""}" data-act="save">${I("bm",saved)}<span>${saved?T("saved"):T("save")}</span></button>
+   <button class="ab${hon?" on":""}" data-act="h" title="${esc(T("hHint"))}"><span class="hg">H</span><span>${hon?T("agreed"):T("agree")}</span></button>
+   <button class="ab" data-act="share">${I("share")}<span>${T("share")}</span></button>
+   <button class="ab deeper" data-act="deeper">${I("chev")}<span>${T("deeper")}</span></button>
+  </div></article>`;
+}
+
+function duoHTML(d,mini){
+ const A=byId(d.a),V=byId(d.v);
+ return `<div class="duo${mini?" mini":""}" data-duo="${d.a}-${d.v}">
+  <div class="duo-h">${mini?T("todayDuo"):T("thenNow")}<em>${esc(tn(d.th))}</em></div>
+  <div class="duo-row">
+   <button class="side then" data-act="openone" data-v="${A.id}"><div class="lbl">${T("then")}</div><div class="sw">${esc(tname(A.t))}</div><div class="si">${esc(tx(A).h)}</div></button>
+   <button class="side now" data-act="openone" data-v="${V.id}"><div class="lbl">${T("now")}</div><div class="sw">${esc(tname(V.t))}</div><div class="si">${esc(tx(V).h)}</div></button>
+   <div class="amp">&amp;</div>
+  </div>
+  <div class="bridge">${esc(d.br[S.lang]||d.br.en)}</div>
+ </div>`;
+}
+
+function renderHeader(){
+ const n=countToday(),g=S.goal,p=Math.min(1,n/g),C=2*Math.PI*15.5;
+ $("#ring").innerHTML=`<svg viewBox="0 0 38 38"><circle class="bgc" cx="19" cy="19" r="15.5"/><circle class="fgc" cx="19" cy="19" r="15.5" stroke-dasharray="${C.toFixed(1)}" stroke-dashoffset="${(C*(1-p)).toFixed(1)}"/></svg><div class="num">${n}</div>`;
+ const sk=streakNow(),st=$("#streak");
+ st.className="streak"+(sk>0?(S.last===TODAY?" hot":" risk"):"");
+ st.innerHTML=I("flame")+`<span>${sk}</span>`;
+ $("#tagline").textContent=T("tag");
+ $("#langs").innerHTML=LANGS.map(([k,l])=>`<button class="lb${S.lang===k?" on":""}" data-act="lang" data-v="${k}">${l}</button>`).join("");
+ document.documentElement.lang=S.lang;
+}
+
+function renderTabs(){
+ const Tb=[["today","today","home"],["explore","explore","explore"],["dialogues","dialogues","duo"],["stash","stash","bm"],["you","you","you"]];
+ const active=cur.tab==="list"?(cur.list.from||"today"):cur.tab;
+ $("#tabs").innerHTML=Tb.map(([k,l,ic])=>`<button class="tab${active===k?" on":""}" data-act="tab" data-v="${k}">${I(ic)}<span>${T(l)}</span></button>`).join("");
+}
+
+function renderToday(){
+ const n=countToday(),g=S.goal,sk=streakNow();
+ const rem=g-n;
+ let line=n>=g?T("goalDone"):(sk>0?T("streakLine",{s:sk,n:rem,ideas:rem===1?T("idea"):T("ideas")}):T("startLine",{g}));
+ const chips=[["foryou","foryou"],["all","all"],["valley","valley"],["ancients","ancients"]];
+ const cs=feed(),show=cs.slice(0,feedN);
+ const tl=tunedLabel();
+ $("#v-today").innerHTML=`${T("laNote")?`<div class="lanote">${esc(T("laNote"))}</div>`:""}<div class="hero"><div class="date">${esc(dateLine())}</div>
+  <div class="goal"><div class="big">${n}<span> ${esc(T("ofIdeas",{g}))}</span></div><div class="txt">${esc(line)}</div></div></div>
+  ${duoHTML(todayDuo(),true)}
+  <div class="chips">${chips.map(([k,l])=>`<button class="chip${S.filter===k?" on":""}" data-act="filter" data-v="${k}">${T(l)}</button>`).join("")}</div>
+  ${tl?`<div class="tuned">${esc(T("tuned",{x:""})).replace(/:\s*\.$/,"")}: <b>${esc(tl)}</b>.</div>`:""}
+  <div id="feed">${show.map(cardHTML).join("")}</div>
+  ${cs.length>feedN?`<button class="btn block" data-act="more">${esc(T("more",{n:Math.min(8,cs.length-feedN)}))}</button>`:`<div class="end">${esc(T("end"))}</div>`}`;
+}
+
+function renderExplore(q){
+ q=(q||"").trim();
+ const v=$("#v-explore");
+ const mode=v.dataset.mode||"thinkers";
+ let body="";
+ if(q){
+  const ql=q.toLowerCase();
+  const hits=CARDS.filter(c=>{const x=tx(c);return (x.h+" "+x.b+" "+c.h+" "+c.b+" "+tname(c.t)+" "+THINKERS[c.t].n+" "+x.s+" "+c.tg.map(k=>tn(k)).join(" ")).toLowerCase().includes(ql);});
+  body=hits.length?hits.slice(0,20).map(cardHTML).join(""):`<div class="empty">${esc(T("noMatch",{q}))}</div>`;
+ }else if(mode==="thinkers"){
+  const tiles=w=>Object.entries(THINKERS).filter(([k,t])=>t.w===w).map(([k,t])=>{const n=CARDS.filter(c=>c.t===k).length;return `<button class="tile" data-act="thinker" data-v="${k}"><div class="av ${t.w}">${t.i}</div><div class="tn">${esc(tname(k))}</div><div class="tc">${n} ${n===1?T("idea"):T("ideas")}</div></button>`;}).join("");
+  body=`<h2 class="sec">${T("valley")}</h2><div class="grid">${tiles("v")}</div><h2 class="sec">${T("ancients")}</h2><div class="grid">${tiles("a")}</div>`;
+ }else{
+  body=TOPICS.map(([k])=>{const n=CARDS.filter(c=>c.tg.includes(k)).length;return `<button class="row" data-act="topic" data-v="${k}"><div><div class="rn">${esc(tn(k))}</div><div class="rc">${n} ${T("ideas")}, ${T("bothEras")}</div></div>${I("chevr")}</button>`;}).join("");
+ }
+ const keep=v.querySelector("#q");
+ const hadFocus=keep&&document.activeElement===keep;
+ v.innerHTML=`<div class="search">${I("search")}<input id="q" type="search" placeholder="${esc(T("searchPh"))}" value="${esc(q)}" autocomplete="off"></div>
+  ${q?"":`<div class="seg"><button class="${mode==="thinkers"?"on":""}" data-act="mode" data-v="thinkers">${T("thinkers")}</button><button class="${mode==="topics"?"on":""}" data-act="mode" data-v="topics">${T("topics")}</button></div>`}
+  <div id="xbody">${body}</div>`;
+ if(hadFocus){const i=v.querySelector("#q");i.focus();i.setSelectionRange(q.length,q.length);}
+}
+
+function renderDialogues(){
+ $("#v-dialogues").innerHTML=`<h2 class="sec">${T("thenNow")}</h2><div class="sub">${esc(T("duoSub"))}</div>
+  <div class="rail" id="rail">${DUOS.map(d=>duoHTML(d,false)).join("")}</div>
+  <div class="dots" id="dots">${DUOS.map((d,i)=>`<i class="${i===0?"on":""}"></i>`).join("")}</div>`;
+ const rail=$("#rail");
+ rail.addEventListener("scroll",()=>{const i=Math.round(rail.scrollLeft/(rail.firstElementChild.offsetWidth+12));document.querySelectorAll("#dots i").forEach((d,k)=>d.classList.toggle("on",k===i));},{passive:true});
+}
+
+function renderStash(){
+ const rows=S.stashes.map(s=>{const n=Object.values(S.saved).filter(x=>x===s.id).length;return `<button class="row" data-act="openstash" data-v="${s.id}"><div><div class="rn">${esc(stashName(s))}</div><div class="rc">${n} ${n===1?T("idea"):T("ideas")}</div></div>${I("chevr")}</button>`;}).join("");
+ const total=Object.keys(S.saved).length;
+ $("#v-stash").innerHTML=`<h2 class="sec">${T("yourStashes")}</h2>
+  ${total?"":`<div class="empty">${esc(T("stashEmpty"))}</div>`}
+  ${rows}
+  <button class="btn block" data-act="newstash">${I("plus")}${T("newStash")}</button>`;
+}
+
+function renderYou(){
+ const sk=streakNow(),tl=tunedLabel(),nv=CARDS.filter(c=>c.v).length;
+ $("#v-you").innerHTML=`<h2 class="sec">${T("progress")}</h2>
+  <div class="stats">
+   <div class="stat"><div class="n">${sk}</div><div class="l">${T("dayStreak")}</div></div>
+   <div class="stat"><div class="n">${S.total}</div><div class="l">${T("ideasRead")}</div></div>
+   <div class="stat"><div class="n">${Object.keys(S.saved).length}</div><div class="l">${T("ideasSaved")}</div></div>
+   <div class="stat"><div class="n">${S.h.length}</div><div class="l">${T("hSignals")}</div></div>
+  </div>
+  <div class="tuned" style="padding-top:10px">${tl?esc(T("tuned",{x:tl})):esc(T("tunedNone"))}</div>
+  <div class="vline"><span class="vchk">${I("check")}</span><span>${esc(T("verifiedCount",{v:nv,n:CARDS.length}))}</span></div>
+  <h2 class="sec">${T("settings")}</h2>
+  <div class="pref"><div><div class="pl">${T("dailyGoal")}</div><div class="ph">${esc(T("dailyGoalHint"))}</div></div><div class="pills">${[3,5,10].map(g=>`<button class="pill${S.goal===g?" on":""}" data-act="goal" data-v="${g}">${g}</button>`).join("")}</div></div>
+  <div class="pref"><div><div class="pl">${T("look")}</div><div class="ph">${esc(T("lookHint"))}</div></div><div class="pills"><button class="pill${S.skin==="night"?" on":""}" data-act="skin" data-v="night">${T("night")}</button><button class="pill${S.skin==="silver"?" on":""}" data-act="skin" data-v="silver">${T("silver")}</button></div></div>
+  <div class="pref"><div><div class="pl">${T("yourTopics")}</div><div class="ph">${S.int.length?esc(S.int.map(k=>tn(k)).join(", ")):esc(T("noneChosen"))}</div></div><button class="btn" data-act="reonboard">${T("changeBtn")}</button></div>
+  <div class="pref"><div><div class="pl">${T("resetT")}</div><div class="ph">${esc(T("resetHint"))}</div></div><button class="btn danger" data-act="reset">${T("reset")}</button></div>
+  <div class="about">${esc(T("about",{n:CARDS.length,t:Object.keys(THINKERS).length,d:DUOS.length}))}</div>`;
+}
+
+function renderList(){
+ const Lw=cur.list;
+ const cs=Lw.ids.map(byId).filter(Boolean);
+ $("#v-list").innerHTML=`<button class="back" data-act="back">${I("back")}<span>${T("back")}</span></button>
+  <h2 class="sec">${esc(Lw.title())}</h2>${Lw.sub?`<div class="sub">${esc(Lw.sub())}</div>`:""}
+  ${cs.length?cs.map(cardHTML).join(""):`<div class="empty">${esc(Lw.empty?Lw.empty():"")}</div>`}`;
+}
+
+function render(scrollTop){
+ document.querySelectorAll(".view").forEach(v=>v.classList.remove("on"));
+ const id={today:"v-today",explore:"v-explore",dialogues:"v-dialogues",stash:"v-stash",you:"v-you",list:"v-list"}[cur.tab];
+ if(cur.tab==="today")renderToday();
+ else if(cur.tab==="explore")renderExplore($("#q")?$("#q").value:"");
+ else if(cur.tab==="dialogues")renderDialogues();
+ else if(cur.tab==="stash")renderStash();
+ else if(cur.tab==="you")renderYou();
+ else renderList();
+ document.getElementById(id).classList.add("on");
+ renderTabs();renderHeader();
+ if(scrollTop!==false)$("#main").scrollTop=0;
+ observe(document.getElementById(id));
+}
+
+function go(tab){cur.tab=tab;S.tab=tab;save();render();}
+function openList(opts){cur.list=Object.assign({from:cur.tab==="list"?cur.list.from:cur.tab},opts);cur.tab="list";render();}
+
+/* ---------- reading, streaks ---------- */
+let IO=null;const timers={};
+function observe(root){
+ if(!("IntersectionObserver" in window))return;
+ if(!IO){IO=new IntersectionObserver(es=>{es.forEach(en=>{const id=en.target.dataset.id;if(!id)return;
+   if(en.intersectionRatio>=0.6){if(!timers[id])timers[id]=setTimeout(()=>{timers[id]=null;markRead(id);},1600);}
+   else if(timers[id]){clearTimeout(timers[id]);timers[id]=null;}});},{root:$("#main"),threshold:[0,0.6,1]});}
+ root.querySelectorAll(".card[data-id]").forEach(el=>IO.observe(el));
+}
+function markRead(id){
+ if(S.read.includes(id))return;
+ S.read.push(id);S.total++;
+ if(S.td.d!==TODAY){S.streak=(S.last===YEST)?S.streak+1:1;S.td={d:TODAY,c:0};S.last=TODAY;}
+ S.td.c++;save();renderHeader();
+ document.querySelectorAll(`.card[data-id="${id}"] .era`).forEach(e=>e.classList.add("read"));
+ if(S.td.c===S.goal)toast(T("goalToast",{s:S.streak}));
+}
+function refreshCard(id){
+ document.querySelectorAll(`.card[data-id="${id}"]`).forEach(el=>{const open=el.classList.contains("open");const tmp=document.createElement("div");tmp.innerHTML=cardHTML(byId(id));const nu=tmp.firstElementChild;if(open)nu.classList.add("open");el.replaceWith(nu);if(IO)IO.observe(nu);});
+}
+
+/* ---------- actions ---------- */
+function toast(msg,action,fn){
+ const t=$("#toast");t.innerHTML=esc(msg)+(action?`<button data-act="toastact">${esc(action)}</button>`:"");t._fn=fn||null;
+ t.classList.add("on");clearTimeout(toastT);toastT=setTimeout(()=>t.classList.remove("on"),action?4200:2200);
+}
+function openSheet(mode,cardId){
+ pendingSave=cardId||null;
+ const curStash=cardId?S.saved[cardId]:null;
+ const list=mode==="pick"?S.stashes.map(s=>`<button class="row${curStash===s.id?" on":""}" data-act="pickstash" data-v="${s.id}"><div><div class="rn">${esc(stashName(s))}</div><div class="rc">${Object.values(S.saved).filter(x=>x===s.id).length} ${T("ideas")}</div></div>${curStash===s.id?I("bm",true):""}</button>`).join(""):"";
+ $("#sheet").innerHTML=`<h3>${mode==="pick"?T("saveTo"):T("newStash")}</h3>${list}
+  <div class="newrow"><input id="ns" placeholder="${esc(mode==="pick"?T("orNew"):T("namePh"))}" maxlength="40"><button class="btn pri" data-act="mkstash">${T("create")}</button></div>`;
+ $("#sheetwrap").classList.add("on");
+ if(mode!=="pick")setTimeout(()=>{const i=$("#ns");if(i)i.focus();},50);
+}
+function closeSheet(){$("#sheetwrap").classList.remove("on");pendingSave=null;}
+function saveTo(cardId,stashId){S.saved[cardId]=stashId;save();refreshCard(cardId);const s=S.stashes.find(x=>x.id===stashId);toast(T("savedTo",{s:stashName(s)}),T("change"),()=>openSheet("pick",cardId));if(cur.tab==="stash")renderStash();}
+function share(c){
+ const x=tx(c);const text=`${x.h} \u2014 ${tname(c.t)}, ${x.s}.\n${x.b}\n(Lyceum)`;
+ if(navigator.share){navigator.share({title:x.h,text}).catch(()=>{});return;}
+ try{navigator.clipboard.writeText(text).then(()=>toast("Copied"),()=>toast("Could not copy"));}catch(e){toast("Could not copy");}
+}
+function reset(){const lang=S.lang,skin=S.skin;localStorage.removeItem(KEY);S=JSON.parse(JSON.stringify(DEF));S.onb=true;S.lang=lang;S.skin=skin;save();feedN=8;go("today");toast(T("cleared"));}
+
+document.getElementById("device").addEventListener("click",e=>{
+ const el=e.target.closest("[data-act]");if(!el)return;
+ const act=el.dataset.act,v=el.dataset.v,card=el.closest(".card"),id=card?card.dataset.id:null;
+ switch(act){
+  case "tab":go(v);break;
+  case "lang":S.lang=v;save();if($("#ob").classList.contains("on"))onboard(!!S.onb);render(false);break;
+  case "filter":S.filter=v;feedN=8;save();renderToday();observe($("#v-today"));break;
+  case "more":feedN+=8;renderToday();observe($("#v-today"));break;
+  case "deeper":card.classList.toggle("open");markRead(id);break;
+  case "save":if(S.saved[id]){delete S.saved[id];save();refreshCard(id);toast(T("removed"));if(cur.tab==="list"&&cur.list.stash){cur.list.ids=cur.list.ids.filter(x=>x!==id);renderList();}}else if(S.stashes.length===1){saveTo(id,S.stashes[0].id);}else{openSheet("pick",id);}break;
+  case "h":{const k=S.h.indexOf(id);if(k>=0)S.h.splice(k,1);else{S.h.push(id);markRead(id);}save();refreshCard(id);break;}
+  case "share":share(byId(id));break;
+  case "topic":openList({title:()=>tn(v),sub:()=>T("bothOnTheme"),ids:CARDS.filter(c=>c.tg.includes(v)).map(c=>c.id)});break;
+  case "thinker":openList({title:()=>tname(v),sub:()=>`${trole(v)}, ${THINKERS[v].y}`,ids:CARDS.filter(c=>c.t===v).map(c=>c.id)});break;
+  case "openone":{const duo=el.closest("[data-duo]");const ids=duo?duo.dataset.duo.split("-"):[v];const first=ids.indexOf(v);if(first>0){ids.splice(first,1);ids.unshift(v);}const d=DUOS.find(x=>ids.includes(x.a)&&ids.includes(x.v));openList({title:()=>d?`${T("thenNow")}: ${tn(d.th)}`:"",sub:()=>d?(d.br[S.lang]||d.br.en):"",ids});break;}
+  case "mode":$("#v-explore").dataset.mode=v;renderExplore("");observe($("#v-explore"));break;
+  case "back":cur.tab=cur.list.from||"today";render();break;
+  case "openstash":{const s=S.stashes.find(x=>x.id===v);openList({title:()=>stashName(s),sub:null,ids:Object.keys(S.saved).filter(k=>S.saved[k]===v),stash:v,empty:()=>T("emptyStash")});break;}
+  case "newstash":openSheet("new");break;
+  case "pickstash":saveTo(pendingSave,v);closeSheet();break;
+  case "mkstash":{const inp=$("#ns"),name=(inp.value||"").trim();if(!name){inp.focus();inp.placeholder=T("giveName");return;}const ns={id:"s"+Date.now(),n:name};S.stashes.push(ns);save();if(pendingSave)saveTo(pendingSave,ns.id);else{toast(T("created",{s:name}));renderStash();}closeSheet();break;}
+  case "goal":S.goal=+v;save();renderYou();renderHeader();break;
+  case "skin":S.skin=v;document.documentElement.dataset.skin=v;save();renderYou();break;
+  case "reonboard":onboard(true);break;
+  case "reset":if(el.dataset.arm){reset();}else{el.dataset.arm="1";el.textContent=T("tapAgain");setTimeout(()=>{el.removeAttribute("data-arm");el.textContent=T("reset");},3000);}break;
+  case "toastact":{const t=$("#toast");t.classList.remove("on");if(t._fn)t._fn();break;}
+  case "obchip":el.classList.toggle("on");break;
+  case "oblang":S.lang=v;save();onboard(!!S.onb);renderHeader();break;
+  case "obstart":{const sel=[...document.querySelectorAll("#ob .chip.on")].map(c=>c.dataset.v);S.int=sel;S.onb=true;S.filter=sel.length?"foryou":"all";save();$("#ob").classList.remove("on");go("today");break;}
+  case "obskip":S.int=[];S.onb=true;S.filter="all";save();$("#ob").classList.remove("on");go("today");break;
+ }
+});
+$("#sheetwrap").addEventListener("click",e=>{if(e.target.id==="sheetwrap")closeSheet();});
+document.getElementById("device").addEventListener("input",e=>{if(e.target.id==="q"){renderExplore(e.target.value);observe($("#v-explore"));}});
+document.getElementById("device").addEventListener("keydown",e=>{if(e.key==="Enter"&&e.target.id==="ns"){const b=$("#sheet [data-act=mkstash]");if(b)b.click();}});
+
+function onboard(again){
+ const sel=again?S.int:[...document.querySelectorAll("#ob .chip.on")].map(c=>c.dataset.v);
+ $("#ob").innerHTML=`<div class="wm">Lyceum</div>
+  <div class="langs" style="border:0;padding:0 0 8px">${LANGS.map(([k,l])=>`<button class="lb${S.lang===k?" on":""}" data-act="oblang" data-v="${k}">${l}</button>`).join("")}</div>
+  <div class="tag">${esc(T("obTag"))}</div>
+  <div class="q">${esc(T("obQ"))}</div>
+  <div class="obchips">${TOPICS.map(([k])=>`<button class="chip${sel.includes(k)?" on":""}" data-act="obchip" data-v="${k}">${esc(tn(k))}</button>`).join("")}</div>
+  <div class="foot"><button class="btn pri block" data-act="obstart">${again?T("saveTopics"):T("start")}</button>${again?"":`<button class="btn block" data-act="obskip">${T("skip")}</button>`}</div>`;
+ $("#ob").classList.add("on");
+}
+
+/* ---------- remote cards (artifact db, written by the curator agent) ---------- */
+const isNew=c=>!!c.added&&(Date.now()-Date.parse(c.added))<72*3600*1000;
+/* ---------- boot ---------- */
+document.documentElement.dataset.skin=S.skin||"night";
+cur.tab=(S.tab&&S.tab!=="list")?S.tab:"today";
+render();
+if(!S.onb)onboard(false);
+</script>
+</body>
+</html>

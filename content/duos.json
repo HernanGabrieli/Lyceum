@@ -1,0 +1,134 @@
+[
+ {
+  "a": "a01",
+  "v": "v01",
+  "th": "focus",
+  "br": {
+   "en": "Seneca counts a life by what it refuses. Jobs counted a company the same way.",
+   "it": "Seneca misura una vita da ciò che rifiuta. Jobs misurava un'azienda allo stesso modo.",
+   "es": "Séneca mide una vida por lo que rechaza. Jobs medía una empresa del mismo modo.",
+   "la": "Seneca vitam ex eo quod recusat metitur; Jobs societatem eodem modo."
+  }
+ },
+ {
+  "a": "a02",
+  "v": "v12",
+  "th": "risk",
+  "br": {
+   "en": "The Stoic pre-mortem and Grove's paranoia are one discipline: see the blow before it lands.",
+   "it": "Il pre-mortem stoico e la paranoia di Grove sono una sola disciplina: vedere il colpo prima che cada.",
+   "es": "El pre-mortem estoico y la paranoia de Grove son una sola disciplina: ver el golpe antes de que caiga.",
+   "la": "Stoica praemeditatio et sollicitudo Grove una disciplina sunt: ictum vide antequam cadat."
+  }
+ },
+ {
+  "a": "a07",
+  "v": "v05",
+  "th": "strategy",
+  "br": {
+   "en": "Sun Tzu wins without fighting. Thiel builds where there is no one to fight.",
+   "it": "Sun Tzu vince senza combattere. Thiel costruisce dove non c'è nessuno da combattere.",
+   "es": "Sun Tzu vence sin luchar. Thiel construye donde no hay nadie contra quien luchar.",
+   "la": "Sun Tzu sine pugna vincit; Thiel aedificat ubi nemo pugnat."
+  }
+ },
+ {
+  "a": "a10",
+  "v": "v09",
+  "th": "leadership",
+  "br": {
+   "en": "Machiavelli's feared-not-hated prince is Horowitz's wartime CEO, five centuries early.",
+   "it": "Il principe di Machiavelli, temuto ma non odiato, è il CEO in tempo di guerra di Horowitz, con cinque secoli di anticipo.",
+   "es": "El príncipe de Maquiavelo, temido pero no odiado, es el CEO en tiempos de guerra de Horowitz, cinco siglos antes.",
+   "la": "Princeps Machiavelli timendus, non odiosus, est dux belli Horowitz, quinque saeculis ante."
+  }
+ },
+ {
+  "a": "a13",
+  "v": "v21",
+  "th": "building",
+  "br": {
+   "en": "Socrates and Blank agree: the facts are not in your head, and the question is the method.",
+   "it": "Socrate e Blank concordano: i fatti non sono nella tua testa, e la domanda è il metodo.",
+   "es": "Sócrates y Blank coinciden: los hechos no están en tu cabeza, y la pregunta es el método.",
+   "la": "Socrates et Blank consentiunt: facta in capite tuo non sunt, et quaestio methodus est."
+  }
+ },
+ {
+  "a": "a03",
+  "v": "v25",
+  "th": "character",
+  "br": {
+   "en": "Marcus turns obstacles into the path. Huang wishes you enough of them to get strong.",
+   "it": "Marco Aurelio trasforma gli ostacoli nella via. Huang te ne augura abbastanza per diventare forte.",
+   "es": "Marco Aurelio convierte los obstáculos en el camino. Huang te desea suficientes para hacerte fuerte.",
+   "la": "Marcus obstacula in viam vertit; Huang tibi satis eorum optat ut fortis fias."
+  }
+ },
+ {
+  "a": "a16",
+  "v": "v23",
+  "th": "leadership",
+  "br": {
+   "en": "Lao Tzu's unseen leader and Campbell's coach both win by disappearing behind their people.",
+   "it": "Il leader invisibile di Lao Tzu e il coach di Campbell vincono entrambi sparendo dietro le loro persone.",
+   "es": "El líder invisible de Lao Tzu y el coach de Campbell ganan ambos desapareciendo detrás de su gente.",
+   "la": "Dux invisus Lao Tzu et magister Campbell ambo vincunt post suos evanescendo."
+  }
+ },
+ {
+  "a": "a18",
+  "v": "v16",
+  "th": "strategy",
+  "br": {
+   "en": "Heraclitus says the river moves. Christensen shows what happens to incumbents who stand still.",
+   "it": "Eraclito dice che il fiume si muove. Christensen mostra cosa accade agli incumbent che restano fermi.",
+   "es": "Heráclito dice que el río se mueve. Christensen muestra lo que les pasa a los incumbentes que se quedan quietos.",
+   "la": "Heraclitus flumen moveri dicit; Christensen ostendit quid veteribus stantibus accidat."
+  }
+ },
+ {
+  "a": "a22",
+  "v": "v24",
+  "th": "money",
+  "br": {
+   "en": "Franklin's compounding coin and Naval's leverage: own what works while you sleep.",
+   "it": "La moneta di Franklin che si compone e la leva di Naval: possiedi ciò che lavora mentre dormi.",
+   "es": "La moneda de Franklin que capitaliza y el apalancamiento de Naval: posee lo que trabaja mientras duermes.",
+   "la": "Nummus Franklin crescens et vectis Naval: possideas quod dormiente te operatur."
+  }
+ },
+ {
+  "a": "a12",
+  "v": "v07",
+  "th": "leadership",
+  "br": {
+   "en": "Aristotle says excellence is the mean. Hoffman says in a land grab the mean loses. Who is right depends on the market.",
+   "it": "Aristotele dice che l'eccellenza è il giusto mezzo. Hoffman dice che nella corsa al territorio il giusto mezzo perde. Chi ha ragione dipende dal mercato.",
+   "es": "Aristóteles dice que la excelencia es el término medio. Hoffman dice que en la carrera por el territorio el término medio pierde. Quién tiene razón depende del mercado.",
+   "la": "Aristoteles: excellentia medium est. Hoffman: in praeda medium perdit. Uter rectus sit, mercatus decernit."
+  }
+ },
+ {
+  "a": "a14",
+  "v": "v14",
+  "th": "character",
+  "br": {
+   "en": "Confucius rectifies names. Bezos distrusts proxies. Both fight the word that replaces the thing.",
+   "it": "Confucio rettifica i nomi. Bezos diffida dei surrogati. Entrambi combattono la parola che sostituisce la cosa.",
+   "es": "Confucio rectifica los nombres. Bezos desconfía de los sustitutos. Ambos combaten la palabra que reemplaza a la cosa.",
+   "la": "Confucius nomina corrigit; Bezos substitutis diffidit. Ambo pugnant contra verbum quod rem supplantat."
+  }
+ },
+ {
+  "a": "a29",
+  "br": {
+   "en": "Clausewitz budgets for friction; Hoffman chooses it on purpose. Both refuse to pretend the plan will survive contact.",
+   "es": "Clausewitz presupuesta la fricción; Hoffman la elige a propósito. Ambos se niegan a fingir que el plan sobrevivirá al contacto.",
+   "it": "Clausewitz mette a budget l'attrito; Hoffman lo sceglie di proposito. Entrambi rifiutano di fingere che il piano sopravviva al contatto.",
+   "la": "Clausewitz frictioni providet; Hoffman eam consulto eligit. Ambo negant consilium contactui superfuturum."
+  },
+  "th": "risk",
+  "v": "v07"
+ }
+]

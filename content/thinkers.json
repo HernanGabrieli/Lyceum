@@ -1,0 +1,531 @@
+{
+ "jobs": {
+  "n": "Steve Jobs",
+  "i": "SJ",
+  "r": "Co-founder, Apple",
+  "w": "v",
+  "y": "1955–2011",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore, Apple",
+   "es": "Cofundador, Apple",
+   "la": "Conditor Apple"
+  }
+ },
+ "graham": {
+  "n": "Paul Graham",
+  "i": "PG",
+  "r": "Co-founder, Y Combinator",
+  "w": "v",
+  "y": "b. 1964",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore, Y Combinator",
+   "es": "Cofundador, Y Combinator",
+   "la": "Conditor Y Combinator"
+  }
+ },
+ "thiel": {
+  "n": "Peter Thiel",
+  "i": "PT",
+  "r": "Co-founder, PayPal and Palantir",
+  "w": "v",
+  "y": "b. 1967",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore, PayPal e Palantir",
+   "es": "Cofundador, PayPal y Palantir",
+   "la": "Conditor PayPal et Palantir"
+  }
+ },
+ "hoffman": {
+  "n": "Reid Hoffman",
+  "i": "RH",
+  "r": "Co-founder, LinkedIn",
+  "w": "v",
+  "y": "b. 1967",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore, LinkedIn",
+   "es": "Cofundador, LinkedIn",
+   "la": "Conditor LinkedIn"
+  }
+ },
+ "horowitz": {
+  "n": "Ben Horowitz",
+  "i": "BH",
+  "r": "Co-founder, Andreessen Horowitz",
+  "w": "v",
+  "y": "b. 1966",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore, Andreessen Horowitz",
+   "es": "Cofundador, Andreessen Horowitz",
+   "la": "Conditor Andreessen Horowitz"
+  }
+ },
+ "andreessen": {
+  "n": "Marc Andreessen",
+  "i": "MA",
+  "r": "Co-founder, Netscape and a16z",
+  "w": "v",
+  "y": "b. 1971",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore, Netscape e a16z",
+   "es": "Cofundador, Netscape y a16z",
+   "la": "Conditor Netscape et a16z"
+  }
+ },
+ "grove": {
+  "n": "Andy Grove",
+  "i": "AG",
+  "r": "CEO, Intel",
+  "w": "v",
+  "y": "1936–2016",
+  "names": {},
+  "roles": {
+   "it": "CEO, Intel",
+   "es": "CEO, Intel",
+   "la": "Praefectus Intel"
+  }
+ },
+ "bezos": {
+  "n": "Jeff Bezos",
+  "i": "JB",
+  "r": "Founder, Amazon",
+  "w": "v",
+  "y": "b. 1964",
+  "names": {},
+  "roles": {
+   "it": "Fondatore, Amazon",
+   "es": "Fundador, Amazon",
+   "la": "Conditor Amazon"
+  }
+ },
+ "christensen": {
+  "n": "Clayton Christensen",
+  "i": "CC",
+  "r": "Harvard Business School",
+  "w": "v",
+  "y": "1952–2020",
+  "names": {},
+  "roles": {
+   "it": "Harvard Business School",
+   "es": "Harvard Business School",
+   "la": "Schola negotiorum Harvardiana"
+  }
+ },
+ "drucker": {
+  "n": "Peter Drucker",
+  "i": "PD",
+  "r": "Management theorist",
+  "w": "v",
+  "y": "1909–2005",
+  "names": {},
+  "roles": {
+   "it": "Teorico del management",
+   "es": "Teórico del management",
+   "la": "Doctor administrationis"
+  }
+ },
+ "collins": {
+  "n": "Jim Collins",
+  "i": "JC",
+  "r": "Author, Good to Great",
+  "w": "v",
+  "y": "b. 1958",
+  "names": {},
+  "roles": {
+   "it": "Autore, Good to Great",
+   "es": "Autor, Good to Great",
+   "la": "Auctor, Good to Great"
+  }
+ },
+ "ries": {
+  "n": "Eric Ries",
+  "i": "ER",
+  "r": "Author, The Lean Startup",
+  "w": "v",
+  "y": "b. 1978",
+  "names": {},
+  "roles": {
+   "it": "Autore, The Lean Startup",
+   "es": "Autor, The Lean Startup",
+   "la": "Auctor, The Lean Startup"
+  }
+ },
+ "blank": {
+  "n": "Steve Blank",
+  "i": "SB",
+  "r": "Customer-development pioneer",
+  "w": "v",
+  "y": "b. 1953",
+  "names": {},
+  "roles": {
+   "it": "Pioniere del customer development",
+   "es": "Pionero del customer development",
+   "la": "Auctor inventionis clientium"
+  }
+ },
+ "doerr": {
+  "n": "John Doerr",
+  "i": "JD",
+  "r": "Chairman, Kleiner Perkins",
+  "w": "v",
+  "y": "b. 1951",
+  "names": {},
+  "roles": {
+   "it": "Presidente, Kleiner Perkins",
+   "es": "Presidente, Kleiner Perkins",
+   "la": "Praeses Kleiner Perkins"
+  }
+ },
+ "campbell": {
+  "n": "Bill Campbell",
+  "i": "BC",
+  "r": "Coach to Apple and Google",
+  "w": "v",
+  "y": "1940–2016",
+  "names": {},
+  "roles": {
+   "it": "Coach di Apple e Google",
+   "es": "Coach de Apple y Google",
+   "la": "Magister Apple et Google"
+  }
+ },
+ "naval": {
+  "n": "Naval Ravikant",
+  "i": "NR",
+  "r": "Co-founder, AngelList",
+  "w": "v",
+  "y": "b. 1974",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore, AngelList",
+   "es": "Cofundador, AngelList",
+   "la": "Conditor AngelList"
+  }
+ },
+ "huang": {
+  "n": "Jensen Huang",
+  "i": "JH",
+  "r": "Co-founder and CEO, NVIDIA",
+  "w": "v",
+  "y": "b. 1963",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore e CEO, NVIDIA",
+   "es": "Cofundador y CEO, NVIDIA",
+   "la": "Conditor et praefectus NVIDIA"
+  }
+ },
+ "musk": {
+  "n": "Elon Musk",
+  "i": "EM",
+  "r": "Founder, SpaceX and Tesla",
+  "w": "v",
+  "y": "b. 1971",
+  "names": {},
+  "roles": {
+   "it": "Fondatore, SpaceX e Tesla",
+   "es": "Fundador, SpaceX y Tesla",
+   "la": "Conditor SpaceX et Tesla"
+  }
+ },
+ "seneca": {
+  "n": "Seneca",
+  "i": "S",
+  "r": "Stoic statesman, Rome",
+  "w": "a",
+  "y": "c. 4 BC–65 AD",
+  "names": {
+   "es": "Séneca"
+  },
+  "roles": {
+   "it": "Statista stoico, Roma",
+   "es": "Estadista estoico, Roma",
+   "la": "Stoicus et senator, Roma"
+  }
+ },
+ "marcus": {
+  "n": "Marcus Aurelius",
+  "i": "MA",
+  "r": "Emperor and Stoic, Rome",
+  "w": "a",
+  "y": "121–180",
+  "names": {
+   "it": "Marco Aurelio",
+   "es": "Marco Aurelio"
+  },
+  "roles": {
+   "it": "Imperatore e stoico, Roma",
+   "es": "Emperador y estoico, Roma",
+   "la": "Imperator et Stoicus, Roma"
+  }
+ },
+ "epictetus": {
+  "n": "Epictetus",
+  "i": "E",
+  "r": "Stoic teacher, former slave",
+  "w": "a",
+  "y": "c. 50–135",
+  "names": {
+   "it": "Epitteto",
+   "es": "Epicteto"
+  },
+  "roles": {
+   "it": "Maestro stoico, ex schiavo",
+   "es": "Maestro estoico, antiguo esclavo",
+   "la": "Magister Stoicus, olim servus"
+  }
+ },
+ "suntzu": {
+  "n": "Sun Tzu",
+  "i": "ST",
+  "r": "General and strategist, China",
+  "w": "a",
+  "y": "c. 5th century BC",
+  "names": {},
+  "roles": {
+   "it": "Generale e stratega, Cina",
+   "es": "General y estratega, China",
+   "la": "Dux et strategus, Sina"
+  }
+ },
+ "machiavelli": {
+  "n": "Niccolò Machiavelli",
+  "i": "NM",
+  "r": "Diplomat, Florence",
+  "w": "a",
+  "y": "1469–1527",
+  "names": {
+   "es": "Nicolás Maquiavelo",
+   "la": "Nicolaus Machiavellus"
+  },
+  "roles": {
+   "it": "Diplomatico, Firenze",
+   "es": "Diplomático, Florencia",
+   "la": "Legatus, Florentia"
+  }
+ },
+ "aristotle": {
+  "n": "Aristotle",
+  "i": "A",
+  "r": "Philosopher, Athens",
+  "w": "a",
+  "y": "384–322 BC",
+  "names": {
+   "it": "Aristotele",
+   "es": "Aristóteles",
+   "la": "Aristoteles"
+  },
+  "roles": {
+   "it": "Filosofo, Atene",
+   "es": "Filósofo, Atenas",
+   "la": "Philosophus, Athenae"
+  }
+ },
+ "socrates": {
+  "n": "Socrates",
+  "i": "S",
+  "r": "Philosopher, Athens",
+  "w": "a",
+  "y": "c. 470–399 BC",
+  "names": {
+   "it": "Socrate",
+   "es": "Sócrates"
+  },
+  "roles": {
+   "it": "Filosofo, Atene",
+   "es": "Filósofo, Atenas",
+   "la": "Philosophus, Athenae"
+  }
+ },
+ "confucius": {
+  "n": "Confucius",
+  "i": "C",
+  "r": "Teacher and statesman, China",
+  "w": "a",
+  "y": "551–479 BC",
+  "names": {
+   "it": "Confucio",
+   "es": "Confucio"
+  },
+  "roles": {
+   "it": "Maestro e statista, Cina",
+   "es": "Maestro y estadista, China",
+   "la": "Magister et vir publicus, Sina"
+  }
+ },
+ "laotzu": {
+  "n": "Lao Tzu",
+  "i": "LT",
+  "r": "Taoist sage, China",
+  "w": "a",
+  "y": "c. 6th century BC",
+  "names": {},
+  "roles": {
+   "it": "Saggio taoista, Cina",
+   "es": "Sabio taoísta, China",
+   "la": "Sapiens Taoista, Sina"
+  }
+ },
+ "heraclitus": {
+  "n": "Heraclitus",
+  "i": "H",
+  "r": "Philosopher, Ephesus",
+  "w": "a",
+  "y": "c. 535–475 BC",
+  "names": {
+   "it": "Eraclito",
+   "es": "Heráclito"
+  },
+  "roles": {
+   "it": "Filosofo, Efeso",
+   "es": "Filósofo, Éfeso",
+   "la": "Philosophus, Ephesus"
+  }
+ },
+ "montaigne": {
+  "n": "Michel de Montaigne",
+  "i": "MM",
+  "r": "Essayist, France",
+  "w": "a",
+  "y": "1533–1592",
+  "names": {
+   "la": "Michael Montanus"
+  },
+  "roles": {
+   "it": "Saggista, Francia",
+   "es": "Ensayista, Francia",
+   "la": "Scriptor, Gallia"
+  }
+ },
+ "smith": {
+  "n": "Adam Smith",
+  "i": "AS",
+  "r": "Moral philosopher, Scotland",
+  "w": "a",
+  "y": "1723–1790",
+  "names": {},
+  "roles": {
+   "it": "Filosofo morale, Scozia",
+   "es": "Filósofo moral, Escocia",
+   "la": "Philosophus moralis, Scotia"
+  }
+ },
+ "franklin": {
+  "n": "Benjamin Franklin",
+  "i": "BF",
+  "r": "Printer, scientist, statesman",
+  "w": "a",
+  "y": "1706–1790",
+  "names": {},
+  "roles": {
+   "it": "Tipografo, scienziato, statista",
+   "es": "Impresor, científico, estadista",
+   "la": "Typographus, physicus, vir publicus"
+  }
+ },
+ "musashi": {
+  "n": "Miyamoto Musashi",
+  "i": "MM",
+  "r": "Swordsman, Japan",
+  "w": "a",
+  "y": "c. 1584–1645",
+  "names": {},
+  "roles": {
+   "it": "Spadaccino, Giappone",
+   "es": "Espadachín, Japón",
+   "la": "Gladiator, Iaponia"
+  }
+ },
+ "thucydides": {
+  "n": "Thucydides",
+  "i": "T",
+  "r": "Historian and general, Athens",
+  "w": "a",
+  "y": "c. 460–400 BC",
+  "names": {
+   "it": "Tucidide",
+   "es": "Tucídides"
+  },
+  "roles": {
+   "it": "Storico e generale, Atene",
+   "es": "Historiador y general, Atenas",
+   "la": "Historicus et dux, Athenae"
+  }
+ },
+ "cicero": {
+  "n": "Cicero",
+  "i": "C",
+  "r": "Orator and statesman, Rome",
+  "w": "a",
+  "y": "106–43 BC",
+  "names": {
+   "it": "Cicerone",
+   "es": "Cicerón"
+  },
+  "roles": {
+   "it": "Oratore e statista, Roma",
+   "es": "Orador y estadista, Roma",
+   "la": "Orator et consul, Roma"
+  }
+ },
+ "bacon": {
+  "n": "Francis Bacon",
+  "i": "FB",
+  "r": "Philosopher and statesman, England",
+  "w": "a",
+  "y": "1561–1626",
+  "names": {
+   "it": "Francesco Bacone",
+   "la": "Franciscus Baco"
+  },
+  "roles": {
+   "it": "Filosofo e statista, Inghilterra",
+   "es": "Filósofo y estadista, Inglaterra",
+   "la": "Philosophus et vir publicus, Anglia"
+  }
+ },
+ "gracian": {
+  "n": "Baltasar Gracián",
+  "i": "BG",
+  "r": "Jesuit writer, Spain",
+  "w": "a",
+  "y": "1601–1658",
+  "names": {},
+  "roles": {
+   "it": "Scrittore gesuita, Spagna",
+   "es": "Escritor jesuita, España",
+   "la": "Scriptor Iesuita, Hispania"
+  }
+ },
+ "clausewitz": {
+  "n": "Carl von Clausewitz",
+  "i": "CvC",
+  "r": "Prussian general and theorist",
+  "w": "a",
+  "y": "1780–1831",
+  "names": {},
+  "roles": {
+   "es": "General y teórico prusiano",
+   "it": "Generale e teorico prussiano",
+   "la": "Dux et scriptor Borussicus"
+  }
+ },
+ "chesky": {
+  "n": "Brian Chesky",
+  "i": "BC",
+  "r": "Co-founder and CEO, Airbnb",
+  "w": "v",
+  "y": "b. 1981",
+  "names": {},
+  "roles": {
+   "es": "Cofundador y CEO, Airbnb",
+   "it": "Co-fondatore e CEO, Airbnb",
+   "la": "Conditor et praefectus Airbnb"
+  }
+ }
+}

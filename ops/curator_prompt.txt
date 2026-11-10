@@ -1,0 +1,5 @@
+Run the lyceum-curator skill from this repository (read .claude/skills/lyceum-curator/SKILL.md and follow it exactly).
+One batch of 10 new cards: 5 Valley and 5 Ancients, EN/IT/ES in full and Latin title only.
+Inventory content/ first so no idea or id is repeated. Verify every source with a web search; set v:true only with a confirmed source_url.
+Save the batch under content/batches/, run scripts/validate_batch.py, then scripts/merge_batch.py, then commit.
+Finish with the 10-line report. If anything fails, stop, do not commit, and say what failed.
