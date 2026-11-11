@@ -663,5 +663,138 @@
    "es": "Filósofo político, Francia",
    "la": "Philosophus politicus, Gallia"
   }
+ },
+ "buffett": {
+  "n": "Warren Buffett",
+  "i": "WB",
+  "r": "Chairman, Berkshire Hathaway",
+  "w": "v",
+  "y": "b. 1930",
+  "names": {},
+  "roles": {
+   "it": "Presidente, Berkshire Hathaway",
+   "es": "Presidente, Berkshire Hathaway",
+   "la": "Praeses Berkshire Hathaway"
+  }
+ },
+ "munger": {
+  "n": "Charlie Munger",
+  "i": "CM",
+  "r": "Vice-Chairman, Berkshire Hathaway",
+  "w": "v",
+  "y": "1924–2023",
+  "names": {},
+  "roles": {
+   "it": "Vicepresidente, Berkshire Hathaway",
+   "es": "Vicepresidente, Berkshire Hathaway",
+   "la": "Pro-praeses Berkshire Hathaway"
+  }
+ },
+ "porter": {
+  "n": "Michael Porter",
+  "i": "MP",
+  "r": "Harvard Business School",
+  "w": "v",
+  "y": "b. 1947",
+  "names": {},
+  "roles": {
+   "it": "Harvard Business School",
+   "es": "Harvard Business School",
+   "la": "Schola negotiorum Harvardiana"
+  }
+ },
+ "deming": {
+  "n": "W. Edwards Deming",
+  "i": "WD",
+  "r": "Engineer and management thinker",
+  "w": "v",
+  "y": "1900–1993",
+  "names": {},
+  "roles": {
+   "it": "Ingegnere e teorico del management",
+   "es": "Ingeniero y teórico del management",
+   "la": "Machinator et doctor administrationis"
+  }
+ },
+ "hsieh": {
+  "n": "Tony Hsieh",
+  "i": "TH",
+  "r": "CEO, Zappos",
+  "w": "v",
+  "y": "1973–2020",
+  "names": {},
+  "roles": {
+   "it": "CEO, Zappos",
+   "es": "CEO, Zappos",
+   "la": "Praefectus Zappos"
+  }
+ },
+ "mencius": {
+  "n": "Mencius",
+  "i": "M",
+  "r": "Confucian philosopher, China",
+  "w": "a",
+  "y": "c. 372–289 BC",
+  "names": {
+   "it": "Mencio",
+   "es": "Mencio"
+  },
+  "roles": {
+   "it": "Filosofo confuciano, Cina",
+   "es": "Filósofo confuciano, China",
+   "la": "Philosophus Confucianus, Sina"
+  }
+ },
+ "pascal": {
+  "n": "Blaise Pascal",
+  "i": "BP",
+  "r": "Mathematician and philosopher, France",
+  "w": "a",
+  "y": "1623–1662",
+  "names": {},
+  "roles": {
+   "it": "Matematico e filosofo, Francia",
+   "es": "Matemático y filósofo, Francia",
+   "la": "Mathematicus et philosophus, Gallia"
+  }
+ },
+ "hume": {
+  "n": "David Hume",
+  "i": "DH",
+  "r": "Philosopher, Scotland",
+  "w": "a",
+  "y": "1711–1776",
+  "names": {},
+  "roles": {
+   "it": "Filosofo, Scozia",
+   "es": "Filósofo, Escocia",
+   "la": "Philosophus, Scotia"
+  }
+ },
+ "guicciardini": {
+  "n": "Francesco Guicciardini",
+  "i": "FG",
+  "r": "Historian and statesman, Florence",
+  "w": "a",
+  "y": "1483–1540",
+  "names": {},
+  "roles": {
+   "it": "Storico e statista, Firenze",
+   "es": "Historiador y estadista, Florencia",
+   "la": "Historicus et vir publicus, Florentia"
+  }
+ },
+ "larochefoucauld": {
+  "n": "François de La Rochefoucauld",
+  "i": "LR",
+  "r": "Moralist, France",
+  "w": "a",
+  "y": "1613–1680",
+  "names": {},
+  "roles": {
+   "it": "Moralista, Francia",
+   "es": "Moralista, Francia",
+   "la": "Scriptor moralis, Gallia"
+  }
  }
 }

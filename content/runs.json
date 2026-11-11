@@ -40,5 +40,36 @@
    "a34": "https://plato.stanford.edu/entries/montesquieu/"
   },
   "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Xenophon/Nadella, Ibn Khaldun/Helmer)"
+ },
+ {
+  "at": "2026-11-11T01:08:44Z",
+  "batch": "2026-11-11-02",
+  "by": "lyceum-curator",
+  "ids": [
+   "v33",
+   "v34",
+   "v35",
+   "v36",
+   "v37",
+   "a35",
+   "a36",
+   "a37",
+   "a38",
+   "a39"
+  ],
+  "verified": 10,
+  "sources": {
+   "v33": "https://en.wikipedia.org/wiki/Circle_of_competence",
+   "v34": "https://mungerarchive.com/mental-models/inversion/",
+   "v35": "https://hbr.org/1996/11/what-is-strategy",
+   "v36": "https://en.wikipedia.org/wiki/W._Edwards_Deming",
+   "v37": "https://en.wikipedia.org/wiki/Delivering_Happiness",
+   "a35": "https://iep.utm.edu/mencius/",
+   "a36": "https://en.wikipedia.org/wiki/Pens%C3%A9es",
+   "a37": "https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature",
+   "a38": "https://en.wikipedia.org/wiki/Francesco_Guicciardini",
+   "a39": "https://www.gutenberg.org/files/9105/9105-h/9105-h.htm"
+  },
+  "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Mencius/Horowitz leadership, Guicciardini/Bezos risk)"
  }
 ]

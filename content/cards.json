@@ -2159,5 +2159,345 @@
   },
   "added": "2026-11-11T12:00:00Z",
   "batch": "2026-11-11-01"
+ },
+ {
+  "id": "v33",
+  "t": "buffett",
+  "era": "1996",
+  "src": "Berkshire Hathaway shareholder letter, 1996",
+  "h": "Stay inside your circle of competence.",
+  "b": "Buffett and Munger judge opportunities by whether they fall inside a circle of competence: the set of businesses they understand well enough to value. The circle need not be large, they argue, but knowing its edge is everything. Most costly errors come not from low ability but from acting confidently just outside the boundary.",
+  "d": "Draw the edge of your circle before the next big decision. If the opportunity sits outside it, either pass or widen the circle first, deliberately.",
+  "tg": [
+   "money",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Circle_of_competence",
+  "tr": {
+   "it": [
+    "Resta dentro il tuo cerchio di competenza.",
+    "Buffett e Munger valutano le opportunità in base al fatto che rientrino in un cerchio di competenza: l'insieme delle attività che capiscono abbastanza da saperle valutare. Il cerchio non deve essere grande, sostengono, ma conoscerne il confine è tutto. Gli errori più costosi non nascono da scarsa capacità, ma dall'agire con sicurezza appena fuori dal confine.",
+    "Traccia il confine del tuo cerchio prima della prossima decisione importante. Se l'opportunità sta fuori, rinuncia o allarga prima il cerchio, con intenzione.",
+    "Lettera agli azionisti Berkshire Hathaway, 1996"
+   ],
+   "es": [
+    "Permanece dentro de tu círculo de competencia.",
+    "Buffett y Munger evalúan las oportunidades según si caen dentro de un círculo de competencia: el conjunto de negocios que entienden lo bastante para valorarlos. El círculo no tiene que ser grande, sostienen, pero conocer su límite lo es todo. Los errores más costosos no nacen de poca capacidad, sino de actuar con confianza justo fuera del límite.",
+    "Traza el límite de tu círculo antes de la próxima decisión importante. Si la oportunidad queda fuera, renuncia o amplía antes el círculo, de forma deliberada.",
+    "Carta a los accionistas de Berkshire Hathaway, 1996"
+   ],
+   "la": [
+    "Intra fines peritiae tuae mane."
+   ]
+  },
+  "added": "2026-11-11T13:00:00Z",
+  "batch": "2026-11-11-02"
+ },
+ {
+  "id": "v34",
+  "t": "munger",
+  "era": "2005",
+  "src": "Poor Charlie's Almanack, 2005",
+  "h": "Invert, always invert.",
+  "b": "Munger borrowed from the mathematician Jacobi a habit of solving problems backward: instead of asking how to succeed, ask what would guarantee failure, then avoid it. Much of his edge, he said, came from consistently sidestepping stupidity rather than seeking brilliance. Describing the disaster you must prevent is often clearer than describing the triumph you want.",
+  "d": "For your next plan, list everything that would make it fail. Then spend your effort removing those causes before chasing upside.",
+  "tg": [
+   "strategy",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://mungerarchive.com/mental-models/inversion/",
+  "tr": {
+   "it": [
+    "Inverti, sempre inverti.",
+    "Munger prese dal matematico Jacobi l'abitudine di risolvere i problemi all'indietro: invece di chiederti come riuscire, chiediti cosa garantirebbe il fallimento, e poi evitalo. Gran parte del suo vantaggio, diceva, veniva dall'evitare con costanza la stupidità più che dal cercare la genialità. Descrivere il disastro da impedire è spesso più chiaro che descrivere il trionfo che desideri.",
+    "Per il tuo prossimo piano, elenca tutto ciò che lo farebbe fallire. Poi spendi le energie a rimuovere quelle cause prima di inseguire i vantaggi.",
+    "Poor Charlie's Almanack, 2005"
+   ],
+   "es": [
+    "Invierte, siempre invierte.",
+    "Munger tomó del matemático Jacobi el hábito de resolver los problemas al revés: en vez de preguntar cómo tener éxito, pregunta qué garantizaría el fracaso y luego evítalo. Gran parte de su ventaja, decía, venía de esquivar con constancia la estupidez más que de buscar la brillantez. Describir el desastre que debes evitar suele ser más claro que describir el triunfo que quieres.",
+    "Para tu próximo plan, enumera todo lo que lo haría fracasar. Luego dedica tu esfuerzo a eliminar esas causas antes de perseguir las ganancias.",
+    "Poor Charlie's Almanack, 2005"
+   ],
+   "la": [
+    "Inverte, semper inverte."
+   ]
+  },
+  "added": "2026-11-11T13:00:00Z",
+  "batch": "2026-11-11-02"
+ },
+ {
+  "id": "v35",
+  "t": "porter",
+  "era": "1996",
+  "src": "What Is Strategy?, Harvard Business Review, 1996",
+  "h": "Being better is not a strategy; being different is.",
+  "b": "Porter warned that managers confuse operational effectiveness, doing the same activities better than rivals, with strategy, doing different activities or the same ones differently. Efficiency gains spread quickly and competitors converge, so they rarely yield lasting advantage. Real strategy means choosing a distinct position and accepting the trade-offs that make it hard to imitate.",
+  "d": "List what you do differently from every rival. If the answer is only 'better,' you have operations, not a strategy; design a trade-off.",
+  "tg": [
+   "strategy",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://hbr.org/1996/11/what-is-strategy",
+  "tr": {
+   "it": [
+    "Fare meglio non è una strategia; fare diverso lo è.",
+    "Porter avvertì che i manager confondono l'efficacia operativa, fare le stesse attività meglio dei rivali, con la strategia, fare attività diverse o le stesse in modo diverso. I guadagni di efficienza si diffondono in fretta e i concorrenti convergono, perciò raramente danno un vantaggio duraturo. La vera strategia è scegliere una posizione distinta e accettare i compromessi che la rendono difficile da imitare.",
+    "Elenca cosa fai diversamente da ogni rivale. Se la risposta è solo 'meglio', hai operazioni, non una strategia; progetta un compromesso.",
+    "What Is Strategy?, Harvard Business Review, 1996"
+   ],
+   "es": [
+    "Hacerlo mejor no es una estrategia; hacerlo distinto sí.",
+    "Porter advirtió que los directivos confunden la eficacia operativa, hacer las mismas actividades mejor que los rivales, con la estrategia, hacer actividades distintas o las mismas de otra manera. Las mejoras de eficiencia se difunden rápido y los competidores convergen, así que rara vez dan una ventaja duradera. La verdadera estrategia es elegir una posición distinta y aceptar las renuncias que la hacen difícil de imitar.",
+    "Enumera qué haces distinto de cada rival. Si la respuesta es solo 'mejor', tienes operaciones, no una estrategia; diseña una renuncia.",
+    "What Is Strategy?, Harvard Business Review, 1996"
+   ],
+   "la": [
+    "Melius facere non est consilium; aliter facere est."
+   ]
+  },
+  "added": "2026-11-11T13:00:00Z",
+  "batch": "2026-11-11-02"
+ },
+ {
+  "id": "v36",
+  "t": "deming",
+  "era": "1982",
+  "src": "Out of the Crisis, 1982",
+  "h": "Most failures are the system's, not the worker's.",
+  "b": "Deming taught that the great majority of performance problems come from the system a worker operates within, not from individual effort or will. Blaming people for outcomes the process makes inevitable destroys morale and fixes nothing. The manager's job is to work on the system, since only those who own it can change it.",
+  "d": "Before blaming a person for a bad result, ask what in the process allowed it. Fix the system you control, not the individual.",
+  "tg": [
+   "building",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/W._Edwards_Deming",
+  "tr": {
+   "it": [
+    "La maggior parte dei difetti è del sistema, non del lavoratore.",
+    "Deming insegnava che la grande maggioranza dei problemi di performance nasce dal sistema in cui una persona opera, non dallo sforzo o dalla volontà individuale. Incolpare le persone per esiti che il processo rende inevitabili distrugge il morale e non risolve nulla. Il compito del manager è lavorare sul sistema, perché solo chi lo possiede può cambiarlo.",
+    "Prima di incolpare una persona per un cattivo risultato, chiediti cosa, nel processo, lo ha permesso. Sistema ciò che controlli, non l'individuo.",
+    "Out of the Crisis, 1982"
+   ],
+   "es": [
+    "La mayoría de los fallos son del sistema, no del trabajador.",
+    "Deming enseñaba que la gran mayoría de los problemas de desempeño nace del sistema en que una persona opera, no del esfuerzo ni la voluntad individual. Culpar a las personas por resultados que el proceso vuelve inevitables destruye la moral y no arregla nada. La tarea del directivo es trabajar sobre el sistema, porque solo quien lo posee puede cambiarlo.",
+    "Antes de culpar a una persona por un mal resultado, pregunta qué, en el proceso, lo permitió. Arregla el sistema que controlas, no al individuo.",
+    "Out of the Crisis, 1982"
+   ],
+   "la": [
+    "Plurima vitia systematis sunt, non operarii."
+   ]
+  },
+  "added": "2026-11-11T13:00:00Z",
+  "batch": "2026-11-11-02"
+ },
+ {
+  "id": "v37",
+  "t": "hsieh",
+  "era": "2010",
+  "src": "Delivering Happiness, 2010",
+  "h": "Your culture is your brand.",
+  "b": "Building Zappos, Hsieh argued that a company cannot directly control its brand, only its culture; the brand is merely a lagging reflection of how people inside actually behave. So he invested in culture first, even paying new hires to quit if they did not fit, trusting that service and reputation would follow from who remained.",
+  "d": "Write the behaviours you want customers to experience. Then check whether your hiring and firing actually select for them. Culture is what you tolerate.",
+  "tg": [
+   "leadership",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Delivering_Happiness",
+  "tr": {
+   "it": [
+    "La tua cultura è il tuo marchio.",
+    "Costruendo Zappos, Hsieh sostenne che un'azienda non può controllare direttamente il proprio marchio, ma solo la propria cultura; il marchio è soltanto il riflesso ritardato di come le persone dentro si comportano davvero. Perciò investì prima nella cultura, pagando persino i nuovi assunti perché se ne andassero se non erano adatti, confidando che servizio e reputazione sarebbero seguiti da chi restava.",
+    "Scrivi i comportamenti che vuoi far vivere ai clienti. Poi verifica se le tue assunzioni e i tuoi licenziamenti li selezionano davvero. La cultura è ciò che tolleri.",
+    "Delivering Happiness, 2010"
+   ],
+   "es": [
+    "Tu cultura es tu marca.",
+    "Construyendo Zappos, Hsieh sostuvo que una empresa no puede controlar directamente su marca, solo su cultura; la marca es apenas el reflejo con retraso de cómo se comporta de verdad la gente de dentro. Por eso invirtió primero en la cultura, pagando incluso a los nuevos empleados por marcharse si no encajaban, confiando en que el servicio y la reputación surgirían de quienes se quedaban.",
+    "Escribe los comportamientos que quieres que vivan tus clientes. Luego comprueba si tus contrataciones y despidos los seleccionan de verdad. La cultura es lo que toleras.",
+    "Delivering Happiness, 2010"
+   ],
+   "la": [
+    "Cultura tua nomen tuum est."
+   ]
+  },
+  "added": "2026-11-11T13:00:00Z",
+  "batch": "2026-11-11-02"
+ },
+ {
+  "id": "a35",
+  "t": "mencius",
+  "era": "c. 300 BC",
+  "src": "Mencius (Mengzi), c. 300 BC",
+  "h": "The people are the most precious; the ruler, the least.",
+  "b": "Mencius ranked the constituents of a state bluntly: the people come first, the altars of land and grain second, the ruler last. A sovereign who loses the people's hearts forfeits the mandate to rule, and may rightly be replaced. Legitimacy, he held, flows upward from those governed, not downward from the throne.",
+  "d": "Measure any leadership decision by its effect on the people lowest in the structure. Lose their trust and your formal authority is already hollow.",
+  "tg": [
+   "power",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://iep.utm.edu/mencius/",
+  "tr": {
+   "it": [
+    "Il popolo è la cosa più preziosa; il sovrano la meno.",
+    "Mencio ordinò senza giri di parole le componenti di uno Stato: prima viene il popolo, poi gli altari della terra e del grano, infine il sovrano. Un re che perde il cuore del popolo perde il mandato a governare, e può legittimamente essere sostituito. La legittimità, sosteneva, sale dal basso, da chi è governato, non scende dal trono.",
+    "Misura ogni decisione di leadership dai suoi effetti sulle persone più in basso nella struttura. Perdi la loro fiducia e la tua autorità formale è già vuota.",
+    "Mencio (Mengzi), c. 300 a.C."
+   ],
+   "es": [
+    "El pueblo es lo más precioso; el gobernante, lo menos.",
+    "Mencio ordenó sin rodeos los componentes de un Estado: primero el pueblo, luego los altares de la tierra y el grano, y por último el gobernante. Un soberano que pierde el corazón del pueblo pierde el mandato para gobernar, y puede ser legítimamente reemplazado. La legitimidad, sostenía, asciende desde abajo, desde los gobernados, no desciende del trono.",
+    "Mide cada decisión de liderazgo por su efecto en las personas más abajo en la estructura. Pierde su confianza y tu autoridad formal ya está hueca.",
+    "Mencio (Mengzi), c. 300 a. C."
+   ],
+   "la": [
+    "Populus pretiosissimus, princeps vilissimus."
+   ]
+  },
+  "added": "2026-11-11T13:00:00Z",
+  "batch": "2026-11-11-02"
+ },
+ {
+  "id": "a36",
+  "t": "pascal",
+  "era": "1670",
+  "src": "Pensées, 1670",
+  "h": "Much misery comes from not sitting still in a room.",
+  "b": "Pascal observed that much of human unhappiness comes from a single thing: not knowing how to stay quietly at rest in a room. Unable to bear stillness, people chase diversion, risk and noise, mistaking agitation for life. He wrote this three centuries before the screen, yet the restlessness he described, and the distraction we reach for to escape it, is exactly the same.",
+  "d": "Block thirty minutes with no screen, no task and no plan. Learn to stay in the room; the discomfort you feel is the habit worth breaking.",
+  "tg": [
+   "focus",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Pens%C3%A9es",
+  "tr": {
+   "it": [
+    "Molta infelicità nasce dal non saper stare fermi in una stanza.",
+    "Pascal osservò che gran parte dell'infelicità umana nasce da una sola cosa: non saper restare tranquilli e fermi in una stanza. Incapaci di sopportare la quiete, gli uomini inseguono svago, rischio e rumore, scambiando l'agitazione per vita. Lo scrisse tre secoli prima dello schermo, eppure l'inquietudine che descrisse, e la distrazione con cui cerchiamo di sfuggirle, è esattamente la stessa.",
+    "Blocca trenta minuti senza schermo, senza compiti e senza programma. Impara a restare nella stanza; il disagio che senti è l'abitudine da spezzare.",
+    "Pensieri, 1670"
+   ],
+   "es": [
+    "Mucha desdicha nace de no saber quedarse quieto en una habitación.",
+    "Pascal observó que gran parte de la infelicidad humana nace de una sola cosa: no saber quedarse tranquilo y quieto en una habitación. Incapaces de soportar la quietud, los hombres persiguen distracción, riesgo y ruido, confundiendo la agitación con la vida. Lo escribió tres siglos antes de la pantalla, y sin embargo la inquietud que describió, y la distracción con que intentamos huir de ella, es exactamente la misma.",
+    "Reserva treinta minutos sin pantalla, sin tareas y sin plan. Aprende a quedarte en la habitación; la incomodidad que sientes es el hábito que vale la pena romper.",
+    "Pensamientos, 1670"
+   ],
+   "la": [
+    "Mala ex eo quod in cubiculo quiescere nescimus."
+   ]
+  },
+  "added": "2026-11-11T13:00:00Z",
+  "batch": "2026-11-11-02"
+ },
+ {
+  "id": "a37",
+  "t": "hume",
+  "era": "1739",
+  "src": "A Treatise of Human Nature, 1739",
+  "h": "Reason is the slave of the passions.",
+  "b": "Hume argued that reason alone never moves us to act; it only maps means to ends that desire has already chosen. Reason is, and ought to be, the slave of the passions, serving goals it cannot set. We decide by feeling and then recruit arguments to justify the choice, rarely the reverse.",
+  "d": "In your next proposal, name the emotion driving each side before debating the data. The feelings decide; the figures only ratify.",
+  "tg": [
+   "character",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature",
+  "tr": {
+   "it": [
+    "La ragione è schiava delle passioni.",
+    "Hume sosteneva che la ragione da sola non ci spinge mai ad agire; si limita a collegare i mezzi a fini che il desiderio ha già scelto. La ragione è, e deve essere, schiava delle passioni, al servizio di scopi che non può fissare. Decidiamo per sentimento e poi arruoliamo argomenti per giustificare la scelta, di rado il contrario.",
+    "Nella tua prossima proposta, nomina l'emozione che guida ciascuna parte prima di discutere i dati. I sentimenti decidono; i numeri si limitano a ratificare.",
+    "Trattato sulla natura umana, 1739"
+   ],
+   "es": [
+    "La razón es esclava de las pasiones.",
+    "Hume sostenía que la razón por sí sola nunca nos mueve a actuar; solo conecta los medios con fines que el deseo ya ha elegido. La razón es, y debe ser, esclava de las pasiones, al servicio de metas que no puede fijar. Decidimos por sentimiento y luego reclutamos argumentos para justificar la elección, rara vez al revés.",
+    "En tu próxima propuesta, nombra la emoción que impulsa a cada parte antes de discutir los datos. Los sentimientos deciden; las cifras solo ratifican.",
+    "Tratado de la naturaleza humana, 1739"
+   ],
+   "la": [
+    "Ratio servus affectuum est."
+   ]
+  },
+  "added": "2026-11-11T13:00:00Z",
+  "batch": "2026-11-11-02"
+ },
+ {
+  "id": "a38",
+  "t": "guicciardini",
+  "era": "c. 1530",
+  "src": "Ricordi, c. 1530",
+  "h": "Distrust general rules; judge each case on its own.",
+  "b": "Guicciardini, a Florentine statesman, warned against governing by maxims and universal rules, since affairs differ in their particulars and almost no rule fits every case. What matters is discretion: the trained judgment that reads the specific situation. Those who act from fixed principle alone, he observed, are regularly undone by the exception.",
+  "d": "Before applying a best practice, ask how this case differs from the one that produced the rule. Let the difference adjust the action.",
+  "tg": [
+   "risk",
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Francesco_Guicciardini",
+  "tr": {
+   "it": [
+    "Diffida delle regole generali; giudica ogni caso a sé.",
+    "Guicciardini, uomo di Stato fiorentino, metteva in guardia dal governare per massime e regole universali, perché le cose differiscono nei particolari e quasi nessuna regola vale per ogni caso. Ciò che conta è la discrezione: il giudizio esercitato che legge la situazione specifica. Chi agisce solo per principio fisso, osservava, è regolarmente rovinato dall'eccezione.",
+    "Prima di applicare una buona prassi, chiediti in cosa questo caso differisce da quello che ha generato la regola. Lascia che la differenza corregga l'azione.",
+    "Ricordi, c. 1530"
+   ],
+   "es": [
+    "Desconfía de las reglas generales; juzga cada caso por sí mismo.",
+    "Guicciardini, estadista florentino, advirtió contra gobernar por máximas y reglas universales, pues los asuntos difieren en sus particulares y casi ninguna regla vale para todos los casos. Lo que importa es la discreción: el juicio adiestrado que lee la situación concreta. Quienes actúan solo por principio fijo, observó, son derrotados una y otra vez por la excepción.",
+    "Antes de aplicar una buena práctica, pregúntate en qué difiere este caso del que produjo la regla. Deja que la diferencia ajuste la acción.",
+    "Ricordi, c. 1530"
+   ],
+   "la": [
+    "Diffide regulis; singula ex se iudica."
+   ]
+  },
+  "added": "2026-11-11T13:00:00Z",
+  "batch": "2026-11-11-02"
+ },
+ {
+  "id": "a39",
+  "t": "larochefoucauld",
+  "era": "1665",
+  "src": "Maxims, 1665",
+  "h": "Self-interest wears the mask of virtue.",
+  "b": "La Rochefoucauld, a disillusioned nobleman, collected maxims arguing that self-love hides beneath our noblest-seeming acts: generosity courts gratitude, humility seeks praise, and candour often serves our own designs. He did not deny virtue but demanded we examine the motive under it. Seeing the self-interest in others, and in yourself, is a defence against being managed.",
+  "d": "When someone's generosity surprises you, ask quietly what it buys them. Apply the same question to your own most virtuous-feeling decision this week.",
+  "tg": [
+   "character",
+   "power"
+  ],
+  "v": true,
+  "source_url": "https://www.gutenberg.org/files/9105/9105-h/9105-h.htm",
+  "tr": {
+   "it": [
+    "L'interesse personale indossa la maschera della virtù.",
+    "La Rochefoucauld, nobile disincantato, raccolse massime per sostenere che l'amor proprio si nasconde sotto i nostri atti più nobili in apparenza: la generosità corteggia la gratitudine, l'umiltà cerca la lode, e la franchezza spesso serve i nostri disegni. Non negava la virtù, ma esigeva di esaminarne il movente. Vedere l'interesse negli altri, e in te stesso, è una difesa contro chi ti manovra.",
+    "Quando la generosità di qualcuno ti sorprende, chiediti in silenzio cosa gli frutta. Applica la stessa domanda alla tua decisione più virtuosa in apparenza di questa settimana.",
+    "Massime, 1665"
+   ],
+   "es": [
+    "El interés propio lleva la máscara de la virtud.",
+    "La Rochefoucauld, un noble desengañado, reunió máximas para sostener que el amor propio se esconde bajo nuestros actos de apariencia más noble: la generosidad corteja la gratitud, la humildad busca el elogio, y la franqueza a menudo sirve a nuestros propios planes. No negaba la virtud, pero exigía examinar el motivo que la sostiene. Ver el interés propio en los demás, y en ti mismo, es una defensa contra quien te maneja.",
+    "Cuando la generosidad de alguien te sorprenda, pregúntate en silencio qué le reporta. Aplica la misma pregunta a tu decisión de apariencia más virtuosa de esta semana.",
+    "Máximas, 1665"
+   ],
+   "la": [
+    "Virtutes nostrae saepe vitia larvata sunt."
+   ]
+  },
+  "added": "2026-11-11T13:00:00Z",
+  "batch": "2026-11-11-02"
  }
 ]

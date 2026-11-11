@@ -152,5 +152,27 @@
    "es": "Ibn Khaldun dice que todo dominio decae cuando el bienestar erosiona la solidaridad; Helmer dice que solo una barrera que los rivales no pueden cruzar lo mantiene. La tensión es si el declive puede contrarrestarse por diseño.",
    "la": "Ibn Khaldun: omne imperium luxu solvitur; Helmer: solum obex insuperabilis id servat. Utrum declinatio arte vinci possit, quaeritur."
   }
+ },
+ {
+  "a": "a35",
+  "v": "v10",
+  "th": "leadership",
+  "br": {
+   "en": "Mencius ranks the people above the ruler; Horowitz ranks people above products and profits. Across two millennia both warn that a structure survives on the loyalty of those at its base, not the authority at its top.",
+   "it": "Mencio mette il popolo sopra il sovrano; Horowitz mette le persone sopra i prodotti e i profitti. A duemila anni di distanza entrambi avvertono che una struttura si regge sulla lealtà di chi sta alla base, non sull'autorità al vertice.",
+   "es": "Mencio pone al pueblo por encima del gobernante; Horowitz pone a las personas por encima de los productos y los beneficios. A dos mil años de distancia, ambos advierten que una estructura se sostiene por la lealtad de quienes están en la base, no por la autoridad de la cima.",
+   "la": "Mencius populum supra principem ponit; Horowitz homines supra opera et lucra."
+  }
+ },
+ {
+  "a": "a38",
+  "v": "v15",
+  "th": "risk",
+  "br": {
+   "en": "Guicciardini distrusts all general rules; Bezos offers one, sorting decisions into one-way and two-way doors. The tension is productive: Bezos speeds judgment with a rule, while Guicciardini warns that the next case may be the exception the rule did not foresee.",
+   "it": "Guicciardini diffida di ogni regola generale; Bezos ne propone una, dividendo le decisioni in porte a senso unico e a due vie. La tensione è feconda: Bezos accelera il giudizio con una regola, mentre Guicciardini avverte che il prossimo caso potrebbe essere l'eccezione che la regola non ha previsto.",
+   "es": "Guicciardini desconfía de toda regla general; Bezos ofrece una, clasificando las decisiones en puertas de un solo sentido y de doble sentido. La tensión es fecunda: Bezos acelera el juicio con una regla, mientras Guicciardini advierte que el próximo caso puede ser la excepción que la regla no previó.",
+   "la": "Guicciardini regulis diffidit; Bezos unam dat, ianuas distinguens. Uter rectus sit, casus docebit."
+  }
  }
 ]
