@@ -174,5 +174,27 @@
    "es": "Guicciardini desconfía de toda regla general; Bezos ofrece una, clasificando las decisiones en puertas de un solo sentido y de doble sentido. La tensión es fecunda: Bezos acelera el juicio con una regla, mientras Guicciardini advierte que el próximo caso puede ser la excepción que la regla no previó.",
    "la": "Guicciardini regulis diffidit; Bezos unam dat, ianuas distinguens. Uter rectus sit, casus docebit."
   }
+ },
+ {
+  "a": "a44",
+  "v": "v40",
+  "th": "character",
+  "br": {
+   "en": "Mill says you barely understand a view until you have faced its strongest critic; Catmull built the Braintrust so every film would face exactly that. Both treat candid opposition not as an attack but as the only way an idea earns your confidence.",
+   "it": "Mill dice che capisci davvero un'idea solo dopo aver affrontato il suo critico più forte; Catmull creò il Braintrust perché ogni film affrontasse proprio questo. Entrambi trattano l'opposizione schietta non come un attacco, ma come l'unico modo in cui un'idea guadagna la tua fiducia.",
+   "es": "Mill dice que apenas entiendes una idea hasta enfrentar a su crítico más fuerte; Catmull creó el Braintrust para que cada película enfrentara justamente eso. Ambos tratan la oposición franca no como un ataque, sino como la única manera en que una idea se gana tu confianza.",
+   "la": "Mill: sententiam vix tenes nisi fortissimum adversarium tuleris; Catmull Braintrust condidit ut omnis pellicula hoc ferret. Ambo candidam oppositionem non ut impetum, sed ut fidei viam habent."
+  }
+ },
+ {
+  "a": "a43",
+  "v": "v08",
+  "th": "risk",
+  "br": {
+   "en": "Hoffman tells you to ship before you are proud of it; Erasmus tells you to make haste slowly. The tension is useful: speed wins markets, but the step that is expensive to reverse is the one that deserves the anchor.",
+   "it": "Hoffman ti dice di lanciare prima di esserne orgoglioso; Erasmus ti dice di affrettarti lentamente. La tensione è utile: la velocità conquista i mercati, ma il passo costoso da invertire è quello che merita l'ancora.",
+   "es": "Hoffman te dice que lances antes de estar orgulloso; Erasmo te dice que te apresures despacio. La tensión es útil: la velocidad conquista mercados, pero el paso caro de revertir es el que merece el ancla.",
+   "la": "Hoffman statim emittere iubet; Erasmus festinare lente. Ubi lapsus irreparabilis, mora regat; alibi, celeritas."
+  }
  }
 ]

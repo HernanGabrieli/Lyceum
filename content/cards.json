@@ -2499,5 +2499,343 @@
   },
   "added": "2026-11-11T13:00:00Z",
   "batch": "2026-11-11-02"
+ },
+ {
+  "id": "v38",
+  "t": "collison",
+  "era": "2019",
+  "src": "We Need a New Science of Progress, The Atlantic, 2019",
+  "h": "Study progress itself, not only its results.",
+  "b": "In 2019 Collison and the economist Tyler Cowen called for Progress Studies: a discipline that asks why some people, firms and nations generate lasting improvement while others stagnate, then turns the answers into practice. We pour effort into measuring outcomes, they argued, and almost none into understanding the engine that produces them.",
+  "d": "Take one capability your team gained by luck. Study exactly why it worked, write it up, and turn the accident into a method you can repeat.",
+  "tg": [
+   "building",
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Progress_studies",
+  "tr": {
+   "it": [
+    "Studia il progresso stesso, non solo i suoi risultati.",
+    "Nel 2019 Collison e l'economista Tyler Cowen invocarono i Progress Studies: una disciplina che chiede perché certe persone, aziende e nazioni generano miglioramento duraturo mentre altre ristagnano, e poi traduce le risposte in pratica. Riversiamo enorme sforzo nel misurare gli esiti, sostennero, e quasi nulla nel capire il motore che li produce.",
+    "Prendi una capacità che il tuo team ha acquisito per fortuna. Studia esattamente perché ha funzionato, mettila per iscritto e trasforma il caso in un metodo ripetibile.",
+    "We Need a New Science of Progress, The Atlantic, 2019"
+   ],
+   "es": [
+    "Estudia el progreso mismo, no solo sus resultados.",
+    "En 2019 Collison y el economista Tyler Cowen reclamaron los Progress Studies: una disciplina que pregunta por qué ciertas personas, empresas y naciones generan mejora duradera mientras otras se estancan, y luego convierte las respuestas en práctica. Volcamos un enorme esfuerzo en medir los resultados, sostuvieron, y casi ninguno en entender el motor que los produce.",
+    "Toma una capacidad que tu equipo ganó por suerte. Estudia exactamente por qué funcionó, escríbela y convierte el accidente en un método que puedas repetir.",
+    "We Need a New Science of Progress, The Atlantic, 2019"
+   ],
+   "la": [
+    "Ipsum progressum stude, non solum fructus."
+   ]
+  },
+  "added": "2026-11-11T14:00:00Z",
+  "batch": "2026-11-11-03"
+ },
+ {
+  "id": "v39",
+  "t": "altman",
+  "era": "2019",
+  "src": "How to Be Successful, 2019",
+  "h": "A hard startup is easier than an easy one.",
+  "b": "Altman noticed a paradox: an ambitious, important company is often easier to build than a derivative one. Big missions attract talent, capital and attention that incremental ideas cannot, while easy markets fill with identical rivals. The difficulty that scares most founders away is exactly what clears the field and pulls the best people toward you.",
+  "d": "When two ideas are viable, test whether the bolder one is actually easier to staff and fund. Ambition is often a recruiting and fundraising advantage.",
+  "tg": [
+   "building",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://blog.samaltman.com/how-to-be-successful",
+  "tr": {
+   "it": [
+    "Un'impresa difficile è più facile di una facile.",
+    "Altman notò un paradosso: un'azienda ambiziosa e importante è spesso più facile da costruire di una derivativa. Le grandi missioni attraggono talento, capitale e attenzione che le idee incrementali non ottengono, mentre i mercati facili si riempiono di rivali identici. La difficoltà che spaventa la maggior parte dei fondatori è proprio ciò che sgombra il campo e attira verso di te le persone migliori.",
+    "Quando due idee sono valide, verifica se quella più audace è in realtà più facile da finanziare e da coprire con il personale. L'ambizione è spesso un vantaggio nel reclutare e nel raccogliere capitali.",
+    "How to Be Successful, 2019"
+   ],
+   "es": [
+    "Una empresa difícil es más fácil que una fácil.",
+    "Altman notó una paradoja: una empresa ambiciosa e importante suele ser más fácil de construir que una derivativa. Las grandes misiones atraen talento, capital y atención que las ideas incrementales no logran, mientras los mercados fáciles se llenan de rivales idénticos. La dificultad que ahuyenta a la mayoría de los fundadores es justo lo que despeja el campo y atrae hacia ti a las mejores personas.",
+    "Cuando dos ideas son viables, comprueba si la más audaz es en realidad más fácil de financiar y de dotar de personal. La ambición suele ser una ventaja para reclutar y captar capital.",
+    "How to Be Successful, 2019"
+   ],
+   "la": [
+    "Ardua inceptio facilior quam facilis."
+   ]
+  },
+  "added": "2026-11-11T14:00:00Z",
+  "batch": "2026-11-11-03"
+ },
+ {
+  "id": "v40",
+  "t": "catmull",
+  "era": "2014",
+  "src": "Creativity, Inc., 2014",
+  "h": "Give candid feedback real power by stripping it of authority.",
+  "b": "At Pixar, Catmull convened a Braintrust: trusted peers who tear into an unfinished film with complete candor, yet hold no power to dictate changes. Because the director owns every decision, defensiveness falls away and honesty flows. Early work, he said, is an ugly baby, fragile and unformed; expose it to candid critique before you fall in love with its flaws.",
+  "d": "Convene a group of peers to critique an early draft with full candor, but let the owner keep every decision. Separate honesty from authority.",
+  "tg": [
+   "leadership",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://stvp.stanford.edu/clips/inside-the-braintrust",
+  "tr": {
+   "it": [
+    "Dai vero potere al feedback schietto togliendogli l'autorità.",
+    "Alla Pixar, Catmull riuniva un Braintrust: colleghi fidati che fanno a pezzi un film incompiuto con totale franchezza, ma senza alcun potere di imporre modifiche. Poiché il regista possiede ogni decisione, la difensività svanisce e l'onestà scorre. Il lavoro iniziale, diceva, è un brutto anatroccolo, fragile e informe; esponilo alla critica schietta prima di innamorarti dei suoi difetti.",
+    "Riunisci un gruppo di pari perché critichi una prima bozza con piena franchezza, ma lascia all'autore ogni decisione. Separa l'onestà dall'autorità.",
+    "Creativity, Inc., 2014"
+   ],
+   "es": [
+    "Da verdadero poder a la crítica franca quitándole la autoridad.",
+    "En Pixar, Catmull reunía un Braintrust: colegas de confianza que despedazan una película inacabada con total franqueza, pero sin poder alguno para imponer cambios. Como el director es dueño de cada decisión, la actitud defensiva se desvanece y fluye la honestidad. El trabajo temprano, decía, es un patito feo, frágil e informe; exponlo a la crítica franca antes de enamorarte de sus defectos.",
+    "Reúne a un grupo de pares para criticar un primer borrador con plena franqueza, pero deja al autor cada decisión. Separa la honestidad de la autoridad.",
+    "Creativity, Inc., 2014"
+   ],
+   "la": [
+    "Candori vim da, potestatem aufer."
+   ]
+  },
+  "added": "2026-11-11T14:00:00Z",
+  "batch": "2026-11-11-03"
+ },
+ {
+  "id": "v41",
+  "t": "benioff",
+  "era": "2009",
+  "src": "Behind the Cloud, 2009",
+  "h": "Build giving into the company from the first day.",
+  "b": "Founding Salesforce, Benioff embedded philanthropy in the structure with the 1-1-1 model: pledge one percent of equity, one percent of product and one percent of employee time to the community from the start. Because the commitment grows automatically with the company, generosity never waits for a profitable year that keeps being postponed.",
+  "d": "Set aside a fixed small percentage of equity, product or time for a cause now, while the numbers are tiny, so the habit scales with you.",
+  "tg": [
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://ssir.org/articles/entry/disrupting_corporate_philanthropy",
+  "tr": {
+   "it": [
+    "Integra la generosità nell'azienda fin dal primo giorno.",
+    "Fondando Salesforce, Benioff integrò la filantropia nella struttura con il modello 1-1-1: destinare alla comunità l'uno per cento del capitale, l'uno per cento del prodotto e l'uno per cento del tempo dei dipendenti fin dall'inizio. Poiché l'impegno cresce in automatico con l'azienda, la generosità non attende mai un anno redditizio che continua a essere rimandato.",
+    "Metti da parte ora una piccola percentuale fissa di capitale, prodotto o tempo per una causa, mentre i numeri sono minimi, così l'abitudine cresce con te.",
+    "Behind the Cloud, 2009"
+   ],
+   "es": [
+    "Integra la generosidad en la empresa desde el primer día.",
+    "Al fundar Salesforce, Benioff integró la filantropía en la estructura con el modelo 1-1-1: destinar a la comunidad el uno por ciento del capital, el uno por ciento del producto y el uno por ciento del tiempo de los empleados desde el inicio. Como el compromiso crece automáticamente con la empresa, la generosidad nunca espera a un año rentable que se sigue aplazando.",
+    "Aparta ahora un pequeño porcentaje fijo de capital, producto o tiempo para una causa, mientras las cifras son mínimas, para que el hábito crezca contigo.",
+    "Behind the Cloud, 2009"
+   ],
+   "la": [
+    "Largitionem ab initio in societatem insere."
+   ]
+  },
+  "added": "2026-11-11T14:00:00Z",
+  "batch": "2026-11-11-03"
+ },
+ {
+  "id": "v42",
+  "t": "slootman",
+  "era": "2022",
+  "src": "Amp It Up, 2022",
+  "h": "Companies stall on tempo, not on strategy.",
+  "b": "Leading Snowflake, Slootman argued that most organisations underperform not because their strategy is wrong but because their standards are too low, their focus too wide and their pace too slow. Urgency, he insisted, is a choice a leader makes, not a condition they inherit. Raising expectations and shortening every timeline is itself the intervention, available immediately and for free.",
+  "d": "Take one deadline this week and cut it in half. Treat the new tempo as a decision, not a thing to negotiate with the team.",
+  "tg": [
+   "leadership",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Frank_Slootman",
+  "tr": {
+   "it": [
+    "Le aziende si bloccano sul ritmo, non sulla strategia.",
+    "Alla guida di Snowflake, Slootman sostenne che la maggior parte delle organizzazioni rende poco non perché la strategia sia sbagliata, ma perché i loro standard sono troppo bassi, il focus troppo ampio e il passo troppo lento. L'urgenza, insisteva, è una scelta che il leader compie, non una condizione che eredita. Alzare le aspettative e accorciare ogni scadenza è di per sé l'intervento, disponibile subito e gratis.",
+    "Prendi una scadenza di questa settimana e dimezzala. Tratta il nuovo ritmo come una decisione, non come qualcosa da negoziare con il team.",
+    "Amp It Up, 2022"
+   ],
+   "es": [
+    "Las empresas se estancan por el ritmo, no por la estrategia.",
+    "Al frente de Snowflake, Slootman sostuvo que la mayoría de las organizaciones rinden poco no porque su estrategia sea errónea, sino porque sus estándares son demasiado bajos, su foco demasiado amplio y su paso demasiado lento. La urgencia, insistía, es una elección que hace el líder, no una condición que hereda. Subir las expectativas y acortar cada plazo es en sí mismo la intervención, disponible al instante y gratis.",
+    "Toma un plazo de esta semana y redúcelo a la mitad. Trata el nuevo ritmo como una decisión, no como algo que negociar con el equipo.",
+    "Amp It Up, 2022"
+   ],
+   "la": [
+    "Societates tarditate, non consilio, haerent."
+   ]
+  },
+  "added": "2026-11-11T14:00:00Z",
+  "batch": "2026-11-11-03"
+ },
+ {
+  "id": "a40",
+  "t": "plato",
+  "era": "c. 375 BC",
+  "src": "Republic, c. 375 BC",
+  "h": "Character is what you do when no one can see.",
+  "b": "In the Republic, Glaucon imagines a ring that makes its wearer invisible and asks whether anyone, freed from all consequence, would still act justly. Plato answers that the man who seizes whatever the ring permits becomes a slave to his appetites, while the one who restrains himself stays free. Justice is not a performance for onlookers; it is the order of a healthy soul.",
+  "d": "Audit one practice your company keeps only because customers or regulators are watching. If it would change the moment no one looked, fix the practice, not the optics.",
+  "tg": [
+   "character",
+   "power"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Ring_of_Gyges",
+  "tr": {
+   "it": [
+    "Il carattere è ciò che fai quando nessuno può vederti.",
+    "Nella Repubblica, Glaucone immagina un anello che rende invisibile chi lo porta e chiede se qualcuno, libero da ogni conseguenza, agirebbe ancora con giustizia. Platone risponde che chi afferra tutto ciò che l'anello permette diventa schiavo dei propri appetiti, mentre chi si trattiene resta libero. La giustizia non è una recita per spettatori; è l'ordine di un'anima sana.",
+    "Esamina una prassi che la tua azienda mantiene solo perché clienti o autorità stanno guardando. Se cambierebbe nel momento in cui nessuno osserva, correggi la prassi, non l'immagine.",
+    "La Repubblica, c. 375 a.C."
+   ],
+   "es": [
+    "El carácter es lo que haces cuando nadie puede verte.",
+    "En la República, Glaucón imagina un anillo que vuelve invisible a quien lo lleva y pregunta si alguien, libre de toda consecuencia, seguiría actuando con justicia. Platón responde que quien toma todo lo que el anillo permite se vuelve esclavo de sus apetitos, mientras que quien se contiene permanece libre. La justicia no es una función para espectadores; es el orden de un alma sana.",
+    "Examina una práctica que tu empresa mantiene solo porque clientes o reguladores están mirando. Si cambiaría en cuanto nadie observara, corrige la práctica, no la imagen.",
+    "La República, c. 375 a. C."
+   ],
+   "la": [
+    "Mores sunt quod facis cum nemo videt."
+   ]
+  },
+  "added": "2026-11-11T14:00:00Z",
+  "batch": "2026-11-11-03"
+ },
+ {
+  "id": "a41",
+  "t": "hobbes",
+  "era": "1651",
+  "src": "Leviathan, 1651",
+  "h": "Without a shared authority, cooperation collapses into conflict.",
+  "b": "Hobbes argued that people without a common power to hold them in awe fall into a war of all against all, where no venture, trade or trust can last. There is no injustice, only force and fear. His remedy is a sovereign everyone agrees to obey. The lesson endures: cooperation at scale needs an accepted authority and enforceable rules, not merely goodwill.",
+  "d": "Before trusting a partnership to good intentions, define the authority and rules that settle disputes. Shared enforcement, not mutual hope, is what lets cooperation scale.",
+  "tg": [
+   "power",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/State_of_nature",
+  "tr": {
+   "it": [
+    "Senza un'autorità condivisa, la cooperazione crolla nel conflitto.",
+    "Hobbes sostenne che gli uomini privi di un potere comune che li tenga in soggezione precipitano in una guerra di tutti contro tutti, dove nessuna impresa, scambio o fiducia può durare. Non c'è ingiustizia, solo forza e paura. Il suo rimedio è un sovrano che tutti si accordano a obbedire. La lezione resta: la cooperazione su larga scala esige un'autorità accettata e regole applicabili, non la sola buona volontà.",
+    "Prima di affidare una partnership alle buone intenzioni, definisci l'autorità e le regole che risolvono le dispute. È l'applicazione condivisa, non la speranza reciproca, a far crescere la cooperazione.",
+    "Leviatano, 1651"
+   ],
+   "es": [
+    "Sin una autoridad compartida, la cooperación se derrumba en conflicto.",
+    "Hobbes sostuvo que los hombres sin un poder común que los mantenga a raya caen en una guerra de todos contra todos, donde ninguna empresa, intercambio o confianza puede durar. No hay injusticia, solo fuerza y miedo. Su remedio es un soberano al que todos acuerdan obedecer. La lección permanece: la cooperación a gran escala exige una autoridad aceptada y reglas aplicables, no solo buena voluntad.",
+    "Antes de confiar una alianza a las buenas intenciones, define la autoridad y las reglas que zanjan las disputas. Es la aplicación compartida, no la esperanza mutua, lo que hace crecer la cooperación.",
+    "Leviatán, 1651"
+   ],
+   "la": [
+    "Sine communi potestate concordia in bellum ruit."
+   ]
+  },
+  "added": "2026-11-11T14:00:00Z",
+  "batch": "2026-11-11-03"
+ },
+ {
+  "id": "a42",
+  "t": "aquinas",
+  "era": "c. 1270",
+  "src": "Summa Theologiae, c. 1270",
+  "h": "A fair price trades value for value.",
+  "b": "Aquinas held that a sale is just when the price matches the worth of the thing, and unjust when a seller exploits a buyer's ignorance or urgent need to charge more. The price need not be exact to the coin, he allowed, but it must preserve rough equality. Durable commerce rests on exchanges where neither side is quietly plundered.",
+  "d": "Review one deal where a customer's ignorance or urgency lets you charge far above value. Ask whether the extra margin is worth the trust it quietly spends.",
+  "tg": [
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Just_price",
+  "tr": {
+   "it": [
+    "Un prezzo giusto scambia valore con valore.",
+    "Tommaso d'Aquino riteneva che una vendita sia giusta quando il prezzo corrisponde al valore della cosa, e ingiusta quando il venditore sfrutta l'ignoranza o il bisogno urgente dell'acquirente per chiedere di più. Il prezzo non deve essere esatto al centesimo, concedeva, ma deve preservare una rozza uguaglianza. Il commercio duraturo si regge su scambi in cui nessuna delle due parti viene silenziosamente depredata.",
+    "Rivedi un affare in cui l'ignoranza o l'urgenza del cliente ti permette di chiedere molto più del valore. Chiediti se il margine extra vale la fiducia che spende in silenzio.",
+    "Summa Theologiae, c. 1270"
+   ],
+   "es": [
+    "Un precio justo intercambia valor por valor.",
+    "Tomás de Aquino sostenía que una venta es justa cuando el precio corresponde al valor de la cosa, e injusta cuando el vendedor explota la ignorancia o la necesidad urgente del comprador para cobrar más. El precio no tiene que ser exacto a la moneda, admitía, pero debe preservar una igualdad aproximada. El comercio duradero se sostiene sobre intercambios en los que ninguna de las partes es saqueada en silencio.",
+    "Revisa un trato en el que la ignorancia o la urgencia del cliente te permite cobrar muy por encima del valor. Pregúntate si el margen extra vale la confianza que gasta en silencio.",
+    "Summa Theologiae, c. 1270"
+   ],
+   "la": [
+    "Iustum pretium rem pretio aequat."
+   ]
+  },
+  "added": "2026-11-11T14:00:00Z",
+  "batch": "2026-11-11-03"
+ },
+ {
+  "id": "a43",
+  "t": "erasmus",
+  "era": "1508",
+  "src": "Adagia (Festina Lente), 1508",
+  "h": "Make haste slowly.",
+  "b": "Erasmus built an essay around the ancient motto festina lente, make haste slowly, pairing a dolphin for speed with an anchor for steadiness. What ripens too fast, he warned, suddenly goes limp, while what grows slowly endures. The counsel is not to dawdle but to combine urgency with deliberation, so that quickness does not outrun judgement and undo its own gains.",
+  "d": "On your fastest-moving project, name the one step where a short, deliberate pause prevents an expensive, irreversible mistake. Protect that pause from the pressure to rush.",
+  "tg": [
+   "strategy",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Adagia",
+  "tr": {
+   "it": [
+    "Affrettati lentamente.",
+    "Erasmo costruì un saggio attorno all'antico motto festina lente, affrettati lentamente, accostando un delfino per la velocità a un'ancora per la stabilità. Ciò che matura troppo in fretta, ammonì, di colpo si affloscia, mentre ciò che cresce lentamente dura. Il consiglio non è di indugiare, ma di unire l'urgenza alla ponderazione, così che la rapidità non superi il giudizio e disfi i propri guadagni.",
+    "Nel tuo progetto più veloce, individua l'unico passo in cui una breve pausa ponderata evita un errore costoso e irreversibile. Proteggi quella pausa dalla pressione di correre.",
+    "Adagia (Festina Lente), 1508"
+   ],
+   "es": [
+    "Apresúrate despacio.",
+    "Erasmo construyó un ensayo en torno al antiguo lema festina lente, apresúrate despacio, uniendo un delfín por la velocidad a un ancla por la firmeza. Lo que madura demasiado rápido, advirtió, de pronto se marchita, mientras que lo que crece despacio perdura. El consejo no es demorarse, sino unir la urgencia a la reflexión, para que la rapidez no rebase al juicio y deshaga sus propias ganancias.",
+    "En tu proyecto más veloz, señala el único paso en el que una pausa breve y deliberada evita un error caro e irreversible. Protege esa pausa de la presión por correr.",
+    "Adagia (Festina Lente), 1508"
+   ],
+   "la": [
+    "Festina lente."
+   ]
+  },
+  "added": "2026-11-11T14:00:00Z",
+  "batch": "2026-11-11-03"
+ },
+ {
+  "id": "a44",
+  "t": "mill",
+  "era": "1859",
+  "src": "On Liberty, 1859",
+  "h": "He who knows only his own side knows little of it.",
+  "b": "In On Liberty, Mill argued that holding an opinion without having confronted the strongest case against it is barely to understand your own position. The greatest orators, he noted, studied their opponents' arguments as hard as their own. Conviction untested by real objection is borrowed, not earned; you grasp a view only once you can defend it against its ablest critic.",
+  "d": "Before your next big decision, have someone argue the opposing case as strongly as they can. If no one can, delay until you understand why you might be wrong.",
+  "tg": [
+   "strategy",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://www.utilitarianism.com/ol/two.html",
+  "tr": {
+   "it": [
+    "Chi conosce solo la propria parte ne sa poco.",
+    "In Sulla libertà, Mill sostenne che avere un'opinione senza aver affrontato l'argomento più forte contro di essa significa capire a malapena la propria posizione. I più grandi oratori, osservò, studiavano le ragioni degli avversari con lo stesso impegno delle proprie. Una convinzione non messa alla prova da una vera obiezione è presa in prestito, non guadagnata; afferri un'idea solo quando sai difenderla dal suo critico più abile.",
+    "Prima della tua prossima decisione importante, fa' che qualcuno sostenga la tesi opposta con tutta la forza possibile. Se nessuno ci riesce, rimanda finché non capisci perché potresti avere torto.",
+    "Sulla libertà, 1859"
+   ],
+   "es": [
+    "Quien solo conoce su propio bando sabe poco de él.",
+    "En Sobre la libertad, Mill sostuvo que tener una opinión sin haber afrontado el argumento más fuerte en su contra es apenas entender la propia posición. Los más grandes oradores, observó, estudiaban las razones de sus adversarios con tanto empeño como las propias. Una convicción no probada por una objeción real está prestada, no ganada; captas una idea solo cuando sabes defenderla ante su crítico más capaz.",
+    "Antes de tu próxima decisión importante, haz que alguien defienda la postura contraria con toda la fuerza posible. Si nadie puede, aplázala hasta entender por qué podrías estar equivocado.",
+    "Sobre la libertad, 1859"
+   ],
+   "la": [
+    "Qui suam partem solam novit, parum novit."
+   ]
+  },
+  "added": "2026-11-11T14:00:00Z",
+  "batch": "2026-11-11-03"
  }
 ]

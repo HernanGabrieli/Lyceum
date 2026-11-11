@@ -796,5 +796,147 @@
    "es": "Moralista, Francia",
    "la": "Scriptor moralis, Gallia"
   }
+ },
+ "collison": {
+  "n": "Patrick Collison",
+  "i": "PC",
+  "r": "Co-founder and CEO, Stripe",
+  "w": "v",
+  "y": "b. 1988",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore e CEO, Stripe",
+   "es": "Cofundador y CEO, Stripe",
+   "la": "Conditor et praefectus Stripe"
+  }
+ },
+ "altman": {
+  "n": "Sam Altman",
+  "i": "SA",
+  "r": "CEO, OpenAI",
+  "w": "v",
+  "y": "b. 1985",
+  "names": {},
+  "roles": {
+   "it": "CEO, OpenAI",
+   "es": "CEO, OpenAI",
+   "la": "Praefectus OpenAI"
+  }
+ },
+ "catmull": {
+  "n": "Ed Catmull",
+  "i": "EC",
+  "r": "Co-founder, Pixar",
+  "w": "v",
+  "y": "b. 1945",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore, Pixar",
+   "es": "Cofundador, Pixar",
+   "la": "Conditor Pixar"
+  }
+ },
+ "benioff": {
+  "n": "Marc Benioff",
+  "i": "MB",
+  "r": "Co-founder and CEO, Salesforce",
+  "w": "v",
+  "y": "b. 1964",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore e CEO, Salesforce",
+   "es": "Cofundador y CEO, Salesforce",
+   "la": "Conditor et praefectus Salesforce"
+  }
+ },
+ "slootman": {
+  "n": "Frank Slootman",
+  "i": "FS",
+  "r": "CEO, Snowflake",
+  "w": "v",
+  "y": "b. 1958",
+  "names": {},
+  "roles": {
+   "it": "CEO, Snowflake",
+   "es": "CEO, Snowflake",
+   "la": "Praefectus Snowflake"
+  }
+ },
+ "plato": {
+  "n": "Plato",
+  "i": "P",
+  "r": "Philosopher, Athens",
+  "w": "a",
+  "y": "c. 428-348 BC",
+  "names": {
+   "it": "Platone",
+   "es": "Platón",
+   "la": "Plato"
+  },
+  "roles": {
+   "it": "Filosofo, Atene",
+   "es": "Filósofo, Atenas",
+   "la": "Philosophus, Athenae"
+  }
+ },
+ "hobbes": {
+  "n": "Thomas Hobbes",
+  "i": "TH",
+  "r": "Philosopher, England",
+  "w": "a",
+  "y": "1588-1679",
+  "names": {},
+  "roles": {
+   "it": "Filosofo, Inghilterra",
+   "es": "Filósofo, Inglaterra",
+   "la": "Philosophus, Anglia"
+  }
+ },
+ "aquinas": {
+  "n": "Thomas Aquinas",
+  "i": "TA",
+  "r": "Theologian and philosopher, Italy",
+  "w": "a",
+  "y": "1225-1274",
+  "names": {
+   "it": "Tommaso d'Aquino",
+   "es": "Tomás de Aquino",
+   "la": "Thomas Aquinas"
+  },
+  "roles": {
+   "it": "Teologo e filosofo, Italia",
+   "es": "Teólogo y filósofo, Italia",
+   "la": "Theologus et philosophus, Italia"
+  }
+ },
+ "erasmus": {
+  "n": "Erasmus",
+  "i": "E",
+  "r": "Humanist scholar, Rotterdam",
+  "w": "a",
+  "y": "1466-1536",
+  "names": {
+   "it": "Erasmo da Rotterdam",
+   "es": "Erasmo de Róterdam",
+   "la": "Erasmus Roterodamus"
+  },
+  "roles": {
+   "it": "Umanista, Rotterdam",
+   "es": "Humanista, Róterdam",
+   "la": "Humanista, Roterodamum"
+  }
+ },
+ "mill": {
+  "n": "John Stuart Mill",
+  "i": "JM",
+  "r": "Philosopher and economist, England",
+  "w": "a",
+  "y": "1806-1873",
+  "names": {},
+  "roles": {
+   "it": "Filosofo ed economista, Inghilterra",
+   "es": "Filósofo y economista, Inglaterra",
+   "la": "Philosophus et oeconomus, Anglia"
+  }
  }
 }

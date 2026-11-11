@@ -71,5 +71,36 @@
    "a39": "https://www.gutenberg.org/files/9105/9105-h/9105-h.htm"
   },
   "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Mencius/Horowitz leadership, Guicciardini/Bezos risk)"
+ },
+ {
+  "at": "2026-11-11T15:02:30Z",
+  "batch": "2026-11-11-03",
+  "by": "lyceum-curator",
+  "ids": [
+   "v38",
+   "v39",
+   "v40",
+   "v41",
+   "v42",
+   "a40",
+   "a41",
+   "a42",
+   "a43",
+   "a44"
+  ],
+  "verified": 10,
+  "sources": {
+   "v38": "https://en.wikipedia.org/wiki/Progress_studies",
+   "v39": "https://blog.samaltman.com/how-to-be-successful",
+   "v40": "https://stvp.stanford.edu/clips/inside-the-braintrust",
+   "v41": "https://ssir.org/articles/entry/disrupting_corporate_philanthropy",
+   "v42": "https://en.wikipedia.org/wiki/Frank_Slootman",
+   "a40": "https://en.wikipedia.org/wiki/Ring_of_Gyges",
+   "a41": "https://en.wikipedia.org/wiki/State_of_nature",
+   "a42": "https://en.wikipedia.org/wiki/Just_price",
+   "a43": "https://en.wikipedia.org/wiki/Adagia",
+   "a44": "https://www.utilitarianism.com/ol/two.html"
+  },
+  "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Mill/Catmull character, Erasmus/Hoffman risk)"
  }
 ]
