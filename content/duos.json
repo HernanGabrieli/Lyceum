@@ -130,5 +130,27 @@
   },
   "th": "risk",
   "v": "v07"
+ },
+ {
+  "a": "a30",
+  "v": "v28",
+  "th": "leadership",
+  "br": {
+   "en": "Xenophon's leader earns obedience by knowing the work; Nadella earns it by never stopping learning it. Both make authority a matter of competence, not title.",
+   "it": "Il leader di Senofonte ottiene obbedienza conoscendo il lavoro; Nadella la ottiene non smettendo mai di impararlo. Entrambi fanno dell'autorità una questione di competenza, non di titolo.",
+   "es": "El líder de Jenofonte gana obediencia conociendo el trabajo; Nadella la gana sin dejar nunca de aprenderlo. Ambos hacen de la autoridad una cuestión de competencia, no de título.",
+   "la": "Dux Xenophontis opus sciendo paret; Nadella semper discendo. Ambo auctoritatem in peritia, non in titulo, ponunt."
+  }
+ },
+ {
+  "a": "a31",
+  "v": "v30",
+  "th": "strategy",
+  "br": {
+   "en": "Ibn Khaldun says every dominance decays as comfort erodes solidarity; Helmer says only a barrier rivals cannot cross keeps it alive. The tension is whether decline can be engineered against.",
+   "it": "Ibn Khaldun dice che ogni dominio decade quando il benessere erode la solidarietà; Helmer dice che solo una barriera che i rivali non possono valicare lo mantiene. La tensione è se il declino si possa contrastare per progetto.",
+   "es": "Ibn Khaldun dice que todo dominio decae cuando el bienestar erosiona la solidaridad; Helmer dice que solo una barrera que los rivales no pueden cruzar lo mantiene. La tensión es si el declive puede contrarrestarse por diseño.",
+   "la": "Ibn Khaldun: omne imperium luxu solvitur; Helmer: solum obex insuperabilis id servat. Utrum declinatio arte vinci possit, quaeritur."
+  }
  }
 ]

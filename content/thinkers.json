@@ -527,5 +527,141 @@
    "it": "Co-fondatore e CEO, Airbnb",
    "la": "Conditor et praefectus Airbnb"
   }
+ },
+ "nadella": {
+  "n": "Satya Nadella",
+  "i": "SN",
+  "r": "CEO, Microsoft",
+  "w": "v",
+  "y": "b. 1967",
+  "names": {},
+  "roles": {
+   "it": "CEO, Microsoft",
+   "es": "CEO, Microsoft",
+   "la": "Praefectus Microsoft"
+  }
+ },
+ "hastings": {
+  "n": "Reed Hastings",
+  "i": "RH",
+  "r": "Co-founder and CEO, Netflix",
+  "w": "v",
+  "y": "b. 1960",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore e CEO, Netflix",
+   "es": "Cofundador y CEO, Netflix",
+   "la": "Conditor et praefectus Netflix"
+  }
+ },
+ "helmer": {
+  "n": "Hamilton Helmer",
+  "i": "HH",
+  "r": "Strategist, author of 7 Powers",
+  "w": "v",
+  "y": "fl. 2016",
+  "names": {},
+  "roles": {
+   "it": "Stratega, autore di 7 Powers",
+   "es": "Estratega, autor de 7 Powers",
+   "la": "Consiliarius, auctor 7 Powers"
+  }
+ },
+ "moore": {
+  "n": "Geoffrey Moore",
+  "i": "GM",
+  "r": "Author, Crossing the Chasm",
+  "w": "v",
+  "y": "b. 1946",
+  "names": {},
+  "roles": {
+   "it": "Autore, Crossing the Chasm",
+   "es": "Autor, Crossing the Chasm",
+   "la": "Auctor, Crossing the Chasm"
+  }
+ },
+ "dalio": {
+  "n": "Ray Dalio",
+  "i": "RD",
+  "r": "Founder, Bridgewater Associates",
+  "w": "v",
+  "y": "b. 1949",
+  "names": {},
+  "roles": {
+   "it": "Fondatore, Bridgewater Associates",
+   "es": "Fundador, Bridgewater Associates",
+   "la": "Conditor Bridgewater Associates"
+  }
+ },
+ "xenophon": {
+  "n": "Xenophon",
+  "i": "X",
+  "r": "Soldier and writer, Athens",
+  "w": "a",
+  "y": "c. 430–354 BC",
+  "names": {
+   "it": "Senofonte",
+   "es": "Jenofonte"
+  },
+  "roles": {
+   "it": "Soldato e scrittore, Atene",
+   "es": "Soldado y escritor, Atenas",
+   "la": "Miles et scriptor, Athenae"
+  }
+ },
+ "ibnkhaldun": {
+  "n": "Ibn Khaldun",
+  "i": "IK",
+  "r": "Historian, North Africa",
+  "w": "a",
+  "y": "1332–1406",
+  "names": {},
+  "roles": {
+   "it": "Storico, Nordafrica",
+   "es": "Historiador, Norte de África",
+   "la": "Historicus, Africa Septentrionalis"
+  }
+ },
+ "plutarch": {
+  "n": "Plutarch",
+  "i": "P",
+  "r": "Biographer, Greece",
+  "w": "a",
+  "y": "c. 46–120",
+  "names": {
+   "it": "Plutarco",
+   "es": "Plutarco"
+  },
+  "roles": {
+   "it": "Biografo, Grecia",
+   "es": "Biógrafo, Grecia",
+   "la": "Vitae scriptor, Graecia"
+  }
+ },
+ "tocqueville": {
+  "n": "Alexis de Tocqueville",
+  "i": "AT",
+  "r": "Political thinker, France",
+  "w": "a",
+  "y": "1805–1859",
+  "names": {},
+  "roles": {
+   "it": "Pensatore politico, Francia",
+   "es": "Pensador político, Francia",
+   "la": "Vir politicus, Gallia"
+  }
+ },
+ "montesquieu": {
+  "n": "Montesquieu",
+  "i": "M",
+  "r": "Political philosopher, France",
+  "w": "a",
+  "y": "1689–1755",
+  "names": {},
+  "roles": {
+   "it": "Filosofo politico, Francia",
+   "es": "Filósofo político, Francia",
+   "la": "Philosophus politicus, Gallia"
+  }
  }
 }

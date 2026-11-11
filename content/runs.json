@@ -9,5 +9,36 @@
   ],
   "verified": 0,
   "note": "Seed batch written to the claude.ai artifact db; exported into this repo on 2026-11-10."
+ },
+ {
+  "at": "2026-11-11T00:17:49Z",
+  "batch": "2026-11-11-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v28",
+   "v29",
+   "v30",
+   "v31",
+   "v32",
+   "a30",
+   "a31",
+   "a32",
+   "a33",
+   "a34"
+  ],
+  "verified": 10,
+  "sources": {
+   "v28": "https://en.wikipedia.org/wiki/Hit_Refresh",
+   "v29": "https://archive.org/details/CSPAN2_20201113_191700_The_Communicators_Reed_Hastings__Erin_Meyer_No_Rules_Rules",
+   "v30": "https://resources.rework.com/libraries/strategic-management/7-powers-framework",
+   "v31": "https://en.wikipedia.org/wiki/Crossing_the_Chasm",
+   "v32": "https://www.principles.com/principles/4a903526-2db6-4a0a-9b71-889868f0f475/",
+   "a30": "https://en.wikipedia.org/wiki/Oeconomicus",
+   "a31": "https://en.wikipedia.org/wiki/Asabiyyah",
+   "a32": "https://topostext.org/work/172",
+   "a33": "https://en.wikipedia.org/wiki/Democracy_in_America",
+   "a34": "https://plato.stanford.edu/entries/montesquieu/"
+  },
+  "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Xenophon/Nadella, Ibn Khaldun/Helmer)"
  }
 ]
