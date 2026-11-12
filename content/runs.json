@@ -102,5 +102,36 @@
    "a44": "https://www.utilitarianism.com/ol/two.html"
   },
   "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Mill/Catmull character, Erasmus/Hoffman risk)"
+ },
+ {
+  "at": "2026-11-12T15:54:34Z",
+  "batch": "2026-11-12-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v43",
+   "v44",
+   "v45",
+   "v46",
+   "v47",
+   "a45",
+   "a46",
+   "a47",
+   "a48",
+   "a49"
+  ],
+  "verified": 10,
+  "sources": {
+   "v43": "https://en.wikipedia.org/wiki/Taiichi_Ohno",
+   "v44": "https://en.wikipedia.org/wiki/The_Fifth_Discipline",
+   "v45": "https://abovecrowd.wordpress.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/",
+   "v46": "https://en.wikipedia.org/wiki/Kazuo_Inamori",
+   "v47": "https://resources.rework.com/libraries/strategic-management/playing-to-win-framework",
+   "a45": "https://en.wikipedia.org/wiki/De_agri_cultura",
+   "a46": "https://en.wikipedia.org/wiki/Rajamandala",
+   "a47": "https://en.wikipedia.org/wiki/Han_Fei",
+   "a48": "https://www.gutenberg.org/files/205/205-h/205-h.htm",
+   "a49": "https://en.wikipedia.org/wiki/Lombard_Street:_A_Description_of_the_Money_Market"
+  },
+  "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Han Fei/Senge leadership, Thoreau/Gurley money)"
  }
 ]

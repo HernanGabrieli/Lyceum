@@ -938,5 +938,147 @@
    "es": "Filósofo y economista, Inglaterra",
    "la": "Philosophus et oeconomus, Anglia"
   }
+ },
+ "ohno": {
+  "n": "Taiichi Ohno",
+  "i": "TO",
+  "r": "Engineer, Toyota",
+  "w": "v",
+  "y": "1912-1990",
+  "names": {},
+  "roles": {
+   "it": "Ingegnere, Toyota",
+   "es": "Ingeniero, Toyota",
+   "la": "Faber, Toyota"
+  }
+ },
+ "senge": {
+  "n": "Peter Senge",
+  "i": "PS",
+  "r": "Systems scientist, MIT",
+  "w": "v",
+  "y": "b. 1947",
+  "names": {},
+  "roles": {
+   "it": "Scienziato dei sistemi, MIT",
+   "es": "Científico de sistemas, MIT",
+   "la": "Systematum investigator, MIT"
+  }
+ },
+ "gurley": {
+  "n": "Bill Gurley",
+  "i": "BG",
+  "r": "Venture capitalist, Benchmark",
+  "w": "v",
+  "y": "b. 1966",
+  "names": {},
+  "roles": {
+   "it": "Venture capitalist, Benchmark",
+   "es": "Capitalista de riesgo, Benchmark",
+   "la": "Pecuniae collocator, Benchmark"
+  }
+ },
+ "inamori": {
+  "n": "Kazuo Inamori",
+  "i": "KI",
+  "r": "Founder, Kyocera",
+  "w": "v",
+  "y": "1932-2022",
+  "names": {},
+  "roles": {
+   "it": "Fondatore, Kyocera",
+   "es": "Fundador, Kyocera",
+   "la": "Conditor, Kyocera"
+  }
+ },
+ "martin": {
+  "n": "Roger Martin",
+  "i": "RM",
+  "r": "Management theorist, Canada",
+  "w": "v",
+  "y": "b. 1956",
+  "names": {},
+  "roles": {
+   "it": "Teorico del management, Canada",
+   "es": "Teórico de la gestión, Canadá",
+   "la": "Administrationis theoreticus, Canada"
+  }
+ },
+ "cato": {
+  "n": "Cato the Elder",
+  "i": "CE",
+  "r": "Statesman, Rome",
+  "w": "a",
+  "y": "234-149 BC",
+  "names": {
+   "it": "Catone il Vecchio",
+   "es": "Catón el Viejo",
+   "la": "Cato Maior"
+  },
+  "roles": {
+   "it": "Statista, Roma",
+   "es": "Estadista, Roma",
+   "la": "Vir publicus, Roma"
+  }
+ },
+ "kautilya": {
+  "n": "Kautilya",
+  "i": "K",
+  "r": "Statesman and strategist, India",
+  "w": "a",
+  "y": "c. 350-275 BC",
+  "names": {
+   "it": "Kautilya",
+   "es": "Kautilia",
+   "la": "Kautilya"
+  },
+  "roles": {
+   "it": "Statista e stratega, India",
+   "es": "Estadista y estratega, India",
+   "la": "Vir publicus et strategus, India"
+  }
+ },
+ "hanfei": {
+  "n": "Han Fei",
+  "i": "HF",
+  "r": "Philosopher, China",
+  "w": "a",
+  "y": "c. 280-233 BC",
+  "names": {
+   "it": "Han Fei",
+   "es": "Han Fei",
+   "la": "Han Fei"
+  },
+  "roles": {
+   "it": "Filosofo, Cina",
+   "es": "Filósofo, China",
+   "la": "Philosophus, Sinae"
+  }
+ },
+ "thoreau": {
+  "n": "Henry David Thoreau",
+  "i": "HT",
+  "r": "Writer and philosopher, United States",
+  "w": "a",
+  "y": "1817-1862",
+  "names": {},
+  "roles": {
+   "it": "Scrittore e filosofo, Stati Uniti",
+   "es": "Escritor y filósofo, Estados Unidos",
+   "la": "Scriptor et philosophus, Civitates Foederatae"
+  }
+ },
+ "bagehot": {
+  "n": "Walter Bagehot",
+  "i": "WB",
+  "r": "Economist and journalist, England",
+  "w": "a",
+  "y": "1826-1877",
+  "names": {},
+  "roles": {
+   "it": "Economista e giornalista, Inghilterra",
+   "es": "Economista y periodista, Inglaterra",
+   "la": "Oeconomus et diurnarius, Anglia"
+  }
  }
 }

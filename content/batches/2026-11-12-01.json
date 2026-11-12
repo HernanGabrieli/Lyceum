@@ -1,0 +1,505 @@
+[
+ {
+  "id": "v43",
+  "t": "ohno",
+  "era": "1988",
+  "src": "Toyota Production System: Beyond Large-Scale Production, 1988",
+  "h": "Ask why five times to reach the cause.",
+  "b": "On the Toyota line Ohno met every defect with the same drill: ask why, then why again, five times over. The first answer names a symptom; the fifth exposes the process that produced it. Fixing symptoms guarantees the fault returns, so he treated the question itself as the real repair tool.",
+  "d": "At the next defect, do not fix the first cause you find. Write five linked whys until you reach a process you can change.",
+  "tg": [
+   "building",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Taiichi_Ohno",
+  "thinker": {
+   "n": "Taiichi Ohno",
+   "i": "TO",
+   "r": "Engineer, Toyota",
+   "w": "v",
+   "y": "1912-1990",
+   "names": {},
+   "roles": {
+    "it": "Ingegnere, Toyota",
+    "es": "Ingeniero, Toyota",
+    "la": "Faber, Toyota"
+   }
+  },
+  "tr": {
+   "it": [
+    "Chiedi «perché» cinque volte per arrivare alla causa.",
+    "Sulla linea Toyota, Ohno affrontava ogni difetto con lo stesso esercizio: chiedere perché, e ancora perché, cinque volte. La prima risposta indica un sintomo; la quinta rivela il processo che l'ha generato. Correggere i sintomi garantisce il ritorno del guasto, perciò trattava la domanda stessa come il vero strumento di riparazione.",
+    "Al prossimo difetto, non fermarti alla prima causa. Scrivi cinque «perché» collegati finché non raggiungi un processo che puoi cambiare.",
+    "Toyota Production System: Beyond Large-Scale Production, 1988"
+   ],
+   "es": [
+    "Pregunta «por qué» cinco veces hasta llegar a la causa.",
+    "En la línea de Toyota, Ohno enfrentaba cada defecto con el mismo ejercicio: preguntar por qué, y otra vez por qué, cinco veces. La primera respuesta nombra un síntoma; la quinta revela el proceso que lo produjo. Corregir síntomas garantiza que el fallo vuelva, así que trataba la pregunta misma como la verdadera herramienta de reparación.",
+    "Ante el próximo defecto, no te quedes en la primera causa. Escribe cinco «por qué» encadenados hasta llegar a un proceso que puedas cambiar.",
+    "Toyota Production System: Beyond Large-Scale Production, 1988"
+   ],
+   "la": [
+    "Quinquies roga cur ut causam attingas."
+   ]
+  },
+  "batch": "2026-11-12-01",
+  "added": "2026-11-12T12:00:00Z"
+ },
+ {
+  "id": "v44",
+  "t": "senge",
+  "era": "1990",
+  "src": "The Fifth Discipline, 1990",
+  "h": "Today's problems are yesterday's solutions.",
+  "b": "Senge's first law of systems thinking is that the fix which relieved last year's pressure often becomes this year's crisis. Blame lands on people, but the pattern is built into the structure: incentives, delays and feedback loops that no individual designed. Change the structure and behaviour changes; replace the person and the loop recreates the fault.",
+  "d": "Before firing someone for a recurring failure, map the structure around them. Ask what incentive or delay would make a replacement repeat it.",
+  "tg": [
+   "leadership",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/The_Fifth_Discipline",
+  "thinker": {
+   "n": "Peter Senge",
+   "i": "PS",
+   "r": "Systems scientist, MIT",
+   "w": "v",
+   "y": "b. 1947",
+   "names": {},
+   "roles": {
+    "it": "Scienziato dei sistemi, MIT",
+    "es": "Científico de sistemas, MIT",
+    "la": "Systematum investigator, MIT"
+   }
+  },
+  "tr": {
+   "it": [
+    "I problemi di oggi sono le soluzioni di ieri.",
+    "La prima legge del pensiero sistemico di Senge è che il rimedio che ha alleviato la tensione dell'anno scorso spesso diventa la crisi di quest'anno. La colpa ricade sulle persone, ma lo schema è inscritto nella struttura: incentivi, ritardi e cicli di retroazione che nessuno ha progettato. Cambia la struttura e il comportamento cambia; sostituisci la persona e il ciclo ricrea il difetto.",
+    "Prima di licenziare qualcuno per un errore ricorrente, mappa la struttura attorno a lui. Chiediti quale incentivo o ritardo farebbe ripetere l'errore a un sostituto.",
+    "The Fifth Discipline, 1990"
+   ],
+   "es": [
+    "Los problemas de hoy son las soluciones de ayer.",
+    "La primera ley del pensamiento sistémico de Senge es que el remedio que alivió la presión del año pasado suele convertirse en la crisis de este año. La culpa recae en las personas, pero el patrón está inscrito en la estructura: incentivos, demoras y bucles de retroalimentación que nadie diseñó. Cambia la estructura y la conducta cambia; sustituye a la persona y el bucle recrea el fallo.",
+    "Antes de despedir a alguien por un fallo recurrente, mapea la estructura que lo rodea. Pregunta qué incentivo o demora haría que un sustituto lo repitiera.",
+    "The Fifth Discipline, 1990"
+   ],
+   "la": [
+    "Mala hodierna sunt remedia hesterna."
+   ]
+  },
+  "duo": {
+   "a": "a47",
+   "v": "v44",
+   "th": "leadership",
+   "br": {
+    "en": "Han Fei trusts law over the virtue of any official; Senge trusts structure over the character of any employee. Two millennia apart, both locate performance in the system people act inside, not in the people themselves.",
+    "it": "Han Fei si fida della legge più che della virtù di qualunque funzionario; Senge si fida della struttura più che del carattere di qualunque dipendente. A duemila anni di distanza, entrambi collocano il risultato nel sistema in cui le persone agiscono, non nelle persone stesse.",
+    "es": "Han Fei confía en la ley más que en la virtud de cualquier funcionario; Senge confía en la estructura más que en el carácter de cualquier empleado. A dos mil años de distancia, ambos sitúan el desempeño en el sistema en que la gente actúa, no en las personas mismas.",
+    "la": "Han Fei legi plus quam virtuti fidit; Senge structurae plus quam moribus. Ambo opus in systemate, non in homine, ponunt."
+   }
+  },
+  "batch": "2026-11-12-01",
+  "added": "2026-11-12T12:00:00Z"
+ },
+ {
+  "id": "v45",
+  "t": "gurley",
+  "era": "2011",
+  "src": "All Revenue is Not Created Equal, Above the Crowd, 2011",
+  "h": "Not every dollar of revenue is worth the same.",
+  "b": "Gurley argued that markets pay vastly different multiples for the same sales because growth has quality. A dollar defended by network effects, high switching costs and fat gross margins is durable; a dollar bought with discounts and churn is rented. Chasing headline revenue without asking where it comes from inflates the top line and the risk together.",
+  "d": "Split next quarter's revenue into durable and rented. Report the two separately so no one mistakes churn-funded growth for the real thing.",
+  "tg": [
+   "money",
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://abovecrowd.wordpress.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/",
+  "thinker": {
+   "n": "Bill Gurley",
+   "i": "BG",
+   "r": "Venture capitalist, Benchmark",
+   "w": "v",
+   "y": "b. 1966",
+   "names": {},
+   "roles": {
+    "it": "Venture capitalist, Benchmark",
+    "es": "Capitalista de riesgo, Benchmark",
+    "la": "Pecuniae collocator, Benchmark"
+   }
+  },
+  "tr": {
+   "it": [
+    "Non ogni euro di ricavo vale lo stesso.",
+    "Gurley sosteneva che i mercati pagano multipli molto diversi per gli stessi ricavi, perché la crescita ha una qualità. Un euro difeso da effetti di rete, alti costi di cambiamento e margini lordi ampi è duraturo; un euro comprato con sconti e abbandono è solo in affitto. Inseguire il ricavo di facciata senza chiedersi da dove viene gonfia insieme il fatturato e il rischio.",
+    "Dividi il ricavo del prossimo trimestre in duraturo e in affitto. Riportali separati, perché nessuno scambi una crescita finanziata dall'abbandono per quella reale.",
+    "All Revenue is Not Created Equal, Above the Crowd, 2011"
+   ],
+   "es": [
+    "No todo euro de ingreso vale lo mismo.",
+    "Gurley sostenía que los mercados pagan múltiplos muy distintos por las mismas ventas, porque el crecimiento tiene una calidad. Un euro defendido por efectos de red, altos costes de cambio y márgenes brutos amplios es duradero; un euro comprado con descuentos y abandono está solo alquilado. Perseguir el ingreso de titular sin preguntar de dónde viene infla a la vez la cifra y el riesgo.",
+    "Divide el ingreso del próximo trimestre en duradero y alquilado. Repórtalos por separado, para que nadie confunda un crecimiento financiado por el abandono con el real.",
+    "All Revenue is Not Created Equal, Above the Crowd, 2011"
+   ],
+   "la": [
+    "Non omnis nummus reditus par est."
+   ]
+  },
+  "duo": {
+   "a": "a48",
+   "v": "v45",
+   "th": "money",
+   "br": {
+    "en": "Thoreau prices a purchase in the life you spend to afford it; Gurley prices revenue by the quality of the dollar beneath it. Both refuse the headline figure and ask what the number actually costs or is worth.",
+    "it": "Thoreau misura un acquisto nella vita che spendi per permettertelo; Gurley misura il ricavo dalla qualità dell'euro che lo compone. Entrambi rifiutano la cifra di facciata e chiedono quanto il numero costi davvero o valga davvero.",
+    "es": "Thoreau tasa una compra por la vida que gastas para costearla; Gurley tasa el ingreso por la calidad del euro que lo sostiene. Ambos rechazan la cifra de titular y preguntan cuánto cuesta o vale de verdad el número.",
+    "la": "Thoreau emptionem vita aestimat; Gurley reditum nummi qualitate. Ambo frontem numeri recusant et quid vere constet quaerunt."
+   }
+  },
+  "batch": "2026-11-12-01",
+  "added": "2026-11-12T12:00:00Z"
+ },
+ {
+  "id": "v46",
+  "t": "inamori",
+  "era": "2012",
+  "src": "Amoeba Management, 2012",
+  "h": "Split the firm into tiny units that each own a profit line.",
+  "b": "At Kyocera, Inamori broke the company into amoebas, teams often under ten people, each running its own hourly profit-and-loss statement and trading with the units around it. Accountability stops being abstract when a small group sees its own numbers daily. The structure turns thousands of employees into managers who feel the cost of every choice.",
+  "d": "Give one team its own simple profit line this quarter, visible weekly. Watch how differently people decide when they can see what they earn.",
+  "tg": [
+   "leadership",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Kazuo_Inamori",
+  "thinker": {
+   "n": "Kazuo Inamori",
+   "i": "KI",
+   "r": "Founder, Kyocera",
+   "w": "v",
+   "y": "1932-2022",
+   "names": {},
+   "roles": {
+    "it": "Fondatore, Kyocera",
+    "es": "Fundador, Kyocera",
+    "la": "Conditor, Kyocera"
+   }
+  },
+  "tr": {
+   "it": [
+    "Dividi l'azienda in piccole unità, ciascuna con il proprio conto profitti.",
+    "Alla Kyocera, Inamori scompose l'azienda in amebe, squadre spesso sotto le dieci persone, ciascuna con un proprio conto economico orario e in grado di scambiare con le unità vicine. La responsabilità smette di essere astratta quando un piccolo gruppo vede ogni giorno i propri numeri. La struttura trasforma migliaia di dipendenti in manager che sentono il costo di ogni scelta.",
+    "Dai a una squadra un proprio conto profitti semplice questo trimestre, visibile ogni settimana. Osserva quanto diversamente decidono le persone quando vedono ciò che guadagnano.",
+    "Amoeba Management, 2012"
+   ],
+   "es": [
+    "Divide la empresa en unidades pequeñas, cada una dueña de su cuenta de resultados.",
+    "En Kyocera, Inamori dividió la empresa en amebas, equipos a menudo de menos de diez personas, cada uno con su propia cuenta de resultados por hora y capaz de comerciar con las unidades vecinas. La responsabilidad deja de ser abstracta cuando un grupo pequeño ve sus propios números cada día. La estructura convierte a miles de empleados en gestores que sienten el coste de cada elección.",
+    "Da a un equipo su propia cuenta de resultados sencilla este trimestre, visible cada semana. Observa cuán distinto deciden las personas cuando ven lo que ganan.",
+    "Amoeba Management, 2012"
+   ],
+   "la": [
+    "Divide societatem in partes sui lucri conscias."
+   ]
+  },
+  "batch": "2026-11-12-01",
+  "added": "2026-11-12T12:00:00Z"
+ },
+ {
+  "id": "v47",
+  "t": "martin",
+  "era": "2013",
+  "src": "Playing to Win: How Strategy Really Works, 2013",
+  "h": "Strategy is where to play and how to win, chosen together.",
+  "b": "Lafley and Martin reduced strategy to a cascade of choices, and the two at its heart are where to play and how to win. Picking a market without an advantage is entering a game you have no reason to win; owning an advantage with no chosen market is a weapon with no field. Decide the pair together or you have decided nothing.",
+  "d": "Write your where-to-play and how-to-win on one page. If either is blank, or they do not reinforce each other, you have a plan, not a strategy.",
+  "tg": [
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://resources.rework.com/libraries/strategic-management/playing-to-win-framework",
+  "thinker": {
+   "n": "Roger Martin",
+   "i": "RM",
+   "r": "Management theorist, Canada",
+   "w": "v",
+   "y": "b. 1956",
+   "names": {},
+   "roles": {
+    "it": "Teorico del management, Canada",
+    "es": "Teórico de la gestión, Canadá",
+    "la": "Administrationis theoreticus, Canada"
+   }
+  },
+  "tr": {
+   "it": [
+    "La strategia è dove competere e come vincere, scelti insieme.",
+    "Lafley e Martin hanno ridotto la strategia a una cascata di scelte, e le due al suo cuore sono dove competere e come vincere. Scegliere un mercato senza un vantaggio è entrare in una partita che non hai motivo di vincere; possedere un vantaggio senza un mercato scelto è un'arma senza campo. Decidi la coppia insieme, o non hai deciso nulla.",
+    "Scrivi su una pagina il tuo «dove competere» e «come vincere». Se uno dei due è vuoto, o non si rafforzano a vicenda, hai un piano, non una strategia.",
+    "Playing to Win: How Strategy Really Works, 2013"
+   ],
+   "es": [
+    "La estrategia es dónde competir y cómo ganar, elegidos juntos.",
+    "Lafley y Martin redujeron la estrategia a una cascada de elecciones, y las dos en su centro son dónde competir y cómo ganar. Elegir un mercado sin una ventaja es entrar en un juego que no tienes razón para ganar; poseer una ventaja sin un mercado elegido es un arma sin campo. Decide el par junto, o no has decidido nada.",
+    "Escribe en una página tu «dónde competir» y «cómo ganar». Si alguno está en blanco, o no se refuerzan, tienes un plan, no una estrategia.",
+    "Playing to Win: How Strategy Really Works, 2013"
+   ],
+   "la": [
+    "Ubi certes et quomodo vincas, simul elige."
+   ]
+  },
+  "batch": "2026-11-12-01",
+  "added": "2026-11-12T12:00:00Z"
+ },
+ {
+  "id": "a45",
+  "t": "cato",
+  "era": "c. 160 BC",
+  "src": "De Agri Cultura, c. 160 BC",
+  "h": "The master's eye is the best fertiliser.",
+  "b": "Cato ran his estate on a blunt maxim: the owner's forehead does the land more good than the back of his head. A field seen often by the person who owns the outcome is tended better, cheated less and harvested fuller. Attention is not sentiment; it is the cheapest input that raises the yield of every other one.",
+  "d": "Pick the part of the business you have stopped visiting in person. Go look at it this week, before the numbers force you to.",
+  "tg": [
+   "focus",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/De_agri_cultura",
+  "thinker": {
+   "n": "Cato the Elder",
+   "i": "CE",
+   "r": "Statesman, Rome",
+   "w": "a",
+   "y": "234-149 BC",
+   "names": {
+    "it": "Catone il Vecchio",
+    "es": "Catón el Viejo",
+    "la": "Cato Maior"
+   },
+   "roles": {
+    "it": "Statista, Roma",
+    "es": "Estadista, Roma",
+    "la": "Vir publicus, Roma"
+   }
+  },
+  "tr": {
+   "it": [
+    "L'occhio del padrone è il miglior concime.",
+    "Catone governava la sua tenuta con una massima schietta: la fronte del padrone giova alla terra più della sua nuca. Un campo visto spesso da chi possiede il risultato è curato meglio, frodato meno e raccolto più pieno. L'attenzione non è sentimento: è l'input più economico che aumenta la resa di tutti gli altri.",
+    "Scegli la parte dell'azienda che hai smesso di visitare di persona. Vai a guardarla questa settimana, prima che siano i numeri a costringerti.",
+    "De Agri Cultura, c. 160 a.C."
+   ],
+   "es": [
+    "El ojo del amo es el mejor abono.",
+    "Catón gobernaba su hacienda con una máxima rotunda: la frente del amo beneficia a la tierra más que su nuca. Un campo visto a menudo por quien posee el resultado se cuida mejor, se defrauda menos y se cosecha más lleno. La atención no es sentimiento: es el insumo más barato que eleva el rendimiento de todos los demás.",
+    "Elige la parte del negocio que has dejado de visitar en persona. Ve a verla esta semana, antes de que los números te obliguen.",
+    "De Agri Cultura, c. 160 a. C."
+   ],
+   "la": [
+    "Frons domini plus quam occipitium prodest."
+   ]
+  },
+  "batch": "2026-11-12-01",
+  "added": "2026-11-12T12:00:00Z"
+ },
+ {
+  "id": "a46",
+  "t": "kautilya",
+  "era": "c. 300 BC",
+  "src": "Arthashastra, c. 300 BC",
+  "h": "Your neighbour is your rival; his neighbour, your ally.",
+  "b": "Kautilya mapped the world as concentric rings around a king. The state sharing your border competes for the same ground and is the natural enemy; the state beyond it, pressing on your enemy from the far side, is your natural friend. Alliances follow geometry, not sentiment: look one ring further out to find the partner your rival already fears.",
+  "d": "Name the competitor who shares your core market. Then find the firm pressing on them from the other side; that is your first call.",
+  "tg": [
+   "strategy",
+   "power"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Rajamandala",
+  "thinker": {
+   "n": "Kautilya",
+   "i": "K",
+   "r": "Statesman and strategist, India",
+   "w": "a",
+   "y": "c. 350-275 BC",
+   "names": {
+    "it": "Kautilya",
+    "es": "Kautilia",
+    "la": "Kautilya"
+   },
+   "roles": {
+    "it": "Statista e stratega, India",
+    "es": "Estadista y estratega, India",
+    "la": "Vir publicus et strategus, India"
+   }
+  },
+  "tr": {
+   "it": [
+    "Il tuo vicino è il tuo rivale; il suo vicino, il tuo alleato.",
+    "Kautilya raffigurava il mondo come anelli concentrici attorno a un re. Lo Stato che confina con te contende lo stesso terreno ed è il nemico naturale; lo Stato oltre, che preme sul tuo nemico dal lato opposto, è l'amico naturale. Le alleanze seguono la geometria, non il sentimento: guarda un anello più in là per trovare il partner che il tuo rivale già teme.",
+    "Nomina il concorrente che condivide il tuo mercato centrale. Poi trova l'azienda che lo incalza dall'altro lato: è la tua prima telefonata.",
+    "Arthashastra, c. 300 a.C."
+   ],
+   "es": [
+    "Tu vecino es tu rival; el vecino de él, tu aliado.",
+    "Kautilya representaba el mundo como anillos concéntricos alrededor de un rey. El Estado que linda contigo disputa el mismo terreno y es el enemigo natural; el Estado más allá, que presiona a tu enemigo desde el otro lado, es el amigo natural. Las alianzas siguen la geometría, no el sentimiento: mira un anillo más lejos para hallar al socio que tu rival ya teme.",
+    "Nombra al competidor que comparte tu mercado central. Luego halla a la empresa que lo presiona desde el otro lado: esa es tu primera llamada.",
+    "Arthashastra, c. 300 a. C."
+   ],
+   "la": [
+    "Vicinus hostis; vicini vicinus amicus."
+   ]
+  },
+  "batch": "2026-11-12-01",
+  "added": "2026-11-12T12:00:00Z"
+ },
+ {
+  "id": "a47",
+  "t": "hanfei",
+  "era": "c. 233 BC",
+  "src": "Han Feizi, c. 233 BC",
+  "h": "Rule by law you can publish, not by men you must trust.",
+  "b": "Han Fei warned that honest, able officials are too few to staff a state, so a ruler who depends on their virtue builds on sand. Written law, applied uniformly and known in advance, does not vary with the character of the person enforcing it. Power held through clear method outlasts power held through the loyalty of good individuals.",
+  "d": "Where your process depends on one trustworthy person, write the rule they follow. A method on paper survives their absence; their virtue does not scale.",
+  "tg": [
+   "power",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Han_Fei",
+  "thinker": {
+   "n": "Han Fei",
+   "i": "HF",
+   "r": "Philosopher, China",
+   "w": "a",
+   "y": "c. 280-233 BC",
+   "names": {
+    "it": "Han Fei",
+    "es": "Han Fei",
+    "la": "Han Fei"
+   },
+   "roles": {
+    "it": "Filosofo, Cina",
+    "es": "Filósofo, China",
+    "la": "Philosophus, Sinae"
+   }
+  },
+  "tr": {
+   "it": [
+    "Governa con una legge che puoi pubblicare, non con uomini di cui ti devi fidare.",
+    "Han Fei avvertiva che i funzionari onesti e capaci sono troppo pochi per reggere uno Stato, perciò un sovrano che dipende dalla loro virtù costruisce sulla sabbia. La legge scritta, applicata in modo uniforme e nota in anticipo, non varia con il carattere di chi la fa rispettare. Il potere fondato su un metodo chiaro dura più di quello fondato sulla lealtà di pochi uomini buoni.",
+    "Dove il tuo processo dipende da una persona fidata, scrivi la regola che segue. Un metodo sulla carta sopravvive alla sua assenza; la sua virtù non scala.",
+    "Han Feizi, c. 233 a.C."
+   ],
+   "es": [
+    "Gobierna con una ley que puedas publicar, no con hombres en quienes debas confiar.",
+    "Han Fei advertía que los funcionarios honestos y capaces son demasiado pocos para sostener un Estado, así que un gobernante que depende de su virtud construye sobre arena. La ley escrita, aplicada de modo uniforme y conocida de antemano, no varía con el carácter de quien la hace cumplir. El poder basado en un método claro dura más que el basado en la lealtad de unos pocos hombres buenos.",
+    "Donde tu proceso dependa de una persona de confianza, escribe la regla que sigue. Un método en papel sobrevive a su ausencia; su virtud no escala.",
+    "Han Feizi, c. 233 a. C."
+   ],
+   "la": [
+    "Rege lege promulgata, non viris fidendis."
+   ]
+  },
+  "batch": "2026-11-12-01",
+  "added": "2026-11-12T12:00:00Z"
+ },
+ {
+  "id": "a48",
+  "t": "thoreau",
+  "era": "1854",
+  "src": "Walden, 1854",
+  "h": "The price of a thing is the life you spend on it.",
+  "b": "Thoreau measured every purchase in a currency money hides: the amount of life exchanged to afford it, now or over the years of labour ahead. A cheap object bought with hours you cannot recover is not cheap. Counting cost only in money flatters the ledger while the real account, time spent living, quietly empties.",
+  "d": "Convert your next big expense into hours of your life at what you actually earn. Decide whether the thing is worth that many hours.",
+  "tg": [
+   "money",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://www.gutenberg.org/files/205/205-h/205-h.htm",
+  "thinker": {
+   "n": "Henry David Thoreau",
+   "i": "HT",
+   "r": "Writer and philosopher, United States",
+   "w": "a",
+   "y": "1817-1862",
+   "names": {},
+   "roles": {
+    "it": "Scrittore e filosofo, Stati Uniti",
+    "es": "Escritor y filósofo, Estados Unidos",
+    "la": "Scriptor et philosophus, Civitates Foederatae"
+   }
+  },
+  "tr": {
+   "it": [
+    "Il prezzo di una cosa è la vita che spendi per averla.",
+    "Thoreau misurava ogni acquisto in una moneta che il denaro nasconde: la quantità di vita scambiata per permetterselo, ora o negli anni di lavoro a venire. Un oggetto economico comprato con ore che non puoi recuperare non è economico. Contare il costo solo in denaro lusinga il registro, mentre il conto vero, il tempo speso a vivere, si svuota in silenzio.",
+    "Converti la tua prossima spesa importante in ore della tua vita, al tuo guadagno reale. Decidi se la cosa vale tutte quelle ore.",
+    "Walden, 1854"
+   ],
+   "es": [
+    "El precio de una cosa es la vida que gastas en ella.",
+    "Thoreau medía cada compra en una moneda que el dinero oculta: la cantidad de vida entregada para costearla, ahora o a lo largo de los años de trabajo por venir. Un objeto barato comprado con horas que no puedes recuperar no es barato. Contar el coste solo en dinero halaga el libro mayor, mientras la cuenta real, el tiempo vivido, se vacía en silencio.",
+    "Convierte tu próximo gasto grande en horas de tu vida, a lo que realmente ganas. Decide si la cosa vale todas esas horas.",
+    "Walden, 1854"
+   ],
+   "la": [
+    "Pretium rei est vita quam in eam impendis."
+   ]
+  },
+  "batch": "2026-11-12-01",
+  "added": "2026-11-12T12:00:00Z"
+ },
+ {
+  "id": "a49",
+  "t": "bagehot",
+  "era": "1873",
+  "src": "Lombard Street: A Description of the Money Market, 1873",
+  "h": "In a panic, lend freely against good collateral.",
+  "b": "Watching Victorian bank runs, Bagehot drew a rule still used by central banks: when fear drains the system, the lender of last resort must lend early and without limit, but only on sound collateral and at a high rate. Free lending kills the panic; the penalty rate and good security keep it from rescuing the truly insolvent.",
+  "d": "When a key partner hits a cash crisis, decide in advance your terms: how freely you will extend credit, against what security, at what price.",
+  "tg": [
+   "money",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Lombard_Street:_A_Description_of_the_Money_Market",
+  "thinker": {
+   "n": "Walter Bagehot",
+   "i": "WB",
+   "r": "Economist and journalist, England",
+   "w": "a",
+   "y": "1826-1877",
+   "names": {},
+   "roles": {
+    "it": "Economista e giornalista, Inghilterra",
+    "es": "Economista y periodista, Inglaterra",
+    "la": "Oeconomus et diurnarius, Anglia"
+   }
+  },
+  "tr": {
+   "it": [
+    "Nel panico, presta senza riserve ma contro buone garanzie.",
+    "Osservando le corse agli sportelli vittoriane, Bagehot trasse una regola ancora usata dalle banche centrali: quando la paura prosciuga il sistema, il prestatore di ultima istanza deve prestare presto e senza limiti, ma solo contro garanzie solide e a un tasso elevato. Il prestito libero spegne il panico; il tasso di penalità e la buona garanzia impediscono di salvare chi è davvero insolvente.",
+    "Quando un partner chiave entra in crisi di liquidità, decidi in anticipo i tuoi termini: con quanta libertà estenderai credito, contro quali garanzie, a che prezzo.",
+    "Lombard Street: A Description of the Money Market, 1873"
+   ],
+   "es": [
+    "En el pánico, presta sin reservas pero contra buena garantía.",
+    "Observando los pánicos bancarios victorianos, Bagehot extrajo una regla que los bancos centrales aún usan: cuando el miedo drena el sistema, el prestamista de última instancia debe prestar pronto y sin límite, pero solo contra garantías sólidas y a un tipo alto. El préstamo libre apaga el pánico; el tipo de penalización y la buena garantía evitan rescatar a los verdaderamente insolventes.",
+    "Cuando un socio clave sufra una crisis de liquidez, decide de antemano tus términos: con cuánta libertad extenderás crédito, contra qué garantía, a qué precio.",
+    "Lombard Street: A Description of the Money Market, 1873"
+   ],
+   "la": [
+    "In pavore, large sed pignore bono crede."
+   ]
+  },
+  "batch": "2026-11-12-01",
+  "added": "2026-11-12T12:00:00Z"
+ }
+]

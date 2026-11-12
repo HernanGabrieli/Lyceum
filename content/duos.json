@@ -196,5 +196,27 @@
    "es": "Hoffman te dice que lances antes de estar orgulloso; Erasmo te dice que te apresures despacio. La tensión es útil: la velocidad conquista mercados, pero el paso caro de revertir es el que merece el ancla.",
    "la": "Hoffman statim emittere iubet; Erasmus festinare lente. Ubi lapsus irreparabilis, mora regat; alibi, celeritas."
   }
+ },
+ {
+  "a": "a47",
+  "v": "v44",
+  "th": "leadership",
+  "br": {
+   "en": "Han Fei trusts law over the virtue of any official; Senge trusts structure over the character of any employee. Two millennia apart, both locate performance in the system people act inside, not in the people themselves.",
+   "it": "Han Fei si fida della legge più che della virtù di qualunque funzionario; Senge si fida della struttura più che del carattere di qualunque dipendente. A duemila anni di distanza, entrambi collocano il risultato nel sistema in cui le persone agiscono, non nelle persone stesse.",
+   "es": "Han Fei confía en la ley más que en la virtud de cualquier funcionario; Senge confía en la estructura más que en el carácter de cualquier empleado. A dos mil años de distancia, ambos sitúan el desempeño en el sistema en que la gente actúa, no en las personas mismas.",
+   "la": "Han Fei legi plus quam virtuti fidit; Senge structurae plus quam moribus. Ambo opus in systemate, non in homine, ponunt."
+  }
+ },
+ {
+  "a": "a48",
+  "v": "v45",
+  "th": "money",
+  "br": {
+   "en": "Thoreau prices a purchase in the life you spend to afford it; Gurley prices revenue by the quality of the dollar beneath it. Both refuse the headline figure and ask what the number actually costs or is worth.",
+   "it": "Thoreau misura un acquisto nella vita che spendi per permettertelo; Gurley misura il ricavo dalla qualità dell'euro che lo compone. Entrambi rifiutano la cifra di facciata e chiedono quanto il numero costi davvero o valga davvero.",
+   "es": "Thoreau tasa una compra por la vida que gastas para costearla; Gurley tasa el ingreso por la calidad del euro que lo sostiene. Ambos rechazan la cifra de titular y preguntan cuánto cuesta o vale de verdad el número.",
+   "la": "Thoreau emptionem vita aestimat; Gurley reditum nummi qualitate. Ambo frontem numeri recusant et quid vere constet quaerunt."
+  }
  }
 ]
