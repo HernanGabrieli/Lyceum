@@ -3176,5 +3176,342 @@
   },
   "batch": "2026-11-12-01",
   "added": "2026-11-12T12:00:00Z"
+ },
+ {
+  "id": "v48",
+  "t": "sandberg",
+  "era": "2013",
+  "src": "Lean In, 2013",
+  "h": "Don't leave before you leave.",
+  "b": "Long before a child arrives, many talented people quietly scale back ambition, declining the promotion or project they could win now. The retreat is rehearsed for a future that may be years away, and it narrows options before any real constraint exists. The time to lean in is precisely the time one is tempted to lean back.",
+  "d": "Name one stretch role or project you are avoiding for a future obligation not yet real. Pursue it this quarter instead of pre-deciding against yourself.",
+  "tg": [
+   "leadership",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Lean_In",
+  "tr": {
+   "it": [
+    "Non andartene prima di andartene.",
+    "Molto prima che arrivi un figlio, tante persone di talento riducono in silenzio le proprie ambizioni, rinunciando alla promozione o al progetto che potrebbero ottenere ora. La ritirata è provata per un futuro che può essere lontano anni, e restringe le opzioni prima che esista un vincolo reale. Il momento di spingersi avanti è proprio quello in cui si è tentati di tirarsi indietro.",
+    "Nomina un ruolo o progetto impegnativo che stai evitando per un obbligo futuro non ancora reale. Perseguilo questo trimestre invece di deciderti contro da solo.",
+    "Lean In, 2013"
+   ],
+   "es": [
+    "No te vayas antes de irte.",
+    "Mucho antes de que llegue un hijo, muchas personas con talento reducen en silencio su ambición, rechazando el ascenso o el proyecto que podrían ganar ahora. La retirada se ensaya para un futuro que puede estar a años de distancia, y estrecha las opciones antes de que exista una restricción real. El momento de dar el paso es justo cuando se tiene la tentación de echarse atrás.",
+    "Nombra un rol o proyecto exigente que estás evitando por una obligación futura aún no real. Persíguelo este trimestre en vez de decidir en tu contra de antemano.",
+    "Lean In, 2013"
+   ],
+   "la": [
+    "Noli abire antequam abeas."
+   ]
+  },
+  "batch": "2026-11-13-01",
+  "added": "2026-11-13T12:00:00Z"
+ },
+ {
+  "id": "v49",
+  "t": "gates",
+  "era": "1999",
+  "src": "Business @ the Speed of Thought, 1999",
+  "h": "How you move information decides whether you win.",
+  "b": "Gates argued that a company's advantage lies less in any single product than in how fast and cleanly information flows through it. Build a digital nervous system so facts reach the people who decide, and bad news travels as quickly as good. Firms lose not for want of data but for want of circulation.",
+  "d": "Trace one recent bad decision to where the information stalled. Shorten that path so the next warning reaches the decider in hours, not weeks.",
+  "tg": [
+   "strategy",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://archive.org/details/businessspeedoft00gaterich",
+  "tr": {
+   "it": [
+    "Come muovi l'informazione decide se vinci.",
+    "Gates sosteneva che il vantaggio di un'azienda sta meno in un singolo prodotto che nella rapidità e nella pulizia con cui l'informazione vi scorre dentro. Costruisci un sistema nervoso digitale perché i fatti raggiungano chi decide, e le cattive notizie viaggino veloci quanto le buone. Le imprese perdono non per mancanza di dati, ma per mancanza di circolazione.",
+    "Risali da una recente decisione sbagliata al punto in cui l'informazione si è bloccata. Accorcia quel percorso perché il prossimo allarme raggiunga chi decide in ore, non settimane.",
+    "Business @ the Speed of Thought, 1999"
+   ],
+   "es": [
+    "Cómo mueves la información decide si ganas.",
+    "Gates sostenía que la ventaja de una empresa está menos en un solo producto que en lo rápido y limpio que la información fluye por ella. Construye un sistema nervioso digital para que los hechos lleguen a quien decide, y las malas noticias viajen tan rápido como las buenas. Las empresas pierden no por falta de datos, sino por falta de circulación.",
+    "Rastrea una decisión reciente equivocada hasta donde se estancó la información. Acorta ese camino para que el próximo aviso llegue a quien decide en horas, no semanas.",
+    "Business @ the Speed of Thought, 1999"
+   ],
+   "la": [
+    "Cursus nuntii victoriam decernit."
+   ]
+  },
+  "batch": "2026-11-13-01",
+  "added": "2026-11-13T12:00:00Z"
+ },
+ {
+  "id": "v50",
+  "t": "cagan",
+  "era": "2020",
+  "src": "Empowered, 2020",
+  "h": "Give teams problems to solve, not features to build.",
+  "b": "Cagan draws a sharp line between feature teams, handed a roadmap of outputs, and empowered teams, handed a problem and the context to solve it. The first optimises for shipping on schedule; the second optimises for the business result, and is free to discard its first idea when the evidence turns. Autonomy without a problem is just drift.",
+  "d": "Rewrite your next quarter's roadmap as three problems to solve, each with a measurable outcome. Let the team choose the features.",
+  "tg": [
+   "building",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://www.svpg.com/team-objectives-empowerment/",
+  "tr": {
+   "it": [
+    "Dai ai team problemi da risolvere, non funzioni da costruire.",
+    "Cagan traccia una linea netta tra i team di funzioni, a cui si consegna una roadmap di output, e i team autonomi, a cui si consegna un problema e il contesto per risolverlo. I primi ottimizzano per consegnare nei tempi; i secondi ottimizzano per il risultato di business, e sono liberi di scartare la prima idea quando le prove cambiano. L'autonomia senza un problema è solo deriva.",
+    "Riscrivi la roadmap del prossimo trimestre come tre problemi da risolvere, ciascuno con un esito misurabile. Lascia che sia il team a scegliere le funzioni.",
+    "Empowered, 2020"
+   ],
+   "es": [
+    "Da a los equipos problemas que resolver, no funciones que construir.",
+    "Cagan traza una línea nítida entre los equipos de funciones, a los que se entrega una hoja de ruta de salidas, y los equipos autónomos, a los que se entrega un problema y el contexto para resolverlo. Los primeros optimizan entregar a tiempo; los segundos optimizan el resultado de negocio, y son libres de descartar su primera idea cuando la evidencia cambia. La autonomía sin un problema es solo deriva.",
+    "Reescribe la hoja de ruta del próximo trimestre como tres problemas que resolver, cada uno con un resultado medible. Deja que el equipo elija las funciones.",
+    "Empowered, 2020"
+   ],
+   "la": [
+    "Da quaestiones solvendas, non opera facienda."
+   ]
+  },
+  "batch": "2026-11-13-01",
+  "added": "2026-11-13T12:00:00Z"
+ },
+ {
+  "id": "v51",
+  "t": "mcgrath",
+  "era": "2013",
+  "src": "The End of Competitive Advantage, 2013",
+  "h": "Advantages are transient; learn to exit them on time.",
+  "b": "McGrath argues that durable competitive advantage is now the exception. Markets move too fast for any moat to hold, so the winning firm treats each advantage as a wave: catch it, ride it, and disengage before it collapses. The rare skill is not defending a position forever but releasing it early to fund the next one.",
+  "d": "Pick your most profitable line and name the signal that would tell you to exit. Decide now who will redeploy the people when it fades.",
+  "tg": [
+   "strategy",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://www.ritamcgrath.com/book/the-end-of-competitive-advantage/",
+  "tr": {
+   "it": [
+    "I vantaggi sono transitori; impara a uscirne in tempo.",
+    "McGrath sostiene che il vantaggio competitivo duraturo è ormai l'eccezione. I mercati si muovono troppo in fretta perché un fossato regga, così l'azienda vincente tratta ogni vantaggio come un'onda: prendila, cavalcala e disimpegnati prima che crolli. L'abilità rara non è difendere una posizione per sempre, ma lasciarla presto per finanziare la successiva.",
+    "Scegli la tua linea più redditizia e nomina il segnale che ti direbbe di uscire. Decidi ora chi ricollocherà le persone quando svanirà.",
+    "The End of Competitive Advantage, 2013"
+   ],
+   "es": [
+    "Las ventajas son transitorias; aprende a salir de ellas a tiempo.",
+    "McGrath sostiene que la ventaja competitiva duradera es ya la excepción. Los mercados se mueven demasiado rápido para que ningún foso aguante, así que la empresa ganadora trata cada ventaja como una ola: cógela, cabálgala y desengánchate antes de que se derrumbe. La habilidad rara no es defender una posición para siempre, sino soltarla pronto para financiar la siguiente.",
+    "Elige tu línea más rentable y nombra la señal que te diría que salieras. Decide ahora quién reubicará a las personas cuando se desvanezca.",
+    "The End of Competitive Advantage, 2013"
+   ],
+   "la": [
+    "Nullum commodum perpetuum; mature exito."
+   ]
+  },
+  "batch": "2026-11-13-01",
+  "added": "2026-11-13T12:00:00Z"
+ },
+ {
+  "id": "v52",
+  "t": "lutke",
+  "era": "2016",
+  "src": "New York Times, Corner Office interview, 2016",
+  "h": "Every working relationship runs on a trust battery.",
+  "b": "Lutke describes trust between colleagues as a battery charged at roughly half on the first day. Every interaction either charges or drains it, and the level, not the job title, decides how much autonomy one person will extend to another. A depleted battery makes even simple requests feel heavy; a full one lets work move without supervision.",
+  "d": "Before your next delegation, estimate the trust battery with that person. If it is low, invest one honest conversation before handing over the work.",
+  "tg": [
+   "character",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://organizationalphysics.com/2016/06/21/how-full-is-your-trust-battery/",
+  "tr": {
+   "it": [
+    "Ogni rapporto di lavoro funziona su una batteria di fiducia.",
+    "Lütke descrive la fiducia tra colleghi come una batteria carica a circa metà il primo giorno. Ogni interazione la carica o la scarica, e il livello, non il titolo di ruolo, decide quanta autonomia una persona concederà a un'altra. Una batteria scarica rende pesante anche una richiesta semplice; una piena lascia che il lavoro proceda senza supervisione.",
+    "Prima della prossima delega, stima la batteria di fiducia con quella persona. Se è bassa, investi una conversazione onesta prima di affidare il lavoro.",
+    "New York Times, intervista Corner Office, 2016"
+   ],
+   "es": [
+    "Toda relación de trabajo funciona con una batería de confianza.",
+    "Lütke describe la confianza entre colegas como una batería cargada a la mitad el primer día. Cada interacción la carga o la agota, y el nivel, no el título del puesto, decide cuánta autonomía una persona concederá a otra. Una batería agotada vuelve pesada hasta una petición simple; una llena deja que el trabajo avance sin supervisión.",
+    "Antes de tu próxima delegación, estima la batería de confianza con esa persona. Si está baja, invierte una conversación honesta antes de entregar el trabajo.",
+    "New York Times, entrevista Corner Office, 2016"
+   ],
+   "la": [
+    "Omnis societas fiducia alitur."
+   ]
+  },
+  "batch": "2026-11-13-01",
+  "added": "2026-11-13T12:00:00Z"
+ },
+ {
+  "id": "a50",
+  "t": "emerson",
+  "era": "1841",
+  "src": "Self-Reliance (Essays: First Series), 1841",
+  "h": "Trust your own mind before the crowd's approval.",
+  "b": "Writing in 1841, Emerson held that the first mark of a strong mind is to trust its own thought even when it contradicts yesterday's. Conformity and a slavish consistency, he warned, are the refuge of the timid: they trade original conviction for the comfort of being predictable. To be great is to be misunderstood, and to keep thinking anyway.",
+  "d": "Name one view you hold only because colleagues expect it. Test whether you still believe it on the evidence alone.",
+  "tg": [
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Self-Reliance",
+  "tr": {
+   "it": [
+    "Fidati della tua mente prima dell'approvazione della folla.",
+    "Scrivendo nel 1841, Emerson riteneva che il primo segno di una mente forte sia fidarsi del proprio pensiero anche quando contraddice quello di ieri. Il conformismo e una coerenza servile, avvertiva, sono il rifugio dei timidi: barattano la convinzione originale con la comodità di essere prevedibili. Essere grandi significa essere fraintesi, e continuare comunque a pensare.",
+    "Nomina un'opinione che tieni solo perché i colleghi se la aspettano. Verifica se ci credi ancora sulla sola base delle prove.",
+    "Fiducia in se stessi (Saggi: Prima serie), 1841"
+   ],
+   "es": [
+    "Confía en tu propia mente antes que en la aprobación de la multitud.",
+    "Escribiendo en 1841, Emerson sostenía que la primera señal de una mente fuerte es confiar en su propio pensamiento aun cuando contradiga el de ayer. El conformismo y una coherencia servil, advertía, son el refugio de los tímidos: cambian la convicción original por la comodidad de ser previsibles. Ser grande es ser malentendido, y seguir pensando de todos modos.",
+    "Nombra una opinión que sostienes solo porque los colegas la esperan. Comprueba si aún la crees basándote únicamente en la evidencia.",
+    "La confianza en uno mismo (Ensayos: Primera serie), 1841"
+   ],
+   "la": [
+    "Menti tuae crede."
+   ]
+  },
+  "batch": "2026-11-13-01",
+  "added": "2026-11-13T12:00:00Z"
+ },
+ {
+  "id": "a51",
+  "t": "burke",
+  "era": "1790",
+  "src": "Reflections on the Revolution in France, 1790",
+  "h": "A state that cannot change cannot conserve itself.",
+  "b": "Burke, no friend of revolution, nonetheless insisted that an institution with no means of reform has no means of survival. Rigidity does not preserve; it stores pressure until the whole structure breaks at once. Prudent, gradual change is how a lasting order renews the very parts it most wishes to keep. The choice is reform or rupture.",
+  "d": "Find the rule or structure your team defends most rigidly. Schedule its next review now, before pressure forces a disorderly break.",
+  "tg": [
+   "power"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Reflections_on_the_Revolution_in_France",
+  "tr": {
+   "it": [
+    "Uno Stato che non sa cambiare non sa conservarsi.",
+    "Burke, per nulla amico della rivoluzione, insisteva tuttavia che un'istituzione priva di mezzi di riforma è priva di mezzi di sopravvivenza. La rigidità non conserva; accumula pressione finché l'intera struttura si spezza in un colpo solo. Il cambiamento prudente e graduale è il modo in cui un ordine duraturo rinnova proprio le parti che più desidera mantenere. La scelta è tra riforma e rottura.",
+    "Individua la regola o la struttura che il tuo team difende con più rigidità. Fissane ora la prossima revisione, prima che la pressione imponga una rottura disordinata.",
+    "Riflessioni sulla Rivoluzione francese, 1790"
+   ],
+   "es": [
+    "Un Estado que no puede cambiar no puede conservarse.",
+    "Burke, nada amigo de la revolución, insistía sin embargo en que una institución sin medios de reforma carece de medios de supervivencia. La rigidez no preserva; acumula presión hasta que toda la estructura se quiebra de golpe. El cambio prudente y gradual es como un orden duradero renueva justamente las partes que más desea mantener. La elección es entre reforma y ruptura.",
+    "Encuentra la regla o estructura que tu equipo defiende con más rigidez. Programa ahora su próxima revisión, antes de que la presión fuerce una ruptura desordenada.",
+    "Reflexiones sobre la Revolución francesa, 1790"
+   ],
+   "la": [
+    "Qui mutare nequit, servare nequit."
+   ]
+  },
+  "batch": "2026-11-13-01",
+  "added": "2026-11-13T12:00:00Z"
+ },
+ {
+  "id": "a52",
+  "t": "spinoza",
+  "era": "1677",
+  "src": "Political Treatise (Tractatus Politicus), 1677",
+  "h": "Design institutions for people as they are, not as you wish.",
+  "b": "In his unfinished Political Treatise, Spinoza set out to study human actions not to mock, lament, or curse them, but to understand them as natural facts, like heat or storms. A durable order, he concluded, must not depend on the virtue of rulers; it must be arranged so that self-interested people are led to serve the common good anyway.",
+  "d": "Stop relying on a colleague's goodwill for a critical process. Redesign it so the right outcome happens even when goodwill runs out.",
+  "tg": [
+   "power"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Political_Treatise",
+  "tr": {
+   "it": [
+    "Progetta le istituzioni per gli uomini come sono, non come li vorresti.",
+    "Nel suo incompiuto Trattato politico, Spinoza si propose di studiare le azioni umane non per deriderle, piangerle o maledirle, ma per comprenderle come fatti naturali, al pari del caldo o delle tempeste. Un ordine duraturo, concluse, non deve dipendere dalla virtù di chi governa; va disposto in modo che anche persone mosse dall'interesse siano indotte a servire comunque il bene comune.",
+    "Smetti di affidarti alla buona volontà di un collega per un processo critico. Riprogettalo in modo che l'esito giusto accada anche quando la buona volontà si esaurisce.",
+    "Trattato politico (Tractatus Politicus), 1677"
+   ],
+   "es": [
+    "Diseña las instituciones para las personas como son, no como las deseas.",
+    "En su inacabado Tratado político, Spinoza se propuso estudiar las acciones humanas no para burlarse de ellas, lamentarlas o maldecirlas, sino para comprenderlas como hechos naturales, igual que el calor o las tormentas. Un orden duradero, concluyó, no debe depender de la virtud de los gobernantes; debe disponerse de modo que incluso las personas movidas por el interés sean llevadas a servir de todos modos al bien común.",
+    "Deja de depender de la buena voluntad de un colega para un proceso crítico. Rediséñalo para que el resultado correcto ocurra incluso cuando la buena voluntad se agote.",
+    "Tratado político (Tractatus Politicus), 1677"
+   ],
+   "la": [
+    "Non ridere, non lugere, sed intellegere."
+   ]
+  },
+  "batch": "2026-11-13-01",
+  "added": "2026-11-13T12:00:00Z"
+ },
+ {
+  "id": "a53",
+  "t": "moltke",
+  "era": "1871",
+  "src": "On Strategy (Über Strategie), 1871",
+  "h": "No plan survives first contact; so delegate judgment.",
+  "b": "Moltke taught that no operational plan reaches with certainty beyond the first clash with the enemy's main force. Rather than script every move from headquarters, he set a clear intent and trained subordinates to decide for themselves within it. The plan is a shared direction, not a cage; the advantage goes to the side whose people can adapt without asking permission.",
+  "d": "State the intent behind your next project in one sentence, then let the team choose the method. Review outcomes, not their every step.",
+  "tg": [
+   "strategy",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://en.wikiquote.org/wiki/Helmuth_von_Moltke_the_Elder",
+  "tr": {
+   "it": [
+    "Nessun piano sopravvive al primo contatto; perciò delega il giudizio.",
+    "Moltke insegnava che nessun piano operativo si estende con certezza oltre il primo scontro con il grosso delle forze nemiche. Invece di dettare ogni mossa dal comando, fissava un intento chiaro e addestrava i subordinati a decidere da soli entro quell'intento. Il piano è una direzione condivisa, non una gabbia; il vantaggio va alla parte le cui persone sanno adattarsi senza chiedere il permesso.",
+    "Enuncia in una frase l'intento del tuo prossimo progetto, poi lascia che il team scelga il metodo. Valuta i risultati, non ogni loro singolo passo.",
+    "Sulla strategia (Über Strategie), 1871"
+   ],
+   "es": [
+    "Ningún plan sobrevive al primer contacto; por eso delega el juicio.",
+    "Moltke enseñaba que ningún plan operativo se extiende con certeza más allá del primer choque con el grueso de las fuerzas enemigas. En vez de dictar cada movimiento desde el mando, fijaba una intención clara y adiestraba a los subordinados para decidir por sí mismos dentro de ella. El plan es una dirección compartida, no una jaula; la ventaja es del bando cuya gente sabe adaptarse sin pedir permiso.",
+    "Enuncia en una frase la intención de tu próximo proyecto, luego deja que el equipo elija el método. Evalúa los resultados, no cada uno de sus pasos.",
+    "Sobre la estrategia (Über Strategie), 1871"
+   ],
+   "la": [
+    "Nullum consilium primum occursum superat."
+   ]
+  },
+  "batch": "2026-11-13-01",
+  "added": "2026-11-13T12:00:00Z"
+ },
+ {
+  "id": "a54",
+  "t": "hesiod",
+  "era": "c. 700 BC",
+  "src": "Works and Days, c. 700 BC",
+  "h": "There is a good strife that drives honest work.",
+  "b": "Hesiod distinguished two kinds of Strife. One breeds war and ruin; the other is wholesome, for it makes the idle man work when he sees his neighbour prosper. Potter competes with potter, craftsman with craftsman, each spurred by the success beside him. Rivalry, rightly aimed, is not envy but the oldest engine of effort.",
+  "d": "Pick one competitor who is clearly better at something. Study their method this week and let their success set your bar, not your mood.",
+  "tg": [
+   "building",
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Works_and_Days",
+  "tr": {
+   "it": [
+    "Esiste una buona contesa che spinge al lavoro onesto.",
+    "Esiodo distingueva due tipi di Contesa. Una genera guerra e rovina; l'altra è salutare, perché fa lavorare l'ozioso quando vede prosperare il vicino. Il vasaio gareggia con il vasaio, l'artigiano con l'artigiano, ciascuno spronato dal successo accanto a sé. La rivalità, ben diretta, non è invidia ma il più antico motore dell'impegno.",
+    "Scegli un concorrente chiaramente più bravo in qualcosa. Studia il suo metodo questa settimana e lascia che il suo successo fissi la tua asticella, non il tuo umore.",
+    "Le opere e i giorni, c. 700 a.C."
+   ],
+   "es": [
+    "Existe una buena contienda que impulsa el trabajo honesto.",
+    "Hesíodo distinguía dos clases de Contienda. Una engendra guerra y ruina; la otra es saludable, pues hace trabajar al ocioso cuando ve prosperar a su vecino. El alfarero compite con el alfarero, el artesano con el artesano, cada uno espoleado por el éxito que tiene al lado. La rivalidad, bien dirigida, no es envidia sino el más antiguo motor del esfuerzo.",
+    "Elige un competidor claramente mejor en algo. Estudia su método esta semana y deja que su éxito fije tu listón, no tu estado de ánimo.",
+    "Los trabajos y los días, c. 700 a. C."
+   ],
+   "la": [
+    "Est bona contentio quae laborem gignit."
+   ]
+  },
+  "batch": "2026-11-13-01",
+  "added": "2026-11-13T12:00:00Z"
  }
 ]

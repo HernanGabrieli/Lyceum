@@ -218,5 +218,27 @@
    "es": "Thoreau tasa una compra por la vida que gastas para costearla; Gurley tasa el ingreso por la calidad del euro que lo sostiene. Ambos rechazan la cifra de titular y preguntan cuánto cuesta o vale de verdad el número.",
    "la": "Thoreau emptionem vita aestimat; Gurley reditum nummi qualitate. Ambo frontem numeri recusant et quid vere constet quaerunt."
   }
+ },
+ {
+  "a": "a51",
+  "v": "v51",
+  "th": "strategy",
+  "br": {
+   "en": "Burke says an institution that cannot change cannot conserve itself; McGrath says no advantage lasts and the skill is exiting it on time. Both reject standing still: survival comes from disciplined, deliberate change, not from guarding a position until it shatters.",
+   "it": "Burke dice che un'istituzione che non sa cambiare non sa conservarsi; McGrath dice che nessun vantaggio dura e che l'abilità è uscirne in tempo. Entrambi rifiutano l'immobilità: la sopravvivenza nasce dal cambiamento disciplinato e deliberato, non dal custodire una posizione finché va in frantumi.",
+   "es": "Burke dice que una institución que no puede cambiar no puede conservarse; McGrath dice que ninguna ventaja dura y que la habilidad es salir de ella a tiempo. Ambos rechazan quedarse quietos: la supervivencia nace del cambio disciplinado y deliberado, no de custodiar una posición hasta que se hace añicos.",
+   "la": "Burke: qui mutare nequit, servare nequit; McGrath: nullum commodum perpetuum, mature exeundum. Ambo negant loco standum esse."
+  }
+ },
+ {
+  "a": "a53",
+  "v": "v50",
+  "th": "leadership",
+  "br": {
+   "en": "Moltke set a clear intent and let his officers decide within it; Cagan gives teams a problem and lets them choose the features. Two centuries apart, both push the decision down to the people closest to the facts, trusting intent over instruction.",
+   "it": "Moltke fissava un intento chiaro e lasciava decidere i suoi ufficiali al suo interno; Cagan dà ai team un problema e lascia che scelgano le funzioni. A due secoli di distanza, entrambi spingono la decisione verso chi è più vicino ai fatti, fidandosi dell'intento più che dell'istruzione.",
+   "es": "Moltke fijaba una intención clara y dejaba decidir a sus oficiales dentro de ella; Cagan da a los equipos un problema y deja que elijan las funciones. A dos siglos de distancia, ambos empujan la decisión hacia quienes están más cerca de los hechos, confiando en la intención más que en la instrucción.",
+   "la": "Moltke mentem dat, officiales decernunt; Cagan quaestionem dat, turma eligit. Ambo iudicium ad eos qui rebus proximi sunt deferunt."
+  }
  }
 ]

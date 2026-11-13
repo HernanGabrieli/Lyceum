@@ -133,5 +133,36 @@
    "a49": "https://en.wikipedia.org/wiki/Lombard_Street:_A_Description_of_the_Money_Market"
   },
   "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Han Fei/Senge leadership, Thoreau/Gurley money)"
+ },
+ {
+  "at": "2026-11-13T15:13:26Z",
+  "batch": "2026-11-13-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v48",
+   "v49",
+   "v50",
+   "v51",
+   "v52",
+   "a50",
+   "a51",
+   "a52",
+   "a53",
+   "a54"
+  ],
+  "verified": 10,
+  "sources": {
+   "v48": "https://en.wikipedia.org/wiki/Lean_In",
+   "v49": "https://archive.org/details/businessspeedoft00gaterich",
+   "v50": "https://www.svpg.com/team-objectives-empowerment/",
+   "v51": "https://www.ritamcgrath.com/book/the-end-of-competitive-advantage/",
+   "v52": "https://organizationalphysics.com/2016/06/21/how-full-is-your-trust-battery/",
+   "a50": "https://en.wikipedia.org/wiki/Self-Reliance",
+   "a51": "https://en.wikipedia.org/wiki/Reflections_on_the_Revolution_in_France",
+   "a52": "https://en.wikipedia.org/wiki/Political_Treatise",
+   "a53": "https://en.wikiquote.org/wiki/Helmuth_von_Moltke_the_Elder",
+   "a54": "https://en.wikipedia.org/wiki/Works_and_Days"
+  },
+  "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Moltke/Cagan leadership, Burke/McGrath strategy)"
  }
 ]

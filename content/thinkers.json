@@ -1080,5 +1080,145 @@
    "es": "Economista y periodista, Inglaterra",
    "la": "Oeconomus et diurnarius, Anglia"
   }
+ },
+ "sandberg": {
+  "n": "Sheryl Sandberg",
+  "i": "SS",
+  "r": "COO, Meta (Facebook)",
+  "w": "v",
+  "y": "b. 1969",
+  "names": {},
+  "roles": {
+   "it": "COO, Meta (Facebook)",
+   "es": "COO, Meta (Facebook)",
+   "la": "Praefecta operum, Meta"
+  }
+ },
+ "gates": {
+  "n": "Bill Gates",
+  "i": "BG",
+  "r": "Co-founder, Microsoft",
+  "w": "v",
+  "y": "b. 1955",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore, Microsoft",
+   "es": "Cofundador, Microsoft",
+   "la": "Conditor Microsoft"
+  }
+ },
+ "cagan": {
+  "n": "Marty Cagan",
+  "i": "MC",
+  "r": "Founder, Silicon Valley Product Group",
+  "w": "v",
+  "y": "contemporary",
+  "names": {},
+  "roles": {
+   "it": "Fondatore, Silicon Valley Product Group",
+   "es": "Fundador, Silicon Valley Product Group",
+   "la": "Conditor, Silicon Valley Product Group"
+  }
+ },
+ "mcgrath": {
+  "n": "Rita McGrath",
+  "i": "RM",
+  "r": "Professor, Columbia Business School",
+  "w": "v",
+  "y": "contemporary",
+  "names": {},
+  "roles": {
+   "it": "Professoressa, Columbia Business School",
+   "es": "Profesora, Columbia Business School",
+   "la": "Professor, Columbia Business School"
+  }
+ },
+ "lutke": {
+  "n": "Tobi Lütke",
+  "i": "TL",
+  "r": "Co-founder, Shopify",
+  "w": "v",
+  "y": "b. 1980",
+  "names": {},
+  "roles": {
+   "it": "Co-fondatore, Shopify",
+   "es": "Cofundador, Shopify",
+   "la": "Conditor Shopify"
+  }
+ },
+ "emerson": {
+  "n": "Ralph Waldo Emerson",
+  "i": "RE",
+  "r": "Essayist and philosopher",
+  "w": "a",
+  "y": "1803–1882",
+  "names": {},
+  "roles": {
+   "it": "Saggista e filosofo",
+   "es": "Ensayista y filósofo",
+   "la": "Scriptor et philosophus"
+  }
+ },
+ "burke": {
+  "n": "Edmund Burke",
+  "i": "EB",
+  "r": "Statesman and political philosopher",
+  "w": "a",
+  "y": "1729–1797",
+  "names": {},
+  "roles": {
+   "it": "Statista e filosofo politico",
+   "es": "Estadista y filósofo político",
+   "la": "Vir rei publicae et philosophus"
+  }
+ },
+ "spinoza": {
+  "n": "Baruch Spinoza",
+  "i": "BS",
+  "r": "Philosopher",
+  "w": "a",
+  "y": "1632–1677",
+  "names": {
+   "la": "Benedictus Spinoza"
+  },
+  "roles": {
+   "it": "Filosofo",
+   "es": "Filósofo",
+   "la": "Philosophus"
+  }
+ },
+ "moltke": {
+  "n": "Helmuth von Moltke the Elder",
+  "i": "HM",
+  "r": "Prussian field marshal and strategist",
+  "w": "a",
+  "y": "1800–1891",
+  "names": {
+   "it": "Helmuth von Moltke il Vecchio",
+   "es": "Helmuth von Moltke el Viejo",
+   "la": "Helmuthus a Moltke senior"
+  },
+  "roles": {
+   "it": "Feldmaresciallo e stratega prussiano",
+   "es": "Mariscal de campo y estratega prusiano",
+   "la": "Dux Borussicus et rei militaris scriptor"
+  }
+ },
+ "hesiod": {
+  "n": "Hesiod",
+  "i": "HE",
+  "r": "Greek poet",
+  "w": "a",
+  "y": "fl. c. 700 BC",
+  "names": {
+   "it": "Esiodo",
+   "es": "Hesíodo",
+   "la": "Hesiodus"
+  },
+  "roles": {
+   "it": "Poeta greco",
+   "es": "Poeta griego",
+   "la": "Poeta Graecus"
+  }
  }
 }
