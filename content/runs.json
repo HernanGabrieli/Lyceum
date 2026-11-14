@@ -164,5 +164,36 @@
    "a54": "https://en.wikipedia.org/wiki/Works_and_Days"
   },
   "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Moltke/Cagan leadership, Burke/McGrath strategy)"
+ },
+ {
+  "at": "2026-11-14T14:07:40Z",
+  "batch": "2026-11-14-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v53",
+   "v54",
+   "v55",
+   "v56",
+   "v57",
+   "a55",
+   "a56",
+   "a57",
+   "a58",
+   "a59"
+  ],
+  "verified": 10,
+  "sources": {
+   "v53": "https://www.strategy-business.com/article/04212",
+   "v54": "https://en.wikipedia.org/wiki/Slack_(software)",
+   "v55": "https://en.wikipedia.org/wiki/Founders_at_Work",
+   "v56": "https://www.bondcap.com/report/pdf/Internet_Trends_2019.pdf",
+   "v57": "https://tyastunggal.com/p/how-to-operate",
+   "a55": "https://en.wikipedia.org/wiki/Sprezzatura",
+   "a56": "https://en.wikipedia.org/wiki/Tzedakah",
+   "a57": "https://www.gutenberg.org/files/10741/10741-h/10741-h.htm",
+   "a58": "https://terebess.hu/english/chuangtzu.html",
+   "a59": "https://en.wikipedia.org/wiki/Solon"
+  },
+  "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Zhuangzi/Butterfield strategy, Solon/Livingston character)"
  }
 ]

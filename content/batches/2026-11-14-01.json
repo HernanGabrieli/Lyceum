@@ -1,0 +1,419 @@
+[
+ {
+  "id": "v53",
+  "t": "kelleher",
+  "era": "2004",
+  "src": "The Thought Leader Interview, strategy+business, 2004",
+  "h": "Employees first; the customer follows.",
+  "b": "Kelleher ran Southwest on an order that struck rivals as backwards: employees first, customers second, shareholders third. The logic is a chain, not charity. People treated well treat passengers well; satisfied passengers return; returning passengers are what finally rewards owners. Invert the sequence and the chain breaks at its first link.",
+  "d": "Name the group your incentives actually serve first. If it is not the people who face customers, your service promise is already undermined.",
+  "tg": [
+   "leadership",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://www.strategy-business.com/article/04212",
+  "note": "",
+  "thinker": {
+   "n": "Herb Kelleher", "i": "HK", "r": "Co-founder, Southwest Airlines", "w": "v", "y": "1931–2019",
+   "names": {"it": "Herb Kelleher", "es": "Herb Kelleher", "la": "Herbertus Kelleher"},
+   "roles": {"it": "Cofondatore, Southwest Airlines", "es": "Cofundador, Southwest Airlines", "la": "Conditor Southwest Airlines"}
+  },
+  "tr": {
+   "it": [
+    "Prima i dipendenti, poi i clienti.",
+    "Kelleher gestiva Southwest con un ordine che ai rivali pareva rovesciato: prima i dipendenti, poi i clienti, infine gli azionisti. La logica è una catena, non carità. Chi è trattato bene tratta bene i passeggeri; i passeggeri soddisfatti tornano; i passeggeri che tornano sono ciò che infine premia i proprietari. Inverti la sequenza e la catena si spezza al primo anello.",
+    "Dai un nome al gruppo che i tuoi incentivi servono per primo. Se non sono le persone a contatto col cliente, la tua promessa di servizio è già minata.",
+    "Intervista 'The Thought Leader', strategy+business, 2004"
+   ],
+   "es": [
+    "Primero los empleados, luego los clientes.",
+    "Kelleher dirigía Southwest con un orden que a los rivales parecía invertido: primero los empleados, luego los clientes, por último los accionistas. La lógica es una cadena, no caridad. Quien es bien tratado trata bien a los pasajeros; los pasajeros satisfechos vuelven; los pasajeros que vuelven son lo que al final recompensa a los dueños. Invierte la secuencia y la cadena se rompe en el primer eslabón.",
+    "Nombra al grupo al que tus incentivos sirven primero. Si no son las personas que atienden al cliente, tu promesa de servicio ya está socavada.",
+    "Entrevista 'The Thought Leader', strategy+business, 2004"
+   ],
+   "la": [
+    "Operarii primum, deinde clientes."
+   ]
+  },
+  "batch": "2026-11-14-01",
+  "added": "2026-11-14T12:00:00Z"
+ },
+ {
+  "id": "v54",
+  "t": "butterfield",
+  "era": "2013",
+  "src": "Slack's launch, out of the failed game Glitch, 2013",
+  "h": "The product hides inside the byproduct.",
+  "b": "Twice Butterfield set out to build a game and twice the game failed. Flickr survived as a photo feature inside one; Slack survived as the messaging tool his team had built to make another. The lesson is not persistence with the plan but attention to what the work quietly produces.",
+  "d": "List the internal tools you built just to get your real work done. One of them may be worth more than the work.",
+  "tg": [
+   "strategy",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Slack_(software)",
+  "note": "",
+  "thinker": {
+   "n": "Stewart Butterfield", "i": "SB", "r": "Co-founder, Flickr and Slack", "w": "v", "y": "b. 1973",
+   "names": {"it": "Stewart Butterfield", "es": "Stewart Butterfield", "la": "Stewartus Butterfield"},
+   "roles": {"it": "Cofondatore, Flickr e Slack", "es": "Cofundador, Flickr y Slack", "la": "Conditor Flickr et Slack"}
+  },
+  "tr": {
+   "it": [
+    "Il prodotto si nasconde nel sottoprodotto.",
+    "Due volte Butterfield volle costruire un gioco e due volte il gioco fallì. Flickr sopravvisse come funzione di foto dentro uno; Slack sopravvisse come strumento di messaggistica che il suo team aveva costruito per farne un altro. La lezione non è l'ostinazione nel piano, ma l'attenzione a ciò che il lavoro produce di nascosto.",
+    "Elenca gli strumenti interni che hai costruito solo per portare a termine il vero lavoro. Uno di essi potrebbe valere più del lavoro stesso.",
+    "Il lancio di Slack, dal gioco fallito Glitch, 2013"
+   ],
+   "es": [
+    "El producto se esconde en el subproducto.",
+    "Dos veces Butterfield quiso construir un juego y dos veces el juego fracasó. Flickr sobrevivió como una función de fotos dentro de uno; Slack sobrevivió como la herramienta de mensajería que su equipo había construido para hacer otro. La lección no es la obstinación con el plan, sino la atención a lo que el trabajo produce de forma callada.",
+    "Enumera las herramientas internas que construiste solo para sacar adelante el trabajo real. Una de ellas podría valer más que el propio trabajo.",
+    "El lanzamiento de Slack, a partir del juego fallido Glitch, 2013"
+   ],
+   "la": [
+    "Verum opus saepe in margine latet."
+   ]
+  },
+  "duo": {
+   "a": "a58", "v": "v54", "th": "strategy",
+   "br": {
+    "en": "Zhuangzi's tree survives by being good for nothing in particular; Butterfield's companies survived as the side-tool nobody set out to build. Value often arrives sideways, from the part of the work that looked beside the point.",
+    "it": "L'albero di Zhuangzi sopravvive perché non serve a nulla di preciso; le aziende di Butterfield sono sopravvissute come lo strumento collaterale che nessuno voleva costruire. Il valore spesso arriva di lato, dalla parte del lavoro che pareva marginale.",
+    "es": "El árbol de Zhuangzi sobrevive por no servir para nada en concreto; las empresas de Butterfield sobrevivieron como la herramienta lateral que nadie se propuso construir. El valor suele llegar de costado, desde la parte del trabajo que parecía al margen.",
+    "la": "Saepe ex margine venit pretium."
+   }
+  },
+  "batch": "2026-11-14-01",
+  "added": "2026-11-14T12:00:00Z"
+ },
+ {
+  "id": "v55",
+  "t": "livingston",
+  "era": "2007",
+  "src": "Founders at Work, 2007",
+  "h": "The beginning never looks like the legend.",
+  "b": "Livingston interviewed founders of well-known companies about their first years and found the origin was always messier than the later story. Plans collapsed, pivots were accidents, success looked unlikely from inside. The polished founding myth is written backwards; judging a young venture by how composed it appears mistakes the legend for the record.",
+  "d": "Before judging your startup against a rival's tidy story, find out how chaotic that rival's own first two years actually were.",
+  "tg": [
+   "character",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Founders_at_Work",
+  "note": "",
+  "thinker": {
+   "n": "Jessica Livingston", "i": "JL", "r": "Co-founder, Y Combinator", "w": "v", "y": "b. 1971",
+   "names": {"it": "Jessica Livingston", "es": "Jessica Livingston", "la": "Iessica Livingston"},
+   "roles": {"it": "Cofondatrice, Y Combinator", "es": "Cofundadora, Y Combinator", "la": "Conditrix Y Combinator"}
+  },
+  "tr": {
+   "it": [
+    "L'inizio non somiglia mai alla leggenda.",
+    "Livingston intervistò i fondatori di aziende celebri sui loro primi anni e trovò che l'origine era sempre più caotica della storia successiva. I piani crollavano, le svolte erano incidenti, il successo da dentro sembrava improbabile. Il mito fondativo levigato è scritto a ritroso; giudicare una giovane impresa da quanto appare composta scambia la leggenda per il resoconto.",
+    "Prima di giudicare la tua startup rispetto alla storia ordinata di un rivale, scopri quanto furono caotici i primi due anni di quel rivale.",
+    "Founders at Work, 2007"
+   ],
+   "es": [
+    "El comienzo nunca se parece a la leyenda.",
+    "Livingston entrevistó a los fundadores de empresas célebres sobre sus primeros años y halló que el origen siempre fue más caótico que la historia posterior. Los planes se derrumbaban, los giros eran accidentes, el éxito parecía improbable desde dentro. El mito fundacional pulido se escribe hacia atrás; juzgar a una empresa joven por lo serena que parece confunde la leyenda con el registro.",
+    "Antes de juzgar tu startup frente a la historia ordenada de un rival, averigua cuán caóticos fueron los dos primeros años de ese rival.",
+    "Founders at Work, 2007"
+   ],
+   "la": [
+    "Initium numquam fabulae simile est."
+   ]
+  },
+  "duo": {
+   "a": "a59", "v": "v55", "th": "character",
+   "br": {
+    "en": "Solon refuses to call a life happy until it ends; Livingston finds the opening act of a company just as misleading. Both distrust the single frame—the glittering peak or the shambolic start—and judge only by the whole arc.",
+    "it": "Solone rifiuta di dire felice una vita finché non è conclusa; Livingston trova altrettanto ingannevole l'atto iniziale di un'azienda. Entrambi diffidano del fotogramma singolo—il picco splendente o l'inizio caotico—e giudicano solo dall'intero arco.",
+    "es": "Solón se niega a llamar feliz a una vida hasta que termina; Livingston halla igual de engañoso el acto inicial de una empresa. Ambos desconfían del fotograma único—el pico brillante o el comienzo caótico—y juzgan solo por el arco entero.",
+    "la": "Finem specta, non imaginem."
+   }
+  },
+  "batch": "2026-11-14-01",
+  "added": "2026-11-14T12:00:00Z"
+ },
+ {
+  "id": "v56",
+  "t": "meeker",
+  "era": "2019",
+  "src": "Internet Trends report, 2019",
+  "h": "Attention moves before the money does.",
+  "b": "For years Meeker's Internet Trends report tracked a recurring gap: people shift their hours to a new medium well before advertising budgets follow. Time spent on mobile outran mobile ad spending by billions. The signal is simple—watch where human attention is already going, because the money arrives late and predictably.",
+  "d": "Track where your customers already spend time, not where competitors spend money. The first number leads the second by years.",
+  "tg": [
+   "strategy",
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://www.bondcap.com/report/pdf/Internet_Trends_2019.pdf",
+  "note": "",
+  "thinker": {
+   "n": "Mary Meeker", "i": "MM", "r": "Venture capitalist; author of Internet Trends", "w": "v", "y": "b. 1959",
+   "names": {"it": "Mary Meeker", "es": "Mary Meeker", "la": "Maria Meeker"},
+   "roles": {"it": "Venture capitalist; autrice di Internet Trends", "es": "Inversora de riesgo; autora de Internet Trends", "la": "Negotiatrix nummaria"}
+  },
+  "tr": {
+   "it": [
+    "L'attenzione si sposta prima del denaro.",
+    "Per anni il rapporto Internet Trends di Meeker ha registrato uno scarto ricorrente: le persone spostano le loro ore su un nuovo mezzo ben prima che lo seguano i budget pubblicitari. Il tempo passato su mobile superava la spesa pubblicitaria mobile di miliardi. Il segnale è semplice: osserva dove sta già andando l'attenzione umana, perché il denaro arriva tardi e in modo prevedibile.",
+    "Segui dove i tuoi clienti già passano il tempo, non dove i concorrenti spendono denaro. Il primo dato precede il secondo di anni.",
+    "Rapporto Internet Trends, 2019"
+   ],
+   "es": [
+    "La atención se mueve antes que el dinero.",
+    "Durante años el informe Internet Trends de Meeker registró una brecha recurrente: la gente traslada sus horas a un nuevo medio mucho antes de que lo sigan los presupuestos publicitarios. El tiempo en móvil superaba el gasto publicitario móvil en miles de millones. La señal es simple: observa adónde ya se dirige la atención humana, porque el dinero llega tarde y de forma predecible.",
+    "Sigue dónde tus clientes ya pasan el tiempo, no dónde los competidores gastan dinero. El primer dato se adelanta al segundo por años.",
+    "Informe Internet Trends, 2019"
+   ],
+   "la": [
+    "Mens hominum ante pecuniam movetur."
+   ]
+  },
+  "batch": "2026-11-14-01",
+  "added": "2026-11-14T12:00:00Z"
+ },
+ {
+  "id": "v57",
+  "t": "rabois",
+  "era": "2014",
+  "src": "Lecture 'How to Operate', 2014",
+  "h": "Count your barrels, not your headcount.",
+  "b": "Rabois splits people into ammunition and barrels. Ammunition execute well but need aim; barrels take a vague idea, gather the people, and ship the whole thing. A company can run only as many initiatives at once as it has barrels, so adding headcount without adding barrels buys motion, not progress.",
+  "d": "Count the people who can own an outcome end to end. That number, not your total staff, is your real capacity.",
+  "tg": [
+   "leadership",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://tyastunggal.com/p/how-to-operate",
+  "note": "",
+  "thinker": {
+   "n": "Keith Rabois", "i": "KR", "r": "Investor; former COO of Square", "w": "v", "y": "b. 1969",
+   "names": {"it": "Keith Rabois", "es": "Keith Rabois", "la": "Keith Rabois"},
+   "roles": {"it": "Investitore; ex COO di Square", "es": "Inversor; ex COO de Square", "la": "Procurator negotiorum"}
+  },
+  "tr": {
+   "it": [
+    "Conta le botti, non i dipendenti.",
+    "Rabois divide le persone in munizioni e botti. Le munizioni eseguono bene ma hanno bisogno di mira; le botti prendono un'idea vaga, radunano le persone e portano a termine l'intera cosa. Un'azienda può condurre tante iniziative insieme quante sono le sue botti, perciò aggiungere personale senza aggiungere botti compra movimento, non progresso.",
+    "Conta le persone capaci di possedere un risultato dall'inizio alla fine. Quel numero, non il totale dei dipendenti, è la tua vera capacità.",
+    "Lezione 'How to Operate', 2014"
+   ],
+   "es": [
+    "Cuenta los barriles, no las cabezas.",
+    "Rabois divide a las personas en munición y barriles. La munición ejecuta bien pero necesita puntería; los barriles toman una idea vaga, reúnen a la gente y sacan adelante el asunto entero. Una empresa puede llevar tantas iniciativas a la vez como barriles tiene, así que sumar plantilla sin sumar barriles compra movimiento, no progreso.",
+    "Cuenta a las personas capaces de hacerse cargo de un resultado de principio a fin. Ese número, no tu plantilla total, es tu verdadera capacidad.",
+    "Clase 'How to Operate', 2014"
+   ],
+   "la": [
+    "Numera dolia, non capita."
+   ]
+  },
+  "batch": "2026-11-14-01",
+  "added": "2026-11-14T12:00:00Z"
+ },
+ {
+  "id": "a55",
+  "t": "castiglione",
+  "era": "1528",
+  "src": "The Book of the Courtier, 1528",
+  "h": "Hide the effort to show the grace.",
+  "b": "Castiglione prized sprezzatura: a studied nonchalance that conceals the labour behind a skill so that it looks effortless. Visible strain invites scrutiny and comparison; apparent ease suggests reserves still untapped. The courtier practised relentlessly in private precisely so that in public nothing would seem to have been practised at all.",
+  "d": "Rehearse the hard part until it looks easy, then let no one see the rehearsal. Ease, not visible struggle, signals mastery.",
+  "tg": [
+   "power",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Sprezzatura",
+  "note": "",
+  "thinker": {
+   "n": "Baldassare Castiglione", "i": "BC", "r": "Diplomat and author, Renaissance Urbino", "w": "a", "y": "1478–1529",
+   "names": {"it": "Baldassarre Castiglione", "es": "Baltasar de Castiglione", "la": "Balthasar Castalio"},
+   "roles": {"it": "Diplomatico e scrittore, Urbino rinascimentale", "es": "Diplomático y escritor, Urbino renacentista", "la": "Legatus et scriptor"}
+  },
+  "tr": {
+   "it": [
+    "Nascondi lo sforzo per mostrare la grazia.",
+    "Castiglione apprezzava la sprezzatura: una studiata noncuranza che cela la fatica dietro un'abilità così da farla sembrare senza sforzo. Lo sforzo visibile invita all'esame e al confronto; la facilità apparente suggerisce riserve ancora intatte. Il cortigiano si esercitava senza sosta in privato proprio perché in pubblico nulla sembrasse esercitato.",
+    "Prova la parte difficile finché sembra facile, poi non farne vedere a nessuno le prove. La disinvoltura, non la fatica visibile, segnala la maestria.",
+    "Il libro del cortegiano, 1528"
+   ],
+   "es": [
+    "Oculta el esfuerzo para mostrar la gracia.",
+    "Castiglione valoraba la sprezzatura: una estudiada indiferencia que oculta el trabajo tras una destreza para que parezca sin esfuerzo. El esfuerzo visible invita al escrutinio y la comparación; la facilidad aparente sugiere reservas aún intactas. El cortesano ensayaba sin descanso en privado precisamente para que en público nada pareciera ensayado.",
+    "Ensaya la parte difícil hasta que parezca fácil, y luego que nadie vea el ensayo. La soltura, no el esfuerzo visible, señala la maestría.",
+    "El cortesano, 1528"
+   ],
+   "la": [
+    "Artem absconde, gratiam ostende."
+   ]
+  },
+  "batch": "2026-11-14-01",
+  "added": "2026-11-14T12:00:00Z"
+ },
+ {
+  "id": "a56",
+  "t": "maimonides",
+  "era": "c. 1180",
+  "src": "Mishneh Torah, Laws of Gifts to the Poor, c. 1180",
+  "h": "The highest gift makes the receiver independent.",
+  "b": "Maimonides ranked charity in eight ascending degrees. The lowest give grudgingly and only when asked; the highest hand no coin at all but a loan, a partnership, or work that lets a person stand without further help. Real generosity is measured by the recipient's restored independence, not by the giver's feeling.",
+  "d": "When you help someone, ask whether your help ends their need or renews it. The best help makes itself unnecessary.",
+  "tg": [
+   "money",
+   "power"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Tzedakah",
+  "note": "",
+  "thinker": {
+   "n": "Maimonides", "i": "RM", "r": "Philosopher and jurist, medieval Cairo", "w": "a", "y": "1138–1204",
+   "names": {"it": "Maimonide", "es": "Maimónides", "la": "Maimonides"},
+   "roles": {"it": "Filosofo e giurista, Cairo medievale", "es": "Filósofo y jurista, El Cairo medieval", "la": "Philosophus et iurisperitus"}
+  },
+  "tr": {
+   "it": [
+    "Il dono più alto rende libero chi lo riceve.",
+    "Maimonide ordinò la carità in otto gradi ascendenti. I più bassi danno malvolentieri e solo se richiesti; il più alto non porge denaro, ma un prestito, una società o un lavoro che permetta a una persona di reggersi senza ulteriore aiuto. La vera generosità si misura dall'indipendenza restituita a chi riceve, non dal sentimento di chi dà.",
+    "Quando aiuti qualcuno, chiediti se il tuo aiuto pone fine al suo bisogno o lo rinnova. L'aiuto migliore si rende superfluo.",
+    "Mishneh Torah, Leggi sui doni ai poveri, c. 1180"
+   ],
+   "es": [
+    "El don más alto hace libre a quien lo recibe.",
+    "Maimónides ordenó la caridad en ocho grados ascendentes. Los más bajos dan de mala gana y solo cuando se les pide; el más alto no entrega moneda alguna, sino un préstamo, una sociedad o un trabajo que permita a una persona sostenerse sin más ayuda. La verdadera generosidad se mide por la independencia devuelta a quien recibe, no por el sentimiento de quien da.",
+    "Cuando ayudes a alguien, pregúntate si tu ayuda pone fin a su necesidad o la renueva. La mejor ayuda se vuelve innecesaria.",
+    "Mishné Torá, Leyes de regalos a los pobres, c. 1180"
+   ],
+   "la": [
+    "Summum donum accipientem liberum facit."
+   ]
+  },
+  "batch": "2026-11-14-01",
+  "added": "2026-11-14T12:00:00Z"
+ },
+ {
+  "id": "a57",
+  "t": "schopenhauer",
+  "era": "1851",
+  "src": "The Wisdom of Life (Parerga and Paralipomena), 1851",
+  "h": "What you are outweighs what you have.",
+  "b": "Schopenhauer divided a life into what a person is, what they have, and what they represent to others. Only the first—character, temperament, a furnished mind—travels everywhere and cannot be taken away. Possessions and reputation fluctuate and depend on others. Build the inner estate first; it is the one holding no misfortune can seize.",
+  "d": "List what would remain of you if status and property vanished tomorrow. Invest most in that list; it is the part that lasts.",
+  "tg": [
+   "character",
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://www.gutenberg.org/files/10741/10741-h/10741-h.htm",
+  "note": "",
+  "thinker": {
+   "n": "Arthur Schopenhauer", "i": "AS", "r": "Philosopher", "w": "a", "y": "1788–1860",
+   "names": {"it": "Arthur Schopenhauer", "es": "Arthur Schopenhauer", "la": "Arthurus Schopenhauer"},
+   "roles": {"it": "Filosofo", "es": "Filósofo", "la": "Philosophus"}
+  },
+  "tr": {
+   "it": [
+    "Ciò che sei conta più di ciò che hai.",
+    "Schopenhauer divise la vita in ciò che una persona è, ciò che ha e ciò che rappresenta agli altri. Solo il primo—carattere, temperamento, una mente ben fornita—viaggia ovunque e non può essere portato via. Beni e reputazione oscillano e dipendono dagli altri. Costruisci prima il patrimonio interiore: è l'unico che nessuna sventura può sottrarre.",
+    "Elenca ciò che resterebbe di te se status e beni svanissero domani. Investi soprattutto in quella lista: è la parte che dura.",
+    "La saggezza della vita (Parerga e Paralipomena), 1851"
+   ],
+   "es": [
+    "Lo que eres pesa más que lo que tienes.",
+    "Schopenhauer dividió la vida en lo que una persona es, lo que tiene y lo que representa ante los demás. Solo lo primero—carácter, temperamento, una mente bien amueblada—viaja a todas partes y no puede ser arrebatado. Posesiones y reputación fluctúan y dependen de otros. Construye primero el patrimonio interior: es el único que ninguna desgracia puede quitar.",
+    "Enumera lo que quedaría de ti si el estatus y los bienes se desvanecieran mañana. Invierte sobre todo en esa lista: es la parte que perdura.",
+    "La sabiduría de la vida (Parerga y Paralipómena), 1851"
+   ],
+   "la": [
+    "Quod es pluris est quam quod habes."
+   ]
+  },
+  "batch": "2026-11-14-01",
+  "added": "2026-11-14T12:00:00Z"
+ },
+ {
+  "id": "a58",
+  "t": "zhuangzi",
+  "era": "c. 4th c. BC",
+  "src": "Zhuangzi, 'In the World of Men', c. 4th century BC",
+  "h": "The useless survives what the useful does not.",
+  "b": "A carpenter passes a giant oak too gnarled for timber and dismisses it; the tree has outlived every useful tree precisely because no one found a reason to cut it down. Zhuangzi's point is that strict usefulness is dangerous. What cannot be exploited is often what endures, and slack that serves no immediate purpose can be the thing that survives.",
+  "d": "Protect one slice of time or capacity that serves no immediate goal. The buffer you cannot justify is often what saves you.",
+  "tg": [
+   "strategy",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://terebess.hu/english/chuangtzu.html",
+  "note": "",
+  "thinker": {
+   "n": "Zhuangzi", "i": "ZZ", "r": "Daoist philosopher, Warring States China", "w": "a", "y": "c. 369–286 BC",
+   "names": {"it": "Zhuangzi", "es": "Zhuangzi", "la": "Zhuangzi"},
+   "roles": {"it": "Filosofo taoista, Cina dei Regni Combattenti", "es": "Filósofo taoísta, China de los Reinos Combatientes", "la": "Philosophus Daoista"}
+  },
+  "tr": {
+   "it": [
+    "L'inutile sopravvive a ciò che è utile.",
+    "Un falegname passa accanto a una quercia gigantesca troppo nodosa per farne legname e la ignora; l'albero è sopravvissuto a ogni albero utile proprio perché nessuno ha trovato una ragione per abbatterlo. Il punto di Zhuangzi è che l'utilità rigorosa è pericolosa. Ciò che non si può sfruttare è spesso ciò che dura, e un margine che non serve a nulla di immediato può essere ciò che sopravvive.",
+    "Proteggi una fetta di tempo o di capacità che non serve a nessuno scopo immediato. Il margine che non sai giustificare è spesso ciò che ti salva.",
+    "Zhuangzi, 'Nel mondo degli uomini', IV sec. a.C."
+   ],
+   "es": [
+    "Lo inútil sobrevive a lo que es útil.",
+    "Un carpintero pasa junto a un roble gigantesco demasiado nudoso para servir de madera y lo desdeña; el árbol ha sobrevivido a todo árbol útil precisamente porque nadie halló una razón para talarlo. El punto de Zhuangzi es que la utilidad estricta es peligrosa. Lo que no puede explotarse suele ser lo que perdura, y un margen que no sirve a nada inmediato puede ser lo que sobrevive.",
+    "Protege una porción de tiempo o de capacidad que no sirva a ningún fin inmediato. El margen que no puedes justificar suele ser lo que te salva.",
+    "Zhuangzi, 'En el mundo de los hombres', s. IV a. C."
+   ],
+   "la": [
+    "Inutile superest, utile perit."
+   ]
+  },
+  "batch": "2026-11-14-01",
+  "added": "2026-11-14T12:00:00Z"
+ },
+ {
+  "id": "a59",
+  "t": "solon",
+  "era": "c. 560 BC",
+  "src": "Herodotus, Histories, Book I (Solon and Croesus), c. 430 BC",
+  "h": "Call no life fortunate until its end.",
+  "b": "Croesus showed Solon his treasure and asked who was the happiest of men. Solon named obscure men who had died well, not the king. Fortune can reverse until the last day, so a life can be judged only once it is complete. Present success is a loan the end may call back.",
+  "d": "Judge a venture or a career by its whole arc, not its current peak. Peaks invite the complacency that ends them.",
+  "tg": [
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Solon",
+  "note": "",
+  "thinker": {
+   "n": "Solon", "i": "SO", "r": "Athenian lawgiver and poet", "w": "a", "y": "c. 630–560 BC",
+   "names": {"it": "Solone", "es": "Solón", "la": "Solon"},
+   "roles": {"it": "Legislatore e poeta ateniese", "es": "Legislador y poeta ateniense", "la": "Legumlator Atheniensis"}
+  },
+  "tr": {
+   "it": [
+    "Non dire felice una vita prima della fine.",
+    "Creso mostrò a Solone il suo tesoro e chiese chi fosse l'uomo più felice. Solone nominò uomini oscuri morti bene, non il re. La sorte può rovesciarsi fino all'ultimo giorno, perciò una vita si può giudicare solo quando è compiuta. Il successo presente è un prestito che la fine può richiamare.",
+    "Giudica un'impresa o una carriera dall'intero arco, non dal picco attuale. I picchi invitano alla compiacenza che li fa finire.",
+    "Erodoto, Storie, Libro I (Solone e Creso), c. 430 a.C."
+   ],
+   "es": [
+    "No llames feliz a una vida antes de su fin.",
+    "Creso mostró a Solón su tesoro y preguntó quién era el hombre más feliz. Solón nombró a hombres oscuros que murieron bien, no al rey. La fortuna puede volcarse hasta el último día, así que una vida solo puede juzgarse cuando está completa. El éxito presente es un préstamo que el final puede reclamar.",
+    "Juzga una empresa o una carrera por su arco entero, no por su pico actual. Los picos invitan a la complacencia que les pone fin.",
+    "Heródoto, Historias, Libro I (Solón y Creso), c. 430 a. C."
+   ],
+   "la": [
+    "Neminem ante obitum felicem dixeris."
+   ]
+  },
+  "batch": "2026-11-14-01",
+  "added": "2026-11-14T12:00:00Z"
+ }
+]

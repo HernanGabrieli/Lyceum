@@ -1220,5 +1220,175 @@
    "es": "Poeta griego",
    "la": "Poeta Graecus"
   }
+ },
+ "kelleher": {
+  "n": "Herb Kelleher",
+  "i": "HK",
+  "r": "Co-founder, Southwest Airlines",
+  "w": "v",
+  "y": "1931–2019",
+  "names": {
+   "it": "Herb Kelleher",
+   "es": "Herb Kelleher",
+   "la": "Herbertus Kelleher"
+  },
+  "roles": {
+   "it": "Cofondatore, Southwest Airlines",
+   "es": "Cofundador, Southwest Airlines",
+   "la": "Conditor Southwest Airlines"
+  }
+ },
+ "butterfield": {
+  "n": "Stewart Butterfield",
+  "i": "SB",
+  "r": "Co-founder, Flickr and Slack",
+  "w": "v",
+  "y": "b. 1973",
+  "names": {
+   "it": "Stewart Butterfield",
+   "es": "Stewart Butterfield",
+   "la": "Stewartus Butterfield"
+  },
+  "roles": {
+   "it": "Cofondatore, Flickr e Slack",
+   "es": "Cofundador, Flickr y Slack",
+   "la": "Conditor Flickr et Slack"
+  }
+ },
+ "livingston": {
+  "n": "Jessica Livingston",
+  "i": "JL",
+  "r": "Co-founder, Y Combinator",
+  "w": "v",
+  "y": "b. 1971",
+  "names": {
+   "it": "Jessica Livingston",
+   "es": "Jessica Livingston",
+   "la": "Iessica Livingston"
+  },
+  "roles": {
+   "it": "Cofondatrice, Y Combinator",
+   "es": "Cofundadora, Y Combinator",
+   "la": "Conditrix Y Combinator"
+  }
+ },
+ "meeker": {
+  "n": "Mary Meeker",
+  "i": "MM",
+  "r": "Venture capitalist; author of Internet Trends",
+  "w": "v",
+  "y": "b. 1959",
+  "names": {
+   "it": "Mary Meeker",
+   "es": "Mary Meeker",
+   "la": "Maria Meeker"
+  },
+  "roles": {
+   "it": "Venture capitalist; autrice di Internet Trends",
+   "es": "Inversora de riesgo; autora de Internet Trends",
+   "la": "Negotiatrix nummaria"
+  }
+ },
+ "rabois": {
+  "n": "Keith Rabois",
+  "i": "KR",
+  "r": "Investor; former COO of Square",
+  "w": "v",
+  "y": "b. 1969",
+  "names": {
+   "it": "Keith Rabois",
+   "es": "Keith Rabois",
+   "la": "Keith Rabois"
+  },
+  "roles": {
+   "it": "Investitore; ex COO di Square",
+   "es": "Inversor; ex COO de Square",
+   "la": "Procurator negotiorum"
+  }
+ },
+ "castiglione": {
+  "n": "Baldassare Castiglione",
+  "i": "BC",
+  "r": "Diplomat and author, Renaissance Urbino",
+  "w": "a",
+  "y": "1478–1529",
+  "names": {
+   "it": "Baldassarre Castiglione",
+   "es": "Baltasar de Castiglione",
+   "la": "Balthasar Castalio"
+  },
+  "roles": {
+   "it": "Diplomatico e scrittore, Urbino rinascimentale",
+   "es": "Diplomático y escritor, Urbino renacentista",
+   "la": "Legatus et scriptor"
+  }
+ },
+ "maimonides": {
+  "n": "Maimonides",
+  "i": "RM",
+  "r": "Philosopher and jurist, medieval Cairo",
+  "w": "a",
+  "y": "1138–1204",
+  "names": {
+   "it": "Maimonide",
+   "es": "Maimónides",
+   "la": "Maimonides"
+  },
+  "roles": {
+   "it": "Filosofo e giurista, Cairo medievale",
+   "es": "Filósofo y jurista, El Cairo medieval",
+   "la": "Philosophus et iurisperitus"
+  }
+ },
+ "schopenhauer": {
+  "n": "Arthur Schopenhauer",
+  "i": "AS",
+  "r": "Philosopher",
+  "w": "a",
+  "y": "1788–1860",
+  "names": {
+   "it": "Arthur Schopenhauer",
+   "es": "Arthur Schopenhauer",
+   "la": "Arthurus Schopenhauer"
+  },
+  "roles": {
+   "it": "Filosofo",
+   "es": "Filósofo",
+   "la": "Philosophus"
+  }
+ },
+ "zhuangzi": {
+  "n": "Zhuangzi",
+  "i": "ZZ",
+  "r": "Daoist philosopher, Warring States China",
+  "w": "a",
+  "y": "c. 369–286 BC",
+  "names": {
+   "it": "Zhuangzi",
+   "es": "Zhuangzi",
+   "la": "Zhuangzi"
+  },
+  "roles": {
+   "it": "Filosofo taoista, Cina dei Regni Combattenti",
+   "es": "Filósofo taoísta, China de los Reinos Combatientes",
+   "la": "Philosophus Daoista"
+  }
+ },
+ "solon": {
+  "n": "Solon",
+  "i": "SO",
+  "r": "Athenian lawgiver and poet",
+  "w": "a",
+  "y": "c. 630–560 BC",
+  "names": {
+   "it": "Solone",
+   "es": "Solón",
+   "la": "Solon"
+  },
+  "roles": {
+   "it": "Legislatore e poeta ateniese",
+   "es": "Legislador y poeta ateniense",
+   "la": "Legumlator Atheniensis"
+  }
  }
 }
