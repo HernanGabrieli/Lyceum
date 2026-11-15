@@ -262,5 +262,27 @@
    "es": "Solón se niega a llamar feliz a una vida hasta que termina; Livingston halla igual de engañoso el acto inicial de una empresa. Ambos desconfían del fotograma único—el pico brillante o el comienzo caótico—y juzgan solo por el arco entero.",
    "la": "Finem specta, non imaginem."
   }
+ },
+ {
+  "a": "a60",
+  "v": "v59",
+  "th": "building",
+  "br": {
+   "en": "Quintilian insists accuracy must come before speed, since rushed practice only entrenches error; Jassy says the same of running systems—operational judgment is earned slowly and cannot be copied or bought. Both deny the shortcut: competence is time served, not time saved.",
+   "it": "Quintiliano insiste che l'accuratezza venga prima della velocità, perché la pratica affrettata radica solo l'errore; Jassy dice lo stesso del far funzionare i sistemi: il giudizio operativo si guadagna lentamente e non si può copiare né comprare. Entrambi negano la scorciatoia: la competenza è tempo servito, non tempo risparmiato.",
+   "es": "Quintiliano insiste en que la exactitud va antes que la velocidad, porque la práctica apresurada solo afianza el error; Jassy dice lo mismo de operar sistemas: el criterio operativo se gana despacio y no se puede copiar ni comprar. Ambos niegan el atajo: la competencia es tiempo servido, no tiempo ahorrado.",
+   "la": "Peritia tempus est, non compendium."
+  }
+ },
+ {
+  "a": "a62",
+  "v": "v62",
+  "th": "character",
+  "br": {
+   "en": "James shows that character and society run on habit—conduct installed once, then automatic; Shah builds a company the same way, treating culture as a product deliberately set so the right behaviour becomes the default. Both trust designed routine over daily willpower.",
+   "it": "James mostra che il carattere e la società poggiano sull'abitudine—una condotta installata una volta, poi automatica; Shah costruisce un'azienda allo stesso modo, trattando la cultura come un prodotto deliberato perché il comportamento giusto diventi l'impostazione predefinita. Entrambi si fidano della routine progettata più che della volontà quotidiana.",
+   "es": "James muestra que el carácter y la sociedad se sostienen en el hábito—una conducta instalada una vez, luego automática; Shah construye una empresa del mismo modo, tratando la cultura como un producto deliberado para que la conducta correcta sea lo predeterminado. Ambos confían en la rutina diseñada más que en la voluntad diaria.",
+   "la": "Mores consuetudine finguntur, non vi."
+  }
  }
 ]

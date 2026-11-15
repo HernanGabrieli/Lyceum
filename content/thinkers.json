@@ -1390,5 +1390,175 @@
    "es": "Legislador y poeta ateniense",
    "la": "Legumlator Atheniensis"
   }
+ },
+ "weiner": {
+  "n": "Jeff Weiner",
+  "i": "JW",
+  "r": "CEO, LinkedIn (2008–2020)",
+  "w": "v",
+  "y": "b. 1970",
+  "names": {
+   "it": "Jeff Weiner",
+   "es": "Jeff Weiner",
+   "la": "Ieffreius Weiner"
+  },
+  "roles": {
+   "it": "CEO, LinkedIn (2008–2020)",
+   "es": "CEO, LinkedIn (2008–2020)",
+   "la": "Praefectus LinkedIn"
+  }
+ },
+ "jassy": {
+  "n": "Andy Jassy",
+  "i": "AJ",
+  "r": "CEO, Amazon; former CEO of AWS",
+  "w": "v",
+  "y": "b. 1968",
+  "names": {
+   "it": "Andy Jassy",
+   "es": "Andy Jassy",
+   "la": "Andreas Jassy"
+  },
+  "roles": {
+   "it": "CEO, Amazon; ex CEO di AWS",
+   "es": "CEO, Amazon; ex CEO de AWS",
+   "la": "Praefectus Amazon"
+  }
+ },
+ "fredwilson": {
+  "n": "Fred Wilson",
+  "i": "FW",
+  "r": "Venture capitalist, co-founder of Union Square Ventures",
+  "w": "v",
+  "y": "b. 1961",
+  "names": {
+   "it": "Fred Wilson",
+   "es": "Fred Wilson",
+   "la": "Fridericus Wilson"
+  },
+  "roles": {
+   "it": "Venture capitalist, cofondatore di Union Square Ventures",
+   "es": "Inversor de riesgo, cofundador de Union Square Ventures",
+   "la": "Negotiator nummarius"
+  }
+ },
+ "page": {
+  "n": "Larry Page",
+  "i": "LP",
+  "r": "Co-founder, Google",
+  "w": "v",
+  "y": "b. 1973",
+  "names": {
+   "it": "Larry Page",
+   "es": "Larry Page",
+   "la": "Laurentius Page"
+  },
+  "roles": {
+   "it": "Cofondatore, Google",
+   "es": "Cofundador, Google",
+   "la": "Conditor Google"
+  }
+ },
+ "dharmesh": {
+  "n": "Dharmesh Shah",
+  "i": "DS",
+  "r": "Co-founder and CTO, HubSpot",
+  "w": "v",
+  "y": "b. 1967",
+  "names": {
+   "it": "Dharmesh Shah",
+   "es": "Dharmesh Shah",
+   "la": "Dharmesh Shah"
+  },
+  "roles": {
+   "it": "Cofondatore e CTO, HubSpot",
+   "es": "Cofundador y CTO, HubSpot",
+   "la": "Conditor et magister technicus HubSpot"
+  }
+ },
+ "quintilian": {
+  "n": "Quintilian",
+  "i": "QU",
+  "r": "Roman rhetorician",
+  "w": "a",
+  "y": "c. 35–100 AD",
+  "names": {
+   "it": "Quintiliano",
+   "es": "Quintiliano",
+   "la": "Quintilianus"
+  },
+  "roles": {
+   "it": "Retore romano",
+   "es": "Retórico romano",
+   "la": "Rhetor Romanus"
+  }
+ },
+ "boethius": {
+  "n": "Boethius",
+  "i": "BO",
+  "r": "Roman philosopher and statesman",
+  "w": "a",
+  "y": "c. 477–524 AD",
+  "names": {
+   "it": "Boezio",
+   "es": "Boecio",
+   "la": "Boethius"
+  },
+  "roles": {
+   "it": "Filosofo e statista romano",
+   "es": "Filósofo y estadista romano",
+   "la": "Philosophus et vir publicus Romanus"
+  }
+ },
+ "james": {
+  "n": "William James",
+  "i": "WJ",
+  "r": "Philosopher and psychologist, United States",
+  "w": "a",
+  "y": "1842–1910",
+  "names": {
+   "it": "William James",
+   "es": "William James",
+   "la": "Gulielmus James"
+  },
+  "roles": {
+   "it": "Filosofo e psicologo, Stati Uniti",
+   "es": "Filósofo y psicólogo, Estados Unidos",
+   "la": "Philosophus et psychologus"
+  }
+ },
+ "yamamoto": {
+  "n": "Yamamoto Tsunetomo",
+  "i": "YT",
+  "r": "Samurai and author, Saga domain",
+  "w": "a",
+  "y": "1659–1719",
+  "names": {
+   "it": "Yamamoto Tsunetomo",
+   "es": "Yamamoto Tsunetomo",
+   "la": "Yamamoto Tsunetomo"
+  },
+  "roles": {
+   "it": "Samurai e autore, dominio di Saga",
+   "es": "Samurái y autor, dominio de Saga",
+   "la": "Miles et scriptor Iaponicus"
+  }
+ },
+ "richelieu": {
+  "n": "Cardinal Richelieu",
+  "i": "CR",
+  "r": "Chief minister of France",
+  "w": "a",
+  "y": "1585–1642",
+  "names": {
+   "it": "Cardinale Richelieu",
+   "es": "Cardenal Richelieu",
+   "la": "Cardinalis Richelieu"
+  },
+  "roles": {
+   "it": "Primo ministro di Francia",
+   "es": "Primer ministro de Francia",
+   "la": "Primus minister Galliae"
+  }
  }
 }

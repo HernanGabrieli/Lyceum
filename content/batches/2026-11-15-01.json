@@ -1,0 +1,418 @@
+[
+ {
+  "id": "v58",
+  "t": "weiner",
+  "era": "2012",
+  "src": "Managing Compassionately, LinkedIn essay, 2012",
+  "h": "Compassion is empathy plus action.",
+  "b": "Weiner treats compassion as a management discipline, not a mood. He separates it from empathy: empathy feels another's pain, compassion adds the resolve to relieve it. The distinction matters at work because it turns a manager's concern into decisions—staffing, deadlines, hard conversations—made from the other person's vantage rather than one's own.",
+  "d": "Before a hard management decision, state the problem from the other person's side first. Then decide; compassion is empathy carried into action, not instead of it.",
+  "tg": [
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://www.linkedin.com/pulse/20121015034012-22330283-managing-compassionately",
+  "note": "",
+  "thinker": {
+   "n": "Jeff Weiner", "i": "JW", "r": "CEO, LinkedIn (2008–2020)", "w": "v", "y": "b. 1970",
+   "names": {"it": "Jeff Weiner", "es": "Jeff Weiner", "la": "Ieffreius Weiner"},
+   "roles": {"it": "CEO, LinkedIn (2008–2020)", "es": "CEO, LinkedIn (2008–2020)", "la": "Praefectus LinkedIn"}
+  },
+  "tr": {
+   "it": [
+    "La compassione è empatia più azione.",
+    "Weiner tratta la compassione come una disciplina manageriale, non uno stato d'animo. La distingue dall'empatia: l'empatia sente il dolore altrui, la compassione aggiunge la determinazione ad alleviarlo. La distinzione conta sul lavoro perché trasforma la premura di un manager in decisioni—organico, scadenze, conversazioni difficili—prese dal punto di vista dell'altro anziché dal proprio.",
+    "Prima di una decisione manageriale difficile, enuncia il problema dal lato dell'altra persona. Poi decidi: la compassione è empatia portata nell'azione, non al suo posto.",
+    "Managing Compassionately, saggio su LinkedIn, 2012"
+   ],
+   "es": [
+    "La compasión es empatía más acción.",
+    "Weiner trata la compasión como una disciplina de gestión, no un estado de ánimo. La separa de la empatía: la empatía siente el dolor ajeno, la compasión añade la determinación de aliviarlo. La distinción importa en el trabajo porque convierte la preocupación de un gestor en decisiones—plantilla, plazos, conversaciones difíciles—tomadas desde la perspectiva del otro y no desde la propia.",
+    "Antes de una decisión de gestión difícil, formula el problema desde el lado de la otra persona. Luego decide: la compasión es empatía llevada a la acción, no en su lugar.",
+    "Managing Compassionately, ensayo en LinkedIn, 2012"
+   ],
+   "la": [
+    "Misericordia est empathia cum actione."
+   ]
+  },
+  "batch": "2026-11-15-01",
+  "added": "2026-11-15T12:00:00Z"
+ },
+ {
+  "id": "v59",
+  "t": "jassy",
+  "era": "2017",
+  "src": "AWS re:Invent keynote, 2017",
+  "h": "Experience cannot be compressed.",
+  "b": "Jassy argues that an operator's edge comes from having already run a system at scale and survived its failures—knowledge no amount of money or cleverness can buy quickly. A rival can copy features overnight but not the years of outages, fixes, and judgment behind them. Time spent operating is itself the moat.",
+  "d": "When you buy or copy a capability, ask what judgment it took to build. Budget real time to earn that; it cannot be purchased.",
+  "tg": [
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://www.cnbc.com/video/2017/11/29/aws-ceo-andy-jassy-no-compression-algorithm-for-experience.html",
+  "note": "",
+  "thinker": {
+   "n": "Andy Jassy", "i": "AJ", "r": "CEO, Amazon; former CEO of AWS", "w": "v", "y": "b. 1968",
+   "names": {"it": "Andy Jassy", "es": "Andy Jassy", "la": "Andreas Jassy"},
+   "roles": {"it": "CEO, Amazon; ex CEO di AWS", "es": "CEO, Amazon; ex CEO de AWS", "la": "Praefectus Amazon"}
+  },
+  "tr": {
+   "it": [
+    "L'esperienza non si può comprimere.",
+    "Jassy sostiene che il vantaggio di chi opera nasce dall'aver già fatto funzionare un sistema su larga scala sopravvivendo ai suoi fallimenti—una conoscenza che nessuna somma di denaro o ingegno può comprare in fretta. Un rivale può copiare le funzioni in una notte, ma non gli anni di guasti, correzioni e giudizio che vi stanno dietro. Il tempo passato a operare è esso stesso il fossato.",
+    "Quando compri o copi una capacità, chiediti quale giudizio è servito a costruirla. Metti a bilancio il tempo reale per guadagnartelo: non si può acquistare.",
+    "Keynote AWS re:Invent, 2017"
+   ],
+   "es": [
+    "La experiencia no se puede comprimir.",
+    "Jassy sostiene que la ventaja de quien opera nace de haber hecho funcionar ya un sistema a gran escala y sobrevivido a sus fallos—un conocimiento que ninguna suma de dinero o ingenio puede comprar deprisa. Un rival puede copiar las funciones en una noche, pero no los años de caídas, arreglos y criterio que hay detrás. El tiempo dedicado a operar es, en sí mismo, el foso.",
+    "Cuando compres o copies una capacidad, pregúntate qué criterio costó construirla. Presupuesta tiempo real para ganártelo: no se puede adquirir.",
+    "Keynote AWS re:Invent, 2017"
+   ],
+   "la": [
+    "Experientia non coartatur."
+   ]
+  },
+  "duo": {
+   "a": "a60", "v": "v59", "th": "building",
+   "br": {
+    "en": "Quintilian insists accuracy must come before speed, since rushed practice only entrenches error; Jassy says the same of running systems—operational judgment is earned slowly and cannot be copied or bought. Both deny the shortcut: competence is time served, not time saved.",
+    "it": "Quintiliano insiste che l'accuratezza venga prima della velocità, perché la pratica affrettata radica solo l'errore; Jassy dice lo stesso del far funzionare i sistemi: il giudizio operativo si guadagna lentamente e non si può copiare né comprare. Entrambi negano la scorciatoia: la competenza è tempo servito, non tempo risparmiato.",
+    "es": "Quintiliano insiste en que la exactitud va antes que la velocidad, porque la práctica apresurada solo afianza el error; Jassy dice lo mismo de operar sistemas: el criterio operativo se gana despacio y no se puede copiar ni comprar. Ambos niegan el atajo: la competencia es tiempo servido, no tiempo ahorrado.",
+    "la": "Peritia tempus est, non compendium."
+   }
+  },
+  "batch": "2026-11-15-01",
+  "added": "2026-11-15T12:00:00Z"
+ },
+ {
+  "id": "v60",
+  "t": "fredwilson",
+  "era": "2010",
+  "src": "What A CEO Does, AVC blog, 2010",
+  "h": "A CEO does three things: vision, people, cash.",
+  "b": "Wilson, drawing on a mentor's rule, says a chief executive has only three non-delegable jobs: set the vision and repeat it to everyone, recruit and keep the people who execute it, and ensure the company never runs out of money. Everything else can be handed off. A CEO drifting outside these three is usually avoiding one of them.",
+  "d": "Audit last week's calendar against three buckets: vision, talent, cash. Work that fits none of them is work you should have delegated.",
+  "tg": [
+   "leadership",
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://avc.com/2010/08/what-a-ceo-does/",
+  "note": "",
+  "thinker": {
+   "n": "Fred Wilson", "i": "FW", "r": "Venture capitalist, co-founder of Union Square Ventures", "w": "v", "y": "b. 1961",
+   "names": {"it": "Fred Wilson", "es": "Fred Wilson", "la": "Fridericus Wilson"},
+   "roles": {"it": "Venture capitalist, cofondatore di Union Square Ventures", "es": "Inversor de riesgo, cofundador de Union Square Ventures", "la": "Negotiator nummarius"}
+  },
+  "tr": {
+   "it": [
+    "Un CEO fa tre cose: visione, persone, cassa.",
+    "Wilson, basandosi sulla regola di un mentore, dice che un amministratore delegato ha solo tre compiti non delegabili: fissare la visione e ripeterla a tutti, reclutare e trattenere le persone che la eseguono, e garantire che l'azienda non resti mai senza denaro. Tutto il resto si può affidare ad altri. Un CEO che va oltre questi tre di solito ne sta evitando uno.",
+    "Verifica l'agenda della scorsa settimana rispetto a tre voci: visione, talento, cassa. Il lavoro che non rientra in nessuna è lavoro che avresti dovuto delegare.",
+    "What A CEO Does, blog AVC, 2010"
+   ],
+   "es": [
+    "Un CEO hace tres cosas: visión, personas, caja.",
+    "Wilson, apoyándose en la regla de un mentor, dice que un director ejecutivo tiene solo tres tareas indelegables: fijar la visión y repetirla a todos, reclutar y retener a las personas que la ejecutan, y asegurar que la empresa nunca se quede sin dinero. Todo lo demás puede encomendarse a otros. Un CEO que se sale de estas tres suele estar evitando una de ellas.",
+    "Revisa la agenda de la semana pasada frente a tres casillas: visión, talento, caja. El trabajo que no cabe en ninguna es trabajo que deberías haber delegado.",
+    "What A CEO Does, blog AVC, 2010"
+   ],
+   "la": [
+    "Praefectus tria agit: visionem, homines, pecuniam."
+   ]
+  },
+  "batch": "2026-11-15-01",
+  "added": "2026-11-15T12:00:00Z"
+ },
+ {
+  "id": "v61",
+  "t": "page",
+  "era": "2009",
+  "src": "University of Michigan commencement address, 2009",
+  "h": "Aim ten times higher, not ten percent.",
+  "b": "Page urges goals set ten times beyond the ordinary rather than ten percent better. A tenfold target forces a different approach instead of a harder push on the old one, and it attracts people energized by a near-impossible aim. Paradoxically the huge goal is often easier: it has less competition and demands the fresh thinking incremental goals never trigger.",
+  "d": "Take one current target and multiply it by ten. Notice which tactics instantly become useless; the replacement you must invent is the real work.",
+  "tg": [
+   "strategy",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://whatrocks.github.io/commencement-db/2009-larry-page-university-of-michigan/",
+  "note": "",
+  "thinker": {
+   "n": "Larry Page", "i": "LP", "r": "Co-founder, Google", "w": "v", "y": "b. 1973",
+   "names": {"it": "Larry Page", "es": "Larry Page", "la": "Laurentius Page"},
+   "roles": {"it": "Cofondatore, Google", "es": "Cofundador, Google", "la": "Conditor Google"}
+  },
+  "tr": {
+   "it": [
+    "Punta dieci volte più in alto, non del dieci percento.",
+    "Page esorta a fissare obiettivi dieci volte oltre l'ordinario anziché migliori del dieci percento. Un bersaglio decuplo impone un approccio diverso invece di una spinta più dura sul vecchio, e attira persone caricate da una meta quasi impossibile. Paradossalmente l'obiettivo enorme è spesso più facile: ha meno concorrenza e richiede il pensiero nuovo che gli obiettivi incrementali non innescano mai.",
+    "Prendi un obiettivo attuale e moltiplicalo per dieci. Osserva quali tattiche diventano subito inutili; la sostituzione che devi inventare è il vero lavoro.",
+    "Discorso di laurea all'Università del Michigan, 2009"
+   ],
+   "es": [
+    "Apunta diez veces más alto, no un diez por ciento.",
+    "Page insta a fijar metas diez veces por encima de lo ordinario en vez de un diez por ciento mejores. Un objetivo diez veces mayor obliga a un enfoque distinto en lugar de un empujón más fuerte sobre el viejo, y atrae a personas motivadas por una meta casi imposible. Paradójicamente la meta enorme suele ser más fácil: tiene menos competencia y exige el pensamiento nuevo que las metas incrementales nunca disparan.",
+    "Toma una meta actual y multiplícala por diez. Observa qué tácticas quedan al instante inútiles; el reemplazo que debes inventar es el verdadero trabajo.",
+    "Discurso de graduación en la Universidad de Michigan, 2009"
+   ],
+   "la": [
+    "Decuplo pete, non parte centesima."
+   ]
+  },
+  "batch": "2026-11-15-01",
+  "added": "2026-11-15T12:00:00Z"
+ },
+ {
+  "id": "v62",
+  "t": "dharmesh",
+  "era": "2013",
+  "src": "The HubSpot Culture Code, 2013",
+  "h": "Culture recruits the way a product markets.",
+  "b": "Shah treats culture as a product whose customers are current and future employees. Just as a strong product makes marketing cheaper by pulling customers in, a strong culture makes recruiting cheaper by pulling talent in. Neglect it and you pay the difference in salaries and churn. Culture is therefore built deliberately, documented, and revised like any product.",
+  "d": "Write your culture down as you would a product spec, then test it against what new hires actually experience in their first month.",
+  "tg": [
+   "character",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://speakerdeck.com/dharmesh/the-hubspot-culture-code",
+  "note": "",
+  "thinker": {
+   "n": "Dharmesh Shah", "i": "DS", "r": "Co-founder and CTO, HubSpot", "w": "v", "y": "b. 1967",
+   "names": {"it": "Dharmesh Shah", "es": "Dharmesh Shah", "la": "Dharmesh Shah"},
+   "roles": {"it": "Cofondatore e CTO, HubSpot", "es": "Cofundador y CTO, HubSpot", "la": "Conditor et magister technicus HubSpot"}
+  },
+  "tr": {
+   "it": [
+    "La cultura recluta come un prodotto fa marketing.",
+    "Shah tratta la cultura come un prodotto i cui clienti sono i dipendenti attuali e futuri. Come un prodotto forte rende il marketing più economico attirando clienti, una cultura forte rende il reclutamento più economico attirando talenti. Trascurala e paghi la differenza in stipendi e turnover. La cultura si costruisce perciò di proposito, si documenta e si rivede come ogni prodotto.",
+    "Metti per iscritto la tua cultura come faresti con le specifiche di un prodotto, poi mettila alla prova con ciò che i nuovi assunti vivono davvero nel primo mese.",
+    "The HubSpot Culture Code, 2013"
+   ],
+   "es": [
+    "La cultura recluta como un producto hace marketing.",
+    "Shah trata la cultura como un producto cuyos clientes son los empleados actuales y futuros. Igual que un producto fuerte abarata el marketing atrayendo clientes, una cultura fuerte abarata el reclutamiento atrayendo talento. Descuídala y pagas la diferencia en salarios y rotación. La cultura se construye por tanto a propósito, se documenta y se revisa como cualquier producto.",
+    "Pon tu cultura por escrito como harías con las especificaciones de un producto, y luego ponla a prueba frente a lo que los nuevos empleados viven de verdad en su primer mes.",
+    "The HubSpot Culture Code, 2013"
+   ],
+   "la": [
+    "Cultura allicit ut merx vendit."
+   ]
+  },
+  "duo": {
+   "a": "a62", "v": "v62", "th": "character",
+   "br": {
+    "en": "James shows that character and society run on habit—conduct installed once, then automatic; Shah builds a company the same way, treating culture as a product deliberately set so the right behaviour becomes the default. Both trust designed routine over daily willpower.",
+    "it": "James mostra che il carattere e la società poggiano sull'abitudine—una condotta installata una volta, poi automatica; Shah costruisce un'azienda allo stesso modo, trattando la cultura come un prodotto deliberato perché il comportamento giusto diventi l'impostazione predefinita. Entrambi si fidano della routine progettata più che della volontà quotidiana.",
+    "es": "James muestra que el carácter y la sociedad se sostienen en el hábito—una conducta instalada una vez, luego automática; Shah construye una empresa del mismo modo, tratando la cultura como un producto deliberado para que la conducta correcta sea lo predeterminado. Ambos confían en la rutina diseñada más que en la voluntad diaria.",
+    "la": "Mores consuetudine finguntur, non vi."
+   }
+  },
+  "batch": "2026-11-15-01",
+  "added": "2026-11-15T12:00:00Z"
+ },
+ {
+  "id": "a60",
+  "t": "quintilian",
+  "era": "c. 95 AD",
+  "src": "Institutio Oratoria, Book X, c. 95 AD",
+  "h": "Write well, and you will soon write fast.",
+  "b": "Quintilian taught that fluency is the reward of early care, not its rival. The student who rushes to produce quickly entrenches sloppiness; the one who writes slowly and exactingly builds habits that later make speed effortless. Mastery is sequential—accuracy first, pace after—and reversing the order yields a fast writer who never becomes a good one.",
+  "d": "On a skill you want to speed up, deliberately slow down and do it exactly right for a while. Speed is built on accuracy, not before it.",
+  "tg": [
+   "building",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0069%3Abook%3D10%3Achapter%3D3",
+  "note": "",
+  "thinker": {
+   "n": "Quintilian", "i": "QU", "r": "Roman rhetorician", "w": "a", "y": "c. 35–100 AD",
+   "names": {"it": "Quintiliano", "es": "Quintiliano", "la": "Quintilianus"},
+   "roles": {"it": "Retore romano", "es": "Retórico romano", "la": "Rhetor Romanus"}
+  },
+  "tr": {
+   "it": [
+    "Scrivi bene e presto scriverai veloce.",
+    "Quintiliano insegnava che la scioltezza è la ricompensa della cura iniziale, non la sua rivale. Lo studente che si affretta a produrre in fretta radica la trascuratezza; chi scrive lento e con rigore costruisce abitudini che poi rendono la velocità senza sforzo. La maestria è sequenziale—prima l'accuratezza, poi il ritmo—e invertire l'ordine dà uno scrittore veloce che non diventa mai buono.",
+    "Su un'abilità che vuoi velocizzare, rallenta di proposito e falla esattamente bene per un po'. La velocità si costruisce sull'accuratezza, non prima di essa.",
+    "Institutio Oratoria, Libro X, c. 95 d.C."
+   ],
+   "es": [
+    "Escribe bien y pronto escribirás rápido.",
+    "Quintiliano enseñaba que la fluidez es la recompensa del cuidado inicial, no su rival. El estudiante que se apresura a producir rápido afianza el descuido; quien escribe despacio y con rigor construye hábitos que luego hacen la velocidad sin esfuerzo. La maestría es secuencial—primero la exactitud, luego el ritmo—e invertir el orden da un escritor rápido que nunca llega a ser bueno.",
+    "En una destreza que quieras acelerar, frena a propósito y hazla exactamente bien durante un tiempo. La velocidad se construye sobre la exactitud, no antes de ella.",
+    "Institutio Oratoria, Libro X, c. 95 d. C."
+   ],
+   "la": [
+    "Bene scribe, mox cito scribes."
+   ]
+  },
+  "batch": "2026-11-15-01",
+  "added": "2026-11-15T12:00:00Z"
+ },
+ {
+  "id": "a61",
+  "t": "boethius",
+  "era": "c. 524 AD",
+  "src": "The Consolation of Philosophy, Book II, c. 524 AD",
+  "h": "Fortune's only constant is that it turns.",
+  "b": "Boethius, awaiting execution, imagines Fortune defending herself: inconstancy is her nature, and the wheel that raised you will lower you by the same motion. Wealth, rank, and favour were never owned, only lent. The remedy is not to curse the turn but to hold such goods loosely, anchoring instead on what Fortune cannot reach.",
+  "d": "List what you would lose if your current position reversed. Treat those as borrowed, and build your plans on what no reversal can take.",
+  "tg": [
+   "risk",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/On_the_Consolation_of_Philosophy",
+  "note": "",
+  "thinker": {
+   "n": "Boethius", "i": "BO", "r": "Roman philosopher and statesman", "w": "a", "y": "c. 477–524 AD",
+   "names": {"it": "Boezio", "es": "Boecio", "la": "Boethius"},
+   "roles": {"it": "Filosofo e statista romano", "es": "Filósofo y estadista romano", "la": "Philosophus et vir publicus Romanus"}
+  },
+  "tr": {
+   "it": [
+    "L'unica costante della Fortuna è che gira.",
+    "Boezio, in attesa dell'esecuzione, immagina la Fortuna che si difende: l'incostanza è la sua natura, e la ruota che ti ha sollevato ti abbasserà con lo stesso moto. Ricchezza, rango e favore non sono mai stati tuoi, solo prestati. Il rimedio non è maledire il giro ma tenere tali beni con mano leggera, ancorandoti invece a ciò che la Fortuna non può raggiungere.",
+    "Elenca ciò che perderesti se la tua posizione attuale si capovolgesse. Trattalo come prestato e costruisci i tuoi piani su ciò che nessun rovescio può togliere.",
+    "La consolazione della filosofia, Libro II, c. 524 d.C."
+   ],
+   "es": [
+    "Lo único constante de la Fortuna es que gira.",
+    "Boecio, a la espera de su ejecución, imagina a la Fortuna defendiéndose: la inconstancia es su naturaleza, y la rueda que te alzó te bajará con el mismo movimiento. Riqueza, rango y favor nunca fueron tuyos, solo prestados. El remedio no es maldecir el giro sino sostener esos bienes con mano suelta, anclándote en cambio en lo que la Fortuna no puede alcanzar.",
+    "Enumera lo que perderías si tu posición actual se invirtiera. Trátalo como prestado y construye tus planes sobre lo que ningún vuelco puede quitar.",
+    "La consolación de la filosofía, Libro II, c. 524 d. C."
+   ],
+   "la": [
+    "Rota Fortunae semper volvitur."
+   ]
+  },
+  "batch": "2026-11-15-01",
+  "added": "2026-11-15T12:00:00Z"
+ },
+ {
+  "id": "a62",
+  "t": "james",
+  "era": "1890",
+  "src": "The Principles of Psychology, 1890",
+  "h": "Most of life runs on habit, not will.",
+  "b": "James observed that conscious effort decides only a sliver of behaviour; the rest runs on habit, acquired early and then automatic. This is a mercy: habit frees attention for new problems and keeps society predictable. The practical consequence is to spend scarce willpower installing good habits young, after which they run themselves for free.",
+  "d": "Spend willpower on one habit until it turns automatic, then start the next. Willpower installs habits; habits, not willpower, do the daily work.",
+  "tg": [
+   "character",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://psychclassics.yorku.ca/James/Principles/prin4.htm",
+  "note": "",
+  "thinker": {
+   "n": "William James", "i": "WJ", "r": "Philosopher and psychologist, United States", "w": "a", "y": "1842–1910",
+   "names": {"it": "William James", "es": "William James", "la": "Gulielmus James"},
+   "roles": {"it": "Filosofo e psicologo, Stati Uniti", "es": "Filósofo y psicólogo, Estados Unidos", "la": "Philosophus et psychologus"}
+  },
+  "tr": {
+   "it": [
+    "Gran parte della vita va ad abitudine, non a volontà.",
+    "James osservò che lo sforzo cosciente decide solo una scheggia del comportamento; il resto va ad abitudine, acquisita presto e poi automatica. È una grazia: l'abitudine libera l'attenzione per problemi nuovi e rende la società prevedibile. La conseguenza pratica è spendere la scarsa forza di volontà per installare buone abitudini da giovani, dopodiché si reggono da sole e gratis.",
+    "Spendi forza di volontà su una sola abitudine finché diventa automatica, poi inizia la successiva. La volontà installa le abitudini; sono le abitudini, non la volontà, a fare il lavoro quotidiano.",
+    "The Principles of Psychology, 1890"
+   ],
+   "es": [
+    "Casi toda la vida corre por hábito, no por voluntad.",
+    "James observó que el esfuerzo consciente decide solo una astilla de la conducta; el resto corre por hábito, adquirido temprano y luego automático. Es una gracia: el hábito libera la atención para problemas nuevos y hace la sociedad previsible. La consecuencia práctica es gastar la escasa fuerza de voluntad en instalar buenos hábitos de joven, tras lo cual se sostienen solos y gratis.",
+    "Gasta fuerza de voluntad en un solo hábito hasta que se vuelva automático, luego empieza el siguiente. La voluntad instala los hábitos; son los hábitos, no la voluntad, los que hacen el trabajo diario.",
+    "The Principles of Psychology, 1890"
+   ],
+   "la": [
+    "Consuetudo vitam regit."
+   ]
+  },
+  "batch": "2026-11-15-01",
+  "added": "2026-11-15T12:00:00Z"
+ },
+ {
+  "id": "a63",
+  "t": "yamamoto",
+  "era": "c. 1716",
+  "src": "Hagakure, c. 1716",
+  "h": "Decide within the space of seven breaths.",
+  "b": "Tsunetomo records the samurai rule to settle a matter within seven breaths. The point is not recklessness but training: a mind rehearsed in advance can resolve in the moment, while one that lingers is pulled apart by second thoughts and loses the opening. Prepare thoroughly beforehand so that the decision itself can be swift.",
+  "d": "For recurring decisions, set the criteria in advance when calm. Then, in the moment, decide fast against them instead of deliberating from scratch.",
+  "tg": [
+   "focus",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://www.themathesontrust.org/papers/fareasternreligions/mt-hagakure.pdf",
+  "note": "",
+  "thinker": {
+   "n": "Yamamoto Tsunetomo", "i": "YT", "r": "Samurai and author, Saga domain", "w": "a", "y": "1659–1719",
+   "names": {"it": "Yamamoto Tsunetomo", "es": "Yamamoto Tsunetomo", "la": "Yamamoto Tsunetomo"},
+   "roles": {"it": "Samurai e autore, dominio di Saga", "es": "Samurái y autor, dominio de Saga", "la": "Miles et scriptor Iaponicus"}
+  },
+  "tr": {
+   "it": [
+    "Decidi nello spazio di sette respiri.",
+    "Tsunetomo riporta la regola samurai di risolvere una questione nello spazio di sette respiri. Il punto non è l'avventatezza ma l'addestramento: una mente preparata in anticipo può decidere nell'istante, mentre quella che indugia è lacerata dai ripensamenti e perde l'occasione. Prepàrati a fondo prima, così che la decisione in sé possa essere rapida.",
+    "Per le decisioni ricorrenti, fissa i criteri in anticipo quando sei calmo. Poi, nel momento, decidi in fretta rispetto a essi invece di deliberare da zero.",
+    "Hagakure, c. 1716"
+   ],
+   "es": [
+    "Decide en el espacio de siete respiraciones.",
+    "Tsunetomo recoge la regla samurái de resolver un asunto en el espacio de siete respiraciones. El punto no es la temeridad sino el entrenamiento: una mente preparada de antemano puede resolver en el instante, mientras que la que se demora queda desgarrada por las dudas y pierde la ocasión. Prepárate a fondo antes, para que la decisión en sí pueda ser veloz.",
+    "Para las decisiones recurrentes, fija los criterios de antemano cuando estés en calma. Luego, en el momento, decide rápido frente a ellos en vez de deliberar desde cero.",
+    "Hagakure, c. 1716"
+   ],
+   "la": [
+    "Intra septem spiritus decerne."
+   ]
+  },
+  "batch": "2026-11-15-01",
+  "added": "2026-11-15T12:00:00Z"
+ },
+ {
+  "id": "a64",
+  "t": "richelieu",
+  "era": "c. 1640",
+  "src": "Testament Politique (Political Testament), c. 1640",
+  "h": "Negotiate always, everywhere, without pause.",
+  "b": "Richelieu held that a state should negotiate continuously, in every court, whether or not a crisis demands it. Constant contact gathers intelligence, keeps options warm, and positions you for the right moment to settle. The cost is low and the downside small; even fruitless talks reveal the world's intentions. Diplomacy stops only when the state does.",
+  "d": "Keep low-stakes conversations open with counterparts you don't currently need. The relationship and the information are cheap insurance for the moment you do.",
+  "tg": [
+   "power",
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://classicsofstrategy.com/2022/05/27/diplomacy-as-the-art-of-continuous-negotiations-cardinal-de-richelieu-and-the-political-testament/",
+  "note": "",
+  "thinker": {
+   "n": "Cardinal Richelieu", "i": "CR", "r": "Chief minister of France", "w": "a", "y": "1585–1642",
+   "names": {"it": "Cardinale Richelieu", "es": "Cardenal Richelieu", "la": "Cardinalis Richelieu"},
+   "roles": {"it": "Primo ministro di Francia", "es": "Primer ministro de Francia", "la": "Primus minister Galliae"}
+  },
+  "tr": {
+   "it": [
+    "Negozia sempre, ovunque, senza sosta.",
+    "Richelieu riteneva che uno Stato dovesse negoziare di continuo, in ogni corte, che una crisi lo esiga o no. Il contatto costante raccoglie informazioni, tiene calde le opzioni e ti colloca al momento giusto per concludere. Il costo è basso e il rischio minimo; perfino i colloqui infruttuosi rivelano le intenzioni del mondo. La diplomazia si ferma solo quando si ferma lo Stato.",
+    "Mantieni aperte conversazioni a bassa posta con interlocutori di cui ora non hai bisogno. La relazione e le informazioni sono un'assicurazione a buon mercato per quando ne avrai.",
+    "Testament Politique (Testamento politico), c. 1640"
+   ],
+   "es": [
+    "Negocia siempre, en todas partes, sin pausa.",
+    "Richelieu sostenía que un Estado debe negociar de continuo, en toda corte, exíjalo o no una crisis. El contacto constante reúne información, mantiene calientes las opciones y te sitúa en el momento justo para cerrar. El coste es bajo y el riesgo pequeño; hasta las conversaciones infructuosas revelan las intenciones del mundo. La diplomacia se detiene solo cuando se detiene el Estado.",
+    "Mantén abiertas conversaciones de bajo riesgo con interlocutores que ahora no necesitas. La relación y la información son un seguro barato para cuando los necesites.",
+    "Testament Politique (Testamento político), c. 1640"
+   ],
+   "la": [
+    "Perpetuo negotiandum est."
+   ]
+  },
+  "batch": "2026-11-15-01",
+  "added": "2026-11-15T12:00:00Z"
+ }
+]

@@ -195,5 +195,36 @@
    "a59": "https://en.wikipedia.org/wiki/Solon"
   },
   "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Zhuangzi/Butterfield strategy, Solon/Livingston character)"
+ },
+ {
+  "at": "2026-11-15T14:39:33Z",
+  "batch": "2026-11-15-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v58",
+   "v59",
+   "v60",
+   "v61",
+   "v62",
+   "a60",
+   "a61",
+   "a62",
+   "a63",
+   "a64"
+  ],
+  "verified": 10,
+  "sources": {
+   "v58": "https://www.linkedin.com/pulse/20121015034012-22330283-managing-compassionately",
+   "v59": "https://www.cnbc.com/video/2017/11/29/aws-ceo-andy-jassy-no-compression-algorithm-for-experience.html",
+   "v60": "https://avc.com/2010/08/what-a-ceo-does/",
+   "v61": "https://whatrocks.github.io/commencement-db/2009-larry-page-university-of-michigan/",
+   "v62": "https://speakerdeck.com/dharmesh/the-hubspot-culture-code",
+   "a60": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0069%3Abook%3D10%3Achapter%3D3",
+   "a61": "https://en.wikipedia.org/wiki/On_the_Consolation_of_Philosophy",
+   "a62": "https://psychclassics.yorku.ca/James/Principles/prin4.htm",
+   "a63": "https://www.themathesontrust.org/papers/fareasternreligions/mt-hagakure.pdf",
+   "a64": "https://classicsofstrategy.com/2022/05/27/diplomacy-as-the-art-of-continuous-negotiations-cardinal-de-richelieu-and-the-political-testament/"
+  },
+  "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Quintilian/Jassy building, James/Shah character)"
  }
 ]
