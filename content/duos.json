@@ -1,7 +1,9 @@
 [
  {
-  "a": "a01",
-  "v": "v01",
+  "ids": [
+   "a01",
+   "v01"
+  ],
   "th": "focus",
   "br": {
    "en": "Seneca counts a life by what it refuses. Jobs counted a company the same way.",
@@ -11,8 +13,10 @@
   }
  },
  {
-  "a": "a02",
-  "v": "v12",
+  "ids": [
+   "a02",
+   "v12"
+  ],
   "th": "risk",
   "br": {
    "en": "The Stoic pre-mortem and Grove's paranoia are one discipline: see the blow before it lands.",
@@ -22,8 +26,10 @@
   }
  },
  {
-  "a": "a07",
-  "v": "v05",
+  "ids": [
+   "a07",
+   "v05"
+  ],
   "th": "strategy",
   "br": {
    "en": "Sun Tzu wins without fighting. Thiel builds where there is no one to fight.",
@@ -33,8 +39,10 @@
   }
  },
  {
-  "a": "a10",
-  "v": "v09",
+  "ids": [
+   "a10",
+   "v09"
+  ],
   "th": "leadership",
   "br": {
    "en": "Machiavelli's feared-not-hated prince is Horowitz's wartime CEO, five centuries early.",
@@ -44,8 +52,10 @@
   }
  },
  {
-  "a": "a13",
-  "v": "v21",
+  "ids": [
+   "a13",
+   "v21"
+  ],
   "th": "building",
   "br": {
    "en": "Socrates and Blank agree: the facts are not in your head, and the question is the method.",
@@ -55,8 +65,10 @@
   }
  },
  {
-  "a": "a03",
-  "v": "v25",
+  "ids": [
+   "a03",
+   "v25"
+  ],
   "th": "character",
   "br": {
    "en": "Marcus turns obstacles into the path. Huang wishes you enough of them to get strong.",
@@ -66,8 +78,10 @@
   }
  },
  {
-  "a": "a16",
-  "v": "v23",
+  "ids": [
+   "a16",
+   "v23"
+  ],
   "th": "leadership",
   "br": {
    "en": "Lao Tzu's unseen leader and Campbell's coach both win by disappearing behind their people.",
@@ -77,8 +91,10 @@
   }
  },
  {
-  "a": "a18",
-  "v": "v16",
+  "ids": [
+   "a18",
+   "v16"
+  ],
   "th": "strategy",
   "br": {
    "en": "Heraclitus says the river moves. Christensen shows what happens to incumbents who stand still.",
@@ -88,8 +104,10 @@
   }
  },
  {
-  "a": "a22",
-  "v": "v24",
+  "ids": [
+   "a22",
+   "v24"
+  ],
   "th": "money",
   "br": {
    "en": "Franklin's compounding coin and Naval's leverage: own what works while you sleep.",
@@ -99,8 +117,10 @@
   }
  },
  {
-  "a": "a12",
-  "v": "v07",
+  "ids": [
+   "a12",
+   "v07"
+  ],
   "th": "leadership",
   "br": {
    "en": "Aristotle says excellence is the mean. Hoffman says in a land grab the mean loses. Who is right depends on the market.",
@@ -110,8 +130,10 @@
   }
  },
  {
-  "a": "a14",
-  "v": "v14",
+  "ids": [
+   "a14",
+   "v14"
+  ],
   "th": "character",
   "br": {
    "en": "Confucius rectifies names. Bezos distrusts proxies. Both fight the word that replaces the thing.",
@@ -121,19 +143,23 @@
   }
  },
  {
-  "a": "a29",
+  "ids": [
+   "a29",
+   "v07"
+  ],
+  "th": "risk",
   "br": {
    "en": "Clausewitz budgets for friction; Hoffman chooses it on purpose. Both refuse to pretend the plan will survive contact.",
    "es": "Clausewitz presupuesta la fricción; Hoffman la elige a propósito. Ambos se niegan a fingir que el plan sobrevivirá al contacto.",
    "it": "Clausewitz mette a budget l'attrito; Hoffman lo sceglie di proposito. Entrambi rifiutano di fingere che il piano sopravviva al contatto.",
    "la": "Clausewitz frictioni providet; Hoffman eam consulto eligit. Ambo negant consilium contactui superfuturum."
-  },
-  "th": "risk",
-  "v": "v07"
+  }
  },
  {
-  "a": "a30",
-  "v": "v28",
+  "ids": [
+   "a30",
+   "v28"
+  ],
   "th": "leadership",
   "br": {
    "en": "Xenophon's leader earns obedience by knowing the work; Nadella earns it by never stopping learning it. Both make authority a matter of competence, not title.",
@@ -143,8 +169,10 @@
   }
  },
  {
-  "a": "a31",
-  "v": "v30",
+  "ids": [
+   "a31",
+   "v30"
+  ],
   "th": "strategy",
   "br": {
    "en": "Ibn Khaldun says every dominance decays as comfort erodes solidarity; Helmer says only a barrier rivals cannot cross keeps it alive. The tension is whether decline can be engineered against.",
@@ -154,8 +182,10 @@
   }
  },
  {
-  "a": "a35",
-  "v": "v10",
+  "ids": [
+   "a35",
+   "v10"
+  ],
   "th": "leadership",
   "br": {
    "en": "Mencius ranks the people above the ruler; Horowitz ranks people above products and profits. Across two millennia both warn that a structure survives on the loyalty of those at its base, not the authority at its top.",
@@ -165,8 +195,10 @@
   }
  },
  {
-  "a": "a38",
-  "v": "v15",
+  "ids": [
+   "a38",
+   "v15"
+  ],
   "th": "risk",
   "br": {
    "en": "Guicciardini distrusts all general rules; Bezos offers one, sorting decisions into one-way and two-way doors. The tension is productive: Bezos speeds judgment with a rule, while Guicciardini warns that the next case may be the exception the rule did not foresee.",
@@ -176,8 +208,10 @@
   }
  },
  {
-  "a": "a44",
-  "v": "v40",
+  "ids": [
+   "a44",
+   "v40"
+  ],
   "th": "character",
   "br": {
    "en": "Mill says you barely understand a view until you have faced its strongest critic; Catmull built the Braintrust so every film would face exactly that. Both treat candid opposition not as an attack but as the only way an idea earns your confidence.",
@@ -187,8 +221,10 @@
   }
  },
  {
-  "a": "a43",
-  "v": "v08",
+  "ids": [
+   "a43",
+   "v08"
+  ],
   "th": "risk",
   "br": {
    "en": "Hoffman tells you to ship before you are proud of it; Erasmus tells you to make haste slowly. The tension is useful: speed wins markets, but the step that is expensive to reverse is the one that deserves the anchor.",
@@ -198,8 +234,10 @@
   }
  },
  {
-  "a": "a47",
-  "v": "v44",
+  "ids": [
+   "a47",
+   "v44"
+  ],
   "th": "leadership",
   "br": {
    "en": "Han Fei trusts law over the virtue of any official; Senge trusts structure over the character of any employee. Two millennia apart, both locate performance in the system people act inside, not in the people themselves.",
@@ -209,8 +247,10 @@
   }
  },
  {
-  "a": "a48",
-  "v": "v45",
+  "ids": [
+   "a48",
+   "v45"
+  ],
   "th": "money",
   "br": {
    "en": "Thoreau prices a purchase in the life you spend to afford it; Gurley prices revenue by the quality of the dollar beneath it. Both refuse the headline figure and ask what the number actually costs or is worth.",
@@ -220,8 +260,10 @@
   }
  },
  {
-  "a": "a51",
-  "v": "v51",
+  "ids": [
+   "a51",
+   "v51"
+  ],
   "th": "strategy",
   "br": {
    "en": "Burke says an institution that cannot change cannot conserve itself; McGrath says no advantage lasts and the skill is exiting it on time. Both reject standing still: survival comes from disciplined, deliberate change, not from guarding a position until it shatters.",
@@ -231,8 +273,10 @@
   }
  },
  {
-  "a": "a53",
-  "v": "v50",
+  "ids": [
+   "a53",
+   "v50"
+  ],
   "th": "leadership",
   "br": {
    "en": "Moltke set a clear intent and let his officers decide within it; Cagan gives teams a problem and lets them choose the features. Two centuries apart, both push the decision down to the people closest to the facts, trusting intent over instruction.",
@@ -242,8 +286,10 @@
   }
  },
  {
-  "a": "a58",
-  "v": "v54",
+  "ids": [
+   "a58",
+   "v54"
+  ],
   "th": "strategy",
   "br": {
    "en": "Zhuangzi's tree survives by being good for nothing in particular; Butterfield's companies survived as the side-tool nobody set out to build. Value often arrives sideways, from the part of the work that looked beside the point.",
@@ -253,8 +299,10 @@
   }
  },
  {
-  "a": "a59",
-  "v": "v55",
+  "ids": [
+   "a59",
+   "v55"
+  ],
   "th": "character",
   "br": {
    "en": "Solon refuses to call a life happy until it ends; Livingston finds the opening act of a company just as misleading. Both distrust the single frame—the glittering peak or the shambolic start—and judge only by the whole arc.",
@@ -264,8 +312,10 @@
   }
  },
  {
-  "a": "a60",
-  "v": "v59",
+  "ids": [
+   "a60",
+   "v59"
+  ],
   "th": "building",
   "br": {
    "en": "Quintilian insists accuracy must come before speed, since rushed practice only entrenches error; Jassy says the same of running systems—operational judgment is earned slowly and cannot be copied or bought. Both deny the shortcut: competence is time served, not time saved.",
@@ -275,14 +325,95 @@
   }
  },
  {
-  "a": "a62",
-  "v": "v62",
+  "ids": [
+   "a62",
+   "v62"
+  ],
   "th": "character",
   "br": {
    "en": "James shows that character and society run on habit—conduct installed once, then automatic; Shah builds a company the same way, treating culture as a product deliberately set so the right behaviour becomes the default. Both trust designed routine over daily willpower.",
    "it": "James mostra che il carattere e la società poggiano sull'abitudine—una condotta installata una volta, poi automatica; Shah costruisce un'azienda allo stesso modo, trattando la cultura come un prodotto deliberato perché il comportamento giusto diventi l'impostazione predefinita. Entrambi si fidano della routine progettata più che della volontà quotidiana.",
    "es": "James muestra que el carácter y la sociedad se sostienen en el hábito—una conducta instalada una vez, luego automática; Shah construye una empresa del mismo modo, tratando la cultura como un producto deliberado para que la conducta correcta sea lo predeterminado. Ambos confían en la rutina diseñada más que en la voluntad diaria.",
    "la": "Mores consuetudine finguntur, non vi."
+  }
+ },
+ {
+  "ids": [
+   "a11",
+   "m01"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Aristotle says character is action repeated. Tracy says start the repetition each morning with the task you fear.",
+   "it": "Aristotele dice che il carattere è azione ripetuta. Tracy dice di iniziare la ripetizione ogni mattina dal compito che temi.",
+   "es": "Aristóteles dice que el carácter es acción repetida. Tracy dice que la repetición empiece cada mañana con la tarea que temes.",
+   "la": "Aristoteles: mores sunt actio iterata. Tracy: iterationem mane a timendo opere incipe."
+  }
+ },
+ {
+  "ids": [
+   "m05",
+   "v23"
+  ],
+  "th": "leadership",
+  "br": {
+   "en": "Carnegie's curiosity about people and Campbell's coaching are the same craft, eighty years apart: the person first, the result follows.",
+   "it": "La curiosità di Carnegie per le persone e il coaching di Campbell sono lo stesso mestiere, a ottant'anni di distanza: prima la persona, il risultato segue.",
+   "es": "La curiosidad de Carnegie por las personas y el coaching de Campbell son el mismo oficio, con ochenta años de distancia: primero la persona, el resultado sigue.",
+   "la": "Carnegie et Campbell idem artificium octoginta annis distantes: primum homo, deinde fructus."
+  }
+ },
+ {
+  "ids": [
+   "a04",
+   "v22",
+   "m07"
+  ],
+  "th": "focus",
+  "br": {
+   "en": "Marcus removes the unnecessary, Doerr caps the objectives at three, Covey moves the hours into the quadrant that never rings. Eighteen centuries, one discipline: choosing is the work.",
+   "it": "Marco Aurelio toglie il superfluo, Doerr limita gli obiettivi a tre, Covey sposta le ore nel quadrante che non squilla mai. Diciotto secoli, una sola disciplina: scegliere è il lavoro.",
+   "es": "Marco Aurelio quita lo superfluo, Doerr limita los objetivos a tres, Covey mueve las horas al cuadrante que nunca suena. Dieciocho siglos, una sola disciplina: elegir es el trabajo.",
+   "la": "Marcus supervacua tollit, Doerr proposita ad tria coercet, Covey horas transfert: eligere est opus."
+  }
+ },
+ {
+  "ids": [
+   "a28",
+   "m08"
+  ],
+  "th": "persuasion",
+  "br": {
+   "en": "Gracián taught the court to hold attention in suspense. Cialdini measured why scarcity works. One is the technique, the other is the experiment.",
+   "it": "Gracián insegnò alla corte a tenere l'attenzione in sospeso. Cialdini misurò perché la scarsità funziona. Uno è la tecnica, l'altro l'esperimento.",
+   "es": "Gracián enseñó a la corte a mantener la atención en suspenso. Cialdini midió por qué funciona la escasez. Uno es la técnica, el otro el experimento.",
+   "la": "Gracián aulam docuit attentionem suspendere; Cialdini mensus est cur raritas valeat."
+  }
+ },
+ {
+  "ids": [
+   "a07",
+   "m09"
+  ],
+  "th": "strategy",
+  "br": {
+   "en": "Sun Tzu settles the battle before contact. Rackham settles the sale before the proposal: both do the work in the questions, not in the clash.",
+   "it": "Sun Tzu decide la battaglia prima del contatto. Rackham decide la vendita prima dell'offerta: entrambi fanno il lavoro nelle domande, non nello scontro.",
+   "es": "Sun Tzu decide la batalla antes del contacto. Rackham decide la venta antes de la propuesta: ambos hacen el trabajo en las preguntas, no en el choque.",
+   "la": "Sun Tzu pugnam ante congressum decernit; Rackham venditionem ante propositum: uterque interrogando, non certando."
+  }
+ },
+ {
+  "ids": [
+   "a26",
+   "m10"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Cicero and Ziglar make the same bet two thousand years apart: what is useful but not honourable stops being useful soon.",
+   "it": "Cicerone e Ziglar fanno la stessa scommessa a duemila anni di distanza: ciò che è utile ma non onesto smette presto di essere utile.",
+   "es": "Cicerón y Ziglar hacen la misma apuesta con dos mil años de distancia: lo útil que no es honesto deja pronto de ser útil.",
+   "la": "Cicero et Ziglar idem pignus: utile sine honesto mox utile esse desinit."
   }
  }
 ]

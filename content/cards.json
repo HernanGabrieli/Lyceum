@@ -4210,5 +4210,355 @@
   },
   "batch": "2026-11-15-01",
   "added": "2026-11-15T12:00:00Z"
+ },
+ {
+  "id": "m01",
+  "t": "tracy",
+  "era": "2001",
+  "src": "Eat That Frog!, 2001",
+  "h": "Do the hardest task first.",
+  "b": "Tracy's rule for the working day: find the one task with the largest consequences, usually the one you keep postponing, and finish it before anything else. The rest of the day then runs on momentum instead of dread. The method is about sequence, not hours: the order in which you work decides what gets done, more than the effort you spend.",
+  "d": "Before opening email tomorrow, name the frog. Work on it until it is finished or ninety minutes have passed.",
+  "tg": [
+   "focus",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://openlibrary.org/works/OL2392324W",
+  "note": "Open Library: first published 2001, Berrett-Koehler.",
+  "tr": {
+   "it": [
+    "Fai prima il compito più difficile.",
+    "La regola di Tracy per la giornata di lavoro: individua l'unico compito con le conseguenze maggiori, di solito quello che continui a rimandare, e finiscilo prima di ogni altra cosa. Il resto della giornata procede poi per slancio invece che per ansia. Il metodo riguarda la sequenza, non le ore: l'ordine in cui lavori decide cosa viene fatto, più dello sforzo che ci metti.",
+    "Domani, prima di aprire la posta, dai un nome al rospo. Lavoraci finché non è finito o finché non sono passati novanta minuti.",
+    "Eat That Frog!, 2001"
+   ],
+   "es": [
+    "Haz primero la tarea más difícil.",
+    "La regla de Tracy para la jornada: identifica la única tarea con mayores consecuencias, normalmente la que sigues aplazando, y termínala antes que cualquier otra. El resto del día avanza entonces por impulso y no por temor. El método trata de secuencia, no de horas: el orden en que trabajas decide lo que se hace, más que el esfuerzo que pones.",
+    "Mañana, antes de abrir el correo, ponle nombre a la rana. Trabaja en ella hasta terminarla o hasta que pasen noventa minutos.",
+    "Eat That Frog!, 2001"
+   ],
+   "la": [
+    "Primum difficillimum opus perfice."
+   ]
+  },
+  "added": "2026-11-15T16:00:00Z",
+  "batch": "2026-11-15-02"
+ },
+ {
+  "id": "m02",
+  "t": "tracy",
+  "era": "2004",
+  "src": "The Psychology of Selling, 2004",
+  "h": "People buy for their reasons, not yours.",
+  "b": "Tracy treats selling as the study of motives. Fear of losing weighs more than hope of gaining, and the buyer's picture of themselves decides what feels like a safe purchase. The seller's work is to find the dominant buying motive by asking and listening, then to present the offer in the buyer's own words, so the decision feels like theirs.",
+  "d": "In your next pitch, let the client talk for the first ten minutes. Write down their words and build the offer with them.",
+  "tg": [
+   "persuasion",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://www.publishersweekly.com/9780785212003",
+  "note": "Book edition, Thomas Nelson, 2004 (ISBN 9780785212003); an audio programme of the same name dates from the 1980s.",
+  "tr": {
+   "it": [
+    "La gente compra per le sue ragioni, non per le tue.",
+    "Tracy tratta la vendita come studio dei motivi. La paura di perdere pesa più della speranza di guadagnare, e l'immagine che il compratore ha di sé decide quale acquisto gli sembra sicuro. Il lavoro del venditore è trovare il motivo d'acquisto dominante chiedendo e ascoltando, e poi presentare l'offerta con le parole del cliente, così che la decisione sembri sua.",
+    "Nella prossima presentazione, lascia parlare il cliente per i primi dieci minuti. Annota le sue parole e costruisci l'offerta con quelle.",
+    "The Psychology of Selling, 2004"
+   ],
+   "es": [
+    "La gente compra por sus razones, no por las tuyas.",
+    "Tracy trata la venta como un estudio de motivos. El miedo a perder pesa más que la esperanza de ganar, y la imagen que el comprador tiene de sí mismo decide qué compra le parece segura. El trabajo del vendedor es encontrar el motivo de compra dominante preguntando y escuchando, y presentar después la oferta con las palabras del cliente, para que la decisión parezca suya.",
+    "En tu próxima presentación, deja hablar al cliente los primeros diez minutos. Anota sus palabras y construye la oferta con ellas.",
+    "Psicología de ventas (The Psychology of Selling, 2004)"
+   ],
+   "la": [
+    "Homines suis causis emunt, non tuis."
+   ]
+  },
+  "added": "2026-11-15T16:00:00Z",
+  "batch": "2026-11-15-02"
+ },
+ {
+  "id": "m03",
+  "t": "kuppers",
+  "era": "2012",
+  "src": "Vivir la vida con sentido, 2012",
+  "h": "Busy is not the same as useful.",
+  "b": "Küppers writes for people who have confused a full agenda with a meaningful one. His test is simple: at the end of the day, who is better off because you worked? People who can answer that question work with more energy and less friction, not because they try harder but because the effort has a direction. Gratitude and humour are part of the method, not decoration.",
+  "d": "Write one sentence that says what your work is for. If it names only revenue or a title, rewrite it until it names a person.",
+  "tg": [
+   "character",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://www.casadellibro.com.co/libro-vivir-la-vida-con-sentido/9788415577553/2036586",
+  "note": "Plataforma Editorial; the catalogue shows release dates in both 2012 and 2013, the author bio cites 2012.",
+  "tr": {
+   "it": [
+    "Essere occupati non è essere utili.",
+    "Küppers scrive per chi ha confuso un'agenda piena con una significativa. Il suo test è semplice: a fine giornata, chi sta meglio perché tu hai lavorato? Chi sa rispondere lavora con più energia e meno attrito, non perché si sforzi di più ma perché lo sforzo ha una direzione. Gratitudine e umorismo fanno parte del metodo, non sono decorazione.",
+    "Scrivi una frase che dica a cosa serve il tuo lavoro. Se nomina solo fatturato o titolo, riscrivila finché non nomina una persona.",
+    "Vivir la vida con sentido, 2012"
+   ],
+   "es": [
+    "Estar ocupado no es ser útil.",
+    "Küppers escribe para quienes han confundido una agenda llena con una agenda con sentido. Su prueba es simple: al final del día, quién está mejor porque tú trabajaste. Quien sabe responder trabaja con más energía y menos fricción, no porque se esfuerce más sino porque el esfuerzo tiene dirección. La gratitud y el humor forman parte del método, no son adorno.",
+    "Escribe una frase que diga para qué sirve tu trabajo. Si solo nombra facturación o cargo, reescríbela hasta que nombre a una persona.",
+    "Vivir la vida con sentido, 2012"
+   ],
+   "la": [
+    "Occupatum esse non est utilem esse."
+   ]
+  },
+  "added": "2026-11-15T16:00:00Z",
+  "batch": "2026-11-15-02"
+ },
+ {
+  "id": "m04",
+  "t": "kuppers",
+  "era": "2006",
+  "src": "El efecto actitud, 2006",
+  "h": "Attitude multiplies; knowledge and skills only add.",
+  "b": "Küppers values a person as knowledge plus skills, multiplied by attitude. The first two grow slowly through study and practice; the third can collapse in a bad month and take the whole product with it. Companies recruit for the sum and lose people over the multiplier. Leaders, he argues, are remembered for how they made people feel, not for what they knew.",
+  "d": "Rate your last week on attitude alone, one to ten. If it is below seven, that is the number to work on, not your skills.",
+  "tg": [
+   "character",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://www.casadellibro.com.co/libro-el-efecto-actitud/9788483303917/1111503",
+  "note": "First edition Viena Edicions, 2006; reissued by Ediciones Invisibles, 2011.",
+  "tr": {
+   "it": [
+    "L'atteggiamento moltiplica; conoscenze e abilità si sommano soltanto.",
+    "Küppers valuta una persona come conoscenze più abilità, moltiplicate per l'atteggiamento. Le prime due crescono lentamente con studio e pratica; il terzo può crollare in un brutto mese e trascinare con sé tutto il prodotto. Le aziende assumono per la somma e perdono le persone per il moltiplicatore. I leader, sostiene, vengono ricordati per come hanno fatto sentire le persone, non per ciò che sapevano.",
+    "Valuta la tua ultima settimana solo sull'atteggiamento, da uno a dieci. Se è sotto il sette, è quello il numero su cui lavorare, non le competenze.",
+    "El efecto actitud, 2006"
+   ],
+   "es": [
+    "La actitud multiplica; conocimientos y habilidades solo suman.",
+    "Küppers valora a una persona como conocimientos más habilidades, multiplicados por la actitud. Los dos primeros crecen despacio con estudio y práctica; la tercera puede hundirse en un mal mes y arrastrar todo el producto. Las empresas contratan por la suma y pierden a la gente por el multiplicador. A los líderes, sostiene, se les recuerda por cómo hicieron sentir a las personas, no por lo que sabían.",
+    "Puntúa tu última semana solo en actitud, de uno a diez. Si está por debajo de siete, ese es el número que hay que trabajar, no tus habilidades.",
+    "El efecto actitud, 2006"
+   ],
+   "la": [
+    "Animus multiplicat; scientia et artes tantum addunt."
+   ]
+  },
+  "added": "2026-11-15T16:00:00Z",
+  "batch": "2026-11-15-02"
+ },
+ {
+  "id": "m05",
+  "t": "carnegie",
+  "era": "1936",
+  "src": "How to Win Friends and Influence People, 1936",
+  "h": "Interest in others opens more doors than talent.",
+  "b": "Carnegie built his course on an unflattering observation: most people think about themselves most of the time, so the one who asks, listens and remembers names becomes rare and therefore valuable. Criticism makes people defend; honest appreciation makes them move. Written for salesmen in the Depression, the book became the manual for every manager who has to get results through other people.",
+  "d": "In your next meeting, ask three questions before you make one statement, and use each person's name at least once.",
+  "tg": [
+   "persuasion",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://www.britannica.com/biography/Dale-Carnegie",
+  "note": "Britannica: Dale Carnegie (1888-1955), book published 1936.",
+  "tr": {
+   "it": [
+    "L'interesse per gli altri apre più porte del talento.",
+    "Carnegie costruì il suo corso su un'osservazione poco lusinghiera: la maggior parte delle persone pensa a se stessa quasi sempre, quindi chi domanda, ascolta e ricorda i nomi diventa raro e perciò prezioso. La critica mette sulla difensiva; l'apprezzamento sincero muove. Scritto per i venditori della Depressione, il libro è diventato il manuale di ogni manager che deve ottenere risultati attraverso altre persone.",
+    "Nella prossima riunione, fai tre domande prima di una sola affermazione, e usa il nome di ciascuno almeno una volta.",
+    "Come trattare gli altri e farseli amici, 1936"
+   ],
+   "es": [
+    "El interés por los demás abre más puertas que el talento.",
+    "Carnegie construyó su curso sobre una observación poco halagadora: la mayoría de la gente piensa en sí misma casi todo el tiempo, así que quien pregunta, escucha y recuerda los nombres se vuelve raro y, por eso, valioso. La crítica pone a la defensiva; el aprecio sincero mueve. Escrito para vendedores en la Depresión, el libro se convirtió en el manual de todo directivo que debe lograr resultados a través de otras personas.",
+    "En tu próxima reunión, haz tres preguntas antes de una sola afirmación, y usa el nombre de cada persona al menos una vez.",
+    "Cómo ganar amigos e influir sobre las personas, 1936"
+   ],
+   "la": [
+    "Cura aliorum plures ianuas aperit quam ingenium."
+   ]
+  },
+  "added": "2026-11-15T16:00:00Z",
+  "batch": "2026-11-15-02"
+ },
+ {
+  "id": "m06",
+  "t": "covey",
+  "era": "1989",
+  "src": "The 7 Habits of Highly Effective People, 1989",
+  "h": "Begin with the end in mind.",
+  "b": "Covey's second habit asks you to write the outcome before you act: the decision a meeting must produce, the finished state of a project, the sentence you want said about your career. Activity without a defined end produces efficient climbing of the wrong wall. Leadership, in his split, chooses the wall; management climbs it well.",
+  "d": "Write the final slide of the project before the kickoff meeting. Then plan backward from it.",
+  "tg": [
+   "focus",
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Stephen_Covey",
+  "note": "Wikipedia, confirmed by LibraryThing: Stephen R. Covey (1932-2012); The 7 Habits of Highly Effective People, 1989.",
+  "tr": {
+   "it": [
+    "Comincia con la fine in mente.",
+    "Il secondo principio di Covey chiede di scrivere il risultato prima di agire: la decisione che una riunione deve produrre, lo stato finale di un progetto, la frase che vuoi sentir dire sulla tua carriera. L'attività senza un fine definito produce una scalata efficiente della parete sbagliata. Nella sua distinzione, la leadership sceglie la parete; il management la scala bene.",
+    "Scrivi l'ultima slide del progetto prima della riunione di avvio. Poi pianifica a ritroso da lì.",
+    "Le 7 regole per avere successo, 1989"
+   ],
+   "es": [
+    "Empieza con el fin en la mente.",
+    "El segundo hábito de Covey pide escribir el resultado antes de actuar: la decisión que una reunión debe producir, el estado final de un proyecto, la frase que quieres que digan de tu carrera. La actividad sin un fin definido produce una escalada eficiente de la pared equivocada. En su distinción, el liderazgo elige la pared; la gestión la escala bien.",
+    "Escribe la última diapositiva del proyecto antes de la reunión de arranque. Luego planifica hacia atrás desde ahí.",
+    "Los 7 hábitos de la gente altamente efectiva, 1989"
+   ],
+   "la": [
+    "A fine incipe."
+   ]
+  },
+  "added": "2026-11-15T16:00:00Z",
+  "batch": "2026-11-15-02"
+ },
+ {
+  "id": "m07",
+  "t": "covey",
+  "era": "1989",
+  "src": "The 7 Habits of Highly Effective People, 1989",
+  "h": "Urgent is not important.",
+  "b": "Covey sorts work on two axes, urgency and importance. The quadrant that builds a business, planning, relationships, prevention, learning, is the one that never rings. Effective people move hours into it on purpose, taken from the urgent-but-trivial quadrant, because no interruption will ever send them there. The calendar, not the to-do list, is where the choice shows.",
+  "d": "Block two hours this week for a task that is important and not urgent. Protect the block as you would a client meeting.",
+  "tg": [
+   "focus",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Stephen_Covey",
+  "note": "Same source as m06.",
+  "tr": {
+   "it": [
+    "Urgente non vuol dire importante.",
+    "Covey ordina il lavoro su due assi, urgenza e importanza. Il quadrante che costruisce un'impresa, pianificazione, relazioni, prevenzione, apprendimento, è quello che non squilla mai. Le persone efficaci vi spostano ore di proposito, sottraendole al quadrante urgente ma futile, perché nessuna interruzione le porterà mai lì. È l'agenda, non la lista delle cose da fare, a mostrare la scelta.",
+    "Blocca due ore questa settimana per un compito importante e non urgente. Proteggi il blocco come faresti con un incontro con un cliente.",
+    "Le 7 regole per avere successo, 1989"
+   ],
+   "es": [
+    "Urgente no es importante.",
+    "Covey ordena el trabajo en dos ejes, urgencia e importancia. El cuadrante que construye una empresa, planificar, relaciones, prevención, aprendizaje, es el que nunca suena. La gente efectiva mueve horas hacia él a propósito, quitadas al cuadrante urgente pero trivial, porque ninguna interrupción la llevará allí. Es la agenda, no la lista de tareas, donde se ve la elección.",
+    "Bloquea dos horas esta semana para una tarea importante y no urgente. Protege el bloque como protegerías una reunión con un cliente.",
+    "Los 7 hábitos de la gente altamente efectiva, 1989"
+   ],
+   "la": [
+    "Urgens non est magni momenti."
+   ]
+  },
+  "added": "2026-11-15T16:00:00Z",
+  "batch": "2026-11-15-02"
+ },
+ {
+  "id": "m08",
+  "t": "cialdini",
+  "era": "1984",
+  "src": "Influence: The Psychology of Persuasion, 1984",
+  "h": "The levers of persuasion are known. Learn to see them.",
+  "b": "Cialdini spent three years inside sales, fundraising and advertising operations to catalogue what makes people say yes. Six principles came out: reciprocation, commitment and consistency, social proof, authority, liking and scarcity. They work whether or not the target notices. Knowing them is a defence as much as a tool: the free sample, the deadline and the small first yes are engineered.",
+  "d": "List the last three purchases you regret. Name the principle that worked on you in each one.",
+  "tg": [
+   "persuasion",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Robert_Cialdini",
+  "note": "Wikipedia, confirmed by LibraryThing and Goodreads: Influence first published 1984.",
+  "tr": {
+   "it": [
+    "Le leve della persuasione sono note. Impara a vederle.",
+    "Cialdini passò tre anni dentro organizzazioni di vendita, raccolta fondi e pubblicità per catalogare ciò che fa dire di sì. Ne uscirono sei principi: reciprocità, impegno e coerenza, riprova sociale, autorità, simpatia e scarsità. Funzionano che il bersaglio se ne accorga o no. Conoscerli è una difesa tanto quanto uno strumento: il campione gratuito, la scadenza e il piccolo primo sì sono progettati.",
+    "Elenca i tuoi ultimi tre acquisti di cui ti penti. Per ciascuno, nomina il principio che ha funzionato su di te.",
+    "Le armi della persuasione, 1984"
+   ],
+   "es": [
+    "Las palancas de la persuasión son conocidas. Aprende a verlas.",
+    "Cialdini pasó tres años dentro de organizaciones de ventas, recaudación de fondos y publicidad para catalogar lo que hace decir que sí. Salieron seis principios: reciprocidad, compromiso y coherencia, prueba social, autoridad, simpatía y escasez. Funcionan tanto si el destinatario lo nota como si no. Conocerlos es una defensa tanto como una herramienta: la muestra gratis, el plazo y el pequeño primer sí están diseñados.",
+    "Anota tus últimas tres compras de las que te arrepientes. En cada una, nombra el principio que funcionó contigo.",
+    "Influencia (Influence), 1984"
+   ],
+   "la": [
+    "Vectes persuasionis noti sunt; disce eos videre."
+   ]
+  },
+  "added": "2026-11-15T16:00:00Z",
+  "batch": "2026-11-15-02"
+ },
+ {
+  "id": "m09",
+  "t": "rackham",
+  "era": "1988",
+  "src": "SPIN Selling, 1988",
+  "h": "In large sales, the question beats the pitch.",
+  "b": "Rackham's team observed 35,000 sales calls over twelve years and found that the closing techniques taught for small purchases backfire on large ones. What predicted success was a sequence of questions, about the situation, the problem, its implications and the value of solving it, that led the buyer to state the cost of the problem before the seller described the solution.",
+  "d": "Draft four implication questions before your next client meeting. Do not present until the client has put a number on the problem.",
+  "tg": [
+   "persuasion",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Neil_Rackham",
+  "note": "Wikipedia: SPIN Selling, McGraw-Hill, 1988; research base of 35,000 sales calls over 12 years. Birth year not stated there.",
+  "tr": {
+   "it": [
+    "Nelle grandi vendite, la domanda batte la presentazione.",
+    "Il team di Rackham osservò 35.000 visite di vendita in dodici anni e scoprì che le tecniche di chiusura insegnate per i piccoli acquisti si ritorcono contro in quelli grandi. A predire il successo era una sequenza di domande, sulla situazione, sul problema, sulle sue implicazioni e sul valore di risolverlo, che portava il compratore a dichiarare il costo del problema prima che il venditore descrivesse la soluzione.",
+    "Prepara quattro domande sulle implicazioni prima del prossimo incontro con il cliente. Non presentare finché il cliente non ha dato un numero al problema.",
+    "SPIN Selling, 1988"
+   ],
+   "es": [
+    "En las ventas grandes, la pregunta vence a la presentación.",
+    "El equipo de Rackham observó 35.000 visitas de venta durante doce años y descubrió que las técnicas de cierre enseñadas para compras pequeñas se vuelven en contra en las grandes. Lo que predecía el éxito era una secuencia de preguntas, sobre la situación, el problema, sus implicaciones y el valor de resolverlo, que llevaba al comprador a declarar el coste del problema antes de que el vendedor describiera la solución.",
+    "Redacta cuatro preguntas de implicación antes de tu próxima reunión con el cliente. No presentes hasta que el cliente le haya puesto un número al problema.",
+    "SPIN Selling, 1988"
+   ],
+   "la": [
+    "In magnis venditionibus interrogatio orationem vincit."
+   ]
+  },
+  "added": "2026-11-15T16:00:00Z",
+  "batch": "2026-11-15-02"
+ },
+ {
+  "id": "m10",
+  "t": "ziglar",
+  "era": "1975",
+  "src": "See You at the Top, 1975",
+  "h": "Selling is helping, or it is not selling.",
+  "b": "Ziglar's premise is that a sale which does not serve the buyer is a loan the seller repays later in reputation; income is a by-product of problems solved for other people. His second premise is harder: enthusiasm is not a mood but a decision renewed every morning, because the customer will meet it before they meet the product.",
+  "d": "Before sending the next quote, write what the client gains in their own numbers. If you cannot, do not send it.",
+  "tg": [
+   "persuasion",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://www.wikiwand.com/en/articles/Zig_Ziglar",
+  "note": "Wikipedia (via Wikiwand), confirmed by LibraryThing: Zig Ziglar (1926-2012); See You at the Top, 1975.",
+  "tr": {
+   "it": [
+    "Vendere è aiutare, altrimenti non è vendere.",
+    "La premessa di Ziglar è che una vendita che non serve al compratore è un prestito che il venditore ripaga più tardi in reputazione; il reddito è un sottoprodotto dei problemi risolti per gli altri. La seconda premessa è più dura: l'entusiasmo non è uno stato d'animo ma una decisione rinnovata ogni mattina, perché il cliente lo incontrerà prima di incontrare il prodotto.",
+    "Prima di inviare il prossimo preventivo, scrivi cosa guadagna il cliente nei suoi numeri. Se non ci riesci, non inviarlo.",
+    "See You at the Top, 1975"
+   ],
+   "es": [
+    "Vender es ayudar, o no es vender.",
+    "La premisa de Ziglar es que una venta que no sirve al comprador es un préstamo que el vendedor devuelve después en reputación; los ingresos son un subproducto de los problemas resueltos a otras personas. Su segunda premisa es más dura: el entusiasmo no es un estado de ánimo sino una decisión renovada cada mañana, porque el cliente se encontrará con él antes que con el producto.",
+    "Antes de enviar el próximo presupuesto, escribe qué gana el cliente en sus propios números. Si no puedes, no lo envíes.",
+    "Nos vemos en la cumbre, 1975"
+   ],
+   "la": [
+    "Vendere est iuvare; aliter non est vendere."
+   ]
+  },
+  "added": "2026-11-15T16:00:00Z",
+  "batch": "2026-11-15-02"
  }
 ]

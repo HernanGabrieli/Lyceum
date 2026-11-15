@@ -1560,5 +1560,96 @@
    "es": "Primer ministro de Francia",
    "la": "Primus minister Galliae"
   }
+ },
+ "tracy": {
+  "n": "Brian Tracy",
+  "i": "BT",
+  "r": "Sales trainer and author",
+  "w": "m",
+  "y": "b. 1944",
+  "names": {},
+  "roles": {
+   "it": "Formatore di vendita e autore",
+   "es": "Formador de ventas y autor",
+   "la": "Magister venditionis et scriptor"
+  }
+ },
+ "kuppers": {
+  "n": "Víctor Küppers",
+  "i": "VK",
+  "r": "Speaker and author, Barcelona",
+  "w": "m",
+  "y": "b. Eindhoven",
+  "names": {},
+  "roles": {
+   "it": "Conferenziere e autore, Barcellona",
+   "es": "Conferenciante y autor, Barcelona",
+   "la": "Orator et scriptor, Barcino"
+  }
+ },
+ "carnegie": {
+  "n": "Dale Carnegie",
+  "i": "DC",
+  "r": "Author and lecturer on human relations",
+  "w": "m",
+  "y": "1888–1955",
+  "names": {},
+  "roles": {
+   "it": "Autore e conferenziere sulle relazioni umane",
+   "es": "Autor y conferenciante sobre relaciones humanas",
+   "la": "Scriptor et orator de rebus humanis"
+  }
+ },
+ "covey": {
+  "n": "Stephen R. Covey",
+  "i": "SC",
+  "r": "Author and leadership educator",
+  "w": "m",
+  "y": "1932–2012",
+  "names": {},
+  "roles": {
+   "it": "Autore e formatore di leadership",
+   "es": "Autor y formador en liderazgo",
+   "la": "Scriptor et magister ducatus"
+  }
+ },
+ "cialdini": {
+  "n": "Robert Cialdini",
+  "i": "RC",
+  "r": "Psychologist, Arizona State University",
+  "w": "m",
+  "y": "b. 1945",
+  "names": {},
+  "roles": {
+   "it": "Psicologo, Arizona State University",
+   "es": "Psicólogo, Arizona State University",
+   "la": "Psychologus, Universitas Arizonae"
+  }
+ },
+ "rackham": {
+  "n": "Neil Rackham",
+  "i": "NR",
+  "r": "Sales researcher, founder of Huthwaite",
+  "w": "m",
+  "y": "England, 20th century",
+  "names": {},
+  "roles": {
+   "it": "Ricercatore di vendita, fondatore di Huthwaite",
+   "es": "Investigador de ventas, fundador de Huthwaite",
+   "la": "Investigator venditionis"
+  }
+ },
+ "ziglar": {
+  "n": "Zig Ziglar",
+  "i": "ZZ",
+  "r": "Sales trainer and motivational speaker",
+  "w": "m",
+  "y": "1926–2012",
+  "names": {},
+  "roles": {
+   "it": "Formatore di vendita e oratore motivazionale",
+   "es": "Formador de ventas y conferenciante motivacional",
+   "la": "Magister venditionis et orator"
+  }
  }
 }

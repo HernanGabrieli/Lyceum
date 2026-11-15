@@ -1,12 +1,18 @@
 #!/usr/bin/env python3
 """Build dist/index.html from site/index.template.html + content/*.json.
-Fails on referential errors (unknown thinker, unknown topic, duo pointing to a missing card).
+Fails on referential errors (unknown thinker, unknown topic, wing/id mismatch,
+dialogue pointing to a missing card).
 usage: python3 scripts/build.py [--out dist/index.html]
 """
 import json, os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+WINGS = ("v", "a", "m")   # Valley, Ancients, Masters
 def load(n): return json.load(open(os.path.join(ROOT, "content", n), encoding="utf-8"))
 def js(v): return json.dumps(v, ensure_ascii=False, separators=(",", ":"))
+
+def duo_ids(d):
+    """A dialogue is a list of 2-3 card ids; the legacy shape {a, v} is accepted."""
+    return list(d.get("ids") or [d.get("a"), d.get("v")])
 
 def main():
     out = sys.argv[sys.argv.index("--out")+1] if "--out" in sys.argv else os.path.join(ROOT, "dist", "index.html")
@@ -14,14 +20,19 @@ def main():
     errs = []
     ids = {c["id"] for c in cards}
     if len(ids) != len(cards): errs.append("duplicate card ids")
+    for k, t in thinkers.items():
+        if t.get("w") not in WINGS: errs.append(f"thinker {k}: wing must be one of {WINGS}")
     for c in cards:
         if c["t"] not in thinkers: errs.append(f"{c['id']}: unknown thinker {c['t']}")
         for t in c["tg"]:
             if t not in topics["ids"]: errs.append(f"{c['id']}: unknown topic {t}")
         if c["t"] in thinkers and thinkers[c["t"]]["w"] != c["id"][0]: errs.append(f"{c['id']}: id series does not match thinker wing")
     for d in duos:
-        if d["a"] not in ids or d["v"] not in ids: errs.append(f"duo {d['a']}-{d['v']}: missing card")
-        if d["th"] not in topics["ids"]: errs.append(f"duo {d['a']}-{d['v']}: unknown topic")
+        di = duo_ids(d)
+        if not 2 <= len(di) <= 3 or len(set(di)) != len(di): errs.append(f"duo {di}: needs 2-3 distinct cards")
+        for i in di:
+            if i not in ids: errs.append(f"duo {di}: missing card {i}")
+        if d["th"] not in topics["ids"]: errs.append(f"duo {di}: unknown topic")
     if errs:
         print("\n".join(errs)); sys.exit(1)
     TOPICS = [[k, topics["names"]["en"][k]] for k in topics["ids"]]
@@ -30,7 +41,7 @@ def main():
     TROLE = {l: {k: t["roles"][l] for k, t in thinkers.items() if t.get("roles", {}).get(l)} for l in ("it", "es", "la")}
     CARDS = [{k: c[k] for k in ("id", "t", "era", "src", "h", "b", "d", "tg", "v", "added") if k in c} for c in cards]
     L = {l: {c["id"]: c["tr"][l] for c in cards if c.get("tr", {}).get(l)} for l in ("it", "es", "la")}
-    DUOS = [{"a": d["a"], "v": d["v"], "th": d["th"], "br": d["br"]} for d in duos]
+    DUOS = [{"ids": duo_ids(d), "th": d["th"], "br": d["br"]} for d in duos]
     block = (f"const TOPICS={js(TOPICS)};const TOPN={js(topics['names'])};const THINKERS={js(THINKERS)};"
              f"const TNAME={js(TNAME)};const TROLE={js(TROLE)};const CARDS={js(CARDS)};const L={js(L)};const DUOS={js(DUOS)};")
     tpl = open(os.path.join(ROOT, "site", "index.template.html"), encoding="utf-8").read()
@@ -38,7 +49,8 @@ def main():
     html = tpl.replace("/*__LYCEUM_DATA__*/", block)
     os.makedirs(os.path.dirname(out), exist_ok=True)
     open(out, "w", encoding="utf-8").write(html)
-    print(f"built {out}: {len(cards)} cards, {len(thinkers)} thinkers, {len(duos)} duos, {sum(1 for c in cards if c['v'])} verified")
+    wings = {w: sum(1 for c in cards if c["id"][0] == w) for w in WINGS}
+    print(f"built {out}: {len(cards)} cards {wings}, {len(thinkers)} thinkers, {len(duos)} dialogues, {sum(1 for c in cards if c['v'])} verified")
 
 if __name__ == "__main__":
     main()

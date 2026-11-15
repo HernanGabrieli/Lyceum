@@ -1,6 +1,6 @@
 # Lyceum — microlearning prototype (AIXCEEDS)
 
-Five minutes a day with the minds that built business. Single-file web app + a curator agent that adds cards on a schedule.
+Five minutes a day with the minds that built business: the Valley, the Ancients and, since November 2026, the Masters of attitude, selling and persuasion. Single-file web app + a curator agent that adds cards on a schedule (default 4 Valley + 3 Ancients + 3 Masters per run).
 
 ## Quick start
 ```bash

@@ -7,7 +7,8 @@
   "building",
   "power",
   "character",
-  "money"
+  "money",
+  "persuasion"
  ],
  "names": {
   "en": {
@@ -18,7 +19,8 @@
    "building": "Building",
    "power": "Power",
    "character": "Character",
-   "money": "Money"
+   "money": "Money",
+   "persuasion": "Persuasion"
   },
   "it": {
    "strategy": "Strategia",
@@ -28,7 +30,8 @@
    "building": "Costruire",
    "power": "Potere",
    "character": "Carattere",
-   "money": "Denaro"
+   "money": "Denaro",
+   "persuasion": "Persuasione"
   },
   "es": {
    "strategy": "Estrategia",
@@ -38,7 +41,8 @@
    "building": "Construir",
    "power": "Poder",
    "character": "Carácter",
-   "money": "Dinero"
+   "money": "Dinero",
+   "persuasion": "Persuasión"
   },
   "la": {
    "strategy": "Consilium",
@@ -48,7 +52,8 @@
    "building": "Aedificatio",
    "power": "Potestas",
    "character": "Mores",
-   "money": "Pecunia"
+   "money": "Pecunia",
+   "persuasion": "Persuasio"
   }
  }
 }

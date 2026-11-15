@@ -226,5 +226,36 @@
    "a64": "https://classicsofstrategy.com/2022/05/27/diplomacy-as-the-art-of-continuous-negotiations-cardinal-de-richelieu-and-the-political-testament/"
   },
   "note": "5 Valley + 5 Ancients, all 10 verified; 2 duos (Quintilian/Jassy building, James/Shah character)"
+ },
+ {
+  "at": "2026-11-15T21:20:23Z",
+  "batch": "2026-11-15-02",
+  "by": "lyceum-curator",
+  "ids": [
+   "m01",
+   "m02",
+   "m03",
+   "m04",
+   "m05",
+   "m06",
+   "m07",
+   "m08",
+   "m09",
+   "m10"
+  ],
+  "verified": 10,
+  "sources": {
+   "m01": "https://openlibrary.org/works/OL2392324W",
+   "m02": "https://www.publishersweekly.com/9780785212003",
+   "m03": "https://www.casadellibro.com.co/libro-vivir-la-vida-con-sentido/9788415577553/2036586",
+   "m04": "https://www.casadellibro.com.co/libro-el-efecto-actitud/9788483303917/1111503",
+   "m05": "https://www.britannica.com/biography/Dale-Carnegie",
+   "m06": "https://en.wikipedia.org/wiki/Stephen_Covey",
+   "m07": "https://en.wikipedia.org/wiki/Stephen_Covey",
+   "m08": "https://en.wikipedia.org/wiki/Robert_Cialdini",
+   "m09": "https://en.wikipedia.org/wiki/Neil_Rackham",
+   "m10": "https://www.wikiwand.com/en/articles/Zig_Ziglar"
+  },
+  "note": "Masters lane opened: Tracy, Küppers, Carnegie, Covey, Cialdini, Rackham, Ziglar; 6 dialogues incl. one trio; all sources verified by web search in chat"
  }
 ]
