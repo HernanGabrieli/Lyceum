@@ -2,6 +2,9 @@
 
 Five minutes a day with the minds that built business: the Valley, the Ancients and, since November 2026, the Masters of attitude, selling and persuasion. Single-file web app + a curator agent that adds cards on a schedule (default 4 Valley + 3 Ancients + 3 Masters per run).
 
+## Install on a phone
+Open https://hernangabrieli.github.io/Lyceum/ in Safari or Chrome and choose "Add to Home Screen": it installs as an app (icon, full screen, offline after the first visit). Progress is stored per browser, so the installed app starts with a fresh streak.
+
 ## Quick start
 ```bash
 python3 scripts/build.py          # -> dist/index.html

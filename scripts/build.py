@@ -49,6 +49,17 @@ def main():
     html = tpl.replace("/*__LYCEUM_DATA__*/", block)
     os.makedirs(os.path.dirname(out), exist_ok=True)
     open(out, "w", encoding="utf-8").write(html)
+    # PWA files: manifest, icons, and the service worker stamped with a content hash so each deploy refreshes the cache
+    import hashlib, shutil
+    pwa = os.path.join(ROOT, "site", "pwa"); outdir = os.path.dirname(out)
+    if os.path.isdir(pwa):
+        for name in os.listdir(pwa):
+            src = os.path.join(pwa, name); dst = os.path.join(outdir, name)
+            if os.path.isdir(src): shutil.copytree(src, dst, dirs_exist_ok=True)
+            elif name == "sw.js":
+                ver = hashlib.sha256(html.encode("utf-8")).hexdigest()[:12]
+                open(dst, "w", encoding="utf-8").write(open(src, encoding="utf-8").read().replace("__VERSION__", ver))
+            else: shutil.copyfile(src, dst)
     wings = {w: sum(1 for c in cards if c["id"][0] == w) for w in WINGS}
     print(f"built {out}: {len(cards)} cards {wings}, {len(thinkers)} thinkers, {len(duos)} dialogues, {sum(1 for c in cards if c['v'])} verified")
 
