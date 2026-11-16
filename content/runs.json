@@ -257,5 +257,36 @@
    "m10": "https://www.wikiwand.com/en/articles/Zig_Ziglar"
   },
   "note": "Masters lane opened: Tracy, Küppers, Carnegie, Covey, Cialdini, Rackham, Ziglar; 6 dialogues incl. one trio; all sources verified by web search in chat"
+ },
+ {
+  "at": "2026-11-16T16:55:11Z",
+  "batch": "2026-11-16-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v63",
+   "v64",
+   "v65",
+   "v66",
+   "a65",
+   "a66",
+   "a67",
+   "m11",
+   "m12",
+   "m13"
+  ],
+  "verified": 10,
+  "sources": {
+   "v63": "https://en.wikipedia.org/wiki/Creative_destruction",
+   "v64": "https://en.wikipedia.org/wiki/Marketing_myopia",
+   "v65": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow",
+   "v66": "https://en.wikipedia.org/wiki/Antifragile_(book)",
+   "a65": "https://en.wikipedia.org/wiki/First_Philippic",
+   "a66": "https://en.wikipedia.org/wiki/Self-Help_(Smiles_book)",
+   "a67": "https://en.wikipedia.org/wiki/Parable_of_the_broken_window",
+   "m11": "https://www.penguinrandomhouse.com/books/44330/mindset-by-carol-s-dweck-phd/",
+   "m12": "https://openlibrary.org/books/OL26706016M/Never_Split_the_Difference",
+   "m13": "https://www.danpink.com/books/to-sell-is-human/"
+  },
+  "note": "4 Valley + 3 Ancients + 3 Masters, all 10 verified; trio (Sun Tzu/Blank/Voss persuasion) + 3 duos (Smiles/Dweck, Bastiat/Kahneman, Demosthenes/Pink)"
  }
 ]

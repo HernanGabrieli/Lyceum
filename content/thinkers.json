@@ -1651,5 +1651,139 @@
    "es": "Formador de ventas y conferenciante motivacional",
    "la": "Magister venditionis et orator"
   }
+ },
+ "schumpeter": {
+  "n": "Joseph Schumpeter",
+  "i": "JS",
+  "r": "Economist",
+  "w": "v",
+  "y": "1883–1950",
+  "names": {},
+  "roles": {
+   "it": "Economista",
+   "es": "Economista",
+   "la": "Oeconomus"
+  }
+ },
+ "levitt": {
+  "n": "Theodore Levitt",
+  "i": "TL",
+  "r": "Economist and marketing theorist",
+  "w": "v",
+  "y": "1925–2006",
+  "names": {},
+  "roles": {
+   "it": "Economista e teorico del marketing",
+   "es": "Economista y teórico del marketing",
+   "la": "Oeconomus et mercaturae magister"
+  }
+ },
+ "kahneman": {
+  "n": "Daniel Kahneman",
+  "i": "DK",
+  "r": "Psychologist, Nobel laureate in economics",
+  "w": "v",
+  "y": "1934–2024",
+  "names": {},
+  "roles": {
+   "it": "Psicologo, premio Nobel per l'economia",
+   "es": "Psicólogo, premio Nobel de economía",
+   "la": "Psychologus, praemio Nobeliano honoratus"
+  }
+ },
+ "taleb": {
+  "n": "Nassim Nicholas Taleb",
+  "i": "NT",
+  "r": "Essayist and risk theorist",
+  "w": "v",
+  "y": "b. 1960",
+  "names": {},
+  "roles": {
+   "it": "Saggista e teorico del rischio",
+   "es": "Ensayista y teórico del riesgo",
+   "la": "Scriptor et periculi magister"
+  }
+ },
+ "demosthenes": {
+  "n": "Demosthenes",
+  "i": "DM",
+  "r": "Athenian statesman and orator",
+  "w": "a",
+  "y": "384–322 BC",
+  "names": {
+   "it": "Demostene",
+   "es": "Demóstenes",
+   "la": "Demosthenes"
+  },
+  "roles": {
+   "it": "Statista e oratore ateniese",
+   "es": "Estadista y orador ateniense",
+   "la": "Orator Atheniensis"
+  }
+ },
+ "smiles": {
+  "n": "Samuel Smiles",
+  "i": "SS",
+  "r": "Writer and reformer",
+  "w": "a",
+  "y": "1812–1904",
+  "names": {},
+  "roles": {
+   "it": "Scrittore e riformatore",
+   "es": "Escritor y reformador",
+   "la": "Scriptor et reformator"
+  }
+ },
+ "bastiat": {
+  "n": "Frédéric Bastiat",
+  "i": "FB",
+  "r": "Economist",
+  "w": "a",
+  "y": "1801–1850",
+  "names": {},
+  "roles": {
+   "it": "Economista",
+   "es": "Economista",
+   "la": "Oeconomus"
+  }
+ },
+ "dweck": {
+  "n": "Carol Dweck",
+  "i": "CD",
+  "r": "Psychologist",
+  "w": "m",
+  "y": "b. 1946",
+  "names": {},
+  "roles": {
+   "it": "Psicologa",
+   "es": "Psicóloga",
+   "la": "Psychologa"
+  }
+ },
+ "voss": {
+  "n": "Chris Voss",
+  "i": "CV",
+  "r": "Negotiator and former FBI hostage negotiator",
+  "w": "m",
+  "y": "b. 1957",
+  "names": {},
+  "roles": {
+   "it": "Negoziatore, ex negoziatore dell'FBI",
+   "es": "Negociador, exnegociador del FBI",
+   "la": "Conciliator, olim obsidum apud FBI"
+  }
+ },
+ "pink": {
+  "n": "Daniel H. Pink",
+  "i": "DP",
+  "r": "Author on work and behaviour",
+  "w": "m",
+  "y": "b. 1964",
+  "names": {},
+  "roles": {
+   "it": "Autore su lavoro e comportamento",
+   "es": "Autor sobre trabajo y comportamiento",
+   "la": "Scriptor de labore et moribus"
+  }
  }
 }

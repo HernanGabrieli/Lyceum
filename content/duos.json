@@ -415,5 +415,58 @@
    "es": "Cicerón y Ziglar hacen la misma apuesta con dos mil años de distancia: lo útil que no es honesto deja pronto de ser útil.",
    "la": "Cicero et Ziglar idem pignus: utile sine honesto mox utile esse desinit."
   }
+ },
+ {
+  "ids": [
+   "a67",
+   "v65"
+  ],
+  "th": "risk",
+  "br": {
+   "en": "Bastiat and Kahneman warn about the same blind spot two centuries apart: we weigh what is in front of us and ignore what never shows up. The unseen alternative and the missing evidence are where the real risk hides.",
+   "it": "Bastiat e Kahneman mettono in guardia dallo stesso punto cieco a due secoli di distanza: pesiamo ciò che abbiamo davanti e ignoriamo ciò che non compare mai. L'alternativa invisibile e la prova mancante sono dove si nasconde il rischio vero.",
+   "es": "Bastiat y Kahneman advierten del mismo punto ciego con dos siglos de diferencia: pesamos lo que tenemos delante e ignoramos lo que nunca aparece. La alternativa invisible y la prueba que falta son donde se esconde el riesgo real.",
+   "la": "Quod non videtur, periculum tenet."
+  }
+ },
+ {
+  "ids": [
+   "a66",
+   "m11"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Smiles in 1859 and Dweck in 2006 reach the same verdict: it is effort and habit, not innate gift, that build a person. The self-help tradition began by praising perseverance; the psychology of mindset gave it an experiment.",
+   "it": "Smiles nel 1859 e Dweck nel 2006 arrivano allo stesso verdetto: sono lo sforzo e l'abitudine, non il dono innato, a costruire una persona. La tradizione dell'auto-aiuto cominciò lodando la perseveranza; la psicologia del mindset le ha dato un esperimento.",
+   "es": "Smiles en 1859 y Dweck en 2006 llegan al mismo veredicto: son el esfuerzo y el hábito, no el don innato, los que construyen a una persona. La tradición de la autoayuda empezó elogiando la perseverancia; la psicología de la mentalidad le dio un experimento.",
+   "la": "Labor, non donum, hominem fingit."
+  }
+ },
+ {
+  "ids": [
+   "a08",
+   "v21",
+   "m12"
+  ],
+  "th": "persuasion",
+  "br": {
+   "en": "Sun Tzu says know the other; Blank says the facts live outside the building, with real buyers; Voss says name the other's feeling before you move them. Three wings, one rule: understand the person across from you before you try to change their mind.",
+   "it": "Sun Tzu dice di conoscere l'altro; Blank dice che i fatti stanno fuori dall'edificio, presso i veri acquirenti; Voss dice di dare un nome all'emozione dell'altro prima di spingerlo. Tre ali, una regola: capisci la persona di fronte a te prima di cercare di farle cambiare idea.",
+   "es": "Sun Tzu dice conoce al otro; Blank dice que los hechos viven fuera del edificio, con los compradores reales; Voss dice nombra la emoción del otro antes de moverlo. Tres alas, una regla: entiende a la persona que tienes enfrente antes de intentar cambiarle la idea.",
+   "la": "Priusquam moveas, alterum intellege."
+  }
+ },
+ {
+  "ids": [
+   "a65",
+   "m13"
+  ],
+  "th": "persuasion",
+  "br": {
+   "en": "Demosthenes moved a city by speaking to its fears; Pink says we now all move others every day without a podium. Across millennia the lesson holds: persuasion starts from the listener's situation, not the speaker's demand.",
+   "it": "Demostene mosse una città parlando alle sue paure; Pink dice che oggi tutti muoviamo gli altri ogni giorno senza un podio. Attraverso i millenni la lezione resta: la persuasione parte dalla situazione di chi ascolta, non dalla richiesta di chi parla.",
+   "es": "Demóstenes movió a una ciudad hablando a sus miedos; Pink dice que hoy todos movemos a los demás cada día sin una tribuna. A través de los milenios la lección se mantiene: la persuasión parte de la situación de quien escucha, no de la exigencia de quien habla.",
+   "la": "Suasio ab audiente, non a dicente, incipit."
+  }
  }
 ]

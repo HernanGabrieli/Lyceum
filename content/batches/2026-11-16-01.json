@@ -1,0 +1,526 @@
+[
+ {
+  "id": "v63",
+  "t": "schumpeter",
+  "era": "1942",
+  "src": "Capitalism, Socialism and Democracy, 1942",
+  "h": "Creative destruction renews what it ruins.",
+  "b": "Schumpeter argued that the engine of capitalism is not price competition but the recurring gale that scraps whole industries to make room for new ones. The railway buries the coach; the software buries the railway's ledger. Comfort inside a winning model is the surest sign the gale is already forming.",
+  "d": "Name the part of your business a faster rival could render obsolete, and start building its replacement before they do.",
+  "tg": [
+   "strategy",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Creative_destruction",
+  "thinker": {
+   "n": "Joseph Schumpeter",
+   "i": "JS",
+   "r": "Economist",
+   "w": "v",
+   "y": "1883–1950",
+   "names": {},
+   "roles": {
+    "it": "Economista",
+    "es": "Economista",
+    "la": "Oeconomus"
+   }
+  },
+  "tr": {
+   "it": [
+    "La distruzione creatrice rinnova ciò che rovina.",
+    "Schumpeter sosteneva che il motore del capitalismo non è la concorrenza sui prezzi, ma la raffica ricorrente che rottama interi settori per far posto a quelli nuovi. La ferrovia seppellisce la diligenza; il software seppellisce la contabilità della ferrovia. La comodità dentro un modello vincente è il segno più sicuro che la raffica si sta già formando.",
+    "Indica la parte della tua azienda che un rivale più veloce potrebbe rendere obsoleta e inizia a costruirne il sostituto prima di lui.",
+    "Capitalismo, socialismo e democrazia, 1942"
+   ],
+   "es": [
+    "La destrucción creativa renueva lo que arruina.",
+    "Schumpeter sostenía que el motor del capitalismo no es la competencia en precios, sino la ráfaga recurrente que desguaza sectores enteros para dejar sitio a los nuevos. El ferrocarril entierra a la diligencia; el software entierra la contabilidad del ferrocarril. La comodidad dentro de un modelo ganador es la señal más segura de que la ráfaga ya se está formando.",
+    "Señala la parte de tu empresa que un rival más rápido podría volver obsoleta y empieza a construir su sustituto antes que él.",
+    "Capitalismo, socialismo y democracia, 1942"
+   ],
+   "la": [
+    "Ruina creatrix nova parit."
+   ]
+  },
+  "batch": "2026-11-16-01",
+  "added": "2026-11-16T12:00:00Z"
+ },
+ {
+  "id": "v64",
+  "t": "levitt",
+  "era": "1960",
+  "src": "Marketing Myopia, Harvard Business Review, 1960",
+  "h": "You are in the business of the need, not the product.",
+  "b": "Levitt showed that growth industries decline when they define themselves by their product rather than the need it serves. The railroads thought they were in railroads, not transportation, and missed the car and the plane. A product is a temporary answer; the customer's underlying need is what endures and must anchor strategy.",
+  "d": "Write the sentence 'we are in the business of ___' using the need you serve, not the product you ship. Share it with your team.",
+  "tg": [
+   "strategy",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Marketing_myopia",
+  "thinker": {
+   "n": "Theodore Levitt",
+   "i": "TL",
+   "r": "Economist and marketing theorist",
+   "w": "v",
+   "y": "1925–2006",
+   "names": {},
+   "roles": {
+    "it": "Economista e teorico del marketing",
+    "es": "Economista y teórico del marketing",
+    "la": "Oeconomus et mercaturae magister"
+   }
+  },
+  "tr": {
+   "it": [
+    "Sei nel business del bisogno, non del prodotto.",
+    "Levitt mostrò che i settori in crescita declinano quando si definiscono dal prodotto invece che dal bisogno che servono. Le ferrovie credevano di occuparsi di ferrovie, non di trasporto, e mancarono l'auto e l'aereo. Un prodotto è una risposta temporanea; il bisogno di fondo del cliente è ciò che dura e deve ancorare la strategia.",
+    "Scrivi la frase 'siamo nel business di ___' usando il bisogno che servi, non il prodotto che vendi. Condividila con il tuo team.",
+    "Miopia del marketing, Harvard Business Review, 1960"
+   ],
+   "es": [
+    "Estás en el negocio de la necesidad, no del producto.",
+    "Levitt mostró que los sectores en crecimiento declinan cuando se definen por su producto en vez de por la necesidad que sirven. Los ferrocarriles creían estar en los ferrocarriles, no en el transporte, y se perdieron el coche y el avión. Un producto es una respuesta temporal; la necesidad de fondo del cliente es lo que perdura y debe anclar la estrategia.",
+    "Escribe la frase 'estamos en el negocio de ___' usando la necesidad que sirves, no el producto que vendes. Compártela con tu equipo.",
+    "Miopía del marketing, Harvard Business Review, 1960"
+   ],
+   "la": [
+    "Negotium ex necessitate, non ex merce."
+   ]
+  },
+  "batch": "2026-11-16-01",
+  "added": "2026-11-16T12:00:00Z"
+ },
+ {
+  "id": "v65",
+  "t": "kahneman",
+  "era": "2011",
+  "src": "Thinking, Fast and Slow, 2011",
+  "h": "We build certainty from only what we see.",
+  "b": "Kahneman named the trap WYSIATI: what you see is all there is. The fast mind builds a coherent story from the evidence in front of it and never asks what evidence is missing. Confidence tracks the neatness of the story, not its completeness, so the most convincing account is often the one that ignored the most.",
+  "d": "Before a confident decision, ask aloud: what would I need to know that I do not, and who would see what I am missing?",
+  "tg": [
+   "risk",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow",
+  "thinker": {
+   "n": "Daniel Kahneman",
+   "i": "DK",
+   "r": "Psychologist, Nobel laureate in economics",
+   "w": "v",
+   "y": "1934–2024",
+   "names": {},
+   "roles": {
+    "it": "Psicologo, premio Nobel per l'economia",
+    "es": "Psicólogo, premio Nobel de economía",
+    "la": "Psychologus, praemio Nobeliano honoratus"
+   }
+  },
+  "tr": {
+   "it": [
+    "Costruiamo certezze solo da ciò che vediamo.",
+    "Kahneman diede un nome alla trappola, WYSIATI: ciò che vedi è tutto ciò che c'è. La mente veloce costruisce una storia coerente con le prove che ha davanti e non chiede mai quali prove manchino. La fiducia segue l'ordine della storia, non la sua completezza, così il racconto più convincente è spesso quello che ha ignorato di più.",
+    "Prima di una decisione sicura, chiediti ad alta voce: cosa dovrei sapere e non so, e chi vedrebbe ciò che a me sfugge?",
+    "Pensieri lenti e veloci, 2011"
+   ],
+   "es": [
+    "Construimos certezas solo con lo que vemos.",
+    "Kahneman puso nombre a la trampa, WYSIATI: lo que ves es todo lo que hay. La mente rápida construye una historia coherente con las pruebas que tiene delante y nunca pregunta qué pruebas faltan. La confianza sigue el orden de la historia, no su integridad, así que el relato más convincente suele ser el que más ignoró.",
+    "Antes de una decisión segura, pregúntate en voz alta: qué debería saber y no sé, y quién vería lo que a mí se me escapa.",
+    "Pensar rápido, pensar despacio, 2011"
+   ],
+   "la": [
+    "Quod videtur, id omne esse credimus."
+   ]
+  },
+  "batch": "2026-11-16-01",
+  "added": "2026-11-16T12:00:00Z"
+ },
+ {
+  "id": "v66",
+  "t": "taleb",
+  "era": "2012",
+  "src": "Antifragile: Things That Gain from Disorder, 2012",
+  "h": "Build what gains from disorder, not what resists it.",
+  "b": "Taleb separates three kinds of thing: the fragile breaks under shocks, the robust merely survives them, and the antifragile improves because of them, like muscle under strain. Since the future delivers shocks you cannot predict, the smart design is not a sturdier forecast but a system that profits from being wrong, with small losses and open upside.",
+  "d": "Redesign one plan so a surprise helps instead of hurts: cap the downside with a small fixed bet, and leave the upside uncapped.",
+  "tg": [
+   "risk",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Antifragile_(book)",
+  "thinker": {
+   "n": "Nassim Nicholas Taleb",
+   "i": "NT",
+   "r": "Essayist and risk theorist",
+   "w": "v",
+   "y": "b. 1960",
+   "names": {},
+   "roles": {
+    "it": "Saggista e teorico del rischio",
+    "es": "Ensayista y teórico del riesgo",
+    "la": "Scriptor et periculi magister"
+   }
+  },
+  "tr": {
+   "it": [
+    "Costruisci ciò che guadagna dal disordine, non ciò che gli resiste.",
+    "Taleb distingue tre tipi di cose: il fragile si rompe sotto gli urti, il robusto si limita a sopravvivere, l'antifragile migliora grazie a essi, come il muscolo sotto sforzo. Poiché il futuro porta urti che non puoi prevedere, il progetto intelligente non è una previsione più solida ma un sistema che guadagna dall'avere torto, con perdite piccole e vantaggio aperto.",
+    "Riprogetta un piano perché una sorpresa aiuti invece di nuocere: limita la perdita con una piccola scommessa fissa e lascia il guadagno senza tetto.",
+    "Antifragile. Prosperare nel disordine, 2012"
+   ],
+   "es": [
+    "Construye lo que gana con el desorden, no lo que se le resiste.",
+    "Taleb distingue tres tipos de cosas: lo frágil se rompe bajo los golpes, lo robusto apenas los sobrevive, y lo antifrágil mejora gracias a ellos, como el músculo bajo esfuerzo. Como el futuro trae golpes que no puedes prever, el diseño inteligente no es un pronóstico más sólido, sino un sistema que gana al equivocarse, con pérdidas pequeñas y ganancia abierta.",
+    "Rediseña un plan para que una sorpresa ayude en vez de dañar: limita la pérdida con una pequeña apuesta fija y deja la ganancia sin techo.",
+    "Antifrágil. Las cosas que se benefician del desorden, 2012"
+   ],
+   "la": [
+    "Quod perturbatione crescit, non quod frangitur."
+   ]
+  },
+  "batch": "2026-11-16-01",
+  "added": "2026-11-16T12:00:00Z"
+ },
+ {
+  "id": "a65",
+  "t": "demosthenes",
+  "era": "c. 351 BC",
+  "src": "First Philippic, c. 351 BC",
+  "h": "Words must turn a comfortable crowd into action.",
+  "b": "In the First Philippic, Demosthenes faced an Athens that debated Philip of Macedon instead of arming against him. He told the citizens that resolutions change nothing while they wait on others to act, and that a city safe in habit is already losing. The orator's task is not to be admired but to move a reluctant audience to do the hard thing now.",
+  "d": "End your next proposal with the single action you want taken this week, and the cost of waiting, not with a summary of the problem.",
+  "tg": [
+   "persuasion",
+   "power"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/First_Philippic",
+  "thinker": {
+   "n": "Demosthenes",
+   "i": "DM",
+   "r": "Athenian statesman and orator",
+   "w": "a",
+   "y": "384–322 BC",
+   "names": {
+    "it": "Demostene",
+    "es": "Demóstenes",
+    "la": "Demosthenes"
+   },
+   "roles": {
+    "it": "Statista e oratore ateniese",
+    "es": "Estadista y orador ateniense",
+    "la": "Orator Atheniensis"
+   }
+  },
+  "tr": {
+   "it": [
+    "Le parole devono trasformare una folla comoda in azione.",
+    "Nella Prima Filippica, Demostene aveva davanti un'Atene che discuteva di Filippo di Macedonia invece di armarsi contro di lui. Disse ai cittadini che le delibere non cambiano nulla mentre aspettano che altri agiscano, e che una città al sicuro nelle sue abitudini sta già perdendo. Il compito dell'oratore non è essere ammirato, ma spingere un pubblico riluttante a fare ora la cosa difficile.",
+    "Chiudi la tua prossima proposta con l'unica azione che vuoi sia intrapresa questa settimana, e il costo dell'attesa, non con un riassunto del problema.",
+    "Prima Filippica, c. 351 a.C."
+   ],
+   "es": [
+    "Las palabras deben convertir a una multitud cómoda en acción.",
+    "En la Primera Filípica, Demóstenes tenía ante sí una Atenas que debatía sobre Filipo de Macedonia en vez de armarse contra él. Dijo a los ciudadanos que las resoluciones no cambian nada mientras esperan a que otros actúen, y que una ciudad segura en sus hábitos ya está perdiendo. La tarea del orador no es ser admirado, sino mover a un público reticente a hacer ahora lo difícil.",
+    "Cierra tu próxima propuesta con la única acción que quieres que se tome esta semana, y el coste de esperar, no con un resumen del problema.",
+    "Primera Filípica, c. 351 a. C."
+   ],
+   "la": [
+    "Oratio ignavos ad agendum excitet."
+   ]
+  },
+  "batch": "2026-11-16-01",
+  "added": "2026-11-16T12:00:00Z"
+ },
+ {
+  "id": "a66",
+  "t": "smiles",
+  "era": "1859",
+  "src": "Self-Help, 1859",
+  "h": "Character and perseverance outrun genius.",
+  "b": "Smiles opened Self-Help with the maxim that heaven helps those who help themselves, then filled the book with ordinary people who rose by patience and work rather than brilliance. His claim was that talent is common and cheap, while the steady habits of effort, thrift and honest conduct are rare, and it is the habits, not the gifts, that compound into a life.",
+  "d": "Pick one small discipline you can repeat daily for a month, and keep it even on the days you see no result.",
+  "tg": [
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Self-Help_(Smiles_book)",
+  "thinker": {
+   "n": "Samuel Smiles",
+   "i": "SS",
+   "r": "Writer and reformer",
+   "w": "a",
+   "y": "1812–1904",
+   "names": {},
+   "roles": {
+    "it": "Scrittore e riformatore",
+    "es": "Escritor y reformador",
+    "la": "Scriptor et reformator"
+   }
+  },
+  "tr": {
+   "it": [
+    "Carattere e perseveranza battono il talento.",
+    "Smiles aprì Self-Help con la massima che il cielo aiuta chi si aiuta, poi riempì il libro di persone comuni che si sono elevate per pazienza e lavoro più che per genialità. La sua tesi era che il talento è comune e a buon mercato, mentre le abitudini costanti di impegno, parsimonia e condotta onesta sono rare, e sono le abitudini, non i doni, a comporsi in una vita.",
+    "Scegli una piccola disciplina che puoi ripetere ogni giorno per un mese, e mantienila anche nei giorni in cui non vedi risultati.",
+    "Self-Help, 1859"
+   ],
+   "es": [
+    "El carácter y la perseverancia superan al talento.",
+    "Smiles abrió Self-Help con la máxima de que el cielo ayuda a quien se ayuda, y luego llenó el libro de personas corrientes que se elevaron por paciencia y trabajo más que por brillantez. Su tesis era que el talento es común y barato, mientras que los hábitos constantes de esfuerzo, ahorro y conducta honesta son raros, y son los hábitos, no los dones, los que se capitalizan en una vida.",
+    "Elige una pequeña disciplina que puedas repetir cada día durante un mes, y mantenla incluso los días en que no ves resultados.",
+    "Self-Help, 1859"
+   ],
+   "la": [
+    "Mores et constantia ingenium superant."
+   ]
+  },
+  "batch": "2026-11-16-01",
+  "added": "2026-11-16T12:00:00Z"
+ },
+ {
+  "id": "a67",
+  "t": "bastiat",
+  "era": "1850",
+  "src": "What Is Seen and What Is Not Seen, 1850",
+  "h": "Count the cost you cannot see.",
+  "b": "Bastiat warned that a bad economist judges only the visible effect, while a good one also weighs the effects that never appear. When a window is broken, the glazier's gain is seen; the shoes or books the owner can no longer buy are not. Every franc spent on one thing is a franc denied to another, and the unseen alternative is the true price.",
+  "d": "For your next spending decision, write down the best thing you will not be able to do with the same money. Compare the two.",
+  "tg": [
+   "money",
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Parable_of_the_broken_window",
+  "thinker": {
+   "n": "Frédéric Bastiat",
+   "i": "FB",
+   "r": "Economist",
+   "w": "a",
+   "y": "1801–1850",
+   "names": {},
+   "roles": {
+    "it": "Economista",
+    "es": "Economista",
+    "la": "Oeconomus"
+   }
+  },
+  "tr": {
+   "it": [
+    "Conta il costo che non puoi vedere.",
+    "Bastiat avvertì che un cattivo economista giudica solo l'effetto visibile, mentre uno buono pesa anche gli effetti che non appaiono mai. Quando una finestra si rompe, il guadagno del vetraio si vede; le scarpe o i libri che il proprietario non può più comprare no. Ogni franco speso per una cosa è un franco negato a un'altra, e l'alternativa invisibile è il vero prezzo.",
+    "Per la tua prossima spesa, scrivi la cosa migliore che non potrai fare con lo stesso denaro. Confronta le due.",
+    "Ciò che si vede e ciò che non si vede, 1850"
+   ],
+   "es": [
+    "Cuenta el coste que no puedes ver.",
+    "Bastiat advirtió que un mal economista juzga solo el efecto visible, mientras que uno bueno pesa también los efectos que nunca aparecen. Cuando se rompe una ventana, la ganancia del vidriero se ve; los zapatos o libros que el dueño ya no puede comprar, no. Cada franco gastado en una cosa es un franco negado a otra, y la alternativa invisible es el verdadero precio.",
+    "Para tu próximo gasto, escribe lo mejor que no podrás hacer con ese mismo dinero. Compara las dos cosas.",
+    "Lo que se ve y lo que no se ve, 1850"
+   ],
+   "la": [
+    "Quod non videtur, pretium verum est."
+   ]
+  },
+  "batch": "2026-11-16-01",
+  "added": "2026-11-16T12:00:00Z",
+  "duo": {
+   "ids": [
+    "a67",
+    "v65"
+   ],
+   "th": "risk",
+   "br": {
+    "en": "Bastiat and Kahneman warn about the same blind spot two centuries apart: we weigh what is in front of us and ignore what never shows up. The unseen alternative and the missing evidence are where the real risk hides.",
+    "it": "Bastiat e Kahneman mettono in guardia dallo stesso punto cieco a due secoli di distanza: pesiamo ciò che abbiamo davanti e ignoriamo ciò che non compare mai. L'alternativa invisibile e la prova mancante sono dove si nasconde il rischio vero.",
+    "es": "Bastiat y Kahneman advierten del mismo punto ciego con dos siglos de diferencia: pesamos lo que tenemos delante e ignoramos lo que nunca aparece. La alternativa invisible y la prueba que falta son donde se esconde el riesgo real.",
+    "la": "Quod non videtur, periculum tenet."
+   }
+  }
+ },
+ {
+  "id": "m11",
+  "t": "dweck",
+  "era": "2006",
+  "src": "Mindset: The New Psychology of Success, 2006",
+  "h": "Ability grows with effort, or not at all.",
+  "b": "Dweck contrasts two beliefs about ability. In a fixed mindset, talent is a verdict, so difficulty feels like exposure and effort like an admission of weakness. In a growth mindset, ability is built, so a setback is information and effort is the method. The belief itself shapes the behaviour, and the behaviour, over years, decides who actually improves.",
+  "d": "Rewrite one 'I am not good at this' as 'I am not good at this yet,' then name the next practice that would move you.",
+  "tg": [
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://www.penguinrandomhouse.com/books/44330/mindset-by-carol-s-dweck-phd/",
+  "thinker": {
+   "n": "Carol Dweck",
+   "i": "CD",
+   "r": "Psychologist",
+   "w": "m",
+   "y": "b. 1946",
+   "names": {},
+   "roles": {
+    "it": "Psicologa",
+    "es": "Psicóloga",
+    "la": "Psychologa"
+   }
+  },
+  "tr": {
+   "it": [
+    "L'abilità cresce con lo sforzo, o non cresce affatto.",
+    "Dweck contrappone due convinzioni sull'abilità. In una mentalità fissa, il talento è un verdetto, così la difficoltà sembra un'esposizione e lo sforzo un'ammissione di debolezza. In una mentalità di crescita, l'abilità si costruisce, così un intoppo è informazione e lo sforzo è il metodo. La convinzione stessa plasma il comportamento, e il comportamento, negli anni, decide chi davvero migliora.",
+    "Riscrivi un 'non sono bravo in questo' come 'non sono ancora bravo in questo', poi indica la prossima pratica che ti farebbe progredire.",
+    "Mindset. Cambiare forma mentis per raggiungere il successo, 2006"
+   ],
+   "es": [
+    "La habilidad crece con el esfuerzo, o no crece.",
+    "Dweck contrapone dos creencias sobre la habilidad. En una mentalidad fija, el talento es un veredicto, así que la dificultad se siente como una exposición y el esfuerzo como una admisión de debilidad. En una mentalidad de crecimiento, la habilidad se construye, así que un tropiezo es información y el esfuerzo es el método. La creencia misma moldea la conducta, y la conducta, con los años, decide quién mejora de verdad.",
+    "Reescribe un 'no soy bueno en esto' como 'todavía no soy bueno en esto', y luego nombra la siguiente práctica que te haría avanzar.",
+    "Mindset. La actitud del éxito, 2006"
+   ],
+   "la": [
+    "Facultas labore crescit, non aliter."
+   ]
+  },
+  "batch": "2026-11-16-01",
+  "added": "2026-11-16T12:00:00Z",
+  "duo": {
+   "ids": [
+    "a66",
+    "m11"
+   ],
+   "th": "character",
+   "br": {
+    "en": "Smiles in 1859 and Dweck in 2006 reach the same verdict: it is effort and habit, not innate gift, that build a person. The self-help tradition began by praising perseverance; the psychology of mindset gave it an experiment.",
+    "it": "Smiles nel 1859 e Dweck nel 2006 arrivano allo stesso verdetto: sono lo sforzo e l'abitudine, non il dono innato, a costruire una persona. La tradizione dell'auto-aiuto cominciò lodando la perseveranza; la psicologia del mindset le ha dato un esperimento.",
+    "es": "Smiles en 1859 y Dweck en 2006 llegan al mismo veredicto: son el esfuerzo y el hábito, no el don innato, los que construyen a una persona. La tradición de la autoayuda empezó elogiando la perseverancia; la psicología de la mentalidad le dio un experimento.",
+    "la": "Labor, non donum, hominem fingit."
+   }
+  }
+ },
+ {
+  "id": "m12",
+  "t": "voss",
+  "era": "2016",
+  "src": "Never Split the Difference, 2016",
+  "h": "Name the other's emotion, then lead.",
+  "b": "Voss, a former hostage negotiator, built his method on tactical empathy: understand the other side's feeling well enough to say it aloud. Labeling the emotion, 'it seems this deadline worries you,' makes the person feel heard and lowers their guard. The goal is the quiet 'that's right,' the moment they accept your summary, after which agreement becomes far easier.",
+  "d": "In your next tense conversation, name the other person's feeling out loud before you argue your case, and wait for them to confirm it.",
+  "tg": [
+   "persuasion",
+   "power"
+  ],
+  "v": true,
+  "source_url": "https://openlibrary.org/books/OL26706016M/Never_Split_the_Difference",
+  "thinker": {
+   "n": "Chris Voss",
+   "i": "CV",
+   "r": "Negotiator and former FBI hostage negotiator",
+   "w": "m",
+   "y": "b. 1957",
+   "names": {},
+   "roles": {
+    "it": "Negoziatore, ex negoziatore dell'FBI",
+    "es": "Negociador, exnegociador del FBI",
+    "la": "Conciliator, olim obsidum apud FBI"
+   }
+  },
+  "tr": {
+   "it": [
+    "Dai un nome all'emozione dell'altro, poi guida.",
+    "Voss, ex negoziatore di ostaggi, costruì il suo metodo sull'empatia tattica: capire l'emozione dell'altra parte abbastanza da dirla ad alta voce. Etichettare l'emozione, 'sembra che questa scadenza ti preoccupi', fa sentire la persona ascoltata e abbassa le sue difese. L'obiettivo è il sommesso 'esatto', il momento in cui accetta il tuo riassunto, dopo il quale l'accordo diventa molto più facile.",
+    "Nella tua prossima conversazione tesa, dai un nome ad alta voce all'emozione dell'altro prima di esporre le tue ragioni, e aspetta che lo confermi.",
+    "Volere troppo e ottenerlo, 2016"
+   ],
+   "es": [
+    "Nombra la emoción del otro, y luego dirige.",
+    "Voss, exnegociador de rehenes, construyó su método sobre la empatía táctica: entender la emoción de la otra parte lo bastante para decirla en voz alta. Etiquetar la emoción, 'parece que este plazo te preocupa', hace que la persona se sienta escuchada y baja su guardia. La meta es el callado 'así es', el momento en que acepta tu resumen, tras el cual el acuerdo se vuelve mucho más fácil.",
+    "En tu próxima conversación tensa, nombra en voz alta la emoción del otro antes de exponer tus razones, y espera a que la confirme.",
+    "Rompe la barrera del no, 2016"
+   ],
+   "la": [
+    "Nomina affectum, deinde duc."
+   ]
+  },
+  "batch": "2026-11-16-01",
+  "added": "2026-11-16T12:00:00Z",
+  "duo": {
+   "ids": [
+    "a08",
+    "v21",
+    "m12"
+   ],
+   "th": "persuasion",
+   "br": {
+    "en": "Sun Tzu says know the other; Blank says the facts live outside the building, with real buyers; Voss says name the other's feeling before you move them. Three wings, one rule: understand the person across from you before you try to change their mind.",
+    "it": "Sun Tzu dice di conoscere l'altro; Blank dice che i fatti stanno fuori dall'edificio, presso i veri acquirenti; Voss dice di dare un nome all'emozione dell'altro prima di spingerlo. Tre ali, una regola: capisci la persona di fronte a te prima di cercare di farle cambiare idea.",
+    "es": "Sun Tzu dice conoce al otro; Blank dice que los hechos viven fuera del edificio, con los compradores reales; Voss dice nombra la emoción del otro antes de moverlo. Tres alas, una regla: entiende a la persona que tienes enfrente antes de intentar cambiarle la idea.",
+    "la": "Priusquam moveas, alterum intellege."
+   }
+  }
+ },
+ {
+  "id": "m13",
+  "t": "pink",
+  "era": "2012",
+  "src": "To Sell Is Human, 2012",
+  "h": "Moving others is now everyone's work.",
+  "b": "Pink argues that selling is no longer a separate trade. Most of us spend much of the day in non-sales selling: persuading a colleague, pitching an idea, moving a client without any exchange of money. The old hard sell fails because buyers now have as much information as sellers; what works is attunement, seeing the exchange from the other's point of view.",
+  "d": "Before your next pitch, write the other person's situation in one sentence from their side, and open by addressing that, not your ask.",
+  "tg": [
+   "persuasion"
+  ],
+  "v": true,
+  "source_url": "https://www.danpink.com/books/to-sell-is-human/",
+  "thinker": {
+   "n": "Daniel H. Pink",
+   "i": "DP",
+   "r": "Author on work and behaviour",
+   "w": "m",
+   "y": "b. 1964",
+   "names": {},
+   "roles": {
+    "it": "Autore su lavoro e comportamento",
+    "es": "Autor sobre trabajo y comportamiento",
+    "la": "Scriptor de labore et moribus"
+   }
+  },
+  "tr": {
+   "it": [
+    "Spingere gli altri è ormai il lavoro di tutti.",
+    "Pink sostiene che vendere non è più un mestiere separato. Gran parte della giornata la passiamo in una vendita senza vendita: convincere un collega, proporre un'idea, muovere un cliente senza alcuno scambio di denaro. La vecchia vendita aggressiva fallisce perché oggi chi compra ha tante informazioni quanto chi vende; funziona la sintonia, vedere lo scambio dal punto di vista dell'altro.",
+    "Prima della tua prossima proposta, scrivi la situazione dell'altro in una frase dal suo lato, e apri affrontando quella, non la tua richiesta.",
+    "Vendere è umano, 2012"
+   ],
+   "es": [
+    "Mover a los demás es ya el trabajo de todos.",
+    "Pink sostiene que vender ya no es un oficio aparte. Pasamos gran parte del día en una venta sin venta: convencer a un colega, proponer una idea, mover a un cliente sin ningún intercambio de dinero. La vieja venta agresiva fracasa porque hoy quien compra tiene tanta información como quien vende; lo que funciona es la sintonía, ver el intercambio desde el punto de vista del otro.",
+    "Antes de tu próxima propuesta, escribe la situación del otro en una frase desde su lado, y empieza abordando eso, no tu petición.",
+    "Vender es humano, 2012"
+   ],
+   "la": [
+    "Alios movere nunc omnium opus est."
+   ]
+  },
+  "batch": "2026-11-16-01",
+  "added": "2026-11-16T12:00:00Z",
+  "duo": {
+   "ids": [
+    "a65",
+    "m13"
+   ],
+   "th": "persuasion",
+   "br": {
+    "en": "Demosthenes moved a city by speaking to its fears; Pink says we now all move others every day without a podium. Across millennia the lesson holds: persuasion starts from the listener's situation, not the speaker's demand.",
+    "it": "Demostene mosse una città parlando alle sue paure; Pink dice che oggi tutti muoviamo gli altri ogni giorno senza un podio. Attraverso i millenni la lezione resta: la persuasione parte dalla situazione di chi ascolta, non dalla richiesta di chi parla.",
+    "es": "Demóstenes movió a una ciudad hablando a sus miedos; Pink dice que hoy todos movemos a los demás cada día sin una tribuna. A través de los milenios la lección se mantiene: la persuasión parte de la situación de quien escucha, no de la exigencia de quien habla.",
+    "la": "Suasio ab audiente, non a dicente, incipit."
+   }
+  }
+ }
+]
