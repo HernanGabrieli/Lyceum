@@ -468,5 +468,71 @@
    "es": "Demóstenes movió a una ciudad hablando a sus miedos; Pink dice que hoy todos movemos a los demás cada día sin una tribuna. A través de los milenios la lección se mantiene: la persuasión parte de la situación de quien escucha, no de la exigencia de quien habla.",
    "la": "Suasio ab audiente, non a dicente, incipit."
   }
+ },
+ {
+  "ids": [
+   "v67",
+   "a07"
+  ],
+  "th": "strategy",
+  "br": {
+   "en": "Sun Tzu wins before the fight by shaping the ground; Rumelt wins before the plan by naming the crux. Both refuse to spread force evenly and strike where it decides the outcome.",
+   "it": "Sun Tzu vince prima della battaglia plasmando il terreno; Rumelt vince prima del piano nominando il nodo. Entrambi rifiutano di distribuire la forza in modo uniforme e colpiscono dove decide l'esito.",
+   "es": "Sun Tzu vence antes de la batalla moldeando el terreno; Rumelt vence antes del plan nombrando el nudo. Ambos se niegan a repartir la fuerza por igual y golpean donde decide el resultado.",
+   "la": "Sun Tzu ante pugnam vincit, Rumelt ante consilium: uterque vim non spargit sed ubi res vertitur ferit."
+  }
+ },
+ {
+  "ids": [
+   "v68",
+   "m14",
+   "a02"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Seneca rehearses misfortune in private so fear loses its grip; Jericó frees the workplace from the fear that hides talent; Edmondson makes speaking up safe so teams learn. Fear managed—in the self, in the person, and in the group.",
+   "it": "Seneca prova in privato la sventura perché la paura perda la presa; Jericó libera il lavoro dalla paura che nasconde il talento; Edmondson rende sicuro parlare perché le squadre imparino. La paura governata—in sé, nella persona e nel gruppo.",
+   "es": "Séneca ensaya la desgracia en privado para que el miedo pierda su agarre; Jericó libera el trabajo del miedo que esconde el talento; Edmondson hace seguro hablar para que los equipos aprendan. El miedo gobernado—en uno mismo, en la persona y en el grupo.",
+   "la": "Seneca malum secum praemeditatur, Jericó operam timore liberat, Edmondson loqui tutum facit: timor domitus in se, in homine, in grege."
+  }
+ },
+ {
+  "ids": [
+   "v69",
+   "a20"
+  ],
+  "th": "building",
+  "br": {
+   "en": "Smith showed that dividing labour multiplies output; Ford drove the division to its limit on a moving line, then handed the gain to the buyer as a lower price.",
+   "it": "Smith mostrò che dividere il lavoro moltiplica la produzione; Ford spinse la divisione al limite su una linea in movimento, poi consegnò il guadagno al compratore come prezzo più basso.",
+   "es": "Smith mostró que dividir el trabajo multiplica la producción; Ford llevó la división al límite en una línea en movimiento y luego entregó la ganancia al comprador como un precio más bajo.",
+   "la": "Smith ostendit divisum opus fructum multiplicare; Ford divisionem ad finem perduxit et lucrum emptori minore pretio reddidit."
+  }
+ },
+ {
+  "ids": [
+   "v70",
+   "a59"
+  ],
+  "th": "risk",
+  "br": {
+   "en": "Solon refuses to call a life fortunate until it ends, because luck can still turn; Duke refuses to call a decision good from its result, for the same reason—outcome is not yet verdict.",
+   "it": "Solone rifiuta di dire fortunata una vita prima della sua fine, perché la sorte può ancora voltare; Duke rifiuta di dire buona una decisione dal suo risultato, per lo stesso motivo—l'esito non è ancora la sentenza.",
+   "es": "Solón se niega a llamar afortunada una vida antes de su fin, porque la suerte aún puede girar; Duke se niega a llamar buena una decisión por su resultado, por la misma razón—el desenlace no es todavía el veredicto.",
+   "la": "Solon vitam ante finem felicem negat, Duke consilium ex eventu bonum negat: eadem ratio—exitus nondum sententia est."
+  }
+ },
+ {
+  "ids": [
+   "m15",
+   "a64"
+  ],
+  "th": "persuasion",
+  "br": {
+   "en": "Richelieu keeps every channel of negotiation open, always and everywhere; Fisher and Ury show what to do once at the table—trade on interests, not positions, so talking yields more than it costs.",
+   "it": "Richelieu tiene aperto ogni canale di negoziato, sempre e ovunque; Fisher e Ury mostrano cosa fare una volta al tavolo—trattare sugli interessi, non sulle posizioni, così che parlare renda più di quanto costi.",
+   "es": "Richelieu mantiene abierto todo canal de negociación, siempre y en todas partes; Fisher y Ury muestran qué hacer una vez en la mesa—negociar sobre intereses, no posiciones, para que hablar rinda más de lo que cuesta.",
+   "la": "Richelieu omnem pactionis viam semper aperit; Fisher et Ury ad mensam docent de commodis, non de sententiis agere."
+  }
  }
 ]

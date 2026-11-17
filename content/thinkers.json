@@ -1785,5 +1785,143 @@
    "es": "Autor sobre trabajo y comportamiento",
    "la": "Scriptor de labore et moribus"
   }
+ },
+ "rumelt": {
+  "n": "Richard Rumelt",
+  "i": "RR",
+  "r": "Strategy scholar",
+  "w": "v",
+  "y": "b. 1942",
+  "names": {},
+  "roles": {
+   "it": "Studioso di strategia",
+   "es": "Académico de estrategia",
+   "la": "Consilii magister"
+  }
+ },
+ "edmondson": {
+  "n": "Amy Edmondson",
+  "i": "AE",
+  "r": "Professor of leadership and management",
+  "w": "v",
+  "y": "b. 1959",
+  "names": {},
+  "roles": {
+   "it": "Professoressa di leadership e management",
+   "es": "Profesora de liderazgo y gestión",
+   "la": "Ducatus et administrationis magistra"
+  }
+ },
+ "ford": {
+  "n": "Henry Ford",
+  "i": "HF",
+  "r": "Industrialist, founder of Ford Motor Company",
+  "w": "v",
+  "y": "1863–1947",
+  "names": {},
+  "roles": {
+   "it": "Industriale, fondatore della Ford Motor Company",
+   "es": "Industrial, fundador de Ford Motor Company",
+   "la": "Fabricator, conditor societatis Ford"
+  }
+ },
+ "duke": {
+  "n": "Annie Duke",
+  "i": "AD",
+  "r": "Decision scientist and former professional poker player",
+  "w": "v",
+  "y": "b. 1965",
+  "names": {},
+  "roles": {
+   "it": "Studiosa delle decisioni ed ex giocatrice di poker professionista",
+   "es": "Científica de la decisión y ex jugadora profesional de póquer",
+   "la": "Consilii perita et olim aleae lusor"
+  }
+ },
+ "epicurus": {
+  "n": "Epicurus",
+  "i": "EP",
+  "r": "Greek philosopher",
+  "w": "a",
+  "y": "341–270 BC",
+  "names": {
+   "it": "Epicuro",
+   "es": "Epicuro",
+   "la": "Epicurus"
+  },
+  "roles": {
+   "it": "Filosofo greco",
+   "es": "Filósofo griego",
+   "la": "Philosophus Graecus"
+  }
+ },
+ "polybius": {
+  "n": "Polybius",
+  "i": "PO",
+  "r": "Greek historian",
+  "w": "a",
+  "y": "c. 200–118 BC",
+  "names": {
+   "it": "Polibio",
+   "es": "Polibio",
+   "la": "Polybius"
+  },
+  "roles": {
+   "it": "Storico greco",
+   "es": "Historiador griego",
+   "la": "Historicus Graecus"
+  }
+ },
+ "lincoln": {
+  "n": "Abraham Lincoln",
+  "i": "AL",
+  "r": "16th President of the United States",
+  "w": "a",
+  "y": "1809–1865",
+  "names": {},
+  "roles": {
+   "it": "16º Presidente degli Stati Uniti",
+   "es": "16.º Presidente de los Estados Unidos",
+   "la": "Civitatum Foederatarum praeses sextus decimus"
+  }
+ },
+ "jerico": {
+  "n": "Pilar Jericó",
+  "i": "PJ",
+  "r": "Economist and writer on talent and change",
+  "w": "m",
+  "y": "b. 1973",
+  "names": {},
+  "roles": {
+   "it": "Economista e scrittrice su talento e cambiamento",
+   "es": "Economista y escritora sobre talento y cambio",
+   "la": "Oeconoma et scriptrix de ingenio et mutatione"
+  }
+ },
+ "fisherury": {
+  "n": "Roger Fisher & William Ury",
+  "i": "FU",
+  "r": "Negotiation scholars, Harvard Negotiation Project",
+  "w": "m",
+  "y": "20th–21st c.",
+  "names": {},
+  "roles": {
+   "it": "Studiosi della negoziazione, Harvard Negotiation Project",
+   "es": "Académicos de la negociación, Harvard Negotiation Project",
+   "la": "Pactionis periti, schola Harvardiana"
+  }
+ },
+ "sinek": {
+  "n": "Simon Sinek",
+  "i": "SS",
+  "r": "Author and speaker on leadership",
+  "w": "m",
+  "y": "b. 1973",
+  "names": {},
+  "roles": {
+   "it": "Autore e conferenziere sulla leadership",
+   "es": "Autor y conferenciante sobre liderazgo",
+   "la": "Scriptor et orator de ducatu"
+  }
  }
 }
