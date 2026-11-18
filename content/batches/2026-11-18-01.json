@@ -1,0 +1,462 @@
+[
+ {
+  "id": "v71",
+  "t": "sloan",
+  "era": "1963",
+  "src": "My Years with General Motors, 1963",
+  "h": "Decentralize the work, centralize the policy.",
+  "b": "Sloan rebuilt General Motors around autonomous divisions, each free to run its own cars and plants, while a small central office kept finance, policy and capital allocation. He called it the reconciliation of decentralized operation with coordinated control. It let a sprawling firm move fast on the ground without losing one direction, and became the template for the modern multidivisional corporation.",
+  "d": "List the decisions your team keeps escalating to you. Push the operating ones down to the people closest to the work; keep only policy and capital.",
+  "tg": ["strategy", "building"],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Alfred_P._Sloan",
+  "thinker": {
+   "n": "Alfred P. Sloan",
+   "i": "AS",
+   "r": "President and chairman of General Motors",
+   "w": "v",
+   "y": "1875–1966",
+   "names": {},
+   "roles": {
+    "it": "Presidente di General Motors",
+    "es": "Presidente de General Motors",
+    "la": "Praeses officinae autocinetorum"
+   }
+  },
+  "tr": {
+   "it": [
+    "Decentra il lavoro, accentra la politica.",
+    "Sloan ricostruì General Motors attorno a divisioni autonome, ciascuna libera di gestire le proprie auto e i propri stabilimenti, mentre un piccolo centro teneva finanza, politica e allocazione del capitale. La chiamò la conciliazione tra operatività decentrata e controllo coordinato. Permise a un'azienda enorme di muoversi in fretta senza perdere una sola direzione, e divenne il modello dell'impresa multidivisionale moderna.",
+    "Elenca le decisioni che la tua squadra continua a rimandare a te. Spingi quelle operative verso chi è più vicino al lavoro; tieni solo politica e capitale.",
+    "My Years with General Motors, 1963"
+   ],
+   "es": [
+    "Descentraliza el trabajo, centraliza la política.",
+    "Sloan reconstruyó General Motors en torno a divisiones autónomas, cada una libre de gestionar sus coches y sus plantas, mientras una pequeña central retenía finanzas, política y asignación de capital. Lo llamó la conciliación entre la operación descentralizada y el control coordinado. Permitió que una empresa enorme se moviera rápido sin perder una sola dirección, y fue el modelo de la corporación multidivisional moderna.",
+    "Enumera las decisiones que tu equipo sigue elevándote. Empuja las operativas hacia quienes están más cerca del trabajo; conserva solo política y capital.",
+    "My Years with General Motors, 1963"
+   ],
+   "la": [
+    "Opera divide, consilium coniunge."
+   ]
+  },
+  "batch": "2026-11-18-01",
+  "added": "2026-11-18T12:00:00Z"
+ },
+ {
+  "id": "v72",
+  "t": "bgraham",
+  "era": "1949",
+  "src": "The Intelligent Investor, 1949",
+  "h": "Buy with a margin of safety.",
+  "b": "Graham told investors to treat the market as a moody partner, Mr. Market, who names a price every day that you are free to ignore. Value a business on its own facts, then buy only well below that figure. The gap between price and worth, the margin of safety, is what protects you when your forecast turns out wrong.",
+  "d": "Before any purchase, write what the asset is worth and the price you will pay. Act only when the second number sits well below the first.",
+  "tg": ["money", "risk"],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/The_Intelligent_Investor",
+  "thinker": {
+   "n": "Benjamin Graham",
+   "i": "BG",
+   "r": "Economist and father of value investing",
+   "w": "v",
+   "y": "1894–1976",
+   "names": {},
+   "roles": {
+    "it": "Economista e padre del value investing",
+    "es": "Economista y padre de la inversión en valor",
+    "la": "Oeconomus et pater prudentis collocationis"
+   }
+  },
+  "tr": {
+   "it": [
+    "Compra con un margine di sicurezza.",
+    "Graham invitava gli investitori a trattare il mercato come un socio lunatico, Mr. Market, che ogni giorno propone un prezzo che sei libero di ignorare. Valuta un'azienda sui suoi fatti, poi compra solo molto al di sotto di quella cifra. Lo scarto tra prezzo e valore, il margine di sicurezza, è ciò che ti protegge quando la tua previsione si rivela sbagliata.",
+    "Prima di ogni acquisto, scrivi quanto vale il bene e il prezzo che pagherai. Agisci solo quando il secondo numero è molto sotto il primo.",
+    "The Intelligent Investor, 1949"
+   ],
+   "es": [
+    "Compra con un margen de seguridad.",
+    "Graham pedía a los inversores que trataran al mercado como un socio voluble, Mr. Market, que cada día ofrece un precio que eres libre de ignorar. Valora una empresa por sus propios hechos y compra solo muy por debajo de esa cifra. La brecha entre precio y valor, el margen de seguridad, es lo que te protege cuando tu previsión resulta errónea.",
+    "Antes de cualquier compra, escribe cuánto vale el activo y el precio que pagarás. Actúa solo cuando el segundo número esté muy por debajo del primero.",
+    "The Intelligent Investor, 1949"
+   ],
+   "la": [
+    "Eme cum margine securitatis."
+   ]
+  },
+  "duo": {"ids": ["v72", "a28"], "th": "risk",
+          "br": {"en": "Gracián says keep something in reserve; Graham prices the reserve. Both refuse to commit everything at once, holding back the margin that lets them survive a surprise and act when others cannot.",
+                 "it": "Gracián dice di tenere qualcosa in riserva; Graham ne fissa il prezzo. Entrambi rifiutano di impegnare tutto in una volta, trattenendo il margine che permette di sopravvivere a una sorpresa e agire quando gli altri non possono.",
+                 "es": "Gracián dice guardar algo en reserva; Graham le pone precio. Ambos se niegan a comprometerlo todo de golpe, reteniendo el margen que les deja sobrevivir a una sorpresa y actuar cuando otros no pueden.",
+                 "la": "Gracián aliquid in subsidio servat, Graham subsidium aestimat: uterque non omnia simul committit."}},
+  "batch": "2026-11-18-01",
+  "added": "2026-11-18T12:00:00Z"
+ },
+ {
+  "id": "v73",
+  "t": "simon",
+  "era": "1947",
+  "src": "Administrative Behavior, 1947",
+  "h": "Decide well enough, not perfectly.",
+  "b": "Simon showed that real managers never hold the information, time or attention that perfect rationality assumes. Their reasoning is bounded. So instead of optimizing, they satisfice: they scan options until one clears the bar of good enough, then act. Recognizing those limits, and designing choices to fit them, beats pretending the mind is a flawless calculator.",
+  "d": "For a reversible decision, set your criteria first, then take the first option that meets them. Save exhaustive search for the few choices you cannot undo.",
+  "tg": ["focus", "strategy"],
+  "v": true,
+  "source_url": "https://www.ebsco.com/research-starters/literature-and-writing/simon-publishes-administrative-behavior",
+  "thinker": {
+   "n": "Herbert A. Simon",
+   "i": "HS",
+   "r": "Economist and cognitive scientist, Nobel laureate",
+   "w": "v",
+   "y": "1916–2001",
+   "names": {},
+   "roles": {
+    "it": "Economista e scienziato cognitivo, premio Nobel",
+    "es": "Economista y científico cognitivo, premio Nobel",
+    "la": "Oeconomus et mentis investigator"
+   }
+  },
+  "tr": {
+   "it": [
+    "Decidi abbastanza bene, non alla perfezione.",
+    "Simon mostrò che i manager reali non dispongono mai delle informazioni, del tempo o dell'attenzione che la razionalità perfetta presuppone. Il loro ragionamento è limitato. Così, invece di ottimizzare, si accontentano: esaminano le opzioni finché una supera la soglia dell'abbastanza buono, poi agiscono. Riconoscere quei limiti, e disegnare le scelte su misura, batte il fingere che la mente sia un calcolatore infallibile.",
+    "Per una decisione reversibile, fissa prima i criteri, poi prendi la prima opzione che li soddisfa. Riserva la ricerca esaustiva alle poche scelte irreversibili.",
+    "Administrative Behavior, 1947"
+   ],
+   "es": [
+    "Decide suficientemente bien, no a la perfección.",
+    "Simon mostró que los directivos reales nunca tienen la información, el tiempo ni la atención que la racionalidad perfecta presupone. Su razonamiento es limitado. Así que, en vez de optimizar, se conforman: revisan opciones hasta que una supera el umbral de lo bastante bueno, y actúan. Reconocer esos límites, y diseñar las decisiones a su medida, supera a fingir que la mente es una calculadora infalible.",
+    "Para una decisión reversible, fija primero tus criterios y toma la primera opción que los cumpla. Reserva la búsqueda exhaustiva para las pocas decisiones irreversibles.",
+    "Administrative Behavior, 1947"
+   ],
+   "la": [
+    "Satis bene decerne, non perfecte."
+   ]
+  },
+  "batch": "2026-11-18-01",
+  "added": "2026-11-18T12:00:00Z"
+ },
+ {
+  "id": "v74",
+  "t": "kelly",
+  "era": "2008",
+  "src": "1,000 True Fans, 2008",
+  "h": "A thousand true fans are enough.",
+  "b": "Kelly argued that a creator does not need mass fame to earn a living. One thousand true fans, people who will buy whatever you make, can sustain a career if each spends about a hundred dollars a year and you reach them directly. The math rewards depth of loyalty over breadth of reach, and a direct relationship over any middleman.",
+  "d": "Count your true fans, the ones who buy everything. Build a direct channel to them and serve them deeply before chasing a larger, shallower audience.",
+  "tg": ["building", "money"],
+  "v": true,
+  "source_url": "https://kk.org/thetechnium/1000-true-fans/",
+  "thinker": {
+   "n": "Kevin Kelly",
+   "i": "KK",
+   "r": "Writer and founding editor of Wired",
+   "w": "v",
+   "y": "b. 1952",
+   "names": {},
+   "roles": {
+    "it": "Scrittore e direttore fondatore di Wired",
+    "es": "Escritor y editor fundador de Wired",
+    "la": "Scriptor et primus editor commentarii"
+   }
+  },
+  "tr": {
+   "it": [
+    "Mille veri sostenitori bastano.",
+    "Kelly sosteneva che un creativo non ha bisogno della fama di massa per vivere del proprio lavoro. Mille veri sostenitori, persone che compreranno qualunque cosa tu faccia, possono sostenere una carriera se ciascuno spende circa cento dollari l'anno e tu li raggiungi direttamente. Il calcolo premia la profondità della lealtà sull'ampiezza della portata, e un rapporto diretto su ogni intermediario.",
+    "Conta i tuoi veri sostenitori, quelli che comprano tutto. Costruisci un canale diretto verso di loro e servili a fondo prima di inseguire un pubblico più ampio e più superficiale.",
+    "1,000 True Fans, 2008"
+   ],
+   "es": [
+    "Mil verdaderos seguidores bastan.",
+    "Kelly sostenía que un creador no necesita fama masiva para vivir de su trabajo. Mil verdaderos seguidores, personas que comprarán cualquier cosa que hagas, pueden sostener una carrera si cada uno gasta unos cien dólares al año y tú los alcanzas directamente. La cuenta premia la profundidad de la lealtad sobre la amplitud del alcance, y una relación directa sobre cualquier intermediario.",
+    "Cuenta a tus verdaderos seguidores, los que lo compran todo. Construye un canal directo hacia ellos y sírveles a fondo antes de perseguir un público más amplio y superficial.",
+    "1,000 True Fans, 2008"
+   ],
+   "la": [
+    "Mille fideles satis sunt."
+   ]
+  },
+  "batch": "2026-11-18-01",
+  "added": "2026-11-18T12:00:00Z"
+ },
+ {
+  "id": "a71",
+  "t": "kant",
+  "era": "1784",
+  "src": "What Is Enlightenment?, 1784",
+  "h": "Dare to use your own understanding.",
+  "b": "Kant defined enlightenment as leaving a self-imposed immaturity, the habit of letting others think for you. Its cause is rarely a lack of intelligence; it is the lack of courage and resolve to use the mind you already have. His motto, dare to know, demands that each person reason for themselves rather than defer to comfortable guardians.",
+  "d": "Take one belief you hold mainly because an authority told you so. Examine the evidence yourself and decide whether it survives your own reasoning.",
+  "tg": ["character"],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/What_Is_Enlightenment%3F",
+  "thinker": {
+   "n": "Immanuel Kant",
+   "i": "IK",
+   "r": "Philosopher",
+   "w": "a",
+   "y": "1724–1804",
+   "names": {},
+   "roles": {
+    "it": "Filosofo",
+    "es": "Filósofo",
+    "la": "Philosophus"
+   }
+  },
+  "tr": {
+   "it": [
+    "Abbi il coraggio di usare la tua intelligenza.",
+    "Kant definì l'illuminismo come l'uscita da una minorità di cui si è responsabili, l'abitudine di lasciare che altri pensino per noi. La causa raramente è una mancanza di intelligenza; è la mancanza di coraggio e decisione di usare la mente che già si possiede. Il suo motto, osa sapere, esige che ciascuno ragioni da sé invece di affidarsi a comodi tutori.",
+    "Prendi una convinzione che tieni soprattutto perché te l'ha detta un'autorità. Esamina tu stesso le prove e decidi se regge al tuo ragionamento.",
+    "What Is Enlightenment?, 1784"
+   ],
+   "es": [
+    "Atrévete a usar tu propia inteligencia.",
+    "Kant definió la ilustración como la salida de una minoría de edad de la que uno es culpable, el hábito de dejar que otros piensen por ti. Su causa rara vez es falta de inteligencia; es la falta de valor y decisión para usar la mente que ya tienes. Su lema, atrévete a saber, exige que cada uno razone por sí mismo en vez de confiarse a cómodos tutores.",
+    "Toma una creencia que sostienes sobre todo porque te la dijo una autoridad. Examina tú mismo las pruebas y decide si sobrevive a tu propio razonamiento.",
+    "What Is Enlightenment?, 1784"
+   ],
+   "la": [
+    "Sapere aude."
+   ]
+  },
+  "batch": "2026-11-18-01",
+  "added": "2026-11-18T12:00:00Z"
+ },
+ {
+  "id": "a72",
+  "t": "andrewcarnegie",
+  "era": "1889",
+  "src": "The Gospel of Wealth, 1889",
+  "h": "The rich are trustees of their surplus.",
+  "b": "Carnegie argued that great fortunes are held in trust, not owned outright. The man of wealth should live modestly, provide reasonably for his family, and treat the rest as funds to administer for the community during his own lifetime. Giving wisely, he held, does more good than scattering money in small sums, and far more than dying rich.",
+  "d": "If you hold more than you need, choose one lasting public good and fund it deliberately now, rather than deferring the decision to your estate.",
+  "tg": ["money"],
+  "v": true,
+  "source_url": "https://www.carnegie.org/publication/the-gospel-of-wealth/",
+  "thinker": {
+   "n": "Andrew Carnegie",
+   "i": "AC",
+   "r": "Industrialist and philanthropist",
+   "w": "a",
+   "y": "1835–1919",
+   "names": {},
+   "roles": {
+    "it": "Industriale e filantropo",
+    "es": "Industrial y filántropo",
+    "la": "Negotiator et benefactor"
+   }
+  },
+  "tr": {
+   "it": [
+    "I ricchi sono amministratori del loro superfluo.",
+    "Carnegie sosteneva che le grandi fortune sono tenute in fiducia, non possedute del tutto. L'uomo ricco dovrebbe vivere con sobrietà, provvedere ragionevolmente alla famiglia e trattare il resto come fondi da amministrare per la comunità durante la propria vita. Donare con saggezza, riteneva, fa più bene che disperdere il denaro in piccole somme, e molto più che morire ricchi.",
+    "Se possiedi più di quanto ti serve, scegli un bene pubblico duraturo e finanzialo deliberatamente ora, invece di rimandare la decisione al tuo testamento.",
+    "The Gospel of Wealth, 1889"
+   ],
+   "es": [
+    "Los ricos son administradores de su excedente.",
+    "Carnegie sostenía que las grandes fortunas se tienen en fideicomiso, no en plena propiedad. El hombre rico debería vivir con sobriedad, proveer razonablemente a su familia y tratar el resto como fondos que administrar para la comunidad durante su propia vida. Dar con sabiduría, afirmaba, hace más bien que esparcir el dinero en pequeñas sumas, y mucho más que morir rico.",
+    "Si posees más de lo que necesitas, elige un bien público duradero y finánchialo deliberadamente ahora, en vez de diferir la decisión a tu herencia.",
+    "The Gospel of Wealth, 1889"
+   ],
+   "la": [
+    "Dives divitiarum curator est."
+   ]
+  },
+  "duo": {"ids": ["a72", "v41"], "th": "money",
+          "br": {"en": "Carnegie made the owner a trustee of surplus wealth; Benioff built that duty into the company from day one. Both deny that giving is an afterthought, treating it as a standing obligation of success.",
+                 "it": "Carnegie rese il proprietario amministratore della ricchezza in eccesso; Benioff inserì quel dovere nell'azienda fin dal primo giorno. Entrambi negano che donare sia un ripensamento, trattandolo come un obbligo permanente del successo.",
+                 "es": "Carnegie hizo del dueño un administrador de la riqueza excedente; Benioff integró ese deber en la empresa desde el primer día. Ambos niegan que dar sea una ocurrencia tardía, tratándolo como una obligación permanente del éxito.",
+                 "la": "Carnegie dominum divitiarum curatorem fecit, Benioff officium in societatem ab initio inseruit."}},
+  "batch": "2026-11-18-01",
+  "added": "2026-11-18T12:00:00Z"
+ },
+ {
+  "id": "a73",
+  "t": "ptahhotep",
+  "era": "c. 2400 BC",
+  "src": "The Maxims of Ptahhotep, c. 2400 BC",
+  "h": "Listen fully before you lead.",
+  "b": "In humanity's oldest book of counsel, the vizier Ptahhotep taught that authority rests on listening. A leader who hears a petitioner out, even one who speaks poorly, learns the truth and keeps the peace; one who silences others breeds resentment and error. Good speech, he wrote, is rarer than the emerald, and it begins with the patience to listen.",
+  "d": "In your next difficult conversation, let the other person finish completely before you respond. Summarize what you heard and confirm it before offering your own view.",
+  "tg": ["leadership"],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/The_Maxims_of_Ptahhotep",
+  "thinker": {
+   "n": "Ptahhotep",
+   "i": "Pt",
+   "r": "Vizier of ancient Egypt",
+   "w": "a",
+   "y": "c. 2400 BC",
+   "names": {},
+   "roles": {
+    "it": "Visir dell'antico Egitto",
+    "es": "Visir del antiguo Egipto",
+    "la": "Vizir Aegypti antiqui"
+   }
+  },
+  "tr": {
+   "it": [
+    "Ascolta fino in fondo prima di guidare.",
+    "Nel più antico libro di consigli dell'umanità, il visir Ptahhotep insegnava che l'autorità si regge sull'ascolto. Un capo che lascia parlare chi chiede, anche chi si esprime male, apprende la verità e conserva la pace; chi zittisce gli altri genera rancore ed errore. Il buon parlare, scriveva, è più raro dello smeraldo, e comincia dalla pazienza di ascoltare.",
+    "Nella tua prossima conversazione difficile, lascia che l'altro finisca del tutto prima di rispondere. Riassumi ciò che hai sentito e verificalo prima di offrire la tua opinione.",
+    "The Maxims of Ptahhotep, c. 2400 BC"
+   ],
+   "es": [
+    "Escucha a fondo antes de dirigir.",
+    "En el libro de consejos más antiguo de la humanidad, el visir Ptahhotep enseñaba que la autoridad se apoya en escuchar. Un líder que deja terminar a quien le pide, incluso al que se expresa mal, aprende la verdad y conserva la paz; quien hace callar a los demás siembra rencor y error. El buen hablar, escribió, es más raro que la esmeralda, y empieza en la paciencia de escuchar.",
+    "En tu próxima conversación difícil, deja que el otro termine por completo antes de responder. Resume lo que oíste y confírmalo antes de ofrecer tu opinión.",
+    "The Maxims of Ptahhotep, c. 2400 BC"
+   ],
+   "la": [
+    "Prius audi, deinde rege."
+   ]
+  },
+  "batch": "2026-11-18-01",
+  "added": "2026-11-18T12:00:00Z"
+ },
+ {
+  "id": "m17",
+  "t": "clear",
+  "era": "2018",
+  "src": "Atomic Habits, 2018",
+  "h": "You fall to the level of your systems.",
+  "b": "Clear reframed self-improvement as a numbers game: getting one percent better each day compounds into roughly thirty-seven times the result across a year. Goals set direction, but you do not rise to them; you fall to the level of your systems. Change the small, repeated routine and the outcome follows, because tiny habits accumulate into an identity.",
+  "d": "Pick one goal you keep missing and design the daily system behind it. Shrink the first step until it takes two minutes, then repeat it every day.",
+  "tg": ["focus", "character"],
+  "v": true,
+  "source_url": "https://jamesclear.com/atomic-habits",
+  "thinker": {
+   "n": "James Clear",
+   "i": "JC",
+   "r": "Writer on habits and decision-making",
+   "w": "m",
+   "y": "b. 1986",
+   "names": {},
+   "roles": {
+    "it": "Scrittore su abitudini e decisioni",
+    "es": "Escritor sobre hábitos y decisiones",
+    "la": "Scriptor de consuetudinibus"
+   }
+  },
+  "tr": {
+   "it": [
+    "Scendi al livello dei tuoi sistemi.",
+    "Clear ha riformulato il miglioramento personale come una questione di numeri: migliorare dell'uno per cento al giorno si compone in circa trentasette volte il risultato nell'arco di un anno. Gli obiettivi danno la direzione, ma non sali ad essi; scendi al livello dei tuoi sistemi. Cambia la piccola routine ripetuta e il risultato segue, perché le abitudini minime si accumulano in un'identità.",
+    "Scegli un obiettivo che continui a mancare e progetta il sistema quotidiano che lo sostiene. Riduci il primo passo finché richiede due minuti, poi ripetilo ogni giorno.",
+    "Atomic Habits, 2018"
+   ],
+   "es": [
+    "Caes al nivel de tus sistemas.",
+    "Clear replanteó la mejora personal como un asunto de números: mejorar un uno por ciento cada día se compone en unas treinta y siete veces el resultado a lo largo de un año. Las metas dan dirección, pero no subes a ellas; caes al nivel de tus sistemas. Cambia la pequeña rutina repetida y el resultado sigue, porque los hábitos mínimos se acumulan en una identidad.",
+    "Elige una meta que sigues incumpliendo y diseña el sistema diario que la sostiene. Reduce el primer paso hasta que tome dos minutos, y repítelo cada día.",
+    "Atomic Habits, 2018"
+   ],
+   "la": [
+    "Non ad metas surgis, sed ad consuetudines cadis."
+   ]
+  },
+  "duo": {"ids": ["a11", "v36", "m17"], "th": "character",
+          "br": {"en": "Aristotle said excellence is a habit, not an act; Deming said the system, not the worker, sets the result; Clear showed how to engineer the habit through the system. Three ages agree that character is built by repeated design, not by resolve alone.",
+                 "it": "Aristotele diceva che l'eccellenza è un'abitudine, non un atto; Deming che è il sistema, non il lavoratore, a determinare il risultato; Clear ha mostrato come costruire l'abitudine attraverso il sistema. Tre epoche concordano: il carattere si costruisce con la progettazione ripetuta, non con la sola volontà.",
+                 "es": "Aristóteles decía que la excelencia es un hábito, no un acto; Deming, que es el sistema, no el trabajador, quien fija el resultado; Clear mostró cómo construir el hábito a través del sistema. Tres épocas coinciden: el carácter se construye con diseño repetido, no solo con voluntad.",
+                 "la": "Aristoteles habitum, Deming systema, Clear utrumque coniungit: mores exercitatione, non sola voluntate, fiunt."}},
+  "batch": "2026-11-18-01",
+  "added": "2026-11-18T12:00:00Z"
+ },
+ {
+  "id": "m18",
+  "t": "gitomer",
+  "era": "2004",
+  "src": "Little Red Book of Selling, 2004",
+  "h": "People love to buy; they hate to be sold.",
+  "b": "Gitomer turned selling on its head: stop pushing and make it easy to buy. People resist a pitch but enjoy a purchase they feel they chose. So the seller's real work is to earn liking and trust, understand why this buyer wants to act, and build the conditions in which the decision feels like their own, not yours.",
+  "d": "Before your next call, replace your pitch with three questions about why this customer would want to buy. Spend the meeting helping them answer, not selling.",
+  "tg": ["persuasion"],
+  "v": true,
+  "source_url": "https://www.barnesandnoble.com/w/little-red-book-of-selling-jeffrey-gitomer/1006243081",
+  "thinker": {
+   "n": "Jeffrey Gitomer",
+   "i": "JG",
+   "r": "Sales trainer and author",
+   "w": "m",
+   "y": "b. 1946",
+   "names": {},
+   "roles": {
+    "it": "Formatore di vendita e autore",
+    "es": "Formador de ventas y autor",
+    "la": "Vendendi magister et scriptor"
+   }
+  },
+  "tr": {
+   "it": [
+    "Alla gente piace comprare; odia che le si venda.",
+    "Gitomer ha ribaltato la vendita: smetti di spingere e rendi facile comprare. Le persone resistono a un discorso di vendita ma godono di un acquisto che sentono di aver scelto. Così il vero lavoro del venditore è conquistare simpatia e fiducia, capire perché quel compratore vuole agire e creare le condizioni in cui la decisione sembra sua, non tua.",
+    "Prima della prossima chiamata, sostituisci il tuo discorso di vendita con tre domande sul perché quel cliente vorrebbe comprare. Passa l'incontro ad aiutarlo a rispondere, non a vendere.",
+    "Little Red Book of Selling, 2004"
+   ],
+   "es": [
+    "A la gente le encanta comprar; odia que le vendan.",
+    "Gitomer puso la venta del revés: deja de empujar y haz que comprar sea fácil. La gente se resiste a un discurso de venta pero disfruta de una compra que siente que eligió. Así, el verdadero trabajo del vendedor es ganarse simpatía y confianza, entender por qué ese comprador quiere actuar y crear las condiciones en que la decisión parezca suya, no tuya.",
+    "Antes de tu próxima llamada, sustituye tu discurso de venta por tres preguntas sobre por qué ese cliente querría comprar. Dedica la reunión a ayudarle a responder, no a vender.",
+    "Little Red Book of Selling, 2004"
+   ],
+   "la": [
+    "Homines emere amant, vendi oderunt."
+   ]
+  },
+  "batch": "2026-11-18-01",
+  "added": "2026-11-18T12:00:00Z"
+ },
+ {
+  "id": "m19",
+  "t": "cohen",
+  "era": "1980",
+  "src": "You Can Negotiate Anything, 1980",
+  "h": "Negotiation runs on information, time and power.",
+  "b": "Cohen reduced every negotiation to three variables: information, time and power. The side that knows more, is less pressed by the deadline and believes it holds more leverage tends to prevail. Crucially, power is a matter of perception, not fact, so patience and quiet preparation can shift an apparently weak hand. Treat negotiation as a process, not a single event.",
+  "d": "Before negotiating, gather information early, learn the other side's real deadline, and never reveal your own urgency. Perceived power, not stated position, moves the outcome.",
+  "tg": ["persuasion"],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/You_Can_Negotiate_Anything",
+  "thinker": {
+   "n": "Herb Cohen",
+   "i": "HC",
+   "r": "Negotiation adviser and author",
+   "w": "m",
+   "y": "1932–2022",
+   "names": {},
+   "roles": {
+    "it": "Consulente di negoziazione e autore",
+    "es": "Asesor de negociación y autor",
+    "la": "Pactionis consultor et scriptor"
+   }
+  },
+  "tr": {
+   "it": [
+    "La negoziazione si regge su informazione, tempo e potere.",
+    "Cohen ridusse ogni negoziato a tre variabili: informazione, tempo e potere. Chi sa di più, è meno premuto dalla scadenza e crede di avere più leva tende a prevalere. Soprattutto, il potere è una questione di percezione, non di fatto, così la pazienza e una preparazione silenziosa possono ribaltare una mano apparentemente debole. Tratta la negoziazione come un processo, non un singolo evento.",
+    "Prima di negoziare, raccogli presto le informazioni, scopri la vera scadenza dell'altra parte e non rivelare mai la tua urgenza. È il potere percepito, non la posizione dichiarata, a muovere l'esito.",
+    "You Can Negotiate Anything, 1980"
+   ],
+   "es": [
+    "La negociación se mueve por información, tiempo y poder.",
+    "Cohen redujo toda negociación a tres variables: información, tiempo y poder. El lado que sabe más, está menos presionado por el plazo y cree tener más ventaja suele imponerse. Sobre todo, el poder es cuestión de percepción, no de hecho, así que la paciencia y una preparación silenciosa pueden dar la vuelta a una mano en apariencia débil. Trata la negociación como un proceso, no un solo evento.",
+    "Antes de negociar, reúne pronto la información, averigua el plazo real de la otra parte y nunca reveles tu propia urgencia. El poder percibido, no la posición declarada, mueve el resultado.",
+    "You Can Negotiate Anything, 1980"
+   ],
+   "la": [
+    "Notitia, tempus, potestas pactionem regunt."
+   ]
+  },
+  "duo": {"ids": ["m19", "a64"], "th": "persuasion",
+          "br": {"en": "Richelieu urged princes to negotiate always, everywhere, without pause; Cohen tells the rest of us why it works, naming information, time and perceived power as the levers. Both treat negotiation as a standing discipline, not a rare crisis.",
+                 "it": "Richelieu esortava i principi a negoziare sempre, ovunque, senza sosta; Cohen spiega a noi perché funziona, indicando informazione, tempo e potere percepito come le leve. Entrambi trattano la negoziazione come una disciplina permanente, non una rara crisi.",
+                 "es": "Richelieu instaba a los príncipes a negociar siempre, en todas partes, sin pausa; Cohen nos explica por qué funciona, nombrando información, tiempo y poder percibido como las palancas. Ambos tratan la negociación como una disciplina permanente, no una crisis rara.",
+                 "la": "Richelieu semper negotiari iubet, Cohen cur valeat docet: ambo pactionem disciplinam perpetuam habent."}},
+  "batch": "2026-11-18-01",
+  "added": "2026-11-18T12:00:00Z"
+ }
+]

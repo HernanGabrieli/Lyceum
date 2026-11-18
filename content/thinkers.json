@@ -1923,5 +1923,135 @@
    "es": "Autor y conferenciante sobre liderazgo",
    "la": "Scriptor et orator de ducatu"
   }
+ },
+ "sloan": {
+  "n": "Alfred P. Sloan",
+  "i": "AS",
+  "r": "President and chairman of General Motors",
+  "w": "v",
+  "y": "1875–1966",
+  "names": {},
+  "roles": {
+   "it": "Presidente di General Motors",
+   "es": "Presidente de General Motors",
+   "la": "Praeses officinae autocinetorum"
+  }
+ },
+ "bgraham": {
+  "n": "Benjamin Graham",
+  "i": "BG",
+  "r": "Economist and father of value investing",
+  "w": "v",
+  "y": "1894–1976",
+  "names": {},
+  "roles": {
+   "it": "Economista e padre del value investing",
+   "es": "Economista y padre de la inversión en valor",
+   "la": "Oeconomus et pater prudentis collocationis"
+  }
+ },
+ "simon": {
+  "n": "Herbert A. Simon",
+  "i": "HS",
+  "r": "Economist and cognitive scientist, Nobel laureate",
+  "w": "v",
+  "y": "1916–2001",
+  "names": {},
+  "roles": {
+   "it": "Economista e scienziato cognitivo, premio Nobel",
+   "es": "Economista y científico cognitivo, premio Nobel",
+   "la": "Oeconomus et mentis investigator"
+  }
+ },
+ "kelly": {
+  "n": "Kevin Kelly",
+  "i": "KK",
+  "r": "Writer and founding editor of Wired",
+  "w": "v",
+  "y": "b. 1952",
+  "names": {},
+  "roles": {
+   "it": "Scrittore e direttore fondatore di Wired",
+   "es": "Escritor y editor fundador de Wired",
+   "la": "Scriptor et primus editor commentarii"
+  }
+ },
+ "kant": {
+  "n": "Immanuel Kant",
+  "i": "IK",
+  "r": "Philosopher",
+  "w": "a",
+  "y": "1724–1804",
+  "names": {},
+  "roles": {
+   "it": "Filosofo",
+   "es": "Filósofo",
+   "la": "Philosophus"
+  }
+ },
+ "andrewcarnegie": {
+  "n": "Andrew Carnegie",
+  "i": "AC",
+  "r": "Industrialist and philanthropist",
+  "w": "a",
+  "y": "1835–1919",
+  "names": {},
+  "roles": {
+   "it": "Industriale e filantropo",
+   "es": "Industrial y filántropo",
+   "la": "Negotiator et benefactor"
+  }
+ },
+ "ptahhotep": {
+  "n": "Ptahhotep",
+  "i": "Pt",
+  "r": "Vizier of ancient Egypt",
+  "w": "a",
+  "y": "c. 2400 BC",
+  "names": {},
+  "roles": {
+   "it": "Visir dell'antico Egitto",
+   "es": "Visir del antiguo Egipto",
+   "la": "Vizir Aegypti antiqui"
+  }
+ },
+ "clear": {
+  "n": "James Clear",
+  "i": "JC",
+  "r": "Writer on habits and decision-making",
+  "w": "m",
+  "y": "b. 1986",
+  "names": {},
+  "roles": {
+   "it": "Scrittore su abitudini e decisioni",
+   "es": "Escritor sobre hábitos y decisiones",
+   "la": "Scriptor de consuetudinibus"
+  }
+ },
+ "gitomer": {
+  "n": "Jeffrey Gitomer",
+  "i": "JG",
+  "r": "Sales trainer and author",
+  "w": "m",
+  "y": "b. 1946",
+  "names": {},
+  "roles": {
+   "it": "Formatore di vendita e autore",
+   "es": "Formador de ventas y autor",
+   "la": "Vendendi magister et scriptor"
+  }
+ },
+ "cohen": {
+  "n": "Herb Cohen",
+  "i": "HC",
+  "r": "Negotiation adviser and author",
+  "w": "m",
+  "y": "1932–2022",
+  "names": {},
+  "roles": {
+   "it": "Consulente di negoziazione e autore",
+   "es": "Asesor de negociación y autor",
+   "la": "Pactionis consultor et scriptor"
+  }
  }
 }

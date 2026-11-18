@@ -319,5 +319,36 @@
    "m16": "https://en.wikipedia.org/wiki/Start_with_Why"
   },
   "note": "4 Valley, 3 Ancients, 3 Masters; fear trio across wings; 10/10 verified"
+ },
+ {
+  "at": "2026-11-18T16:16:32Z",
+  "batch": "2026-11-18-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v71",
+   "v72",
+   "v73",
+   "v74",
+   "a71",
+   "a72",
+   "a73",
+   "m17",
+   "m18",
+   "m19"
+  ],
+  "verified": 10,
+  "sources": {
+   "v71": "https://en.wikipedia.org/wiki/Alfred_P._Sloan",
+   "v72": "https://en.wikipedia.org/wiki/The_Intelligent_Investor",
+   "v73": "https://www.ebsco.com/research-starters/literature-and-writing/simon-publishes-administrative-behavior",
+   "v74": "https://kk.org/thetechnium/1000-true-fans/",
+   "a71": "https://en.wikipedia.org/wiki/What_Is_Enlightenment%3F",
+   "a72": "https://www.carnegie.org/publication/the-gospel-of-wealth/",
+   "a73": "https://en.wikipedia.org/wiki/The_Maxims_of_Ptahhotep",
+   "m17": "https://jamesclear.com/atomic-habits",
+   "m18": "https://www.barnesandnoble.com/w/little-red-book-of-selling-jeffrey-gitomer/1006243081",
+   "m19": "https://en.wikipedia.org/wiki/You_Can_Negotiate_Anything"
+  },
+  "note": "4 Valley, 3 Ancients, 3 Masters; 1 trio + 3 duos; all 10 verified"
  }
 ]

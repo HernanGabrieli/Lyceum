@@ -534,5 +534,58 @@
    "es": "Richelieu mantiene abierto todo canal de negociación, siempre y en todas partes; Fisher y Ury muestran qué hacer una vez en la mesa—negociar sobre intereses, no posiciones, para que hablar rinda más de lo que cuesta.",
    "la": "Richelieu omnem pactionis viam semper aperit; Fisher et Ury ad mensam docent de commodis, non de sententiis agere."
   }
+ },
+ {
+  "ids": [
+   "v72",
+   "a28"
+  ],
+  "th": "risk",
+  "br": {
+   "en": "Gracián says keep something in reserve; Graham prices the reserve. Both refuse to commit everything at once, holding back the margin that lets them survive a surprise and act when others cannot.",
+   "it": "Gracián dice di tenere qualcosa in riserva; Graham ne fissa il prezzo. Entrambi rifiutano di impegnare tutto in una volta, trattenendo il margine che permette di sopravvivere a una sorpresa e agire quando gli altri non possono.",
+   "es": "Gracián dice guardar algo en reserva; Graham le pone precio. Ambos se niegan a comprometerlo todo de golpe, reteniendo el margen que les deja sobrevivir a una sorpresa y actuar cuando otros no pueden.",
+   "la": "Gracián aliquid in subsidio servat, Graham subsidium aestimat: uterque non omnia simul committit."
+  }
+ },
+ {
+  "ids": [
+   "a72",
+   "v41"
+  ],
+  "th": "money",
+  "br": {
+   "en": "Carnegie made the owner a trustee of surplus wealth; Benioff built that duty into the company from day one. Both deny that giving is an afterthought, treating it as a standing obligation of success.",
+   "it": "Carnegie rese il proprietario amministratore della ricchezza in eccesso; Benioff inserì quel dovere nell'azienda fin dal primo giorno. Entrambi negano che donare sia un ripensamento, trattandolo come un obbligo permanente del successo.",
+   "es": "Carnegie hizo del dueño un administrador de la riqueza excedente; Benioff integró ese deber en la empresa desde el primer día. Ambos niegan que dar sea una ocurrencia tardía, tratándolo como una obligación permanente del éxito.",
+   "la": "Carnegie dominum divitiarum curatorem fecit, Benioff officium in societatem ab initio inseruit."
+  }
+ },
+ {
+  "ids": [
+   "a11",
+   "v36",
+   "m17"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Aristotle said excellence is a habit, not an act; Deming said the system, not the worker, sets the result; Clear showed how to engineer the habit through the system. Three ages agree that character is built by repeated design, not by resolve alone.",
+   "it": "Aristotele diceva che l'eccellenza è un'abitudine, non un atto; Deming che è il sistema, non il lavoratore, a determinare il risultato; Clear ha mostrato come costruire l'abitudine attraverso il sistema. Tre epoche concordano: il carattere si costruisce con la progettazione ripetuta, non con la sola volontà.",
+   "es": "Aristóteles decía que la excelencia es un hábito, no un acto; Deming, que es el sistema, no el trabajador, quien fija el resultado; Clear mostró cómo construir el hábito a través del sistema. Tres épocas coinciden: el carácter se construye con diseño repetido, no solo con voluntad.",
+   "la": "Aristoteles habitum, Deming systema, Clear utrumque coniungit: mores exercitatione, non sola voluntate, fiunt."
+  }
+ },
+ {
+  "ids": [
+   "m19",
+   "a64"
+  ],
+  "th": "persuasion",
+  "br": {
+   "en": "Richelieu urged princes to negotiate always, everywhere, without pause; Cohen tells the rest of us why it works, naming information, time and perceived power as the levers. Both treat negotiation as a standing discipline, not a rare crisis.",
+   "it": "Richelieu esortava i principi a negoziare sempre, ovunque, senza sosta; Cohen spiega a noi perché funziona, indicando informazione, tempo e potere percepito come le leve. Entrambi trattano la negoziazione come una disciplina permanente, non una rara crisi.",
+   "es": "Richelieu instaba a los príncipes a negociar siempre, en todas partes, sin pausa; Cohen nos explica por qué funciona, nombrando información, tiempo y poder percibido como las palancas. Ambos tratan la negociación como una disciplina permanente, no una crisis rara.",
+   "la": "Richelieu semper negotiari iubet, Cohen cur valeat docet: ambo pactionem disciplinam perpetuam habent."
+  }
  }
 ]
