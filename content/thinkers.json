@@ -2053,5 +2053,135 @@
    "es": "Asesor de negociación y autor",
    "la": "Pactionis consultor et scriptor"
   }
+ },
+ "mintzberg": {
+  "n": "Henry Mintzberg",
+  "i": "HM",
+  "r": "Management theorist",
+  "w": "v",
+  "y": "b. 1939",
+  "names": {},
+  "roles": {
+   "it": "Teorico del management",
+   "es": "Teórico de la gestión",
+   "la": "Rerum administrandarum peritus"
+  }
+ },
+ "hamelprahalad": {
+  "n": "Gary Hamel & C.K. Prahalad",
+  "i": "HP",
+  "r": "Strategy theorists",
+  "w": "v",
+  "y": "1990",
+  "names": {},
+  "roles": {
+   "it": "Teorici della strategia",
+   "es": "Teóricos de la estrategia",
+   "la": "Strategiae periti"
+  }
+ },
+ "hmarks": {
+  "n": "Howard Marks",
+  "i": "HM",
+  "r": "Investor and author",
+  "w": "v",
+  "y": "b. 1946",
+  "names": {},
+  "roles": {
+   "it": "Investitore e autore",
+   "es": "Inversor y autor",
+   "la": "Argentarius et scriptor"
+  }
+ },
+ "kimscott": {
+  "n": "Kim Scott",
+  "i": "KS",
+  "r": "Executive and author",
+  "w": "v",
+  "y": "21st c.",
+  "names": {},
+  "roles": {
+   "it": "Dirigente e autrice",
+   "es": "Directiva y autora",
+   "la": "Praefecta et scriptrix"
+  }
+ },
+ "nietzsche": {
+  "n": "Friedrich Nietzsche",
+  "i": "FN",
+  "r": "Philosopher",
+  "w": "a",
+  "y": "1844–1900",
+  "names": {},
+  "roles": {
+   "it": "Filosofo",
+   "es": "Filósofo",
+   "la": "Philosophus"
+  }
+ },
+ "ricardo": {
+  "n": "David Ricardo",
+  "i": "DR",
+  "r": "Political economist",
+  "w": "a",
+  "y": "1772–1823",
+  "names": {},
+  "roles": {
+   "it": "Economista politico",
+   "es": "Economista político",
+   "la": "Rei publicae oeconomus"
+  }
+ },
+ "voltaire": {
+  "n": "Voltaire",
+  "i": "V",
+  "r": "Writer and philosopher",
+  "w": "a",
+  "y": "1694–1778",
+  "names": {},
+  "roles": {
+   "it": "Scrittore e filosofo",
+   "es": "Escritor y filósofo",
+   "la": "Scriptor et philosophus"
+  }
+ },
+ "nhill": {
+  "n": "Napoleon Hill",
+  "i": "NH",
+  "r": "Author on success",
+  "w": "m",
+  "y": "1883–1970",
+  "names": {},
+  "roles": {
+   "it": "Autore sul successo",
+   "es": "Autor sobre el éxito",
+   "la": "Scriptor de prosperitate"
+  }
+ },
+ "mandino": {
+  "n": "Og Mandino",
+  "i": "OM",
+  "r": "Author and speaker",
+  "w": "m",
+  "y": "1923–1996",
+  "names": {},
+  "roles": {
+   "it": "Autore e oratore",
+   "es": "Autor y orador",
+   "la": "Scriptor et orator"
+  }
+ },
+ "grant": {
+  "n": "Adam Grant",
+  "i": "AG",
+  "r": "Organizational psychologist",
+  "w": "m",
+  "y": "b. 1981",
+  "names": {},
+  "roles": {
+   "it": "Psicologo organizzativo",
+   "es": "Psicólogo organizacional",
+   "la": "Psychologus"
+  }
  }
 }

@@ -587,5 +587,58 @@
    "es": "Richelieu instaba a los príncipes a negociar siempre, en todas partes, sin pausa; Cohen nos explica por qué funciona, nombrando información, tiempo y poder percibido como las palancas. Ambos tratan la negociación como una disciplina permanente, no una crisis rara.",
    "la": "Richelieu semper negotiari iubet, Cohen cur valeat docet: ambo pactionem disciplinam perpetuam habent."
   }
+ },
+ {
+  "ids": [
+   "a75",
+   "v76"
+  ],
+  "th": "strategy",
+  "br": {
+   "en": "Ricardo tells nations to specialise where their relative cost is lowest; Prahalad and Hamel tell firms to build on the competence rivals cannot copy. Two centuries apart, one rule: concentrate force where your edge is greatest and source the rest from others.",
+   "it": "Ricardo dice alle nazioni di specializzarsi dove il costo relativo è minore; Prahalad e Hamel dicono alle imprese di costruire sulla competenza che i rivali non possono copiare. A due secoli di distanza, una regola: concentra la forza dove il tuo vantaggio è maggiore e procurati il resto dagli altri.",
+   "es": "Ricardo dice a las naciones que se especialicen donde su coste relativo es menor; Prahalad y Hamel dicen a las empresas que construyan sobre la competencia que los rivales no pueden copiar. Con dos siglos de diferencia, una regla: concentra la fuerza donde tu ventaja es mayor y abastécete del resto en otros.",
+   "la": "Vim ubi praestas concentra, cetera eme."
+  }
+ },
+ {
+  "ids": [
+   "a74",
+   "v66"
+  ],
+  "th": "risk",
+  "br": {
+   "en": "Nietzsche turns the aphorism; Taleb builds the system. One says hardship can strengthen a sound nature; the other engineers things that gain from disorder. Both refuse mere survival: the goal is to come back from the blow larger than before.",
+   "it": "Nietzsche conia l'aforisma; Taleb costruisce il sistema. L'uno dice che l'avversità può rafforzare una natura sana; l'altro progetta cose che guadagnano dal disordine. Entrambi rifiutano la semplice sopravvivenza: l'obiettivo è tornare dal colpo più grandi di prima.",
+   "es": "Nietzsche acuña el aforismo; Taleb construye el sistema. Uno dice que la adversidad puede fortalecer a una naturaleza sana; el otro diseña cosas que ganan con el desorden. Ambos rechazan la mera supervivencia: la meta es volver del golpe más grandes que antes.",
+   "la": "Ex adversis maior redi."
+  }
+ },
+ {
+  "ids": [
+   "m20",
+   "a03",
+   "v28"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Hill fixes the mind on one burning purpose; Marcus trains it to turn obstacles into the path; Nadella keeps it learning rather than knowing. Three ages, one claim: what you achieve is set first by the disposition you cultivate, not by circumstance.",
+   "it": "Hill fissa la mente su un unico scopo ardente; Marco Aurelio la addestra a trasformare gli ostacoli nella via; Nadella la tiene ad apprendere anziché a sapere. Tre epoche, una tesi: ciò che ottieni è deciso prima dalla disposizione che coltivi, non dalle circostanze.",
+   "es": "Hill fija la mente en un único propósito ardiente; Marco Aurelio la entrena para convertir los obstáculos en el camino; Nadella la mantiene aprendiendo en vez de sabiendo. Tres épocas, una tesis: lo que logras lo decide primero la disposición que cultivas, no la circunstancia.",
+   "la": "Animus cultus, non casus, opus decernit."
+  }
+ },
+ {
+  "ids": [
+   "m22",
+   "a39"
+  ],
+  "th": "character",
+  "br": {
+   "en": "La Rochefoucauld warns that self-interest hides behind every virtue, giving included; Grant answers that giving still wins, precisely because the calculated giver, who gives only to get, is unmasked as a matcher. The tension is the test: generosity pays best when it is not a tactic.",
+   "it": "La Rochefoucauld avverte che l'interesse personale si nasconde dietro ogni virtù, il donare compreso; Grant risponde che donare vince comunque, proprio perché chi dona a calcolo, solo per ottenere, si smaschera come un contabile. La tensione è la prova: la generosità rende di più quando non è una tattica.",
+   "es": "La Rochefoucauld advierte que el interés propio se esconde tras toda virtud, incluido el dar; Grant responde que dar gana igual, precisamente porque quien da por cálculo, solo para obtener, queda desenmascarado como un contador. La tensión es la prueba: la generosidad rinde más cuando no es una táctica.",
+   "la": "Dare sine calculo plurimum reddit."
+  }
  }
 ]

@@ -350,5 +350,36 @@
    "m19": "https://en.wikipedia.org/wiki/You_Can_Negotiate_Anything"
   },
   "note": "4 Valley, 3 Ancients, 3 Masters; 1 trio + 3 duos; all 10 verified"
+ },
+ {
+  "at": "2026-11-19T16:26:29Z",
+  "batch": "2026-11-19-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v75",
+   "v76",
+   "v77",
+   "v78",
+   "a74",
+   "a75",
+   "a76",
+   "m20",
+   "m21",
+   "m22"
+  ],
+  "verified": 10,
+  "sources": {
+   "v75": "https://www.simonandschuster.com/books/Rise-and-Fall-of-Strategic-Planning/Henry-Mintzberg/9781476754765",
+   "v76": "https://hbr.org/1990/05/the-core-competence-of-the-corporation",
+   "v77": "https://books.google.com/books/about/The_Most_Important_Thing.html?id=2n0VImAHVv0C",
+   "v78": "https://en.wikipedia.org/wiki/Radical_Candor",
+   "a74": "https://en.wikipedia.org/wiki/Twilight_of_the_Idols",
+   "a75": "https://en.wikipedia.org/wiki/Comparative_advantage",
+   "a76": "https://en.wikipedia.org/wiki/Candide",
+   "m20": "https://en.wikipedia.org/wiki/Think_and_Grow_Rich",
+   "m21": "https://en.wikipedia.org/wiki/The_Greatest_Salesman_in_the_World",
+   "m22": "https://openlibrary.org/books/OL26446374M/Give_and_take"
+  },
+  "note": "4 Valley, 3 Ancients, 3 Masters; 1 trio + 3 duos; all 10 verified"
  }
 ]

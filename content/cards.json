@@ -5572,5 +5572,352 @@
   },
   "batch": "2026-11-18-01",
   "added": "2026-11-18T12:00:00Z"
+ },
+ {
+  "id": "v75",
+  "t": "mintzberg",
+  "era": "1994",
+  "src": "The Rise and Fall of Strategic Planning, 1994",
+  "h": "Strategy is crafted, not just planned.",
+  "b": "Mintzberg separated two things managers confuse. Planning is analysis: it breaks a goal into steps and schedules them. Real strategy is synthesis, and much of it emerges, a pattern that forms as the firm acts and learns, not a document written in advance. Deliberate plans still matter, but they must leave room for the strategy the market teaches you.",
+  "d": "Write the plan, then schedule a monthly review that asks one question: what is the market actually teaching us that the plan did not foresee?",
+  "tg": [
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://www.simonandschuster.com/books/Rise-and-Fall-of-Strategic-Planning/Henry-Mintzberg/9781476754765",
+  "note": "",
+  "tr": {
+   "it": [
+    "La strategia si plasma, non si pianifica soltanto.",
+    "Mintzberg distinse due cose che i manager confondono. La pianificazione è analisi: scompone un obiettivo in passi e li programma. La strategia vera è sintesi, e in gran parte emerge, uno schema che si forma mentre l'impresa agisce e impara, non un documento scritto in anticipo. I piani deliberati contano ancora, ma devono lasciare spazio alla strategia che il mercato ti insegna.",
+    "Scrivi il piano, poi fissa una revisione mensile con una sola domanda: cosa ci sta davvero insegnando il mercato che il piano non aveva previsto?",
+    "The Rise and Fall of Strategic Planning, 1994"
+   ],
+   "es": [
+    "La estrategia se forja, no solo se planifica.",
+    "Mintzberg distinguió dos cosas que los directivos confunden. La planificación es análisis: descompone un objetivo en pasos y los programa. La estrategia real es síntesis, y en gran parte emerge, un patrón que se forma mientras la empresa actúa y aprende, no un documento escrito de antemano. Los planes deliberados siguen importando, pero deben dejar sitio a la estrategia que el mercado te enseña.",
+    "Escribe el plan y luego fija una revisión mensual con una sola pregunta: ¿qué nos está enseñando realmente el mercado que el plan no previó?",
+    "The Rise and Fall of Strategic Planning, 1994"
+   ],
+   "la": [
+    "Consilium fingitur, non tantum praescribitur."
+   ]
+  },
+  "added": "2026-11-19T16:00:00Z",
+  "batch": "2026-11-19-01"
+ },
+ {
+  "id": "v76",
+  "t": "hamelprahalad",
+  "era": "1990",
+  "src": "The Core Competence of the Corporation, Harvard Business Review, 1990",
+  "h": "Compete from core competencies, not just products.",
+  "b": "Prahalad and Hamel argued that a firm's real roots are not its products but its core competencies: the collective learning that lets it coordinate skills and technologies. Products fade; a competence that opens many markets, adds real customer value and resists imitation keeps generating them. Managers who defend finished products while starving the shared skill behind them win a battle and lose the forest.",
+  "d": "List the two or three skills your products share. Fund those directly, and judge each new project by whether it deepens one of them.",
+  "tg": [
+   "strategy",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://hbr.org/1990/05/the-core-competence-of-the-corporation",
+  "note": "",
+  "tr": {
+   "it": [
+    "Competi dalle competenze di base, non solo dai prodotti.",
+    "Prahalad e Hamel sostennero che le vere radici di un'impresa non sono i prodotti ma le competenze di base: l'apprendimento collettivo che le permette di coordinare capacità e tecnologie. I prodotti svaniscono; una competenza che apre molti mercati, aggiunge valore reale per il cliente e resiste all'imitazione continua a generarli. Chi difende i prodotti finiti affamando la capacità condivisa che li sostiene vince una battaglia e perde la foresta.",
+    "Elenca le due o tre capacità che i tuoi prodotti condividono. Finanziale direttamente e valuta ogni nuovo progetto in base a se ne approfondisce una.",
+    "The Core Competence of the Corporation, Harvard Business Review, 1990"
+   ],
+   "es": [
+    "Compite desde las competencias centrales, no solo desde los productos.",
+    "Prahalad y Hamel sostuvieron que las verdaderas raíces de una empresa no son sus productos sino sus competencias centrales: el aprendizaje colectivo que le permite coordinar habilidades y tecnologías. Los productos se desvanecen; una competencia que abre muchos mercados, aporta valor real al cliente y resiste la imitación sigue generándolos. Quien defiende los productos terminados mientras mata la capacidad compartida que los sostiene gana una batalla y pierde el bosque.",
+    "Enumera las dos o tres habilidades que comparten tus productos. Finánciales directamente y juzga cada nuevo proyecto según si profundiza una de ellas.",
+    "The Core Competence of the Corporation, Harvard Business Review, 1990"
+   ],
+   "la": [
+    "Ex radicibus peritiae, non ex solis mercibus, certa."
+   ]
+  },
+  "added": "2026-11-19T16:00:00Z",
+  "batch": "2026-11-19-01"
+ },
+ {
+  "id": "v77",
+  "t": "hmarks",
+  "era": "2011",
+  "src": "The Most Important Thing, 2011",
+  "h": "Risk is what you did not foresee.",
+  "b": "Marks separates two mental levels. First-level thinking reads the obvious: good company, buy it. Second-level thinking asks what the price already assumes and what happens if reality drifts. Because the future is a range of outcomes, risk is not volatility but the chance of permanent loss, concentrated in what you failed to imagine. Control it by buying with margin, not by predicting.",
+  "d": "Before you commit, write the outcome you are ignoring because it seems unlikely, and size the position so that outcome cannot ruin you.",
+  "tg": [
+   "risk",
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://books.google.com/books/about/The_Most_Important_Thing.html?id=2n0VImAHVv0C",
+  "note": "",
+  "tr": {
+   "it": [
+    "Il rischio è ciò che non hai previsto.",
+    "Marks distingue due livelli mentali. Il pensiero di primo livello legge l'ovvio: buona azienda, comprala. Il pensiero di secondo livello chiede cosa il prezzo già dà per scontato e cosa accade se la realtà devia. Poiché il futuro è una gamma di esiti, il rischio non è la volatilità ma la possibilità di una perdita permanente, concentrata in ciò che non sei riuscito a immaginare. Controllalo comprando con margine, non prevedendo.",
+    "Prima di impegnarti, scrivi l'esito che stai ignorando perché sembra improbabile, e dimensiona la posizione perché quell'esito non possa rovinarti.",
+    "The Most Important Thing, 2011"
+   ],
+   "es": [
+    "El riesgo es lo que no previste.",
+    "Marks distingue dos niveles mentales. El pensamiento de primer nivel lee lo obvio: buena empresa, cómprala. El pensamiento de segundo nivel pregunta qué da el precio ya por supuesto y qué ocurre si la realidad se desvía. Como el futuro es un abanico de resultados, el riesgo no es la volatilidad sino la posibilidad de una pérdida permanente, concentrada en lo que no lograste imaginar. Contrólalo comprando con margen, no prediciendo.",
+    "Antes de comprometerte, escribe el resultado que ignoras porque parece improbable, y dimensiona la posición para que ese resultado no pueda arruinarte.",
+    "The Most Important Thing, 2011"
+   ],
+   "la": [
+    "Periculum est quod non providisti."
+   ]
+  },
+  "added": "2026-11-19T16:00:00Z",
+  "batch": "2026-11-19-01"
+ },
+ {
+  "id": "v78",
+  "t": "kimscott",
+  "era": "2017",
+  "src": "Radical Candor, 2017",
+  "h": "Care personally and challenge directly.",
+  "b": "Scott maps feedback on two axes: how much you care about the person and how willing you are to challenge them. Do both and you reach radical candor. Care without challenge is ruinous empathy, kind silence that lets people fail. Challenge without care is obnoxious aggression. Most managers, afraid to seem harsh, drift into the silence, and their teams stop learning.",
+  "d": "Give one piece of specific, direct feedback today, and open by showing you care: praise in public, criticize in private, always face to face.",
+  "tg": [
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Radical_Candor",
+  "note": "",
+  "tr": {
+   "it": [
+    "Abbi a cuore la persona e sfidala apertamente.",
+    "Scott dispone il feedback su due assi: quanto ti importa della persona e quanto sei disposto a sfidarla. Fai entrambe le cose e raggiungi la franchezza radicale. L'attenzione senza sfida è empatia rovinosa, un silenzio gentile che lascia fallire le persone. La sfida senza attenzione è aggressività odiosa. La maggior parte dei manager, per paura di sembrare duri, scivola nel silenzio, e i loro team smettono di imparare.",
+    "Dai oggi un feedback specifico e diretto, e apri mostrando che ti importa: loda in pubblico, critica in privato, sempre faccia a faccia.",
+    "Radical Candor, 2017"
+   ],
+   "es": [
+    "Preocúpate por la persona y desafíala directamente.",
+    "Scott dispone la retroalimentación en dos ejes: cuánto te importa la persona y cuánto estás dispuesto a desafiarla. Haz ambas cosas y alcanzas la franqueza radical. El cariño sin desafío es empatía ruinosa, un silencio amable que deja fracasar a la gente. El desafío sin cariño es agresividad odiosa. La mayoría de los jefes, por miedo a parecer duros, se desliza hacia el silencio, y sus equipos dejan de aprender.",
+    "Da hoy una retroalimentación específica y directa, y empieza mostrando que te importa: elogia en público, critica en privado, siempre cara a cara.",
+    "Radical Candor, 2017"
+   ],
+   "la": [
+    "Personam cura, aperte provoca."
+   ]
+  },
+  "added": "2026-11-19T16:00:00Z",
+  "batch": "2026-11-19-01"
+ },
+ {
+  "id": "a74",
+  "t": "nietzsche",
+  "era": "1888",
+  "src": "Twilight of the Idols, 1888",
+  "h": "What does not kill you makes you stronger.",
+  "b": "Nietzsche wrote the line as a maxim from life's school of war. His point was not that pain is pleasant but that a sound nature metabolises hardship into strength, turning accidents to advantage. Weakness breaks under the same blow that tempers resilience. The claim is conditional, not automatic: adversity grows only what was already healthy enough to recover and learn from it.",
+  "d": "After a setback, write down one capacity it forced you to build; then make that capability permanent rather than letting it fade with the crisis.",
+  "tg": [
+   "risk",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Twilight_of_the_Idols",
+  "note": "",
+  "tr": {
+   "it": [
+    "Ciò che non ti uccide ti rende più forte.",
+    "Nietzsche scrisse la frase come una massima della scuola di guerra della vita. Il suo punto non era che il dolore sia piacevole, ma che una natura sana metabolizza l'avversità in forza, volgendo a proprio vantaggio gli incidenti. La debolezza si spezza sotto lo stesso colpo che tempra la resilienza. L'affermazione è condizionata, non automatica: l'avversità fa crescere solo ciò che era già abbastanza sano da riprendersi e imparare.",
+    "Dopo un rovescio, annota una capacità che ti ha costretto a sviluppare; poi rendi permanente quell'abilità invece di lasciarla svanire con la crisi.",
+    "Crepuscolo degli idoli, 1888"
+   ],
+   "es": [
+    "Lo que no te mata te hace más fuerte.",
+    "Nietzsche escribió la frase como una máxima de la escuela de guerra de la vida. Su punto no era que el dolor sea placentero, sino que una naturaleza sana metaboliza la adversidad en fuerza, volviendo a su favor los accidentes. La debilidad se quiebra bajo el mismo golpe que templa la resiliencia. La afirmación es condicional, no automática: la adversidad hace crecer solo lo que ya estaba bastante sano como para recuperarse y aprender.",
+    "Tras un revés, anota una capacidad que te obligó a construir; luego haz permanente esa habilidad en vez de dejarla desvanecerse con la crisis.",
+    "El crepúsculo de los ídolos, 1888"
+   ],
+   "la": [
+    "Quod non necat, fortiorem facit."
+   ]
+  },
+  "added": "2026-11-19T16:00:00Z",
+  "batch": "2026-11-19-01"
+ },
+ {
+  "id": "a75",
+  "t": "ricardo",
+  "era": "1817",
+  "src": "On the Principles of Political Economy and Taxation, 1817",
+  "h": "Specialise where your relative advantage is greatest.",
+  "b": "Ricardo showed that two parties gain from trade even when one is better at everything. What matters is not absolute skill but relative cost: each should do the work where it gives up the least by not doing something else. Portugal and England both win by specialising and trading. The lesson for anyone: concentrate on your comparative edge and buy the rest.",
+  "d": "List your tasks by what each costs you in forgone higher-value work; delegate or buy the ones where your relative advantage is weakest.",
+  "tg": [
+   "money",
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Comparative_advantage",
+  "note": "",
+  "tr": {
+   "it": [
+    "Specializzati dove il tuo vantaggio relativo è maggiore.",
+    "Ricardo dimostrò che due parti guadagnano dallo scambio anche quando una è migliore in tutto. Ciò che conta non è l'abilità assoluta ma il costo relativo: ciascuno dovrebbe fare il lavoro in cui rinuncia a meno non facendo altro. Portogallo e Inghilterra vincono entrambi specializzandosi e scambiando. La lezione per chiunque: concentrati sul tuo margine comparativo e compra il resto.",
+    "Elenca i tuoi compiti in base a quanto ciascuno ti costa in lavoro di maggior valore sacrificato; delega o compra quelli in cui il tuo vantaggio relativo è più debole.",
+    "Principi di economia politica e dell'imposta, 1817"
+   ],
+   "es": [
+    "Especialízate donde tu ventaja relativa sea mayor.",
+    "Ricardo demostró que dos partes ganan con el intercambio incluso cuando una es mejor en todo. Lo que importa no es la habilidad absoluta sino el coste relativo: cada una debería hacer el trabajo en el que renuncia a menos por no hacer otra cosa. Portugal e Inglaterra ganan ambas especializándose y comerciando. La lección para cualquiera: concéntrate en tu ventaja comparativa y compra lo demás.",
+    "Enumera tus tareas según lo que cada una te cuesta en trabajo de mayor valor sacrificado; delega o compra aquellas en las que tu ventaja relativa sea más débil.",
+    "Principios de economía política y tributación, 1817"
+   ],
+   "la": [
+    "Fac quod optime praestas, cetera eme."
+   ]
+  },
+  "added": "2026-11-19T16:00:00Z",
+  "batch": "2026-11-19-01"
+ },
+ {
+  "id": "a76",
+  "t": "voltaire",
+  "era": "1759",
+  "src": "Candide, 1759",
+  "h": "Stop arguing about the world; tend your garden.",
+  "b": "Candide ends its tour of grand disasters and grander theories with a plain instruction: we must cultivate our garden. Voltaire sets useful work against empty speculation about why everything is as it is. The patch in front of you, your craft, household, team, rewards attention; the cosmic debate does not. Meaning is not found by arguing but built by tending what is yours.",
+  "d": "Pick the one patch you actually control this week and improve it concretely, instead of debating problems you can name but cannot touch.",
+  "tg": [
+   "focus",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Candide",
+  "note": "",
+  "tr": {
+   "it": [
+    "Smetti di discutere il mondo; coltiva il tuo giardino.",
+    "Candido chiude il suo giro di grandi disastri e di teorie ancora più grandi con un'istruzione semplice: dobbiamo coltivare il nostro giardino. Voltaire contrappone il lavoro utile alla vuota speculazione sul perché tutto sia com'è. Il pezzo di terra davanti a te, il tuo mestiere, la casa, la squadra, ripaga l'attenzione; il dibattito cosmico no. Il senso non si trova discutendo, ma si costruisce curando ciò che è tuo.",
+    "Scegli l'unico pezzo di terra che davvero controlli questa settimana e miglioralo concretamente, invece di discutere problemi che sai nominare ma non puoi toccare.",
+    "Candido, 1759"
+   ],
+   "es": [
+    "Deja de discutir sobre el mundo; cultiva tu jardín.",
+    "Cándido cierra su recorrido de grandes desastres y teorías aún mayores con una instrucción sencilla: debemos cultivar nuestro jardín. Voltaire opone el trabajo útil a la vacía especulación sobre por qué todo es como es. El trozo de tierra ante ti, tu oficio, tu casa, tu equipo, recompensa la atención; el debate cósmico no. El sentido no se encuentra discutiendo, sino que se construye cuidando lo que es tuyo.",
+    "Elige el único trozo de tierra que de verdad controlas esta semana y mejóralo concretamente, en vez de debatir problemas que sabes nombrar pero no puedes tocar.",
+    "Cándido, 1759"
+   ],
+   "la": [
+    "Hortum nostrum colere debemus."
+   ]
+  },
+  "added": "2026-11-19T16:00:00Z",
+  "batch": "2026-11-19-01"
+ },
+ {
+  "id": "m20",
+  "t": "nhill",
+  "era": "1937",
+  "src": "Think and Grow Rich, 1937",
+  "h": "A definite purpose organises desire into achievement.",
+  "b": "Hill studied hundreds of wealthy people and reduced their path to one starting point: a definite, burning purpose. A vague wish scatters effort; an exact, time-bound aim, held with intensity and acted on daily, orders every decision toward it. He overstated the mind's magic, but the mechanism is sound: a precise goal turns diffuse want into a filter that sharpens attention and persistence.",
+  "d": "Write your main goal as one exact sentence with a number and a date, then read it each morning and night and act on it daily.",
+  "tg": [
+   "character",
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Think_and_Grow_Rich",
+  "note": "",
+  "tr": {
+   "it": [
+    "Uno scopo definito ordina il desiderio in risultato.",
+    "Hill studiò centinaia di persone ricche e ridusse il loro percorso a un unico punto di partenza: uno scopo definito e ardente. Un desiderio vago disperde l'energia; una meta esatta, con una scadenza, tenuta con intensità e perseguita ogni giorno, ordina ogni decisione verso di sé. Esagerò la magia della mente, ma il meccanismo è valido: un obiettivo preciso trasforma il volere diffuso in un filtro che affina attenzione e costanza.",
+    "Scrivi il tuo obiettivo principale come una frase esatta con un numero e una data, poi leggila ogni mattina e ogni sera e agisci su di essa ogni giorno.",
+    "Pensa e arricchisci te stesso, 1937"
+   ],
+   "es": [
+    "Un propósito definido ordena el deseo en logro.",
+    "Hill estudió a cientos de personas ricas y redujo su camino a un único punto de partida: un propósito definido y ardiente. Un deseo vago dispersa la energía; una meta exacta, con fecha, sostenida con intensidad y perseguida cada día, ordena cada decisión hacia ella. Exageró la magia de la mente, pero el mecanismo es sólido: un objetivo preciso convierte el querer difuso en un filtro que afina atención y constancia.",
+    "Escribe tu objetivo principal como una frase exacta con un número y una fecha, luego léela cada mañana y cada noche y actúa sobre ella a diario.",
+    "Piense y hágase rico, 1937"
+   ],
+   "la": [
+    "Propositum certum cupiditatem in opus ordinat."
+   ]
+  },
+  "added": "2026-11-19T16:00:00Z",
+  "batch": "2026-11-19-01"
+ },
+ {
+  "id": "m21",
+  "t": "mandino",
+  "era": "1968",
+  "src": "The Greatest Salesman in the World, 1968",
+  "h": "Persistence, repeated as habit, is what closes.",
+  "b": "Mandino wrapped his selling philosophy in a parable of ten scrolls, read aloud morning, noon and night for thirty days until each becomes habit. The most famous vows, I will persist until I succeed. His real subject is not the pitch but the salesperson: constancy built by daily repetition outlasts talent and mood, and most sales are lost by stopping, not by being refused.",
+  "d": "Decide the number of attempts a result needs, then commit to making them all before you judge the effort, counting each no as progress.",
+  "tg": [
+   "persuasion"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/The_Greatest_Salesman_in_the_World",
+  "note": "",
+  "tr": {
+   "it": [
+    "La costanza, ripetuta come abitudine, è ciò che chiude.",
+    "Mandino avvolse la sua filosofia di vendita in una parabola di dieci pergamene, lette ad alta voce mattina, mezzogiorno e sera per trenta giorni finché ciascuna diventa abitudine. La più celebre promette: persisterò finché non avrò successo. Il suo vero tema non è l'argomentazione ma il venditore: la costanza costruita dalla ripetizione quotidiana supera talento e umore, e la maggior parte delle vendite si perde smettendo, non per un rifiuto.",
+    "Decidi quanti tentativi richiede un risultato, poi impegnati a farli tutti prima di giudicare lo sforzo, contando ogni no come un passo avanti.",
+    "Il più grande venditore del mondo, 1968"
+   ],
+   "es": [
+    "La persistencia, repetida como hábito, es lo que cierra.",
+    "Mandino envolvió su filosofía de venta en una parábola de diez pergaminos, leídos en voz alta mañana, mediodía y noche durante treinta días hasta que cada uno se vuelve hábito. El más célebre promete: persistiré hasta triunfar. Su verdadero tema no es el discurso sino el vendedor: la constancia construida por la repetición diaria supera al talento y al ánimo, y la mayoría de las ventas se pierde al parar, no por un rechazo.",
+    "Decide cuántos intentos requiere un resultado, luego comprométete a hacerlos todos antes de juzgar el esfuerzo, contando cada no como un avance.",
+    "El vendedor más grande del mundo, 1968"
+   ],
+   "la": [
+    "Perstabo donec vincam."
+   ]
+  },
+  "added": "2026-11-19T16:00:00Z",
+  "batch": "2026-11-19-01"
+ },
+ {
+  "id": "m22",
+  "t": "grant",
+  "era": "2013",
+  "src": "Give and Take, 2013",
+  "h": "Over a long game, givers win.",
+  "b": "Grant sorts people by how they trade: takers extract, matchers keep score, givers contribute without first counting the return. Givers cluster at the bottom when they burn out, but also at the very top, because generosity builds trust, reputation and networks that compound over years. The persuasive move is not to grab value but to create it first, then let reciprocity do its slow work.",
+  "d": "Offer one piece of help this week with no scorecard, an introduction, a review, advice, to someone who cannot immediately repay you.",
+  "tg": [
+   "persuasion",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://openlibrary.org/books/OL26446374M/Give_and_take",
+  "note": "",
+  "tr": {
+   "it": [
+    "Sulla lunga distanza, chi dona vince.",
+    "Grant classifica le persone in base a come scambiano: chi prende estrae, chi pareggia tiene il conto, chi dona contribuisce senza prima calcolare il ritorno. Chi dona si raggruppa in fondo quando si esaurisce, ma anche in cima, perché la generosità costruisce fiducia, reputazione e reti che si compongono negli anni. La mossa persuasiva non è afferrare valore ma crearlo per primo, poi lasciare che la reciprocità faccia il suo lento lavoro.",
+    "Offri questa settimana un aiuto senza tenere il conto, una presentazione, una revisione, un consiglio, a qualcuno che non può ricambiare subito.",
+    "Give and Take, 2013"
+   ],
+   "es": [
+    "A la larga, quien da gana.",
+    "Grant clasifica a las personas según cómo intercambian: el tomador extrae, el equilibrador lleva la cuenta, el donante contribuye sin calcular primero el retorno. Los donantes se agrupan abajo cuando se agotan, pero también en la cima, porque la generosidad construye confianza, reputación y redes que se componen con los años. La jugada persuasiva no es arrebatar valor sino crearlo primero, y luego dejar que la reciprocidad haga su lento trabajo.",
+    "Ofrece esta semana una ayuda sin llevar la cuenta, una presentación, una revisión, un consejo, a alguien que no pueda devolvértela de inmediato.",
+    "Give and Take, 2013"
+   ],
+   "la": [
+    "Qui dat, diu vincit."
+   ]
+  },
+  "added": "2026-11-19T16:00:00Z",
+  "batch": "2026-11-19-01"
  }
 ]
