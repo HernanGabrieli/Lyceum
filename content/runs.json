@@ -381,5 +381,36 @@
    "m22": "https://openlibrary.org/books/OL26446374M/Give_and_take"
   },
   "note": "4 Valley, 3 Ancients, 3 Masters; 1 trio + 3 duos; all 10 verified"
+ },
+ {
+  "at": "2026-11-20T16:04:59Z",
+  "batch": "2026-11-20-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v79",
+   "v80",
+   "v81",
+   "v82",
+   "a77",
+   "a78",
+   "a79",
+   "m23",
+   "m24",
+   "m25"
+  ],
+  "verified": 10,
+  "sources": {
+   "v79": "https://en.wikipedia.org/wiki/The_Nature_of_the_Firm",
+   "v80": "https://en.wikipedia.org/wiki/One_Up_on_Wall_Street",
+   "v81": "https://en.wikipedia.org/wiki/Here_Comes_Everybody_(book)",
+   "v82": "https://en.wikipedia.org/wiki/Made_in_Japan:_Akio_Morita_and_Sony",
+   "a77": "https://oll.libertyfund.org/quotes/adam-ferguson-on-social-structures-not-the-execution-of-any-human-design",
+   "a78": "https://en.wikipedia.org/wiki/On_the_Abundance_of_Laws",
+   "a79": "https://en.wikipedia.org/wiki/Carpe_diem",
+   "m23": "https://en.wikipedia.org/wiki/Greg_McKeown_(author)",
+   "m24": "https://en.wikipedia.org/wiki/Emotional_Intelligence",
+   "m25": "https://archive.org/details/howtomasterartof00tomh_1"
+  },
+  "note": "4 Valley, 3 Ancients, 3 Masters; 1 trio + 3 duos; all 10 verified"
  }
 ]

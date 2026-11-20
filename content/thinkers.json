@@ -2183,5 +2183,143 @@
    "es": "Psicólogo organizacional",
    "la": "Psychologus"
   }
+ },
+ "coase": {
+  "n": "Ronald Coase",
+  "i": "RC",
+  "r": "Economist, Nobel laureate",
+  "w": "v",
+  "y": "1910–2013",
+  "names": {},
+  "roles": {
+   "it": "Economista, premio Nobel",
+   "es": "Economista, premio Nobel",
+   "la": "Oeconomus, praemio Nobeliano honoratus"
+  }
+ },
+ "lynch": {
+  "n": "Peter Lynch",
+  "i": "PL",
+  "r": "Investor; manager of the Magellan Fund",
+  "w": "v",
+  "y": "b. 1944",
+  "names": {},
+  "roles": {
+   "it": "Investitore; gestore del fondo Magellan",
+   "es": "Inversor; gestor del fondo Magellan",
+   "la": "Collocator pecuniae, praefectus fundi Magellan"
+  }
+ },
+ "shirky": {
+  "n": "Clay Shirky",
+  "i": "CS",
+  "r": "Writer on the social effects of the internet",
+  "w": "v",
+  "y": "b. 1964",
+  "names": {},
+  "roles": {
+   "it": "Scrittore sugli effetti sociali di internet",
+   "es": "Escritor sobre los efectos sociales de internet",
+   "la": "Scriptor de rebus interretis socialibus"
+  }
+ },
+ "morita": {
+  "n": "Akio Morita",
+  "i": "AM",
+  "r": "Co-founder, Sony",
+  "w": "v",
+  "y": "1921–1999",
+  "names": {},
+  "roles": {
+   "it": "Cofondatore, Sony",
+   "es": "Cofundador, Sony",
+   "la": "Conditor Sony"
+  }
+ },
+ "ferguson": {
+  "n": "Adam Ferguson",
+  "i": "AF",
+  "r": "Philosopher, Scottish Enlightenment",
+  "w": "a",
+  "y": "1723–1816",
+  "names": {},
+  "roles": {
+   "it": "Filosofo, Illuminismo scozzese",
+   "es": "Filósofo, Ilustración escocesa",
+   "la": "Philosophus, Scotia"
+  }
+ },
+ "tacitus": {
+  "n": "Tacitus",
+  "i": "TA",
+  "r": "Historian and senator, Rome",
+  "w": "a",
+  "y": "c. 56–120 AD",
+  "names": {
+   "it": "Tacito",
+   "es": "Tácito",
+   "la": "Tacitus"
+  },
+  "roles": {
+   "it": "Storico e senatore, Roma",
+   "es": "Historiador y senador, Roma",
+   "la": "Historicus et senator, Roma"
+  }
+ },
+ "horace": {
+  "n": "Horace",
+  "i": "HO",
+  "r": "Poet, Rome",
+  "w": "a",
+  "y": "65–8 BC",
+  "names": {
+   "it": "Orazio",
+   "es": "Horacio",
+   "la": "Horatius"
+  },
+  "roles": {
+   "it": "Poeta, Roma",
+   "es": "Poeta, Roma",
+   "la": "Poeta, Roma"
+  }
+ },
+ "mckeown": {
+  "n": "Greg McKeown",
+  "i": "GM",
+  "r": "Writer and speaker on focus and priorities",
+  "w": "m",
+  "y": "contemporary",
+  "names": {},
+  "roles": {
+   "it": "Scrittore e conferenziere su focus e priorità",
+   "es": "Escritor y conferenciante sobre foco y prioridades",
+   "la": "Scriptor et orator de intentione"
+  }
+ },
+ "goleman": {
+  "n": "Daniel Goleman",
+  "i": "DG",
+  "r": "Psychologist and science journalist",
+  "w": "m",
+  "y": "b. 1946",
+  "names": {},
+  "roles": {
+   "it": "Psicologo e giornalista scientifico",
+   "es": "Psicólogo y periodista científico",
+   "la": "Psychologus et scriptor scientificus"
+  }
+ },
+ "hopkins": {
+  "n": "Tom Hopkins",
+  "i": "TH",
+  "r": "Sales trainer and author",
+  "w": "m",
+  "y": "contemporary",
+  "names": {},
+  "roles": {
+   "it": "Formatore di vendita e autore",
+   "es": "Formador de ventas y autor",
+   "la": "Magister venditionis et scriptor"
+  }
  }
 }

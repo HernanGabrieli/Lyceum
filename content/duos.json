@@ -640,5 +640,58 @@
    "es": "La Rochefoucauld advierte que el interés propio se esconde tras toda virtud, incluido el dar; Grant responde que dar gana igual, precisamente porque quien da por cálculo, solo para obtener, queda desenmascarado como un contador. La tensión es la prueba: la generosidad rinde más cuando no es una táctica.",
    "la": "Dare sine calculo plurimum reddit."
   }
+ },
+ {
+  "ids": [
+   "a77",
+   "v75"
+  ],
+  "th": "strategy",
+  "br": {
+   "en": "Ferguson says the firmest institutions are grown, not designed; Mintzberg says the same of strategy—it is crafted in practice, not just planned on paper. Both distrust the master plan imposed from above.",
+   "it": "Ferguson dice che le istituzioni più solide crescono, non si progettano; Mintzberg dice lo stesso della strategia: si forgia nella pratica, non si pianifica soltanto sulla carta. Entrambi diffidano del piano calato dall'alto.",
+   "es": "Ferguson dice que las instituciones más firmes se cultivan, no se diseñan; Mintzberg dice lo mismo de la estrategia: se forja en la práctica, no solo se planifica sobre el papel. Ambos desconfían del plan impuesto desde arriba.",
+   "la": "Optima non finguntur sed crescunt."
+  }
+ },
+ {
+  "ids": [
+   "a78",
+   "v29"
+  ],
+  "th": "power",
+  "br": {
+   "en": "Tacitus reads a swelling rulebook as a symptom of rot; Hastings reaches the same conclusion from the other end—raise talent density first, and most rules become unnecessary. Rules multiply where trust is thin.",
+   "it": "Tacito legge un regolamento che si gonfia come sintomo di decadenza; Hastings arriva alla stessa conclusione dall'altro lato—aumenta prima la densità di talento e gran parte delle regole diventa inutile. Le regole si moltiplicano dove la fiducia è scarsa.",
+   "es": "Tácito interpreta un reglamento que crece como síntoma de descomposición; Hastings llega a la misma conclusión por el otro lado—eleva primero la densidad de talento y la mayoría de las reglas sobran. Las reglas se multiplican donde la confianza escasea.",
+   "la": "Ubi fides deest, leges crescunt."
+  }
+ },
+ {
+  "ids": [
+   "v01",
+   "a01",
+   "m23"
+  ],
+  "th": "focus",
+  "br": {
+   "en": "Three eras, one discipline of less. Seneca warns that a scattered life only feels short; Jobs makes refusal the heart of the product; McKeown turns both into a method—commit to the vital few and drop the rest.",
+   "it": "Tre epoche, una sola disciplina del meno. Seneca avverte che una vita dispersa sembra solo breve; Jobs fa del rifiuto il cuore del prodotto; McKeown trasforma entrambi in un metodo: scegli i pochi essenziali e lascia cadere il resto.",
+   "es": "Tres épocas, una sola disciplina de lo esencial. Séneca advierte que una vida dispersa solo parece corta; Jobs hace del rechazo el corazón del producto; McKeown convierte ambas ideas en método: comprométete con lo poco vital y suelta lo demás.",
+   "la": "Trium aetatum una disciplina: pauca eligere."
+  }
+ },
+ {
+  "ids": [
+   "m24",
+   "a05"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Epictetus draws the line between what we control and what we do not; Goleman shows that mastering the inner side of that line—our own impulses and our reading of others—is a skill, not a gift, and often decides who leads.",
+   "it": "Epitteto traccia il confine tra ciò che dipende da noi e ciò che non dipende; Goleman mostra che padroneggiare il lato interno di quel confine—i nostri impulsi e la lettura degli altri—è un'abilità, non un dono, e spesso decide chi guida.",
+   "es": "Epicteto traza la línea entre lo que depende de nosotros y lo que no; Goleman muestra que dominar el lado interno de esa línea—nuestros impulsos y la lectura de los demás—es una destreza, no un don, y a menudo decide quién lidera.",
+   "la": "Quod in nobis est regere: ars, non donum."
+  }
  }
 ]

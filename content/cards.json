@@ -5919,5 +5919,339 @@
   },
   "added": "2026-11-19T16:00:00Z",
   "batch": "2026-11-19-01"
+ },
+ {
+  "id": "v79",
+  "t": "coase",
+  "era": "1937",
+  "src": "The Nature of the Firm, 1937",
+  "h": "The firm exists to spare you the cost of the market.",
+  "b": "Ronald Coase asked why firms exist at all if markets allocate so well. His answer: using the market has costs—finding prices, negotiating, writing contracts. A firm forms when organising a task internally is cheaper than buying it outside. The boundary sits where the two costs meet: expand in-house until one more internal transaction costs as much as the market would.",
+  "d": "List one activity you run in-house. Price what the open market would charge to do it, and keep it inside only while owning it costs less.",
+  "tg": [
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/The_Nature_of_the_Firm",
+  "tr": {
+   "it": [
+    "L'impresa esiste per risparmiarti il costo del mercato.",
+    "Ronald Coase si chiese perché esistano le imprese, se i mercati allocano così bene. La risposta: usare il mercato ha dei costi—trovare i prezzi, negoziare, scrivere contratti. Un'impresa nasce quando organizzare un compito al proprio interno costa meno che comprarlo fuori. Il confine sta dove i due costi si incontrano: espanditi finché una transazione interna in più costa quanto costerebbe il mercato.",
+    "Elenca un'attività che svolgi internamente. Calcola quanto ti chiederebbe il mercato aperto per farla e tienila dentro solo finché possederla costa meno.",
+    "La natura dell'impresa, 1937"
+   ],
+   "es": [
+    "La empresa existe para ahorrarte el costo del mercado.",
+    "Ronald Coase se preguntó por qué existen las empresas si los mercados asignan tan bien. Su respuesta: usar el mercado tiene costos—encontrar precios, negociar, redactar contratos. Una empresa surge cuando organizar una tarea internamente cuesta menos que comprarla fuera. La frontera está donde ambos costos se igualan: crece hacia dentro hasta que una transacción interna más cueste lo mismo que el mercado.",
+    "Enumera una actividad que realizas internamente. Calcula cuánto cobraría el mercado abierto por hacerla y mantenla dentro solo mientras poseerla cueste menos.",
+    "La naturaleza de la empresa, 1937"
+   ],
+   "la": [
+    "Societas sumptus fori vitat."
+   ]
+  },
+  "added": "2026-11-20T16:30:00Z",
+  "batch": "2026-11-20-01"
+ },
+ {
+  "id": "v80",
+  "t": "lynch",
+  "era": "1989",
+  "src": "One Up on Wall Street, 1989",
+  "h": "Invest only in a business you can explain in two minutes.",
+  "b": "Peter Lynch ran Fidelity's Magellan fund by trusting what ordinary life reveals: a product selling fast, a shop always full, a tool you cannot do without. These are early signals the professionals miss. But the hunch is only a start; he then read the accounts and tested the story. If you cannot say in plain words why you own a holding, you do not own it—it owns you.",
+  "d": "Before any purchase, write the thesis in two sentences a child could follow. If you cannot, do not buy; the gap is your ignorance, not your edge.",
+  "tg": [
+   "money",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/One_Up_on_Wall_Street",
+  "tr": {
+   "it": [
+    "Investi solo in un'impresa che sai spiegare in due minuti.",
+    "Peter Lynch gestì il fondo Magellan di Fidelity fidandosi di ciò che la vita quotidiana rivela: un prodotto che vende in fretta, un negozio sempre pieno, uno strumento di cui non puoi fare a meno. Sono segnali precoci che i professionisti mancano. Ma l'intuizione è solo l'inizio: poi leggeva i bilanci e verificava la storia. Se non sai dire con parole semplici perché possiedi un titolo, non sei tu a possederlo: è lui a possedere te.",
+    "Prima di ogni acquisto, scrivi la tesi in due frasi che un bambino capirebbe. Se non ci riesci, non comprare: quel vuoto è la tua ignoranza, non il tuo vantaggio.",
+    "One Up on Wall Street, 1989"
+   ],
+   "es": [
+    "Invierte solo en un negocio que puedas explicar en dos minutos.",
+    "Peter Lynch dirigió el fondo Magellan de Fidelity confiando en lo que revela la vida diaria: un producto que se vende rápido, una tienda siempre llena, una herramienta de la que no puedes prescindir. Son señales tempranas que los profesionales pasan por alto. Pero la corazonada es solo el comienzo: luego leía las cuentas y comprobaba la historia. Si no sabes decir con palabras sencillas por qué posees un título, no lo posees tú: te posee él.",
+    "Antes de cualquier compra, escribe la tesis en dos frases que un niño entendería. Si no puedes, no compres: ese vacío es tu ignorancia, no tu ventaja.",
+    "Un paso por delante de Wall Street, 1989"
+   ],
+   "la": [
+    "Eme solum quod intellegis."
+   ]
+  },
+  "added": "2026-11-20T16:30:00Z",
+  "batch": "2026-11-20-01"
+ },
+ {
+  "id": "v81",
+  "t": "shirky",
+  "era": "2008",
+  "src": "Here Comes Everybody, 2008",
+  "h": "When joining up costs nothing, groups form without a boss.",
+  "b": "Clay Shirky observed that every shared effort once needed an organisation—payroll, managers, a building—because coordinating people was expensive. Cheap digital tools removed that cost. Now strangers can gather, divide the work and act with no one in charge: an encyclopaedia, a protest, a review site. The lesson for leaders is sobering—structures you once controlled can now assemble around you, faster than you can approve them.",
+  "d": "Spot one task your team coordinates by meetings and hierarchy. Ask what a shared document or channel could organise on its own, and remove the overhead.",
+  "tg": [
+   "power"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Here_Comes_Everybody_(book)",
+  "tr": {
+   "it": [
+    "Quando unirsi non costa nulla, i gruppi si formano senza un capo.",
+    "Clay Shirky osservò che un tempo ogni sforzo collettivo richiedeva un'organizzazione—stipendi, dirigenti, una sede—perché coordinare le persone costava. Gli strumenti digitali a basso costo hanno eliminato quel costo. Ora degli estranei possono riunirsi, dividersi il lavoro e agire senza nessuno al comando: un'enciclopedia, una protesta, un sito di recensioni. La lezione per chi guida è severa: strutture che un tempo controllavi ora si formano intorno a te, più in fretta di quanto tu possa approvarle.",
+    "Individua un compito che il tuo team coordina con riunioni e gerarchia. Chiediti cosa un documento o un canale condiviso potrebbe organizzare da solo, e togli la sovrastruttura.",
+    "Here Comes Everybody, 2008"
+   ],
+   "es": [
+    "Cuando unirse no cuesta nada, los grupos se forman sin un jefe.",
+    "Clay Shirky observó que antes todo esfuerzo colectivo necesitaba una organización—nóminas, gerentes, un edificio—porque coordinar personas costaba caro. Las herramientas digitales baratas eliminaron ese costo. Ahora unos desconocidos pueden reunirse, repartir el trabajo y actuar sin nadie al mando: una enciclopedia, una protesta, un sitio de reseñas. La lección para quien dirige es severa: estructuras que antes controlabas ahora se forman a tu alrededor, más rápido de lo que puedes aprobarlas.",
+    "Detecta una tarea que tu equipo coordina con reuniones y jerarquía. Pregúntate qué podría organizar por sí solo un documento o canal compartido, y elimina la sobrecarga.",
+    "Here Comes Everybody, 2008"
+   ],
+   "la": [
+    "Sine duce turba coalescit."
+   ]
+  },
+  "added": "2026-11-20T16:30:00Z",
+  "batch": "2026-11-20-01"
+ },
+ {
+  "id": "v82",
+  "t": "morita",
+  "era": "1986",
+  "src": "Made in Japan: Akio Morita and Sony, 1986",
+  "h": "Do not ask the market what it wants; show it what it will want.",
+  "b": "Akio Morita built Sony on the belief that customers cannot describe a product they have never seen. Market research, he argued, would never have predicted the Walkman; people did not know they wanted music while walking until it existed. So Sony refined the idea itself and then taught the public to use it. Leading demand is riskier than following it, but it is how new markets are made.",
+  "d": "Take one customer request. Instead of delivering it literally, build the thing they cannot yet name but would choose once they held it, then teach them its use.",
+  "tg": [
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Made_in_Japan:_Akio_Morita_and_Sony",
+  "tr": {
+   "it": [
+    "Non chiedere al mercato cosa vuole; mostragli cosa vorrà.",
+    "Akio Morita costruì Sony sulla convinzione che i clienti non sappiano descrivere un prodotto che non hanno mai visto. Le ricerche di mercato, sosteneva, non avrebbero mai previsto il Walkman: la gente non sapeva di volere la musica mentre camminava finché non è esistita. Così Sony affinava l'idea da sé e poi insegnava al pubblico a usarla. Guidare la domanda è più rischioso che seguirla, ma è così che nascono i mercati nuovi.",
+    "Prendi una richiesta di un cliente. Invece di darla alla lettera, costruisci ciò che non sa ancora nominare ma sceglierebbe una volta in mano, poi insegnagli a usarlo.",
+    "Made in Japan, 1986"
+   ],
+   "es": [
+    "No preguntes al mercado qué quiere; muéstrale qué querrá.",
+    "Akio Morita construyó Sony sobre la convicción de que los clientes no saben describir un producto que nunca han visto. Los estudios de mercado, afirmaba, jamás habrían predicho el Walkman: la gente no sabía que quería música al caminar hasta que existió. Por eso Sony afinaba la idea por sí misma y luego enseñaba al público a usarla. Guiar la demanda es más arriesgado que seguirla, pero así nacen los mercados nuevos.",
+    "Toma una petición de un cliente. En vez de darla al pie de la letra, construye aquello que aún no sabe nombrar pero elegiría al tenerlo, y luego enséñale a usarlo.",
+    "Made in Japan, 1986"
+   ],
+   "la": [
+    "Noli forum rogare; doce quid cupiat."
+   ]
+  },
+  "added": "2026-11-20T16:30:00Z",
+  "batch": "2026-11-20-01"
+ },
+ {
+  "id": "a77",
+  "t": "ferguson",
+  "era": "1767",
+  "src": "An Essay on the History of Civil Society, 1767",
+  "h": "The best institutions are grown, not designed.",
+  "b": "Adam Ferguson watched societies build courts, markets and customs that no single mind had planned. They were, he wrote, the result of human action but not of human design—order that emerges as countless people pursue their own ends. The warning for any leader who loves a master plan: the most durable arrangements often arise from use, not from the drawing board, and resist being dictated from above.",
+  "d": "Before redesigning a process from scratch, study how people already route around the official one. The working path they invented is often the design you were looking for.",
+  "tg": [
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://oll.libertyfund.org/quotes/adam-ferguson-on-social-structures-not-the-execution-of-any-human-design",
+  "tr": {
+   "it": [
+    "Le istituzioni migliori crescono, non si progettano.",
+    "Adam Ferguson vide le società costruire tribunali, mercati e costumi che nessuna singola mente aveva pianificato. Erano, scrisse, il risultato dell'azione umana ma non di un disegno umano—un ordine che emerge mentre innumerevoli persone perseguono i propri fini. L'avvertimento per ogni leader che ama il piano perfetto: gli assetti più duraturi nascono spesso dall'uso, non dal tavolo da disegno, e resistono a essere imposti dall'alto.",
+    "Prima di riprogettare un processo da zero, studia come le persone già aggirano quello ufficiale. Il percorso funzionante che hanno inventato è spesso il progetto che cercavi.",
+    "Saggio sulla storia della società civile, 1767"
+   ],
+   "es": [
+    "Las mejores instituciones se cultivan, no se diseñan.",
+    "Adam Ferguson vio a las sociedades construir tribunales, mercados y costumbres que ninguna mente había planeado. Eran, escribió, el resultado de la acción humana pero no de un designio humano—un orden que emerge mientras innumerables personas persiguen sus propios fines. La advertencia para todo líder que ama el plan maestro: los arreglos más duraderos suelen surgir del uso, no del tablero de diseño, y se resisten a ser impuestos desde arriba.",
+    "Antes de rediseñar un proceso desde cero, estudia cómo la gente ya esquiva el oficial. El camino que funciona y que inventaron suele ser el diseño que buscabas.",
+    "Ensayo sobre la historia de la sociedad civil, 1767"
+   ],
+   "la": [
+    "Optima instituta crescunt, non finguntur."
+   ]
+  },
+  "added": "2026-11-20T16:30:00Z",
+  "batch": "2026-11-20-01"
+ },
+ {
+  "id": "a78",
+  "t": "tacitus",
+  "era": "c. 116 AD",
+  "src": "Annals, Book III, c. 116 AD",
+  "h": "The more corrupt the state, the more numerous its laws.",
+  "b": "Tacitus, surveying Rome's decline, noted that law multiplied as virtue failed: corruptissima re publica plurimae leges. A healthy body needs few rules because trust and custom do the work; when these rot, every gap is patched with another statute, and the growing pile of rules becomes the proof of disorder, not the cure. The same holds in a company: a swelling rulebook is a symptom, not a remedy.",
+  "d": "When tempted to answer a failure with a new rule, ask what broken trust or unclear purpose let it happen. Fix that first; add the rule only if it remains needed.",
+  "tg": [
+   "power",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/On_the_Abundance_of_Laws",
+  "tr": {
+   "it": [
+    "Più lo Stato è corrotto, più numerose sono le sue leggi.",
+    "Tacito, osservando il declino di Roma, notò che le leggi si moltiplicavano man mano che la virtù veniva meno: corruptissima re publica plurimae leges. Un corpo sano ha bisogno di poche regole, perché fiducia e costume fanno il lavoro; quando questi marciscono, ogni falla viene tappata con un'altra norma, e il mucchio crescente di regole diventa la prova del disordine, non la cura. Lo stesso vale in un'azienda: un regolamento che si gonfia è un sintomo, non un rimedio.",
+    "Quando sei tentato di rispondere a un errore con una nuova regola, chiediti quale fiducia rotta o scopo poco chiaro l'abbia permesso. Risolvi prima quello; aggiungi la regola solo se resta necessaria.",
+    "Annali, libro III, c. 116 d.C."
+   ],
+   "es": [
+    "Cuanto más corrupto es el Estado, más numerosas son sus leyes.",
+    "Tácito, observando el declive de Roma, advirtió que las leyes se multiplicaban a medida que fallaba la virtud: corruptissima re publica plurimae leges. Un cuerpo sano necesita pocas reglas, porque la confianza y la costumbre hacen el trabajo; cuando se pudren, cada grieta se tapa con otra norma, y el montón creciente de reglas se vuelve la prueba del desorden, no la cura. Lo mismo ocurre en una empresa: un reglamento que se hincha es un síntoma, no un remedio.",
+    "Cuando te tiente responder a un fallo con una nueva regla, pregunta qué confianza rota o propósito confuso lo permitió. Arregla eso primero; añade la regla solo si sigue haciendo falta.",
+    "Anales, libro III, c. 116 d. C."
+   ],
+   "la": [
+    "Corruptissima re publica plurimae leges."
+   ]
+  },
+  "added": "2026-11-20T16:30:00Z",
+  "batch": "2026-11-20-01"
+ },
+ {
+  "id": "a79",
+  "t": "horace",
+  "era": "23 BC",
+  "src": "Odes, Book I.11, 23 BC",
+  "h": "Seize today; trust tomorrow as little as you must.",
+  "b": "Horace closed one of his odes with carpe diem—pluck the day—advice to a friend anxious about the future. He was not urging recklessness but the opposite: stop staking your life on a tomorrow you cannot command, and act on the hours you actually hold. Plans reaching far ahead comfort us, yet the decision in front of you is the only one you can truly make. Make it.",
+  "d": "Name the one decision you have deferred to a better moment that never comes. Make the first irreversible step on it today, before the day is spent.",
+  "tg": [
+   "focus",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Carpe_diem",
+  "tr": {
+   "it": [
+    "Cogli l'oggi; affidati al domani il meno possibile.",
+    "Orazio chiuse una delle sue odi con carpe diem—cogli il giorno—consiglio a un amico in ansia per il futuro. Non invitava all'imprudenza, ma al contrario: smetti di scommettere la vita su un domani che non comandi, e agisci sulle ore che davvero possiedi. I piani lontani ci consolano, eppure la decisione che hai davanti è l'unica che puoi davvero prendere. Prendila.",
+    "Nomina l'unica decisione che hai rimandato a un momento migliore che non arriva mai. Compi oggi il primo passo irreversibile, prima che la giornata finisca.",
+    "Odi, I.11, 23 a.C."
+   ],
+   "es": [
+    "Aprovecha el hoy; confía en el mañana lo menos posible.",
+    "Horacio cerró una de sus odas con carpe diem—aprovecha el día—un consejo a un amigo angustiado por el futuro. No incitaba a la imprudencia, sino a lo contrario: deja de apostar tu vida a un mañana que no gobiernas, y actúa sobre las horas que de verdad tienes. Los planes lejanos nos consuelan, pero la decisión que tienes delante es la única que puedes tomar de veras. Tómala.",
+    "Nombra la única decisión que has aplazado a un momento mejor que nunca llega. Da hoy el primer paso irreversible, antes de que el día se acabe.",
+    "Odas, I.11, 23 a. C."
+   ],
+   "la": [
+    "Carpe diem, postero minimum crede."
+   ]
+  },
+  "added": "2026-11-20T16:30:00Z",
+  "batch": "2026-11-20-01"
+ },
+ {
+  "id": "m23",
+  "t": "mckeown",
+  "era": "2014",
+  "src": "Essentialism: The Disciplined Pursuit of Less, 2014",
+  "h": "Choose the vital few, then starve the trivial many.",
+  "b": "Greg McKeown calls essentialism the disciplined pursuit of less, but better. Most overload is self-inflicted: we say yes by default, treat every request as equal, and spread effort until none of it lands. The essentialist does the reverse—explore widely, then commit only to the few things that matter most and deliberately drop the rest. The aim is not to do more in less time, but to do only the right things.",
+  "d": "List today's commitments. For each ask: if I were not already doing this, would I sign up now? Drop every one that fails, and defend the gap.",
+  "tg": [
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Greg_McKeown_(author)",
+  "tr": {
+   "it": [
+    "Scegli i pochi essenziali, poi affama i molti superflui.",
+    "Greg McKeown chiama essenzialismo la ricerca disciplinata del meno, ma meglio. Gran parte del sovraccarico ce lo infliggiamo da soli: diciamo sì per inerzia, trattiamo ogni richiesta come uguale e spalmiamo lo sforzo finché nulla incide. L'essenzialista fa il contrario—esplora in ampiezza, poi si impegna solo nelle poche cose che contano di più e lascia cadere deliberatamente il resto. Il fine non è fare di più in meno tempo, ma fare solo le cose giuste.",
+    "Elenca gli impegni di oggi. Per ciascuno chiediti: se non lo stessi già facendo, mi iscriverei adesso? Elimina ognuno che non passa la prova, e difendi lo spazio liberato.",
+    "Essenzialismo, 2014"
+   ],
+   "es": [
+    "Elige los pocos vitales y luego deja morir los muchos triviales.",
+    "Greg McKeown llama esencialismo a la búsqueda disciplinada de lo menos, pero mejor. Gran parte de la sobrecarga nos la infligimos solos: decimos sí por inercia, tratamos cada petición como igual y repartimos el esfuerzo hasta que nada cala. El esencialista hace lo contrario—explora con amplitud y luego se compromete solo con las pocas cosas que más importan, soltando a propósito lo demás. El fin no es hacer más en menos tiempo, sino hacer solo lo correcto.",
+    "Enumera los compromisos de hoy. Para cada uno pregunta: si no lo estuviera haciendo ya, ¿me apuntaría ahora? Suelta todos los que no pasen, y defiende el hueco.",
+    "Esencialismo, 2014"
+   ],
+   "la": [
+    "Pauca eligere, cetera dimittere."
+   ]
+  },
+  "added": "2026-11-20T16:30:00Z",
+  "batch": "2026-11-20-01"
+ },
+ {
+  "id": "m24",
+  "t": "goleman",
+  "era": "1995",
+  "src": "Emotional Intelligence, 1995",
+  "h": "How you manage emotion can matter more than how clever you are.",
+  "b": "Daniel Goleman gathered evidence that raw intelligence predicts success less reliably than a cluster of skills he called emotional intelligence: knowing your own feelings, governing impulse, reading others and handling relationships. Unlike IQ, these can be learned. In senior roles they often decide who derails and who leads, because work is done through people, and people respond to how you make them feel, not to your test scores.",
+  "d": "Before a hard conversation, name the emotion you are feeling and the one the other likely feels. Plan your opening around theirs, not around being right.",
+  "tg": [
+   "leadership",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Emotional_Intelligence",
+  "tr": {
+   "it": [
+    "Come gestisci le emozioni può contare più di quanto sei intelligente.",
+    "Daniel Goleman raccolse prove che l'intelligenza pura predice il successo meno dell'insieme di capacità che chiamò intelligenza emotiva: conoscere i propri sentimenti, governare l'impulso, leggere gli altri e gestire le relazioni. A differenza del QI, si possono imparare. Nei ruoli apicali decidono spesso chi deraglia e chi guida, perché il lavoro si fa attraverso le persone, e le persone rispondono a come le fai sentire, non ai tuoi punteggi.",
+    "Prima di una conversazione difficile, nomina l'emozione che provi e quella che probabilmente prova l'altro. Costruisci l'apertura attorno alla sua, non attorno all'aver ragione.",
+    "Intelligenza emotiva, 1995"
+   ],
+   "es": [
+    "Cómo gestionas la emoción puede importar más que lo inteligente que seas.",
+    "Daniel Goleman reunió pruebas de que la inteligencia pura predice el éxito menos que un conjunto de destrezas que llamó inteligencia emocional: conocer los propios sentimientos, gobernar el impulso, leer a los demás y manejar las relaciones. A diferencia del cociente intelectual, se pueden aprender. En los puestos altos suelen decidir quién descarrila y quién lidera, porque el trabajo se hace a través de las personas, y estas responden a cómo las haces sentir, no a tus puntuaciones.",
+    "Antes de una conversación difícil, nombra la emoción que sientes y la que probablemente siente el otro. Diseña tu apertura en torno a la suya, no a tener razón.",
+    "Inteligencia emocional, 1995"
+   ],
+   "la": [
+    "Animum regere plus valet quam ingenium."
+   ]
+  },
+  "added": "2026-11-20T16:30:00Z",
+  "batch": "2026-11-20-01"
+ },
+ {
+  "id": "m25",
+  "t": "hopkins",
+  "era": "1980",
+  "src": "How to Master the Art of Selling, 1980",
+  "h": "An objection is a request for more reason to say yes.",
+  "b": "Tom Hopkins taught sellers to welcome the objection instead of fearing it. A prospect who raises a doubt is still engaged; silence is the real refusal. His method is to listen fully, restate the concern so the buyer feels heard, ask a question that narrows it, then answer—turning the obstacle into the final step toward agreement. The close is not a trick but the natural end of doubts resolved.",
+  "d": "Next time someone pushes back, resist defending. Repeat their concern in your own words, ask one question to sharpen it, then answer only what remains.",
+  "tg": [
+   "persuasion"
+  ],
+  "v": true,
+  "source_url": "https://archive.org/details/howtomasterartof00tomh_1",
+  "tr": {
+   "it": [
+    "Un'obiezione è una richiesta di più motivi per dire sì.",
+    "Tom Hopkins insegnava ai venditori ad accogliere l'obiezione invece di temerla. Un potenziale cliente che solleva un dubbio è ancora coinvolto; il silenzio è il vero rifiuto. Il suo metodo: ascoltare fino in fondo, riformulare la preoccupazione perché l'acquirente si senta capito, porre una domanda che la restringa e poi rispondere—trasformando l'ostacolo nell'ultimo passo verso l'accordo. La chiusura non è un trucco, ma la fine naturale dei dubbi risolti.",
+    "La prossima volta che qualcuno obietta, resisti alla difesa. Ripeti la sua preoccupazione con parole tue, poni una domanda per affinarla, poi rispondi solo a ciò che resta.",
+    "How to Master the Art of Selling, 1980"
+   ],
+   "es": [
+    "Una objeción es una petición de más razones para decir sí.",
+    "Tom Hopkins enseñaba a los vendedores a recibir la objeción en vez de temerla. Un posible cliente que plantea una duda sigue interesado; el silencio es el verdadero rechazo. Su método: escuchar a fondo, reformular la inquietud para que el comprador se sienta comprendido, hacer una pregunta que la acote y luego responder—convirtiendo el obstáculo en el último paso hacia el acuerdo. El cierre no es un truco, sino el final natural de las dudas resueltas.",
+    "La próxima vez que alguien objete, resiste la defensa. Repite su inquietud con tus palabras, haz una pregunta para afinarla y luego responde solo a lo que quede.",
+    "Cómo dominar el arte de vender, 1980"
+   ],
+   "la": [
+    "Dubitatio petitio rationis est."
+   ]
+  },
+  "added": "2026-11-20T16:30:00Z",
+  "batch": "2026-11-20-01"
  }
 ]
