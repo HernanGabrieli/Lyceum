@@ -412,5 +412,36 @@
    "m25": "https://archive.org/details/howtomasterartof00tomh_1"
   },
   "note": "4 Valley, 3 Ancients, 3 Masters; 1 trio + 3 duos; all 10 verified"
+ },
+ {
+  "at": "2026-11-21T15:15:14Z",
+  "batch": "2026-11-21-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v83",
+   "v84",
+   "v85",
+   "v86",
+   "a80",
+   "a81",
+   "a82",
+   "m26",
+   "m27",
+   "m28"
+  ],
+  "verified": 10,
+  "sources": {
+   "v83": "https://en.wikipedia.org/wiki/The_Principles_of_Scientific_Management",
+   "v84": "https://en.wikipedia.org/wiki/Structure_follows_Strategy",
+   "v85": "https://en.wikipedia.org/wiki/Common_Sense_on_Mutual_Funds",
+   "v86": "https://stratechery.com/2015/aggregation-theory/",
+   "a80": "https://www.gutenberg.org/files/8581/8581-h/8581-h.htm",
+   "a81": "https://en.wikisource.org/wiki/Unto_This_Last_(Ruskin)",
+   "a82": "https://en.wikipedia.org/wiki/Zhuge_Liang",
+   "m26": "https://www.nightingale.com/products/the-strangest-secret",
+   "m27": "https://www.simonandschuster.com/books/How-I-Raised-Myself-From-Failure-to-Success-in-Selling/Frank-Bettger/9781439188637",
+   "m28": "https://www.behavioraleconomics.com/resources/books/pre-suasion-a-revolutionary-way-to-influence-and-persuade-robert-cialdini-2016/"
+  },
+  "note": "4 Valley, 3 Ancients, 3 Masters; 1 trio + 2 duos; all 10 verified"
  }
 ]

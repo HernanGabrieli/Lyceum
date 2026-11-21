@@ -2321,5 +2321,113 @@
    "es": "Formador de ventas y autor",
    "la": "Magister venditionis et scriptor"
   }
+ },
+ "taylor": {
+  "n": "Frederick Winslow Taylor",
+  "i": "FT",
+  "r": "Engineer and management theorist",
+  "w": "v",
+  "y": "1856-1915",
+  "names": {},
+  "roles": {
+   "it": "Ingegnere e teorico del management",
+   "es": "Ingeniero y teórico de la gestión"
+  }
+ },
+ "chandler": {
+  "n": "Alfred D. Chandler Jr.",
+  "i": "AC",
+  "r": "Business historian",
+  "w": "v",
+  "y": "1918-2007",
+  "names": {},
+  "roles": {
+   "it": "Storico d'impresa",
+   "es": "Historiador de la empresa"
+  }
+ },
+ "bogle": {
+  "n": "John C. Bogle",
+  "i": "JB",
+  "r": "Index-fund pioneer and investor",
+  "w": "v",
+  "y": "1929-2019",
+  "names": {},
+  "roles": {
+   "it": "Pioniere dei fondi indicizzati e investitore",
+   "es": "Pionero de los fondos indexados e inversor"
+  }
+ },
+ "thompson": {
+  "n": "Ben Thompson",
+  "i": "BT",
+  "r": "Technology analyst and writer",
+  "w": "v",
+  "y": "b. 1980",
+  "names": {},
+  "roles": {
+   "it": "Analista e saggista di tecnologia",
+   "es": "Analista y ensayista de tecnología"
+  }
+ },
+ "barnum": {
+  "n": "P. T. Barnum",
+  "i": "PB",
+  "r": "Showman and author",
+  "w": "a",
+  "y": "1810-1891",
+  "names": {},
+  "roles": {
+   "it": "Impresario di spettacoli e autore",
+   "es": "Empresario de espectáculos y autor"
+  }
+ },
+ "ruskin": {
+  "n": "John Ruskin",
+  "i": "JR",
+  "r": "Art critic and social thinker",
+  "w": "a",
+  "y": "1819-1900",
+  "names": {},
+  "roles": {
+   "it": "Critico d'arte e pensatore sociale",
+   "es": "Crítico de arte y pensador social"
+  }
+ },
+ "zhugeliang": {
+  "n": "Zhuge Liang",
+  "i": "ZL",
+  "r": "Statesman and strategist of Shu Han",
+  "w": "a",
+  "y": "181-234",
+  "names": {},
+  "roles": {
+   "it": "Statista e stratega di Shu Han",
+   "es": "Estadista y estratega de Shu Han"
+  }
+ },
+ "nightingale": {
+  "n": "Earl Nightingale",
+  "i": "EN",
+  "r": "Radio speaker and author on personal development",
+  "w": "m",
+  "y": "1921-1989",
+  "names": {},
+  "roles": {
+   "it": "Oratore radiofonico e autore di sviluppo personale",
+   "es": "Orador radiofónico y autor de desarrollo personal"
+  }
+ },
+ "bettger": {
+  "n": "Frank Bettger",
+  "i": "FB",
+  "r": "Insurance salesman and author",
+  "w": "m",
+  "y": "1888-1981",
+  "names": {},
+  "roles": {
+   "it": "Assicuratore e autore",
+   "es": "Vendedor de seguros y autor"
+  }
  }
 }

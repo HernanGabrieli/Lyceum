@@ -693,5 +693,45 @@
    "es": "Epicteto traza la línea entre lo que depende de nosotros y lo que no; Goleman muestra que dominar el lado interno de esa línea—nuestros impulsos y la lectura de los demás—es una destreza, no un don, y a menudo decide quién lidera.",
    "la": "Quod in nobis est regere: ars, non donum."
   }
+ },
+ {
+  "ids": [
+   "a81",
+   "v85"
+  ],
+  "th": "money",
+  "br": {
+   "en": "Ruskin and Bogle measure wealth from opposite ends. Ruskin warns that gold bought with a poorer life is no wealth at all; Bogle shows how fees quietly drain the money you do set aside. One guards what wealth is for, the other guards how much of it you keep.",
+   "it": "Ruskin e Bogle misurano la ricchezza da due estremi opposti. Ruskin avverte che l'oro comprato con una vita più povera non è affatto ricchezza; Bogle mostra come le commissioni prosciughino in silenzio il denaro che pure metti da parte. Uno difende a che cosa serve la ricchezza, l'altro quanta ne conservi.",
+   "es": "Ruskin y Bogle miden la riqueza desde extremos opuestos. Ruskin advierte que el oro comprado con una vida más pobre no es riqueza alguna; Bogle muestra cómo las comisiones drenan en silencio el dinero que sí apartas. Uno cuida para qué sirve la riqueza, el otro cuánta conservas.",
+   "la": "Quid sint divitiae, quantum serves."
+  }
+ },
+ {
+  "ids": [
+   "a82",
+   "m26"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Eighteen centuries apart, Zhuge Liang and Nightingale agree that the mind sets the range of a life. The Chinese statesman asks for stillness and detachment so the aim comes clear; the American speaker says we grow toward whatever we dwell on. Quiet the mind, choose the thought, and the life follows.",
+   "it": "A diciotto secoli di distanza, Zhuge Liang e Nightingale concordano che è la mente a fissare la portata di una vita. Lo statista cinese chiede quiete e distacco perché la meta si chiarisca; l'oratore americano dice che cresciamo verso ciò su cui indugiamo. Acquieta la mente, scegli il pensiero, e la vita segue.",
+   "es": "A dieciocho siglos de distancia, Zhuge Liang y Nightingale coinciden en que es la mente la que fija el alcance de una vida. El estadista chino pide quietud y desapego para que la meta se aclare; el orador americano dice que crecemos hacia aquello en lo que nos detenemos. Aquieta la mente, elige el pensamiento, y la vida sigue.",
+   "la": "Mens vitae modum ponit."
+  }
+ },
+ {
+  "ids": [
+   "a80",
+   "v56",
+   "m28"
+  ],
+  "th": "persuasion",
+  "br": {
+   "en": "Three ages, one law of attention. Barnum paid to be seen, Meeker charts where attention flows ahead of money, and Cialdini shows that the instant before you speak decides how the message lands. First win the mind's focus; only then does the offer get a fair hearing.",
+   "it": "Tre epoche, una sola legge dell'attenzione. Barnum pagava per farsi vedere, Meeker traccia dove l'attenzione va prima del denaro, e Cialdini mostra che l'istante prima di parlare decide come arriva il messaggio. Prima conquista il focus della mente; solo allora l'offerta ha un'udienza equa.",
+   "es": "Tres épocas, una sola ley de la atención. Barnum pagaba por hacerse ver, Meeker traza adónde va la atención antes que el dinero, y Cialdini muestra que el instante previo a hablar decide cómo aterriza el mensaje. Primero gana el foco de la mente; solo entonces la oferta recibe una audiencia justa.",
+   "la": "Tres aetates, una lex attentionis."
+  }
  }
 ]

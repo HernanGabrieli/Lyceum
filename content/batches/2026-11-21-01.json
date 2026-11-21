@@ -1,0 +1,368 @@
+[
+ {
+  "id": "v83",
+  "t": "taylor",
+  "era": "1911",
+  "src": "The Principles of Scientific Management, 1911",
+  "h": "Measure the work before you try to improve it.",
+  "b": "Taylor argued that most workplaces ran on rule of thumb, with each worker guessing at method and pace. He proposed studying a task directly, timing its parts, finding the most efficient motion, then training everyone to it, so that method became knowledge the firm owned rather than a secret in each head. Measured, work could be improved; unmeasured, it only drifted.",
+  "d": "Pick one repeated task this week. Time it once, write down the steps, and set a standard method before you ask anyone to go faster.",
+  "tg": ["building"],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/The_Principles_of_Scientific_Management",
+  "note": "Wikipedia and Project Gutenberg: monograph published 1911; time-and-motion study of work.",
+  "thinker": {
+   "n": "Frederick Winslow Taylor", "i": "FT", "r": "Engineer and management theorist", "w": "v", "y": "1856-1915",
+   "roles": {"it": "Ingegnere e teorico del management", "es": "Ingeniero y teórico de la gestión"}
+  },
+  "tr": {
+   "it": [
+    "Misura il lavoro prima di provare a migliorarlo.",
+    "Taylor sosteneva che quasi ogni luogo di lavoro procedeva a lume di naso, con ogni operaio che indovinava metodo e ritmo. Propose di studiare il compito direttamente, cronometrarne le parti, trovare il movimento più efficiente, poi addestrarvi tutti, così che il metodo diventasse sapere di proprietà dell'impresa e non un segreto in ogni testa. Misurato, il lavoro si poteva migliorare; non misurato, andava solo alla deriva.",
+    "Scegli un compito ripetuto questa settimana. Cronometralo una volta, annota i passaggi e fissa un metodo standard prima di chiedere a qualcuno di andare più veloce.",
+    "The Principles of Scientific Management, 1911"
+   ],
+   "es": [
+    "Mide el trabajo antes de intentar mejorarlo.",
+    "Taylor sostenía que casi todo lugar de trabajo funcionaba a ojo, con cada operario adivinando método y ritmo. Propuso estudiar la tarea directamente, cronometrar sus partes, hallar el movimiento más eficiente y luego entrenar a todos en él, para que el método fuera un saber propiedad de la empresa y no un secreto en cada cabeza. Medido, el trabajo podía mejorar; sin medir, solo iba a la deriva.",
+    "Elige una tarea repetida esta semana. Cronométrala una vez, anota los pasos y fija un método estándar antes de pedir a nadie que vaya más rápido.",
+    "The Principles of Scientific Management, 1911"
+   ],
+   "la": ["Metire opus antequam id emendare conaris."]
+  },
+  "added": "2026-11-21T16:30:00Z",
+  "batch": "2026-11-21-01"
+ },
+ {
+  "id": "v84",
+  "t": "chandler",
+  "era": "1962",
+  "src": "Strategy and Structure, 1962",
+  "h": "Structure follows strategy.",
+  "b": "Studying DuPont, General Motors and others, Chandler found a pattern: firms first chose a path of growth, new regions, new products, vertical integration, and only then redrew their organisation to run it. The multidivisional form did not appear by fashion; it answered the demands that a wider strategy created. When structure lags strategy, effort leaks away in confusion and duplicated work.",
+  "d": "Before your next reorganisation, write the strategy it must serve in one sentence. If no one can state it, fix the strategy first.",
+  "tg": ["strategy"],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Structure_follows_Strategy",
+  "note": "Wikipedia: Chandler, Strategy and Structure, 1962; case studies of DuPont, GM, Standard Oil, Sears.",
+  "thinker": {
+   "n": "Alfred D. Chandler Jr.", "i": "AC", "r": "Business historian", "w": "v", "y": "1918-2007",
+   "roles": {"it": "Storico d'impresa", "es": "Historiador de la empresa"}
+  },
+  "tr": {
+   "it": [
+    "La struttura segue la strategia.",
+    "Studiando DuPont, General Motors e altre, Chandler trovò uno schema: le imprese sceglievano prima una via di crescita, nuove aree, nuovi prodotti, integrazione verticale, e solo dopo ridisegnavano l'organizzazione per governarla. La forma multidivisionale non nacque per moda; rispondeva alle esigenze che una strategia più ampia aveva creato. Quando la struttura resta indietro rispetto alla strategia, lo sforzo si disperde tra confusione e lavoro duplicato.",
+    "Prima della prossima riorganizzazione, scrivi in una frase la strategia che deve servire. Se nessuno sa enunciarla, sistema prima la strategia.",
+    "Strategy and Structure, 1962"
+   ],
+   "es": [
+    "La estructura sigue a la estrategia.",
+    "Al estudiar DuPont, General Motors y otras, Chandler halló un patrón: las empresas elegían primero una vía de crecimiento, nuevas regiones, nuevos productos, integración vertical, y solo después rediseñaban su organización para gestionarla. La forma multidivisional no surgió por moda; respondía a las exigencias que una estrategia más amplia había creado. Cuando la estructura va por detrás de la estrategia, el esfuerzo se pierde en confusión y trabajo duplicado.",
+    "Antes de tu próxima reorganización, escribe en una frase la estrategia a la que debe servir. Si nadie sabe enunciarla, arregla primero la estrategia.",
+    "Strategy and Structure, 1962"
+   ],
+   "la": ["Ordinatio consilium sequitur."]
+  },
+  "added": "2026-11-21T16:30:00Z",
+  "batch": "2026-11-21-01"
+ },
+ {
+  "id": "v85",
+  "t": "bogle",
+  "era": "1999",
+  "src": "Common Sense on Mutual Funds, 1999",
+  "h": "In the long run, costs decide returns.",
+  "b": "Bogle showed that the market's return is shared among all investors, so as a group they must trail that return by exactly what they pay in fees, commissions and taxes. A fund charging two percent a year hands much of a lifetime's compounding to the manager. His remedy was plain: own the whole market through a low-cost index fund and keep what the market gives.",
+  "d": "Check the expense ratio on every fund you own. If a cheaper index fund tracks the same market, you are paying for a worse result.",
+  "tg": ["money"],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Common_Sense_on_Mutual_Funds",
+  "note": "Wikipedia and Goodreads: Bogle, 1999; costs compound against investors, low-cost index as remedy.",
+  "thinker": {
+   "n": "John C. Bogle", "i": "JB", "r": "Index-fund pioneer and investor", "w": "v", "y": "1929-2019",
+   "roles": {"it": "Pioniere dei fondi indicizzati e investitore", "es": "Pionero de los fondos indexados e inversor"}
+  },
+  "tr": {
+   "it": [
+    "Alla lunga, sono i costi a decidere i rendimenti.",
+    "Bogle mostrò che il rendimento del mercato è condiviso tra tutti gli investitori: come gruppo, quindi, restano sotto quel rendimento esattamente di quanto pagano in commissioni, spese e imposte. Un fondo che preleva il due per cento l'anno regala al gestore gran parte dell'interesse composto di una vita. Il suo rimedio era semplice: possedere l'intero mercato con un fondo indicizzato a basso costo e tenere ciò che il mercato dà.",
+    "Controlla le spese correnti di ogni fondo che possiedi. Se un fondo indicizzato più economico replica lo stesso mercato, stai pagando per un risultato peggiore.",
+    "Common Sense on Mutual Funds, 1999"
+   ],
+   "es": [
+    "A la larga, los costes deciden la rentabilidad.",
+    "Bogle demostró que el rendimiento del mercado se reparte entre todos los inversores: como grupo, por tanto, quedan por debajo de ese rendimiento exactamente en lo que pagan en comisiones, gastos e impuestos. Un fondo que cobra un dos por ciento al año entrega al gestor gran parte del interés compuesto de toda una vida. Su remedio era simple: poseer todo el mercado con un fondo indexado de bajo coste y conservar lo que el mercado da.",
+    "Revisa los gastos corrientes de cada fondo que tengas. Si un fondo indexado más barato replica el mismo mercado, estás pagando por un peor resultado.",
+    "Common Sense on Mutual Funds, 1999"
+   ],
+   "la": ["Longo cursu sumptus reditus decernunt."]
+  },
+  "added": "2026-11-21T16:30:00Z",
+  "batch": "2026-11-21-01",
+  "duo": {
+   "ids": ["a81", "v85"],
+   "th": "money",
+   "br": {
+    "en": "Ruskin and Bogle measure wealth from opposite ends. Ruskin warns that gold bought with a poorer life is no wealth at all; Bogle shows how fees quietly drain the money you do set aside. One guards what wealth is for, the other guards how much of it you keep.",
+    "it": "Ruskin e Bogle misurano la ricchezza da due estremi opposti. Ruskin avverte che l'oro comprato con una vita più povera non è affatto ricchezza; Bogle mostra come le commissioni prosciughino in silenzio il denaro che pure metti da parte. Uno difende a che cosa serve la ricchezza, l'altro quanta ne conservi.",
+    "es": "Ruskin y Bogle miden la riqueza desde extremos opuestos. Ruskin advierte que el oro comprado con una vida más pobre no es riqueza alguna; Bogle muestra cómo las comisiones drenan en silencio el dinero que sí apartas. Uno cuida para qué sirve la riqueza, el otro cuánta conservas.",
+    "la": "Quid sint divitiae, quantum serves."
+   }
+  }
+ },
+ {
+  "id": "v86",
+  "t": "thompson",
+  "era": "2015",
+  "src": "Aggregation Theory, Stratechery, 2015",
+  "h": "Own the customer relationship, and supply will follow.",
+  "b": "Thompson observed that the internet drives the cost of distribution and transactions toward zero, which breaks the old power of controlling supply. The winners instead own the demand side: they hold the direct relationship with users, and suppliers must come to them to reach that audience. Each new user improves the experience, which draws more users, a loop that quietly concentrates the market.",
+  "d": "Map where you sit in your market. If a platform owns your customers' attention, build your own direct relationship before it sets the terms.",
+  "tg": ["strategy", "power"],
+  "v": true,
+  "source_url": "https://stratechery.com/2015/aggregation-theory/",
+  "note": "Stratechery, 21 July 2015; aggregators win by owning the user relationship, not supply.",
+  "thinker": {
+   "n": "Ben Thompson", "i": "BT", "r": "Technology analyst and writer", "w": "v", "y": "b. 1980",
+   "roles": {"it": "Analista e saggista di tecnologia", "es": "Analista y ensayista de tecnología"}
+  },
+  "tr": {
+   "it": [
+    "Possiedi il rapporto col cliente e l'offerta ti seguirà.",
+    "Thompson osservò che internet spinge verso lo zero il costo di distribuzione e transazione, spezzando il vecchio potere di controllare l'offerta. I vincitori possiedono invece il lato della domanda: tengono il rapporto diretto con gli utenti, e i fornitori devono passare da loro per raggiungere quel pubblico. Ogni nuovo utente migliora l'esperienza, che attira altri utenti, un circolo che concentra il mercato in silenzio.",
+    "Mappa la tua posizione nel mercato. Se una piattaforma possiede l'attenzione dei tuoi clienti, costruisci un rapporto diretto tuo prima che sia lei a dettare le condizioni.",
+    "Aggregation Theory, Stratechery, 2015"
+   ],
+   "es": [
+    "Posee la relación con el cliente y la oferta te seguirá.",
+    "Thompson observó que internet lleva hacia cero el coste de distribución y transacción, lo que rompe el viejo poder de controlar la oferta. Los ganadores poseen en cambio el lado de la demanda: mantienen la relación directa con los usuarios, y los proveedores deben pasar por ellos para llegar a ese público. Cada nuevo usuario mejora la experiencia, que atrae a más usuarios, un bucle que concentra el mercado en silencio.",
+    "Mapea tu posición en el mercado. Si una plataforma posee la atención de tus clientes, construye tu propia relación directa antes de que ella imponga las condiciones.",
+    "Aggregation Theory, Stratechery, 2015"
+   ],
+   "la": ["Qui clientem tenet, mercatum tenet."]
+  },
+  "added": "2026-11-21T16:30:00Z",
+  "batch": "2026-11-21-01"
+ },
+ {
+  "id": "a80",
+  "t": "barnum",
+  "era": "1880",
+  "src": "The Art of Money Getting, 1880",
+  "h": "Advertise until the public knows you exist.",
+  "b": "Barnum, who had learned trade by running shows, argued that a good product sells nothing while it stays unknown. Advertising, he wrote, is the way to make the public understand what you offer; a single notice is wasted money, because attention is built only by repetition. Stop too soon and you pay for the start of a habit you never form in the customer.",
+  "d": "Pick one channel your customers actually watch, and commit to showing up there for a full quarter, long enough to be remembered, not merely seen once.",
+  "tg": ["money", "persuasion"],
+  "v": true,
+  "source_url": "https://www.gutenberg.org/files/8581/8581-h/8581-h.htm",
+  "note": "Project Gutenberg full text; The Art of Money Getting, 1880, chapter on advertising and persistence.",
+  "thinker": {
+   "n": "P. T. Barnum", "i": "PB", "r": "Showman and author", "w": "a", "y": "1810-1891",
+   "roles": {"it": "Impresario di spettacoli e autore", "es": "Empresario de espectáculos y autor"}
+  },
+  "tr": {
+   "it": [
+    "Fatti pubblicità finché il pubblico sa che esisti.",
+    "Barnum, che aveva imparato il mestiere gestendo spettacoli, sosteneva che un buon prodotto non vende nulla finché resta sconosciuto. La pubblicità, scrisse, è il modo di far capire al pubblico ciò che offri; un solo annuncio è denaro sprecato, perché l'attenzione si costruisce solo con la ripetizione. Smetti troppo presto e paghi l'inizio di un'abitudine che nel cliente non formi mai.",
+    "Scegli un canale che i tuoi clienti guardano davvero e impegnati a esserci per un trimestre intero, abbastanza da farti ricordare, non solo vedere una volta.",
+    "The Art of Money Getting, 1880"
+   ],
+   "es": [
+    "Anúnciate hasta que el público sepa que existes.",
+    "Barnum, que había aprendido el oficio dirigiendo espectáculos, sostenía que un buen producto no vende nada mientras siga siendo desconocido. La publicidad, escribió, es el modo de hacer entender al público lo que ofreces; un solo anuncio es dinero perdido, porque la atención solo se construye con la repetición. Si paras demasiado pronto, pagas el inicio de un hábito que nunca formas en el cliente.",
+    "Elige un canal que tus clientes miren de verdad y comprométete a estar allí un trimestre entero, lo bastante para que te recuerden, no solo para que te vean una vez.",
+    "The Art of Money Getting, 1880"
+   ],
+   "la": ["Praedica donec populus te esse sciat."]
+  },
+  "added": "2026-11-21T16:30:00Z",
+  "batch": "2026-11-21-01"
+ },
+ {
+  "id": "a81",
+  "t": "ruskin",
+  "era": "1862",
+  "src": "Unto This Last, 1862",
+  "h": "There is no wealth but life.",
+  "b": "Ruskin attacked the economics of his day for treating people as mere labour and money as the only measure of worth. Real riches, he argued, are life itself, health, affection, admiration, the capacity to act. A country is richest that sustains the greatest number of noble and happy people; gold that leaves lives poorer is not wealth but its costume.",
+  "d": "Before chasing a bigger number this quarter, name what it costs in health, relationships and time, and refuse the deals where the ledger of life comes out behind.",
+  "tg": ["money", "character"],
+  "v": true,
+  "source_url": "https://en.wikisource.org/wiki/Unto_This_Last_(Ruskin)",
+  "note": "Wikisource full text; the line 'THERE IS NO WEALTH BUT LIFE' is from the essay Ad Valorem, 1862.",
+  "thinker": {
+   "n": "John Ruskin", "i": "JR", "r": "Art critic and social thinker", "w": "a", "y": "1819-1900",
+   "roles": {"it": "Critico d'arte e pensatore sociale", "es": "Crítico de arte y pensador social"}
+  },
+  "tr": {
+   "it": [
+    "Non c'è altra ricchezza che la vita.",
+    "Ruskin accusava l'economia del suo tempo di trattare le persone come semplice manodopera e il denaro come unica misura del valore. La vera ricchezza, sosteneva, è la vita stessa, salute, affetto, ammirazione, la capacità di agire. È più ricco il paese che sostiene il maggior numero di persone nobili e felici; l'oro che lascia le vite più povere non è ricchezza, ma il suo costume.",
+    "Prima di inseguire un numero più grande questo trimestre, nomina quanto costa in salute, relazioni e tempo, e rifiuta gli affari in cui il bilancio della vita resta in perdita.",
+    "Unto This Last, 1862"
+   ],
+   "es": [
+    "No hay más riqueza que la vida.",
+    "Ruskin reprochaba a la economía de su tiempo tratar a las personas como mera mano de obra y al dinero como única medida del valor. La verdadera riqueza, sostenía, es la vida misma, salud, afecto, admiración, la capacidad de actuar. Es más rico el país que sostiene al mayor número de personas nobles y felices; el oro que deja vidas más pobres no es riqueza, sino su disfraz.",
+    "Antes de perseguir una cifra mayor este trimestre, nombra lo que cuesta en salud, relaciones y tiempo, y rechaza los tratos en que el balance de la vida queda en pérdida.",
+    "Unto This Last, 1862"
+   ],
+   "la": ["Nullae divitiae nisi vita."]
+  },
+  "added": "2026-11-21T16:30:00Z",
+  "batch": "2026-11-21-01"
+ },
+ {
+  "id": "a82",
+  "t": "zhugeliang",
+  "era": "234 AD",
+  "src": "Admonition to His Son (Jie Zi Shu), 234 AD",
+  "h": "Calm clears the aim; stillness carries you far.",
+  "b": "Writing to his young son near the end of his life, the Shu statesman Zhuge Liang set down a short rule for cultivating the self. Without detachment from fame and gain, he said, you cannot see your purpose clearly; without inner stillness, you cannot reach a distant goal. Hurry, noise and craving all shorten a person's range. Quiet the mind first, then aim.",
+  "d": "Before setting this year's goal, take a quiet hour with no screen. Decide what you truly want, cleared of status and gain, then commit only to that.",
+  "tg": ["focus", "character"],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Zhuge_Liang",
+  "note": "Wikipedia (Zhuge Liang), confirmed by Baidu English 'Admonitions to My Son': Jie Zi Shu, letter to his son, 234 AD; the tranquility-and-detachment couplet.",
+  "thinker": {
+   "n": "Zhuge Liang", "i": "ZL", "r": "Statesman and strategist of Shu Han", "w": "a", "y": "181-234",
+   "roles": {"it": "Statista e stratega di Shu Han", "es": "Estadista y estratega de Shu Han"}
+  },
+  "tr": {
+   "it": [
+    "La calma chiarisce la meta; la quiete ti porta lontano.",
+    "Scrivendo al figlio piccolo verso la fine della vita, lo statista di Shu Zhuge Liang fissò una breve regola per coltivare se stessi. Senza distacco da fama e guadagno, disse, non puoi vedere con chiarezza il tuo scopo; senza quiete interiore, non puoi raggiungere una meta lontana. Fretta, rumore e brama accorciano la portata di una persona. Prima acquieta la mente, poi mira.",
+    "Prima di fissare l'obiettivo dell'anno, prenditi un'ora tranquilla senza schermi. Decidi che cosa vuoi davvero, libero da status e guadagno, e impegnati solo in quello.",
+    "Admonition to His Son (Jie Zi Shu), 234 d.C."
+   ],
+   "es": [
+    "La calma aclara la meta; la quietud te lleva lejos.",
+    "Al escribir a su hijo pequeño cerca del final de su vida, el estadista de Shu Zhuge Liang dejó una breve regla para cultivarse a uno mismo. Sin desapego de la fama y la ganancia, dijo, no puedes ver con claridad tu propósito; sin quietud interior, no puedes alcanzar una meta lejana. La prisa, el ruido y el ansia acortan el alcance de una persona. Primero aquieta la mente, luego apunta.",
+    "Antes de fijar la meta del año, tómate una hora tranquila sin pantallas. Decide qué quieres de verdad, libre de estatus y ganancia, y comprométete solo con eso.",
+    "Admonición a su hijo (Jie Zi Shu), 234 d. C."
+   ],
+   "la": ["Quies mentem purgat, tranquillitas longe ducit."]
+  },
+  "added": "2026-11-21T16:30:00Z",
+  "batch": "2026-11-21-01"
+ },
+ {
+  "id": "m26",
+  "t": "nightingale",
+  "era": "1956",
+  "src": "The Strangest Secret, 1956",
+  "h": "You become what you think about.",
+  "b": "Nightingale spent years asking why a few people reach their goals while most drift, and reduced the answer to one line: we become what we think about. The mind, he argued, moves toward whatever it dwells on, so a vague or fearful focus produces a vague or fearful life. Hold a clear, positive goal in attention daily, and conduct slowly reorganises around it.",
+  "d": "Write your main goal on a card and read it each morning and night for thirty days. Notice how your choices start to bend toward it.",
+  "tg": ["character"],
+  "v": true,
+  "source_url": "https://www.nightingale.com/products/the-strangest-secret",
+  "note": "Nightingale-Conant: The Strangest Secret, recorded 1956, first spoken-word Gold Record.",
+  "thinker": {
+   "n": "Earl Nightingale", "i": "EN", "r": "Radio speaker and author on personal development", "w": "m", "y": "1921-1989",
+   "roles": {"it": "Oratore radiofonico e autore di sviluppo personale", "es": "Orador radiofónico y autor de desarrollo personal"}
+  },
+  "tr": {
+   "it": [
+    "Diventi ciò a cui pensi.",
+    "Nightingale passò anni a chiedersi perché pochi raggiungano i propri obiettivi mentre i più vanno alla deriva, e ridusse la risposta a una riga: diventiamo ciò a cui pensiamo. La mente, sosteneva, si muove verso ciò su cui indugia, perciò un'attenzione vaga o timorosa produce una vita vaga o timorosa. Tieni ogni giorno in mente un obiettivo chiaro e positivo, e la condotta si riorganizza lentamente attorno a esso.",
+    "Scrivi il tuo obiettivo principale su un biglietto e leggilo ogni mattina e sera per trenta giorni. Nota come le tue scelte iniziano a piegarsi verso di esso.",
+    "The Strangest Secret, 1956"
+   ],
+   "es": [
+    "Te conviertes en aquello en lo que piensas.",
+    "Nightingale pasó años preguntándose por qué unos pocos alcanzan sus metas mientras la mayoría va a la deriva, y redujo la respuesta a una línea: nos convertimos en aquello en lo que pensamos. La mente, sostenía, se mueve hacia aquello en lo que se detiene, así que una atención vaga o temerosa produce una vida vaga o temerosa. Mantén cada día una meta clara y positiva en la atención, y la conducta se reorganiza despacio en torno a ella.",
+    "Escribe tu meta principal en una tarjeta y léela cada mañana y cada noche durante treinta días. Observa cómo tus decisiones empiezan a inclinarse hacia ella.",
+    "The Strangest Secret, 1956"
+   ],
+   "la": ["Fis id de quo cogitas."]
+  },
+  "added": "2026-11-21T16:30:00Z",
+  "batch": "2026-11-21-01",
+  "duo": {
+   "ids": ["a82", "m26"],
+   "th": "character",
+   "br": {
+    "en": "Eighteen centuries apart, Zhuge Liang and Nightingale agree that the mind sets the range of a life. The Chinese statesman asks for stillness and detachment so the aim comes clear; the American speaker says we grow toward whatever we dwell on. Quiet the mind, choose the thought, and the life follows.",
+    "it": "A diciotto secoli di distanza, Zhuge Liang e Nightingale concordano che è la mente a fissare la portata di una vita. Lo statista cinese chiede quiete e distacco perché la meta si chiarisca; l'oratore americano dice che cresciamo verso ciò su cui indugiamo. Acquieta la mente, scegli il pensiero, e la vita segue.",
+    "es": "A dieciocho siglos de distancia, Zhuge Liang y Nightingale coinciden en que es la mente la que fija el alcance de una vida. El estadista chino pide quietud y desapego para que la meta se aclare; el orador americano dice que crecemos hacia aquello en lo que nos detenemos. Aquieta la mente, elige el pensamiento, y la vida sigue.",
+    "la": "Mens vitae modum ponit."
+   }
+  }
+ },
+ {
+  "id": "m27",
+  "t": "bettger",
+  "era": "1947",
+  "src": "How I Raised Myself from Failure to Success in Selling, 1947",
+  "h": "Enthusiasm sells before the argument does.",
+  "b": "A failed ballplayer turned insurance salesman, Bettger traced his turnaround to one change: he forced himself to act enthusiastic until he felt it. Energy, he found, is contagious; a buyer catches conviction before weighing the facts, and a flat delivery kills a good case. He paired the habit with discipline: fixed hours, honest questions and steady follow-up. Feeling follows action, not the reverse.",
+  "d": "Before your next pitch, raise your energy on purpose: stand, speak faster, mean it. Act enthusiastic for two minutes and let the feeling catch up with you.",
+  "tg": ["persuasion", "character"],
+  "v": true,
+  "source_url": "https://www.simonandschuster.com/books/How-I-Raised-Myself-From-Failure-to-Success-in-Selling/Frank-Bettger/9781439188637",
+  "note": "Simon & Schuster: Bettger, first published 1947; enthusiasm as the key to his sales turnaround.",
+  "thinker": {
+   "n": "Frank Bettger", "i": "FB", "r": "Insurance salesman and author", "w": "m", "y": "1888-1981",
+   "roles": {"it": "Assicuratore e autore", "es": "Vendedor de seguros y autor"}
+  },
+  "tr": {
+   "it": [
+    "L'entusiasmo vende prima dell'argomento.",
+    "Giocatore di baseball fallito diventato assicuratore, Bettger fece risalire la sua svolta a un solo cambiamento: si costrinse ad agire con entusiasmo finché non lo sentì davvero. L'energia, scoprì, è contagiosa; il compratore coglie la convinzione prima di pesare i fatti, e una presentazione spenta uccide una buona causa. Unì l'abitudine alla disciplina: orari fissi, domande oneste e follow-up costanti. Il sentimento segue l'azione, non il contrario.",
+    "Prima della prossima presentazione, alza l'energia di proposito: alzati, parla più in fretta, credici. Agisci con entusiasmo per due minuti e lascia che il sentimento ti raggiunga.",
+    "How I Raised Myself from Failure to Success in Selling, 1947"
+   ],
+   "es": [
+    "El entusiasmo vende antes que el argumento.",
+    "Jugador de béisbol fracasado convertido en vendedor de seguros, Bettger atribuyó su giro a un solo cambio: se obligó a actuar con entusiasmo hasta sentirlo de verdad. La energía, descubrió, es contagiosa; el comprador capta la convicción antes de sopesar los hechos, y una presentación apagada mata una buena causa. Unió el hábito a la disciplina: horarios fijos, preguntas honestas y seguimiento constante. El sentimiento sigue a la acción, no al revés.",
+    "Antes de tu próxima presentación, sube la energía a propósito: ponte de pie, habla más rápido, créetelo. Actúa con entusiasmo dos minutos y deja que el sentimiento te alcance.",
+    "How I Raised Myself from Failure to Success in Selling, 1947"
+   ],
+   "la": ["Studium ante argumentum vendit."]
+  },
+  "added": "2026-11-21T16:30:00Z",
+  "batch": "2026-11-21-01"
+ },
+ {
+  "id": "m28",
+  "t": "cialdini",
+  "era": "2016",
+  "src": "Pre-Suasion, 2016",
+  "h": "Win attention before you deliver the message.",
+  "b": "In Pre-Suasion, Cialdini shows that persuasion begins in the moment before you speak. What you draw a listener's attention to just beforehand makes that idea feel important, and colours how the message itself lands. A question, an image or a well-set scene can prime agreement before any argument is made. The frame you open with is often doing the persuading.",
+  "d": "Before your next ask, choose the one idea you want front of mind, and open with a question or story that puts it there first.",
+  "tg": ["persuasion"],
+  "v": true,
+  "source_url": "https://www.behavioraleconomics.com/resources/books/pre-suasion-a-revolutionary-way-to-influence-and-persuade-robert-cialdini-2016/",
+  "note": "BehavioralEconomics.com and publisher: Cialdini, Pre-Suasion, 2016; attention in the moment before the message.",
+  "tr": {
+   "it": [
+    "Conquista l'attenzione prima di consegnare il messaggio.",
+    "In Pre-Suasion, Cialdini mostra che la persuasione comincia nell'istante prima di parlare. Ciò su cui attiri l'attenzione di chi ascolta appena prima fa sembrare importante quell'idea e tinge il modo in cui il messaggio stesso arriva. Una domanda, un'immagine o una scena ben preparata possono predisporre al sì prima di qualsiasi argomento. La cornice con cui apri sta già persuadendo.",
+    "Prima della prossima richiesta, scegli l'unica idea che vuoi in primo piano e apri con una domanda o una storia che ce la metta per prima.",
+    "Pre-Suasion, 2016"
+   ],
+   "es": [
+    "Gana la atención antes de entregar el mensaje.",
+    "En Pre-Suasión, Cialdini muestra que la persuasión empieza en el instante previo a hablar. Aquello hacia lo que diriges la atención de quien escucha justo antes hace que esa idea parezca importante y tiñe el modo en que aterriza el propio mensaje. Una pregunta, una imagen o una escena bien dispuesta pueden predisponer al sí antes de cualquier argumento. El marco con que abres ya está persuadiendo.",
+    "Antes de tu próxima petición, elige la única idea que quieres en primer plano y abre con una pregunta o una historia que la ponga ahí primero.",
+    "Pre-Suasion (Pre-Suasión), 2016"
+   ],
+   "la": ["Ante nuntium animum cape."]
+  },
+  "added": "2026-11-21T16:30:00Z",
+  "batch": "2026-11-21-01",
+  "duo": {
+   "ids": ["a80", "v56", "m28"],
+   "th": "persuasion",
+   "br": {
+    "en": "Three ages, one law of attention. Barnum paid to be seen, Meeker charts where attention flows ahead of money, and Cialdini shows that the instant before you speak decides how the message lands. First win the mind's focus; only then does the offer get a fair hearing.",
+    "it": "Tre epoche, una sola legge dell'attenzione. Barnum pagava per farsi vedere, Meeker traccia dove l'attenzione va prima del denaro, e Cialdini mostra che l'istante prima di parlare decide come arriva il messaggio. Prima conquista il focus della mente; solo allora l'offerta ha un'udienza equa.",
+    "es": "Tres épocas, una sola ley de la atención. Barnum pagaba por hacerse ver, Meeker traza adónde va la atención antes que el dinero, y Cialdini muestra que el instante previo a hablar decide cómo aterriza el mensaje. Primero gana el foco de la mente; solo entonces la oferta recibe una audiencia justa.",
+    "la": "Tres aetates, una lex attentionis."
+   }
+  }
+ }
+]
