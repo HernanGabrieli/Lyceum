@@ -443,5 +443,36 @@
    "m28": "https://www.behavioraleconomics.com/resources/books/pre-suasion-a-revolutionary-way-to-influence-and-persuade-robert-cialdini-2016/"
   },
   "note": "4 Valley, 3 Ancients, 3 Masters; 1 trio + 2 duos; all 10 verified"
+ },
+ {
+  "at": "2026-11-22T15:14:33Z",
+  "batch": "2026-11-22-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v87",
+   "v88",
+   "v89",
+   "v90",
+   "a83",
+   "a84",
+   "a85",
+   "m29",
+   "m30",
+   "m31"
+  ],
+  "verified": 10,
+  "sources": {
+   "v87": "https://en.wikipedia.org/wiki/Winning_(book)",
+   "v88": "https://www.goodreads.com/en/book/show/10631.Sam_Walton_Made_in_America",
+   "v89": "https://www.goodreads.com/book/show/603985.Who_Says_Elephants_Can_t_Dance_Inside_IBM_s_Historic_Turnaround",
+   "v90": "https://en.wikipedia.org/wiki/The_Long_Tail_(book)",
+   "a83": "https://en.wikipedia.org/wiki/Wei_Zheng",
+   "a84": "https://www.newadvent.org/fathers/110108.htm",
+   "a85": "https://en.wikipedia.org/wiki/Gulistan_(book)",
+   "m29": "https://archive.org/details/whatgotyouherewo00mars",
+   "m30": "https://en.wikipedia.org/wiki/The_Power_of_Habit",
+   "m31": "https://www.goodreads.com/en/book/show/257788.How_to_Sell_Anything_to_Anybody"
+  },
+  "note": "4 Valley, 3 Ancients, 3 Masters; candor/habit/persuasion; trio Taizong-Welch-Goldsmith"
  }
 ]

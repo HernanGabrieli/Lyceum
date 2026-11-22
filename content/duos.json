@@ -733,5 +733,45 @@
    "es": "Tres épocas, una sola ley de la atención. Barnum pagaba por hacerse ver, Meeker traza adónde va la atención antes que el dinero, y Cialdini muestra que el instante previo a hablar decide cómo aterriza el mensaje. Primero gana el foco de la mente; solo entonces la oferta recibe una audiencia justa.",
    "la": "Tres aetates, una lex attentionis."
   }
+ },
+ {
+  "ids": [
+   "a83",
+   "v87",
+   "m29"
+  ],
+  "th": "leadership",
+  "br": {
+   "en": "Taizong rewarded the courtier who dared contradict him; Welch calls that candor the dirty secret of business; Goldsmith makes a daily habit of asking for it.",
+   "it": "Taizong premiava il cortigiano che osava contraddirlo; Welch chiama franchezza questo segreto sporco degli affari; Goldsmith ne fa un'abitudine quotidiana: chiederla.",
+   "es": "Taizong premiaba al cortesano que se atrevía a contradecirlo; Welch llama franqueza a ese secreto sucio de los negocios; Goldsmith hace un hábito diario de pedirla.",
+   "la": "Taizong reprehensionem amat, Welch candorem laudat, Goldsmith eam cotidie petit."
+  }
+ },
+ {
+  "ids": [
+   "a84",
+   "m30"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Augustine felt habit as a chain forged link by link; Duhigg names the links—cue, routine, reward—so you can unmake and rebuild them.",
+   "it": "Agostino sentiva l'abitudine come una catena forgiata anello dopo anello; Duhigg nomina gli anelli—segnale, routine, ricompensa—così puoi disfarli e ricostruirli.",
+   "es": "Agustín sentía el hábito como una cadena forjada eslabón a eslabón; Duhigg nombra los eslabones—señal, rutina, recompensa—para que puedas deshacerlos y rehacerlos.",
+   "la": "Augustinus catenam sentit; Duhigg anulos nominat: signum, actus, praemium."
+  }
+ },
+ {
+  "ids": [
+   "a85",
+   "m31"
+  ],
+  "th": "persuasion",
+  "br": {
+   "en": "Saadi weighs each word because the wrong one, badly timed, does harm; Girard weighs each word because every listener carries 250 more.",
+   "it": "Saadi pesa ogni parola perché quella sbagliata, detta a sproposito, fa danno; Girard pesa ogni parola perché ogni ascoltatore ne porta altri 250.",
+   "es": "Saadi pesa cada palabra porque la equivocada, a destiempo, hace daño; Girard pesa cada palabra porque cada oyente lleva otros 250.",
+   "la": "Saadi verbum tempori pensat; Girard verbum ducentis quinquaginta pensat."
+  }
  }
 ]

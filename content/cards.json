@@ -6598,5 +6598,348 @@
   },
   "added": "2026-11-21T16:30:00Z",
   "batch": "2026-11-21-01"
+ },
+ {
+  "id": "v87",
+  "t": "welch",
+  "era": "2005",
+  "src": "Winning, 2005",
+  "h": "Without candor, good ideas stay unspoken.",
+  "b": "Welch argues that the biggest hidden drag on business is a lack of candor: people soften opinions, dodge hard truths and withhold doubts to stay comfortable. The cost is slow decisions and wasted talent, because the best thinking never reaches the table. When leaders reward plain speaking instead of punishing it, ideas surface, debate sharpens and the organisation moves faster.",
+  "d": "In your next review, invite the one objection nobody has voiced. Ask each person for the risk they would raise if it were safe to speak.",
+  "tg": [
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Winning_(book)",
+  "note": "Winning (2005), Jack and Suzy Welch; ch. 2 'Candor'. Confirmed via Wikipedia and publisher summaries.",
+  "tr": {
+   "it": [
+    "Senza franchezza, le idee buone restano taciute.",
+    "Welch sostiene che il più grande freno nascosto delle imprese è la mancanza di franchezza: le persone ammorbidiscono le opinioni, evitano le verità scomode e trattengono i dubbi per restare comode. Il prezzo sono decisioni lente e talento sprecato, perché il pensiero migliore non arriva mai al tavolo. Quando i leader premiano chi parla chiaro invece di punirlo, le idee emergono, il dibattito si affina e l'organizzazione va più veloce.",
+    "Nella prossima riunione, invita l'obiezione che nessuno ha espresso. Chiedi a ciascuno il rischio che solleverebbe se fosse sicuro parlare.",
+    "Winning, 2005"
+   ],
+   "es": [
+    "Sin franqueza, las buenas ideas quedan sin decirse.",
+    "Welch sostiene que el mayor freno oculto de las empresas es la falta de franqueza: la gente suaviza opiniones, esquiva verdades incómodas y se guarda las dudas para estar cómoda. El costo son decisiones lentas y talento desperdiciado, porque el mejor pensamiento nunca llega a la mesa. Cuando los líderes premian hablar claro en vez de castigarlo, las ideas afloran, el debate se agudiza y la organización avanza más rápido.",
+    "En tu próxima reunión, invita la objeción que nadie ha dicho. Pide a cada uno el riesgo que plantearía si fuera seguro hablar.",
+    "Winning, 2005"
+   ],
+   "la": [
+    "Sine candore bona consilia tacent."
+   ]
+  },
+  "added": "2026-11-22T09:00:00Z",
+  "batch": "2026-11-22-01"
+ },
+ {
+  "id": "v88",
+  "t": "walton",
+  "era": "1992",
+  "src": "Made in America, 1992",
+  "h": "Every dollar saved is a gift to the customer.",
+  "b": "Walton built the largest retailer in the world on a simple loop: cut every needless cost, pass the saving to shoppers, sell more, and cut costs again. He treated thrift as a competitive weapon, not a virtue, flying coach and sharing cramped offices. Each dollar wasted inside the company, he insisted, comes straight out of the customer's pocket and hands rivals an opening.",
+  "d": "Pick one recurring expense this week and ask whether the customer would pay for it. If not, cut it and hold the price instead.",
+  "tg": [
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/en/book/show/10631.Sam_Walton_Made_in_America",
+  "note": "Sam Walton, Made in America: My Story (1992); frugality passed to the customer. Confirmed via Goodreads and multiple summaries.",
+  "tr": {
+   "it": [
+    "Ogni dollaro risparmiato è un regalo al cliente.",
+    "Walton costruì il più grande distributore del mondo su un ciclo semplice: tagliare ogni costo inutile, girare il risparmio ai clienti, vendere di più e tagliare ancora. Trattava la parsimonia come un'arma competitiva, non come una virtù, viaggiando in classe economica e condividendo uffici angusti. Ogni dollaro sprecato dentro l'azienda, insisteva, esce dritto dalla tasca del cliente e offre un varco ai rivali.",
+    "Scegli una spesa ricorrente questa settimana e chiediti se il cliente la pagherebbe. Se no, tagliala e tieni fermo il prezzo.",
+    "Made in America, 1992"
+   ],
+   "es": [
+    "Cada dólar ahorrado es un regalo para el cliente.",
+    "Walton construyó el minorista más grande del mundo sobre un ciclo simple: recortar todo gasto innecesario, trasladar el ahorro a los clientes, vender más y volver a recortar. Trataba la frugalidad como un arma competitiva, no como una virtud, viajando en turista y compartiendo oficinas estrechas. Cada dólar malgastado dentro de la empresa, insistía, sale directo del bolsillo del cliente y abre una brecha a los rivales.",
+    "Elige un gasto recurrente esta semana y pregúntate si el cliente lo pagaría. Si no, recórtalo y mantén el precio.",
+    "Made in America, 1992"
+   ],
+   "la": [
+    "Quisque nummus servatus donum est emptori."
+   ]
+  },
+  "added": "2026-11-22T09:00:00Z",
+  "batch": "2026-11-22-01"
+ },
+ {
+  "id": "v89",
+  "t": "gerstner",
+  "era": "2002",
+  "src": "Who Says Elephants Can't Dance?, 2002",
+  "h": "Culture decides whether strategy ever happens.",
+  "b": "Arriving at a near-bankrupt IBM, Gerstner expected to fix strategy and structure, then found the real obstacle was culture: entrenched habits, turf and comfort that quietly defeated every plan. He concluded that culture is not one part of the game but the game itself, because people execute what they believe, not what the memo says. Changing beliefs, not org charts, drove the turnaround.",
+  "d": "Name one behaviour your strategy needs but your culture punishes. This week, reward it publicly once and remove one rule that blocks it.",
+  "tg": [
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/book/show/603985.Who_Says_Elephants_Can_t_Dance_Inside_IBM_s_Historic_Turnaround",
+  "note": "Gerstner, Who Says Elephants Can't Dance? (2002); Part 3 on culture as the game. Confirmed via Goodreads and Forbes 2002.",
+  "tr": {
+   "it": [
+    "La cultura decide se la strategia accadrà davvero.",
+    "Arrivato in una IBM quasi fallita, Gerstner pensava di sistemare strategia e struttura, poi scoprì che l'ostacolo vero era la cultura: abitudini radicate, territori e comodità che sconfiggevano in silenzio ogni piano. Concluse che la cultura non è una parte del gioco ma il gioco stesso, perché le persone eseguono ciò in cui credono, non ciò che dice la circolare. A guidare la svolta furono le convinzioni, non gli organigrammi.",
+    "Indica un comportamento che la tua strategia richiede ma che la cultura punisce. Questa settimana premialo una volta in pubblico e togli una regola che lo blocca.",
+    "Who Says Elephants Can't Dance?, 2002"
+   ],
+   "es": [
+    "La cultura decide si la estrategia llega a ocurrir.",
+    "Al llegar a una IBM casi en quiebra, Gerstner creía que arreglaría la estrategia y la estructura, pero descubrió que el obstáculo real era la cultura: hábitos arraigados, territorios y comodidad que derrotaban en silencio cada plan. Concluyó que la cultura no es una parte del juego, sino el juego mismo, porque la gente ejecuta lo que cree, no lo que dice el memorando. Lo que impulsó el giro fueron las creencias, no los organigramas.",
+    "Nombra un comportamiento que tu estrategia necesita pero que tu cultura castiga. Esta semana prémialo una vez en público y elimina una regla que lo bloquea.",
+    "Who Says Elephants Can't Dance?, 2002"
+   ],
+   "la": [
+    "Mores, non consilium, exitum decernunt."
+   ]
+  },
+  "added": "2026-11-22T09:00:00Z",
+  "batch": "2026-11-22-01"
+ },
+ {
+  "id": "v90",
+  "t": "anderson",
+  "era": "2006",
+  "src": "The Long Tail, 2006",
+  "h": "Endless shelves move demand into the niches.",
+  "b": "Anderson observed that physical stores stock only likely hits because shelf space is scarce. Once distribution goes digital, space becomes nearly free, so the catalogue can hold millions of niche titles that each sell rarely. Added together, these obscure items can rival or beat the hits. The future of business, he argued, lies in selling less of more and serving tastes that stores once ignored.",
+  "d": "List the niche requests you turn away as too small. Pick one you can serve at near-zero marginal cost and offer it this quarter.",
+  "tg": [
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/The_Long_Tail_(book)",
+  "note": "Chris Anderson, The Long Tail (2006), expanding his 2004 Wired article. Confirmed via Wikipedia and Goodreads.",
+  "tr": {
+   "it": [
+    "Scaffali infiniti spostano la domanda verso le nicchie.",
+    "Anderson osservò che i negozi fisici tengono solo i probabili successi, perché lo spazio sugli scaffali è scarso. Quando la distribuzione diventa digitale, lo spazio è quasi gratuito, così il catalogo può contenere milioni di titoli di nicchia che vendono di rado. Sommati, questi articoli oscuri possono eguagliare o battere i successi. Il futuro degli affari, sosteneva, sta nel vendere meno di più e servire gusti che i negozi ignoravano.",
+    "Elenca le richieste di nicchia che rifiuti perché troppo piccole. Scegline una che puoi servire a costo marginale quasi nullo e offrila questo trimestre.",
+    "The Long Tail, 2006"
+   ],
+   "es": [
+    "Estantes infinitos llevan la demanda hacia los nichos.",
+    "Anderson observó que las tiendas físicas solo almacenan los probables éxitos, porque el espacio en los estantes es escaso. Cuando la distribución se vuelve digital, el espacio es casi gratis, así que el catálogo puede contener millones de títulos de nicho que se venden rara vez. Sumados, esos artículos oscuros pueden igualar o superar a los éxitos. El futuro del negocio, sostenía, está en vender menos de más y atender gustos que las tiendas ignoraban.",
+    "Enumera los pedidos de nicho que rechazas por pequeños. Elige uno que puedas atender a costo marginal casi nulo y ofrécelo este trimestre.",
+    "The Long Tail, 2006"
+   ],
+   "la": [
+    "Copia infinita emptores ad minima ducit."
+   ]
+  },
+  "added": "2026-11-22T09:00:00Z",
+  "batch": "2026-11-22-01"
+ },
+ {
+  "id": "a83",
+  "t": "taizong",
+  "era": "r. 626–649",
+  "src": "Zhenguan Zhengyao (Essentials of Government), c. 700",
+  "h": "Power stays sound only when it invites dissent.",
+  "b": "Taizong, whose reign became the model Tang golden age, deliberately kept blunt critics like Wei Zheng at court and rewarded them for contradicting him. He reasoned that a ruler sees only a narrow slice and that flatterers hide the first signs of failure. By treating remonstrance as loyalty rather than insult, he caught mistakes early; the compiled records later taught Chinese and Japanese rulers the same discipline.",
+  "d": "Appoint someone to argue against your next big decision, and thank them in front of others. Reward the objection even when you proceed anyway.",
+  "tg": [
+   "power",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Wei_Zheng",
+  "note": "Emperor Taizong's acceptance of Wei Zheng's remonstrance, compiled in Wu Jing's Zhenguan Zhengyao (c. 700). Confirmed via Wikipedia (Wei Zheng).",
+  "tr": {
+   "it": [
+    "Il potere resta sano solo se invita il dissenso.",
+    "Taizong, il cui regno divenne il modello dell'età d'oro Tang, tenne di proposito a corte critici schietti come Wei Zheng e li premiò per averlo contraddetto. Ragionava che un sovrano vede solo una porzione ristretta e che gli adulatori nascondono i primi segni del fallimento. Trattando la rimostranza come lealtà e non come offesa, colse presto gli errori; le raccolte compilate insegnarono poi la stessa disciplina a sovrani cinesi e giapponesi.",
+    "Incarica qualcuno di argomentare contro la tua prossima grande decisione e ringrazialo davanti agli altri. Premia l'obiezione anche quando procedi lo stesso.",
+    "Zhenguan Zhengyao (Essenziali di governo), c. 700"
+   ],
+   "es": [
+    "El poder se mantiene sano solo si invita al disenso.",
+    "Taizong, cuyo reinado se volvió el modelo de la edad de oro Tang, mantuvo a propósito en la corte a críticos francos como Wei Zheng y los premió por contradecirlo. Razonaba que un gobernante ve solo una porción estrecha y que los aduladores ocultan las primeras señales del fracaso. Al tratar la amonestación como lealtad y no como insulto, detectó pronto los errores; los registros compilados enseñaron después la misma disciplina a gobernantes chinos y japoneses.",
+    "Encarga a alguien que argumente en contra de tu próxima gran decisión y agradéceselo ante los demás. Premia la objeción aunque sigas adelante igual.",
+    "Zhenguan Zhengyao (Esenciales de gobierno), c. 700"
+   ],
+   "la": [
+    "Potestas sana manet dum reprehensionem invitat."
+   ]
+  },
+  "added": "2026-11-22T09:00:00Z",
+  "batch": "2026-11-22-01"
+ },
+ {
+  "id": "a84",
+  "t": "augustine",
+  "era": "c. 400",
+  "src": "Confessions, c. 397–400",
+  "h": "Habit repeated becomes a chain you forge yourself.",
+  "b": "Looking back on years he could not break free, Augustine described how a single choice, indulged, hardens into custom, and custom unresisted becomes a necessity that moves on its own. No outside force held him, he realised, only links he had forged by repetition. The insight cuts both ways: the same mechanism that traps us can, through deliberate repeated acts, build the habits we want.",
+  "d": "Name one small action you repeated today without choosing it. Tomorrow, interrupt it once on purpose, and repeat the replacement until it carries itself.",
+  "tg": [
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://www.newadvent.org/fathers/110108.htm",
+  "note": "Augustine, Confessions Book VIII.5: 'the chain of habit' from repeated will. Confirmed via New Advent (Church Fathers).",
+  "tr": {
+   "it": [
+    "L'abitudine ripetuta diventa una catena che forgi tu.",
+    "Ripensando agli anni in cui non riusciva a liberarsi, Agostino descrisse come una singola scelta, assecondata, si indurisce in consuetudine, e la consuetudine non contrastata diventa una necessità che si muove da sé. Nessuna forza esterna lo tratteneva, capì, ma solo anelli che aveva forgiato con la ripetizione. L'intuizione vale in entrambi i sensi: lo stesso meccanismo che ci intrappola può, con atti ripetuti e voluti, costruire le abitudini che desideriamo.",
+    "Indica una piccola azione che oggi hai ripetuto senza sceglierla. Domani interrompila una volta di proposito e ripeti la sostituzione finché si regge da sola.",
+    "Le Confessioni, c. 397–400"
+   ],
+   "es": [
+    "El hábito repetido se vuelve una cadena que forjas tú.",
+    "Al recordar los años en que no lograba liberarse, Agustín describió cómo una sola elección, consentida, se endurece en costumbre, y la costumbre no resistida se vuelve una necesidad que se mueve sola. Ninguna fuerza externa lo retenía, comprendió, solo eslabones que él mismo había forjado con la repetición. La idea sirve en ambos sentidos: el mismo mecanismo que nos atrapa puede, con actos repetidos y deliberados, construir los hábitos que deseamos.",
+    "Nombra una pequeña acción que hoy repetiste sin elegirla. Mañana interrúmpela una vez a propósito y repite el reemplazo hasta que se sostenga solo.",
+    "Las Confesiones, c. 397–400"
+   ],
+   "la": [
+    "Consuetudo repetita catena fit."
+   ]
+  },
+  "added": "2026-11-22T09:00:00Z",
+  "batch": "2026-11-22-01"
+ },
+ {
+  "id": "a85",
+  "t": "saadi",
+  "era": "1258",
+  "src": "Gulistan (The Rose Garden), 1258",
+  "h": "Speak at the right moment, or not at all.",
+  "b": "In the Gulistan, Saadi devotes a chapter to the benefits of silence, told through short tales of courtiers and sages. His rule is not muteness but timing: two faults betray a weak mind, staying silent when you should speak and speaking when you should be silent. Words spent carelessly cost more than they buy, while the right word, placed well, carries further than any flood of talk.",
+  "d": "Before your next meeting, decide the one point worth saying and the moment to say it. Hold everything else back and let silence do the rest.",
+  "tg": [
+   "persuasion"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Gulistan_(book)",
+  "note": "Saadi, Gulistan (1258), chapter on the merits of silence and speaking at the proper time. Confirmed via Wikipedia and archive.org translation.",
+  "tr": {
+   "it": [
+    "Parla al momento giusto, oppure non parlare affatto.",
+    "Nel Gulistan, Saadi dedica un capitolo ai pregi del silenzio, narrati con brevi racconti di cortigiani e saggi. La sua regola non è il mutismo ma il tempismo: due difetti tradiscono una mente debole, tacere quando si dovrebbe parlare e parlare quando si dovrebbe tacere. Le parole spese con leggerezza costano più di quanto rendano, mentre la parola giusta, ben collocata, arriva più lontano di qualsiasi fiume di chiacchiere.",
+    "Prima della prossima riunione, decidi l'unico punto che vale la pena dire e il momento per dirlo. Trattieni il resto e lascia fare al silenzio.",
+    "Gulistan (Il roseto), 1258"
+   ],
+   "es": [
+    "Habla en el momento justo, o no hables en absoluto.",
+    "En el Gulistan, Saadi dedica un capítulo a los beneficios del silencio, contados con breves relatos de cortesanos y sabios. Su regla no es el mutismo, sino la oportunidad: dos faltas delatan una mente débil, callar cuando se debería hablar y hablar cuando se debería callar. Las palabras gastadas sin cuidado cuestan más de lo que rinden, mientras que la palabra justa, bien puesta, llega más lejos que cualquier torrente de charla.",
+    "Antes de tu próxima reunión, decide el único punto que vale la pena decir y el momento de decirlo. Guarda el resto y deja que el silencio haga lo demás.",
+    "Gulistan (El jardín de rosas), 1258"
+   ],
+   "la": [
+    "Loquere tempore suo, aut tace."
+   ]
+  },
+  "added": "2026-11-22T09:00:00Z",
+  "batch": "2026-11-22-01"
+ },
+ {
+  "id": "m29",
+  "t": "goldsmith",
+  "era": "2007",
+  "src": "What Got You Here Won't Get You There, 2007",
+  "h": "Ask for the future, not a verdict on the past.",
+  "b": "Coaching senior executives, Goldsmith found that feedback often fails because it judges the past, which people cannot change and so defend. He proposed feedforward instead: ask a few people for concrete ideas to do better next time, listen without rebutting, and thank them. Because it points forward and threatens no one's record, people give more and resist less, and small behaviour changes actually stick.",
+  "d": "Pick one behaviour to improve. Ask four people for two future suggestions each, only listen and say thank you, then try the ideas.",
+  "tg": [
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://archive.org/details/whatgotyouherewo00mars",
+  "note": "Goldsmith, What Got You Here Won't Get You There (2007), Hyperion; the 'feedforward' technique. Confirmed via Internet Archive and LeadershipNow.",
+  "tr": {
+   "it": [
+    "Chiedi il futuro, non un verdetto sul passato.",
+    "Facendo coaching ad alti dirigenti, Goldsmith notò che il feedback spesso fallisce perché giudica il passato, che le persone non possono cambiare e quindi difendono. Propose invece il feedforward: chiedere a poche persone idee concrete per fare meglio la prossima volta, ascoltare senza ribattere e ringraziare. Poiché guarda avanti e non minaccia il curriculum di nessuno, le persone danno di più e resistono di meno, e i piccoli cambiamenti di comportamento attecchiscono davvero.",
+    "Scegli un comportamento da migliorare. Chiedi a quattro persone due suggerimenti futuri ciascuna, limitati ad ascoltare e ringraziare, poi prova le idee.",
+    "What Got You Here Won't Get You There, 2007"
+   ],
+   "es": [
+    "Pide el futuro, no un veredicto sobre el pasado.",
+    "Al asesorar a altos directivos, Goldsmith descubrió que la retroalimentación suele fracasar porque juzga el pasado, que la gente no puede cambiar y por eso defiende. Propuso en su lugar el feedforward: pedir a unas pocas personas ideas concretas para hacerlo mejor la próxima vez, escuchar sin rebatir y agradecer. Como mira hacia adelante y no amenaza el historial de nadie, la gente aporta más y se resiste menos, y los pequeños cambios de conducta sí perduran.",
+    "Elige un comportamiento que mejorar. Pide a cuatro personas dos sugerencias futuras cada una, solo escucha y da las gracias, y luego prueba las ideas.",
+    "What Got You Here Won't Get You There, 2007"
+   ],
+   "la": [
+    "Pete futura, non praeteriti iudicium."
+   ]
+  },
+  "added": "2026-11-22T09:00:00Z",
+  "batch": "2026-11-22-01"
+ },
+ {
+  "id": "m30",
+  "t": "duhigg",
+  "era": "2012",
+  "src": "The Power of Habit, 2012",
+  "h": "A habit is a loop of cue, routine and reward.",
+  "b": "Drawing on neuroscience and case studies, Duhigg shows every habit runs as a three-part loop: a cue triggers a routine that delivers a reward, until the brain automates the sequence. You rarely erase a habit, but you can keep its cue and reward while swapping the routine. Some habits are keystones: change one, like daily exercise, and a cascade of other behaviours shifts with it.",
+  "d": "Target one bad habit. Keep the cue and reward, but plan a new routine to run between them, and rehearse it until it fires automatically.",
+  "tg": [
+   "character",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/The_Power_of_Habit",
+  "note": "Duhigg, The Power of Habit (2012), Random House; the cue-routine-reward loop and keystone habits. Confirmed via Wikipedia.",
+  "tr": {
+   "it": [
+    "L'abitudine è un ciclo: segnale, routine e ricompensa.",
+    "Basandosi su neuroscienze e casi di studio, Duhigg mostra che ogni abitudine funziona come un ciclo in tre parti: un segnale innesca una routine che porta una ricompensa, finché il cervello automatizza la sequenza. Raramente si cancella un'abitudine, ma si può mantenerne segnale e ricompensa cambiando la routine. Alcune abitudini sono cardine: cambiane una, come il movimento quotidiano, e con essa si sposta una cascata di altri comportamenti.",
+    "Prendi di mira un'abitudine negativa. Mantieni segnale e ricompensa, ma pianifica una nuova routine da inserire tra loro e provala finché scatta da sola.",
+    "The Power of Habit, 2012"
+   ],
+   "es": [
+    "El hábito es un bucle: señal, rutina y recompensa.",
+    "Apoyándose en la neurociencia y en casos de estudio, Duhigg muestra que todo hábito funciona como un bucle de tres partes: una señal desata una rutina que entrega una recompensa, hasta que el cerebro automatiza la secuencia. Rara vez se borra un hábito, pero se puede conservar su señal y su recompensa cambiando la rutina. Algunos hábitos son clave: cambia uno, como el ejercicio diario, y con él se desplaza una cascada de otras conductas.",
+    "Apunta a un mal hábito. Conserva la señal y la recompensa, pero planifica una rutina nueva entre ambas y ensáyala hasta que se dispare sola.",
+    "The Power of Habit, 2012"
+   ],
+   "la": [
+    "Consuetudo orbis est: signum, actus, praemium."
+   ]
+  },
+  "added": "2026-11-22T09:00:00Z",
+  "batch": "2026-11-22-01"
+ },
+ {
+  "id": "m31",
+  "t": "girard",
+  "era": "1977",
+  "src": "How to Sell Anything to Anybody, 1977",
+  "h": "Every customer is a doorway to 250 more.",
+  "b": "Girard, listed by Guinness as the world's greatest car salesman, built his record on the Law of 250: each person knows about 250 others close enough to invite to a wedding or funeral. Please one buyer and word spreads to that network; offend one and the same crowd hears it. So he treated every sale as the start of a relationship, with relentless follow-up long after the deal.",
+  "d": "After your next sale, schedule three follow-ups over the coming months. Treat the buyer as a gateway to 250 others, and ask for one introduction.",
+  "tg": [
+   "persuasion",
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/en/book/show/257788.How_to_Sell_Anything_to_Anybody",
+  "note": "Joe Girard with Stanley H. Brown, How to Sell Anything to Anybody (1977); the Law of 250. Girard belongs to the Masters wing (sales author), not on the roster. Confirmed via Goodreads and Guinness record references.",
+  "tr": {
+   "it": [
+    "Ogni cliente è una porta verso altri 250.",
+    "Girard, indicato dal Guinness come il più grande venditore di auto al mondo, costruì il suo record sulla Legge dei 250: ogni persona conosce circa 250 altri abbastanza vicini da invitarli a un matrimonio o a un funerale. Accontenta un compratore e la voce si sparge in quella rete; offendine uno e la stessa folla lo viene a sapere. Perciò trattava ogni vendita come l'inizio di una relazione, con follow-up instancabili molto dopo l'affare.",
+    "Dopo la prossima vendita, programma tre follow-up nei mesi seguenti. Tratta il compratore come un varco verso altri 250 e chiedi una presentazione.",
+    "How to Sell Anything to Anybody, 1977"
+   ],
+   "es": [
+    "Cada cliente es una puerta hacia otros 250.",
+    "Girard, señalado por el Guinness como el mayor vendedor de autos del mundo, construyó su récord sobre la Ley de los 250: cada persona conoce a unas 250 más, lo bastante cercanas como para invitarlas a una boda o a un funeral. Complace a un comprador y la voz se extiende por esa red; ofende a uno y esa misma multitud se entera. Por eso trataba cada venta como el inicio de una relación, con seguimiento incansable mucho después del trato.",
+    "Tras tu próxima venta, programa tres seguimientos en los meses siguientes. Trata al comprador como una puerta hacia otros 250 y pide una presentación.",
+    "How to Sell Anything to Anybody, 1977"
+   ],
+   "la": [
+    "Quisque emptor ianua ad ducentos quinquaginta est."
+   ]
+  },
+  "added": "2026-11-22T09:00:00Z",
+  "batch": "2026-11-22-01"
  }
 ]

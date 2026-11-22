@@ -2429,5 +2429,143 @@
    "it": "Assicuratore e autore",
    "es": "Vendedor de seguros y autor"
   }
+ },
+ "welch": {
+  "n": "Jack Welch",
+  "i": "JW",
+  "r": "CEO of General Electric (1981–2001)",
+  "w": "v",
+  "y": "1935–2020",
+  "names": {},
+  "roles": {
+   "it": "CEO di General Electric (1981–2001)",
+   "es": "CEO de General Electric (1981–2001)",
+   "la": "Praefectus General Electric"
+  }
+ },
+ "walton": {
+  "n": "Sam Walton",
+  "i": "SW",
+  "r": "Founder, Walmart",
+  "w": "v",
+  "y": "1918–1992",
+  "names": {},
+  "roles": {
+   "it": "Fondatore, Walmart",
+   "es": "Fundador, Walmart",
+   "la": "Conditor Walmart"
+  }
+ },
+ "gerstner": {
+  "n": "Louis V. Gerstner Jr.",
+  "i": "LG",
+  "r": "Chairman and CEO of IBM (1993–2002)",
+  "w": "v",
+  "y": "b. 1942",
+  "names": {},
+  "roles": {
+   "it": "Presidente e CEO di IBM (1993–2002)",
+   "es": "Presidente y CEO de IBM (1993–2002)",
+   "la": "Praeses et praefectus IBM"
+  }
+ },
+ "anderson": {
+  "n": "Chris Anderson",
+  "i": "CA",
+  "r": "Editor-in-chief of Wired; author",
+  "w": "v",
+  "y": "b. 1961",
+  "names": {},
+  "roles": {
+   "it": "Direttore di Wired; autore",
+   "es": "Editor jefe de Wired; autor",
+   "la": "Editor principalis Wired et scriptor"
+  }
+ },
+ "taizong": {
+  "n": "Emperor Taizong of Tang",
+  "i": "TZ",
+  "r": "Second emperor of the Tang dynasty, China",
+  "w": "a",
+  "y": "598–649",
+  "names": {},
+  "roles": {
+   "it": "Secondo imperatore della dinastia Tang, Cina",
+   "es": "Segundo emperador de la dinastía Tang, China",
+   "la": "Imperator alter dynastiae Tang, Sina"
+  }
+ },
+ "augustine": {
+  "n": "Augustine of Hippo",
+  "i": "AH",
+  "r": "Theologian and bishop, Roman North Africa",
+  "w": "a",
+  "y": "354–430",
+  "names": {
+   "it": "Agostino d'Ippona",
+   "es": "Agustín de Hipona",
+   "la": "Augustinus Hipponensis"
+  },
+  "roles": {
+   "it": "Teologo e vescovo, Africa romana",
+   "es": "Teólogo y obispo, África romana",
+   "la": "Theologus et episcopus, Africa Romana"
+  }
+ },
+ "saadi": {
+  "n": "Saadi of Shiraz",
+  "i": "SA",
+  "r": "Persian poet and moralist",
+  "w": "a",
+  "y": "c. 1210–1291",
+  "names": {
+   "it": "Saadi di Shiraz",
+   "es": "Saadi de Shiraz",
+   "la": "Saadi Shirazensis"
+  },
+  "roles": {
+   "it": "Poeta e moralista persiano",
+   "es": "Poeta y moralista persa",
+   "la": "Poeta et moralista Persicus"
+  }
+ },
+ "goldsmith": {
+  "n": "Marshall Goldsmith",
+  "i": "MG",
+  "r": "Executive coach and author",
+  "w": "m",
+  "y": "b. 1949",
+  "names": {},
+  "roles": {
+   "it": "Coach di dirigenti e autore",
+   "es": "Coach de directivos y autor",
+   "la": "Praefectorum magister et scriptor"
+  }
+ },
+ "duhigg": {
+  "n": "Charles Duhigg",
+  "i": "CD",
+  "r": "Journalist and author",
+  "w": "m",
+  "y": "b. 1974",
+  "names": {},
+  "roles": {
+   "it": "Giornalista e autore",
+   "es": "Periodista y autor",
+   "la": "Diurnarius et scriptor"
+  }
+ },
+ "girard": {
+  "n": "Joe Girard",
+  "i": "JG",
+  "r": "Salesman and author",
+  "w": "m",
+  "y": "1928–2019",
+  "names": {},
+  "roles": {
+   "it": "Venditore e autore",
+   "es": "Vendedor y autor",
+   "la": "Venditor et scriptor"
+  }
  }
 }
