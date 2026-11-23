@@ -773,5 +773,45 @@
    "es": "Saadi pesa cada palabra porque la equivocada, a destiempo, hace daño; Girard pesa cada palabra porque cada oyente lleva otros 250.",
    "la": "Saadi verbum tempori pensat; Girard verbum ducentis quinquaginta pensat."
   }
+ },
+ {
+  "ids": [
+   "a86",
+   "m17",
+   "v36"
+  ],
+  "th": "focus",
+  "br": {
+   "en": "Zeng Guofan credits steady daily diligence over genius; Clear says you fall to the level of your systems; Deming blames the system, not the worker. Design the routine, and the result follows.",
+   "it": "Zeng Guofan attribuisce il merito alla diligenza quotidiana più che al genio; Clear dice che scendi al livello dei tuoi sistemi; Deming incolpa il sistema, non il lavoratore. Progetta la routine, e il risultato segue.",
+   "es": "Zeng Guofan atribuye el mérito a la diligencia diaria más que al genio; Clear dice que caes al nivel de tus sistemas; Deming culpa al sistema, no al trabajador. Diseña la rutina y el resultado sigue.",
+   "la": "Zeng diligentiam, Clear systema, Deming ordinem laudat."
+  }
+ },
+ {
+  "ids": [
+   "a87",
+   "v26"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Lucretius dissolves fear by understanding the causes of things; Musk reasons from first principles rather than inherited analogy. Both trade received dread for how things actually work.",
+   "it": "Lucrezio dissolve la paura comprendendo le cause delle cose; Musk ragiona dai primi principi anziché per analogia ereditata. Entrambi scambiano il terrore ricevuto con il reale funzionamento delle cose.",
+   "es": "Lucrecio disuelve el miedo comprendiendo las causas de las cosas; Musk razona desde los primeros principios en lugar de la analogía heredada. Ambos cambian el pavor heredado por cómo funcionan de verdad las cosas.",
+   "la": "Lucretius causas, Musk principia quaerit; uterque metum pellit."
+  }
+ },
+ {
+  "ids": [
+   "m34",
+   "a09"
+  ],
+  "th": "focus",
+  "br": {
+   "en": "Machiavelli says build the dykes in dry weather, before fortune floods; Rovira says prepare the ground so luck, when it passes, finds you ready. Fortune rewards the work done in advance.",
+   "it": "Machiavelli dice di costruire gli argini quando è secco, prima che la fortuna straripi; Rovira dice di preparare il terreno così che la sorte, quando passa, ti trovi pronto. La fortuna premia il lavoro fatto in anticipo.",
+   "es": "Maquiavelo dice que construyas los diques en tiempo seco, antes de que la fortuna desborde; Rovira dice que prepares el terreno para que la suerte, al pasar, te encuentre listo. La fortuna premia el trabajo hecho de antemano.",
+   "la": "Machiavelli aggerem, Rovira agrum parat; fortuna paratos amat."
+  }
  }
 ]

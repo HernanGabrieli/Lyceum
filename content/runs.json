@@ -474,5 +474,36 @@
    "m31": "https://www.goodreads.com/en/book/show/257788.How_to_Sell_Anything_to_Anybody"
   },
   "note": "4 Valley, 3 Ancients, 3 Masters; candor/habit/persuasion; trio Taizong-Welch-Goldsmith"
+ },
+ {
+  "at": "2026-11-23T19:10:42Z",
+  "batch": "2026-11-23-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v91",
+   "v92",
+   "v93",
+   "v94",
+   "a86",
+   "a87",
+   "a88",
+   "m32",
+   "m33",
+   "m34"
+  ],
+  "verified": 10,
+  "sources": {
+   "v91": "https://www.goodreads.com/book/show/27220736-shoe-dog",
+   "v92": "https://en.wikipedia.org/wiki/In_Search_of_Excellence",
+   "v93": "https://news.panasonic.com/global/group-magazine/articles/16094",
+   "v94": "https://www.goodreads.com/book/show/22875447-work-rules",
+   "a86": "https://en.wikipedia.org/wiki/Zeng_Guofan",
+   "a87": "https://plato.stanford.edu/entries/lucretius/",
+   "a88": "https://www.britannica.com/topic/Utopia-by-More",
+   "m32": "https://www.goodreads.com/book/show/1530625.The_Five_Major_Pieces_to_the_Life_Puzzle",
+   "m33": "https://www.goodreads.com/book/show/147746.Swim_with_the_Sharks_Without_Being_Eaten_Alive",
+   "m34": "https://books.google.com/books/about/La_buena_suerte.html?id=q-asDwAAQBAJ"
+  },
+  "note": "4 Valley, 3 Ancients, 3 Masters; attitude/selling/persuasion; trio on systems+discipline (Zeng Guofan/Clear/Deming); 10/10 verified"
  }
 ]

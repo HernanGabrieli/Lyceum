@@ -2567,5 +2567,143 @@
    "es": "Vendedor y autor",
    "la": "Venditor et scriptor"
   }
+ },
+ "knight": {
+  "n": "Phil Knight",
+  "i": "PK",
+  "r": "Co-founder of Nike",
+  "w": "v",
+  "y": "b. 1938",
+  "names": {},
+  "roles": {
+   "it": "Cofondatore di Nike",
+   "es": "Cofundador de Nike",
+   "la": "Societatis Nike conditor"
+  }
+ },
+ "peters": {
+  "n": "Tom Peters",
+  "i": "TP",
+  "r": "Management writer and consultant",
+  "w": "v",
+  "y": "b. 1942",
+  "names": {},
+  "roles": {
+   "it": "Saggista e consulente di management",
+   "es": "Escritor y consultor de gestión",
+   "la": "Scriptor de administratione"
+  }
+ },
+ "matsushita": {
+  "n": "Konosuke Matsushita",
+  "i": "KM",
+  "r": "Founder of Panasonic",
+  "w": "v",
+  "y": "1894-1989",
+  "names": {},
+  "roles": {
+   "it": "Fondatore di Panasonic",
+   "es": "Fundador de Panasonic",
+   "la": "Panasonici conditor"
+  }
+ },
+ "bock": {
+  "n": "Laszlo Bock",
+  "i": "LB",
+  "r": "Former head of People Operations at Google",
+  "w": "v",
+  "y": "b. 1972",
+  "names": {},
+  "roles": {
+   "it": "Ex responsabile del personale di Google",
+   "es": "Exresponsable de personas en Google",
+   "la": "Olim rerum humanarum praefectus apud Google"
+  }
+ },
+ "zengguofan": {
+  "n": "Zeng Guofan",
+  "i": "ZG",
+  "r": "Qing statesman and general",
+  "w": "a",
+  "y": "1811-1872",
+  "names": {},
+  "roles": {
+   "it": "Statista e generale dei Qing",
+   "es": "Estadista y general de los Qing",
+   "la": "Vir rei publicae et dux Sinarum"
+  }
+ },
+ "lucretius": {
+  "n": "Lucretius",
+  "i": "LU",
+  "r": "Roman Epicurean poet",
+  "w": "a",
+  "y": "c. 99-55 BC",
+  "names": {
+   "it": "Lucrezio",
+   "es": "Lucrecio",
+   "la": "Lucretius"
+  },
+  "roles": {
+   "it": "Poeta epicureo romano",
+   "es": "Poeta epicúreo romano",
+   "la": "Poeta Epicureus Romanus"
+  }
+ },
+ "more": {
+  "n": "Thomas More",
+  "i": "TM",
+  "r": "English humanist and statesman",
+  "w": "a",
+  "y": "1478-1535",
+  "names": {
+   "it": "Tommaso Moro",
+   "es": "Tomás Moro",
+   "la": "Thomas Morus"
+  },
+  "roles": {
+   "it": "Umanista e statista inglese",
+   "es": "Humanista y estadista inglés",
+   "la": "Humanista Anglus et vir rei publicae"
+  }
+ },
+ "rohn": {
+  "n": "Jim Rohn",
+  "i": "JR",
+  "r": "Motivational speaker and author",
+  "w": "m",
+  "y": "1930-2009",
+  "names": {},
+  "roles": {
+   "it": "Oratore motivazionale e autore",
+   "es": "Conferenciante motivacional y autor",
+   "la": "Orator et scriptor"
+  }
+ },
+ "mackay": {
+  "n": "Harvey Mackay",
+  "i": "HM",
+  "r": "Businessman and sales author",
+  "w": "m",
+  "y": "b. 1932",
+  "names": {},
+  "roles": {
+   "it": "Imprenditore e autore sulle vendite",
+   "es": "Empresario y autor sobre ventas",
+   "la": "Mercator et scriptor de vendendo"
+  }
+ },
+ "rovira": {
+  "n": "Álex Rovira",
+  "i": "AR",
+  "r": "Economist and writer",
+  "w": "m",
+  "y": "b. 1969",
+  "names": {},
+  "roles": {
+   "it": "Economista e scrittore",
+   "es": "Economista y escritor",
+   "la": "Oeconomus et scriptor"
+  }
  }
 }

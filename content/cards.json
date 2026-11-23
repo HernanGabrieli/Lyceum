@@ -6941,5 +6941,353 @@
   },
   "added": "2026-11-22T09:00:00Z",
   "batch": "2026-11-22-01"
+ },
+ {
+  "id": "v91",
+  "t": "knight",
+  "era": "2016",
+  "src": "Shoe Dog, 2016",
+  "h": "Growth devours cash.",
+  "b": "Knight's memoir of Nike's early years is a long fight with one enemy: not a rival, but cash. Every surge in orders demanded money for factories months before retailers paid, so the faster the company grew, the closer it came to collapse. Growth is not free; it must be financed. A profitable firm can still die by expanding past the cash it can raise.",
+  "d": "Before you chase a bigger order, model the cash it consumes before it pays. Secure the financing for the gap first, then grow.",
+  "tg": [
+   "money",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/book/show/27220736-shoe-dog",
+  "note": "Goodreads and supply-chain press: Knight, Shoe Dog, 2016; Nike's early years defined by cash-flow crises.",
+  "tr": {
+   "it": [
+    "La crescita divora la cassa.",
+    "Il memoir di Knight sui primi anni della Nike è una lunga lotta con un solo nemico: non un rivale, ma la cassa. Ogni impennata degli ordini richiedeva denaro per le fabbriche mesi prima che i rivenditori pagassero, così più l'azienda cresceva, più si avvicinava al collasso. La crescita non è gratuita: va finanziata. Un'impresa redditizia può comunque morire espandendosi oltre la liquidità che riesce a raccogliere.",
+    "Prima di inseguire un ordine più grande, calcola la cassa che consuma prima di generare incassi. Assicurati prima il finanziamento per coprire il divario, poi cresci.",
+    "Shoe Dog, 2016"
+   ],
+   "es": [
+    "El crecimiento devora la caja.",
+    "Las memorias de Knight sobre los primeros años de Nike son una larga pelea con un solo enemigo: no un rival, sino la caja. Cada repunte de pedidos exigía dinero para las fábricas meses antes de que pagaran los minoristas, así que cuanto más rápido crecía la empresa, más cerca estaba del colapso. El crecimiento no es gratis: hay que financiarlo. Una empresa rentable puede morir igualmente al expandirse más allá del efectivo que logra reunir.",
+    "Antes de perseguir un pedido mayor, calcula el efectivo que consume antes de cobrar. Asegura primero la financiación de ese desfase y después crece.",
+    "Shoe Dog, 2016"
+   ],
+   "la": [
+    "Incrementum pecuniam vorat."
+   ]
+  },
+  "added": "2026-11-23T09:00:00Z",
+  "batch": "2026-11-23-01"
+ },
+ {
+  "id": "v92",
+  "t": "peters",
+  "era": "1982",
+  "src": "In Search of Excellence, 1982",
+  "h": "A bias for action beats analysis.",
+  "b": "Peters and Waterman studied dozens of America's best-run companies and found a shared reflex they called a bias for action. Rather than study a problem until certainty arrived, these firms tried small things, watched what happened and adjusted. Analysis has a cost: while a committee debates, a competitor ships. Doing beats deliberating when the cheapest way to learn is to act and see.",
+  "d": "Take the decision you have been studying and find the smallest version you can test this week. Act, measure, then decide on evidence.",
+  "tg": [
+   "building",
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/In_Search_of_Excellence",
+  "note": "Wikipedia: Peters & Waterman, In Search of Excellence, 1982; 'a bias for action' is the first of eight attributes.",
+  "tr": {
+   "it": [
+    "La propensione all'azione batte l'analisi.",
+    "Peters e Waterman studiarono decine delle aziende meglio gestite d'America e trovarono un riflesso comune che chiamarono propensione all'azione. Invece di studiare un problema finché non arrivava la certezza, queste imprese provavano piccole cose, osservavano i risultati e si correggevano. L'analisi ha un costo: mentre un comitato discute, un concorrente lancia. Fare batte deliberare quando il modo più economico di imparare è agire e vedere.",
+    "Prendi la decisione che stai studiando e trova la versione più piccola che puoi testare questa settimana. Agisci, misura, poi decidi sui dati.",
+    "Alla ricerca dell'eccellenza, 1982"
+   ],
+   "es": [
+    "La inclinación a la acción vence al análisis.",
+    "Peters y Waterman estudiaron decenas de las empresas mejor gestionadas de Estados Unidos y hallaron un reflejo común que llamaron inclinación a la acción. En vez de analizar un problema hasta alcanzar la certeza, estas firmas probaban cosas pequeñas, observaban qué pasaba y ajustaban. El análisis tiene un coste: mientras un comité debate, un competidor lanza. Hacer vence a deliberar cuando la forma más barata de aprender es actuar y ver.",
+    "Toma la decisión que llevas estudiando y encuentra la versión más pequeña que puedas probar esta semana. Actúa, mide y luego decide con evidencia.",
+    "En busca de la excelencia, 1982"
+   ],
+   "la": [
+    "Agere malo quam deliberare."
+   ]
+  },
+  "added": "2026-11-23T09:00:00Z",
+  "batch": "2026-11-23-01"
+ },
+ {
+  "id": "v93",
+  "t": "matsushita",
+  "era": "1984",
+  "src": "Not for Bread Alone, 1984",
+  "h": "Make abundance as cheap as tap water.",
+  "b": "Matsushita built Panasonic on a mission he announced early and repeated for life: to produce goods so plentiful and so cheap that they would be as freely available as tap water, and poverty would recede. Profit was the proof of service, not its purpose. A business, he held, is a public trust; it earns its licence by making useful things abundant, not scarce.",
+  "d": "Ask of your product: does scale make it cheaper and more available to more people? If growth only raises the price, rethink the mission.",
+  "tg": [
+   "building",
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://news.panasonic.com/global/group-magazine/articles/16094",
+  "note": "Panasonic and biographies: Matsushita's 1932 'tap water philosophy'; his ethos set out in Not for Bread Alone, 1984.",
+  "tr": {
+   "it": [
+    "Rendi l'abbondanza economica come l'acqua del rubinetto.",
+    "Matsushita costruì la Panasonic su una missione che annunciò presto e ripeté per tutta la vita: produrre beni così abbondanti e così economici da essere disponibili come l'acqua del rubinetto, e far arretrare la povertà. Il profitto era la prova del servizio, non il suo scopo. Un'impresa, sosteneva, è un bene pubblico: si guadagna la licenza rendendo abbondanti, non scarse, le cose utili.",
+    "Chiediti del tuo prodotto: la scala lo rende più economico e accessibile a più persone? Se la crescita alza solo il prezzo, ripensa la missione.",
+    "Not for Bread Alone, 1984"
+   ],
+   "es": [
+    "Haz la abundancia tan barata como el agua del grifo.",
+    "Matsushita construyó Panasonic sobre una misión que anunció pronto y repitió toda su vida: producir bienes tan abundantes y tan baratos que estuvieran disponibles como el agua del grifo, y hacer retroceder la pobreza. El beneficio era la prueba del servicio, no su propósito. Una empresa, sostenía, es un bien público: se gana su licencia haciendo abundantes, no escasas, las cosas útiles.",
+    "Pregúntate sobre tu producto: ¿la escala lo hace más barato y accesible para más gente? Si crecer solo sube el precio, replantea la misión.",
+    "Not for Bread Alone, 1984"
+   ],
+   "la": [
+    "Copiam praebe velut aquam."
+   ]
+  },
+  "added": "2026-11-23T09:00:00Z",
+  "batch": "2026-11-23-01"
+ },
+ {
+  "id": "v94",
+  "t": "bock",
+  "era": "2015",
+  "src": "Work Rules!, 2015",
+  "h": "Spend your effort on hiring, not fixing.",
+  "b": "Bock ran people operations at Google and reached a blunt conclusion: the hiring decision dominates every later one. Google invests far more than most firms in choosing who joins, because a great hire needs little managing while a poor one absorbs training, supervision and eventual replacement. Effort spent getting the choice right is cheaper than years spent repairing it. Hire slowly; the decision compounds.",
+  "d": "Move time from managing underperformance to the front of the funnel: add an interview stage or reference check before your next offer goes out.",
+  "tg": [
+   "leadership",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/book/show/22875447-work-rules",
+  "note": "Goodreads and Wikipedia: Bock, Work Rules!, 2015; hiring as the single most important people activity at Google.",
+  "tr": {
+   "it": [
+    "Investi l'impegno nell'assunzione, non nel rimediare.",
+    "Bock dirigeva le risorse umane di Google e giunse a una conclusione netta: la decisione di assunzione domina tutte quelle successive. Google investe nella scelta di chi entra molto più della maggior parte delle aziende, perché un'ottima assunzione richiede poca gestione, mentre una scadente assorbe formazione, supervisione e infine sostituzione. L'impegno speso per scegliere bene costa meno degli anni spesi a rimediare. Assumi con calma: la decisione si capitalizza.",
+    "Sposta tempo dalla gestione dei risultati scarsi all'inizio del processo: aggiungi una fase di colloquio o un controllo delle referenze prima della prossima offerta.",
+    "Work Rules!, 2015"
+   ],
+   "es": [
+    "Dedica el esfuerzo a contratar, no a corregir.",
+    "Bock dirigía el área de personas de Google y llegó a una conclusión tajante: la decisión de contratación domina todas las posteriores. Google invierte en elegir a quién entra mucho más que la mayoría de las empresas, porque una gran contratación apenas necesita gestión, mientras que una mala absorbe formación, supervisión y, al final, sustitución. El esfuerzo en acertar cuesta menos que los años en reparar. Contrata despacio: la decisión se capitaliza.",
+    "Traslada tiempo de gestionar el bajo desempeño al inicio del embudo: añade una fase de entrevista o una verificación de referencias antes de tu próxima oferta.",
+    "Work Rules!, 2015"
+   ],
+   "la": [
+    "Lente lege; electio manet."
+   ]
+  },
+  "added": "2026-11-23T09:00:00Z",
+  "batch": "2026-11-23-01"
+ },
+ {
+  "id": "a86",
+  "t": "zengguofan",
+  "era": "c. 1860",
+  "src": "Family Letters, c. 1860",
+  "h": "Great work is built by daily diligence.",
+  "b": "Zeng Guofan rose from provincial scholar to the general who held a crumbling dynasty together, and his letters home credit no genius, only method. Choose one discipline, he urged, and return to it every day; progress comes from perseverance and thorough understanding, not bursts of effort. He distrusted the clever shortcut and the brilliant campaign. Steady, unglamorous diligence, repeated, is what finally moves the great thing.",
+  "d": "Pick the one skill that matters most this quarter and give it a fixed hour every day. Keep the appointment even when progress feels invisible.",
+  "tg": [
+   "character",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Zeng_Guofan",
+  "note": "Wikipedia and Confucian scholarship: Zeng Guofan's family letters, c. 1850-1870; diligence, perseverance and self-cultivation.",
+  "tr": {
+   "it": [
+    "Le grandi opere si costruiscono con la diligenza quotidiana.",
+    "Zeng Guofan passò da studioso di provincia al generale che tenne insieme una dinastia in sgretolamento, e le sue lettere a casa non accreditano alcun genio, solo metodo. Scegli una sola disciplina, esortava, e tornaci ogni giorno; il progresso nasce dalla perseveranza e dalla comprensione profonda, non da slanci di energia. Diffidava della scorciatoia astuta e della campagna brillante. La diligenza costante e senza gloria, ripetuta, è ciò che alla fine muove la grande impresa.",
+    "Scegli l'unica competenza che conta di più questo trimestre e dedicale un'ora fissa ogni giorno. Mantieni l'appuntamento anche quando i progressi sembrano invisibili.",
+    "Lettere alla famiglia, c. 1860"
+   ],
+   "es": [
+    "Las grandes obras se construyen con diligencia diaria.",
+    "Zeng Guofan pasó de erudito de provincias al general que mantuvo unida a una dinastía que se desmoronaba, y sus cartas a casa no atribuyen nada al genio, solo al método. Elige una sola disciplina, exhortaba, y vuelve a ella cada día; el progreso nace de la perseverancia y la comprensión profunda, no de arranques de esfuerzo. Desconfiaba del atajo ingenioso y de la campaña brillante. La diligencia constante y sin gloria, repetida, es lo que al final mueve la gran empresa.",
+    "Elige la única habilidad que más importa este trimestre y dale una hora fija cada día. Mantén la cita aunque el avance parezca invisible.",
+    "Cartas a la familia, c. 1860"
+   ],
+   "la": [
+    "Magna cotidiana diligentia surgunt."
+   ]
+  },
+  "added": "2026-11-23T09:00:00Z",
+  "batch": "2026-11-23-01"
+ },
+ {
+  "id": "a87",
+  "t": "lucretius",
+  "era": "c. 55 BC",
+  "src": "De rerum natura, c. 55 BC",
+  "h": "Understanding dissolves fear.",
+  "b": "Lucretius wrote his poem on the nature of things to cure a sickness he saw everywhere: dread of the gods and of death. Both fears, he argued, grow in the dark of ignorance. When you see how the world actually works, its causes, its matter, its limits, the terrors that ignorance invents lose their grip. Knowledge is not cold; it is the thing that calms. Study the cause, and the fear recedes.",
+  "d": "Name the fear that is slowing a decision, then list what you actually know about its causes and odds. Replace dread with the facts you can check.",
+  "tg": [
+   "character",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://plato.stanford.edu/entries/lucretius/",
+  "note": "Stanford Encyclopedia of Philosophy: Lucretius, De rerum natura; the therapeutic aim of freeing the mind from fear through understanding.",
+  "tr": {
+   "it": [
+    "La comprensione dissolve la paura.",
+    "Lucrezio scrisse il suo poema sulla natura delle cose per curare un male che vedeva ovunque: il terrore degli dèi e della morte. Entrambe le paure, sosteneva, crescono nel buio dell'ignoranza. Quando vedi come funziona davvero il mondo, le sue cause, la sua materia, i suoi limiti, i terrori che l'ignoranza inventa perdono la presa. La conoscenza non è fredda: è ciò che calma. Studia la causa, e la paura arretra.",
+    "Dai un nome alla paura che rallenta una decisione, poi elenca ciò che sai davvero sulle sue cause e probabilità. Sostituisci il terrore con i fatti che puoi verificare.",
+    "De rerum natura, c. 55 a.C."
+   ],
+   "es": [
+    "La comprensión disuelve el miedo.",
+    "Lucrecio escribió su poema sobre la naturaleza de las cosas para curar un mal que veía por todas partes: el temor a los dioses y a la muerte. Ambos miedos, sostenía, crecen en la oscuridad de la ignorancia. Cuando ves cómo funciona de verdad el mundo, sus causas, su materia, sus límites, los terrores que inventa la ignorancia pierden su dominio. El conocimiento no es frío: es lo que calma. Estudia la causa, y el miedo retrocede.",
+    "Pon nombre al miedo que frena una decisión y luego enumera lo que realmente sabes de sus causas y probabilidades. Sustituye el pavor por los hechos que puedes comprobar.",
+    "De rerum natura, c. 55 a. C."
+   ],
+   "la": [
+    "Scientia metum solvit."
+   ]
+  },
+  "added": "2026-11-23T09:00:00Z",
+  "batch": "2026-11-23-01"
+ },
+ {
+  "id": "a88",
+  "t": "more",
+  "era": "1516",
+  "src": "Utopia, 1516",
+  "h": "Pride, not scarcity, blocks the common good.",
+  "b": "In Utopia More traces society's ills past their obvious causes to a deeper one: pride. Pride, he wrote, measures its own success not by what it has but by how far it outstrips others, so it needs inequality to feel satisfied. Private property feeds this appetite, letting a few hoard while many want. A commonwealth fails less from lack of goods than from the vanity that refuses to share them.",
+  "d": "Audit a contested decision for status-seeking: is someone defending a position to avoid being outranked rather than to serve the goal? Name it, and the choice clears.",
+  "tg": [
+   "power",
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://www.britannica.com/topic/Utopia-by-More",
+  "note": "Britannica and More scholarship: Utopia, 1516; pride and private property named as roots of social ills.",
+  "tr": {
+   "it": [
+    "L'orgoglio, non la scarsità, ostacola il bene comune.",
+    "In Utopia More fa risalire i mali della società oltre le cause evidenti fino a una più profonda: l'orgoglio. L'orgoglio, scrisse, misura il proprio successo non da ciò che possiede ma da quanto supera gli altri, perciò ha bisogno della disuguaglianza per sentirsi appagato. La proprietà privata alimenta questo appetito, lasciando che pochi accumulino mentre molti mancano. Una comunità fallisce meno per mancanza di beni che per la vanità che si rifiuta di condividerli.",
+    "Esamina una decisione contesa in cerca di status: qualcuno difende una posizione per non essere scavalcato invece che per servire l'obiettivo? Dagli un nome, e la scelta si chiarisce.",
+    "Utopia, 1516"
+   ],
+   "es": [
+    "El orgullo, no la escasez, bloquea el bien común.",
+    "En Utopía, More rastrea los males de la sociedad más allá de sus causas evidentes hasta una más profunda: el orgullo. El orgullo, escribió, mide su éxito no por lo que tiene sino por cuánto supera a los demás, así que necesita la desigualdad para sentirse satisfecho. La propiedad privada alimenta este apetito, dejando que unos pocos acaparen mientras muchos carecen. Una comunidad fracasa menos por falta de bienes que por la vanidad que se niega a compartirlos.",
+    "Revisa una decisión disputada en busca de afán de estatus: ¿alguien defiende una postura para no quedar por debajo en vez de servir al objetivo? Nómbralo y la elección se aclara.",
+    "Utopía, 1516"
+   ],
+   "la": [
+    "Superbia, non inopia, bonum commune impedit."
+   ]
+  },
+  "added": "2026-11-23T09:00:00Z",
+  "batch": "2026-11-23-01"
+ },
+ {
+  "id": "m32",
+  "t": "rohn",
+  "era": "1991",
+  "src": "The Five Major Pieces to the Life Puzzle, 1991",
+  "h": "Work harder on yourself than on your job.",
+  "b": "Rohn built his philosophy on a line his mentor gave him when he was broke: work harder on yourself than you do on your job. A job pays for what you can already do; the person you become determines what you will be worth. Skills, discipline and judgment are assets you can grow on purpose. Income rarely outruns self-development for long, so invest first in the self that earns it.",
+  "d": "Block an hour a day for deliberate self-development, a skill, a book, a habit, and protect it like a client meeting. Compound it for a year.",
+  "tg": [
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/book/show/1530625.The_Five_Major_Pieces_to_the_Life_Puzzle",
+  "note": "Goodreads: Rohn, The Five Major Pieces to the Life Puzzle, 1991; the maxim came from his mentor Earl Shoaff and became central to his teaching.",
+  "tr": {
+   "it": [
+    "Lavora più su te stesso che sul tuo lavoro.",
+    "Rohn costruì la sua filosofia su una frase che il suo mentore gli diede quando era al verde: lavora più su te stesso di quanto lavori sul tuo impiego. Un impiego paga ciò che già sai fare; la persona che diventi determina quanto varrai. Competenze, disciplina e giudizio sono beni che puoi coltivare di proposito. Il reddito raramente supera a lungo la crescita personale, perciò investi prima nel sé che lo guadagna.",
+    "Blocca un'ora al giorno per uno sviluppo personale deliberato, una competenza, un libro, un'abitudine, e proteggila come una riunione con un cliente. Capitalizzala per un anno.",
+    "The Five Major Pieces to the Life Puzzle, 1991"
+   ],
+   "es": [
+    "Trabaja más en ti mismo que en tu empleo.",
+    "Rohn construyó su filosofía sobre una frase que le dio su mentor cuando estaba sin dinero: trabaja más en ti mismo de lo que trabajas en tu empleo. Un empleo paga por lo que ya sabes hacer; la persona en que te conviertes determina cuánto valdrás. Habilidades, disciplina y juicio son activos que puedes cultivar a propósito. El ingreso rara vez adelanta por mucho al desarrollo personal, así que invierte primero en el yo que lo gana.",
+    "Reserva una hora al día para un desarrollo personal deliberado, una habilidad, un libro, un hábito, y protégela como una reunión con un cliente. Capitalízala durante un año.",
+    "The Five Major Pieces to the Life Puzzle, 1991"
+   ],
+   "la": [
+    "In te ipsum plus quam in opus labora."
+   ]
+  },
+  "added": "2026-11-23T09:00:00Z",
+  "batch": "2026-11-23-01"
+ },
+ {
+  "id": "m33",
+  "t": "mackay",
+  "era": "1988",
+  "src": "Swim with the Sharks Without Being Eaten Alive, 1988",
+  "h": "Know the customer as a person, not a sale.",
+  "b": "Mackay sold envelopes in a commodity market and won by knowing his buyers better than rivals did. His sales team filled out a profile of sixty-six facts about each important customer, family, interests, goals, the things no transaction requires but every relationship uses. The information turned an adversary into a colleague and a sale into a friendship. People buy from those who clearly know, and care about, who they are.",
+  "d": "Before your next important meeting, write down ten things about the other person that have nothing to do with the deal. Then verify them in conversation.",
+  "tg": [
+   "persuasion",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/book/show/147746.Swim_with_the_Sharks_Without_Being_Eaten_Alive",
+  "note": "Goodreads and Wikipedia: Mackay, Swim with the Sharks, 1988; the 'Mackay 66' customer profile of sixty-six facts.",
+  "tr": {
+   "it": [
+    "Conosci il cliente come persona, non come vendita.",
+    "Mackay vendeva buste in un mercato di commodity e vinceva conoscendo i suoi acquirenti meglio dei concorrenti. Il suo team di vendita compilava un profilo di sessantasei dati su ogni cliente importante, famiglia, interessi, obiettivi, le cose che nessuna transazione richiede ma ogni relazione usa. L'informazione trasformava un avversario in un collega e una vendita in un'amicizia. La gente compra da chi chiaramente sa, e a cui importa, chi sono.",
+    "Prima del prossimo incontro importante, annota dieci cose sull'altra persona che non c'entrano con l'affare. Poi verificale nella conversazione.",
+    "Swim with the Sharks Without Being Eaten Alive, 1988"
+   ],
+   "es": [
+    "Conoce al cliente como persona, no como venta.",
+    "Mackay vendía sobres en un mercado de commodities y ganaba conociendo a sus compradores mejor que los rivales. Su equipo de ventas completaba un perfil de sesenta y seis datos sobre cada cliente importante, familia, intereses, metas, las cosas que ninguna transacción exige pero toda relación usa. La información convertía a un adversario en colega y una venta en amistad. La gente compra de quien claramente sabe, y a quien le importa, quiénes son.",
+    "Antes de tu próxima reunión importante, anota diez cosas sobre la otra persona que no tengan nada que ver con el trato. Luego verifícalas en la conversación.",
+    "Swim with the Sharks Without Being Eaten Alive, 1988"
+   ],
+   "la": [
+    "Nosce hominem, non emptionem."
+   ]
+  },
+  "added": "2026-11-23T09:00:00Z",
+  "batch": "2026-11-23-01"
+ },
+ {
+  "id": "m34",
+  "t": "rovira",
+  "era": "2004",
+  "src": "Good Luck (La buena suerte), 2004",
+  "h": "Luck is the fruit of prepared ground.",
+  "b": "Rovira and Trías de Bes wrote a fable to make one point: good luck is not found, it is made. Chance passes everyone, but it only becomes fortune for those who have prepared the ground so opportunity, when it arrives, finds conditions ready to use it. Waiting for luck is passive and rare; creating the circumstances that attract it is a discipline. Prepare first; opportunity finds the ready.",
+  "d": "List the conditions that would let a lucky break pay off in your work, then build one of them this month before any opportunity appears.",
+  "tg": [
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://books.google.com/books/about/La_buena_suerte.html?id=q-asDwAAQBAJ",
+  "note": "Publisher (Planeta) and Google Books: Rovira & Trías de Bes, La buena suerte, 2004; good luck created by preparing the conditions.",
+  "tr": {
+   "it": [
+    "La fortuna è il frutto di un terreno preparato.",
+    "Rovira e Trías de Bes scrissero una favola per affermare un solo punto: la buona sorte non si trova, si crea. Il caso passa accanto a tutti, ma diventa fortuna solo per chi ha preparato il terreno, così che l'occasione, quando arriva, trovi condizioni pronte a sfruttarla. Aspettare la fortuna è passivo e raro; creare le circostanze che la attraggono è una disciplina. Prepara prima: l'occasione trova chi è pronto.",
+    "Elenca le condizioni che permetterebbero a un colpo di fortuna di fruttare nel tuo lavoro, poi costruiscine una questo mese, prima che appaia qualsiasi occasione.",
+    "La buena suerte, 2004"
+   ],
+   "es": [
+    "La suerte es el fruto de un terreno preparado.",
+    "Rovira y Trías de Bes escribieron una fábula para afirmar un solo punto: la buena suerte no se encuentra, se crea. El azar pasa junto a todos, pero solo se vuelve fortuna para quien ha preparado el terreno, de modo que la oportunidad, cuando llega, encuentre condiciones listas para aprovecharla. Esperar la suerte es pasivo y raro; crear las circunstancias que la atraen es una disciplina. Prepara primero: la oportunidad encuentra a quien está listo.",
+    "Enumera las condiciones que permitirían que un golpe de suerte diera fruto en tu trabajo y construye una de ellas este mes, antes de que aparezca ninguna oportunidad.",
+    "La buena suerte, 2004"
+   ],
+   "la": [
+    "Fortuna paratos invenit."
+   ]
+  },
+  "added": "2026-11-23T09:00:00Z",
+  "batch": "2026-11-23-01"
  }
 ]
