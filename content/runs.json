@@ -505,5 +505,36 @@
    "m34": "https://books.google.com/books/about/La_buena_suerte.html?id=q-asDwAAQBAJ"
   },
   "note": "4 Valley, 3 Ancients, 3 Masters; attitude/selling/persuasion; trio on systems+discipline (Zeng Guofan/Clear/Deming); 10/10 verified"
+ },
+ {
+  "at": "2026-11-24T18:54:54Z",
+  "batch": "2026-11-24-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v95",
+   "v96",
+   "v97",
+   "v98",
+   "a89",
+   "a90",
+   "a91",
+   "m35",
+   "m36",
+   "m37"
+  ],
+  "verified": 10,
+  "sources": {
+   "v95": "https://en.wikipedia.org/wiki/Double-loop_learning",
+   "v96": "https://www.goodreads.com/en/book/show/498886.Grinding_It_Out",
+   "v97": "https://en.wikipedia.org/wiki/Losing_My_Virginity",
+   "v98": "https://ikeamuseum.com/en/explore/the-story-of-ikea/the-testament-of-a-furniture-dealer/",
+   "a89": "https://en.wikipedia.org/wiki/Summary_of_the_Art_of_War",
+   "a90": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+   "a91": "https://fr.wikisource.org/wiki/%C5%92uvres_de_Vauvenargues/Texte_entier",
+   "m35": "https://www.simonandschuster.com/books/Awaken-the-Giant-Within/Tony-Robbins/9780743568456",
+   "m36": "https://www.goodreads.com/en/book/show/26270465-fanatical-prospecting",
+   "m37": "https://www.goodreads.com/book/show/50815803-the-catalyst"
+  },
+  "note": "4 Valley, 3 Ancients, 3 Masters; 1 trio + 3 cross-wing duos; 10/10 verified"
  }
 ]

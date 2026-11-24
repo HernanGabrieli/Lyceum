@@ -2705,5 +2705,137 @@
    "es": "Economista y escritor",
    "la": "Oeconomus et scriptor"
   }
+ },
+ "argyris": {
+  "n": "Chris Argyris",
+  "i": "CA",
+  "r": "Organizational theorist",
+  "w": "v",
+  "y": "1923-2013",
+  "names": {},
+  "roles": {
+   "it": "Teorico delle organizzazioni",
+   "es": "Teórico de las organizaciones",
+   "la": "Peritus administrationis"
+  }
+ },
+ "kroc": {
+  "n": "Ray Kroc",
+  "i": "RK",
+  "r": "Builder of McDonald's",
+  "w": "v",
+  "y": "1902-1984",
+  "names": {},
+  "roles": {
+   "it": "Costruttore di McDonald's",
+   "es": "Constructor de McDonald's",
+   "la": "McDonald's aedificator"
+  }
+ },
+ "branson": {
+  "n": "Richard Branson",
+  "i": "RB",
+  "r": "Founder of the Virgin Group",
+  "w": "v",
+  "y": "b. 1950",
+  "names": {},
+  "roles": {
+   "it": "Fondatore del Virgin Group",
+   "es": "Fundador de Virgin Group",
+   "la": "Gregis Virgin conditor"
+  }
+ },
+ "kamprad": {
+  "n": "Ingvar Kamprad",
+  "i": "IK",
+  "r": "Founder of IKEA",
+  "w": "v",
+  "y": "1926-2018",
+  "names": {},
+  "roles": {
+   "it": "Fondatore di IKEA",
+   "es": "Fundador de IKEA",
+   "la": "IKEA conditor"
+  }
+ },
+ "jomini": {
+  "n": "Antoine-Henri Jomini",
+  "i": "AJ",
+  "r": "Military strategist and theorist",
+  "w": "a",
+  "y": "1779-1869",
+  "names": {},
+  "roles": {
+   "it": "Stratega e teorico militare",
+   "es": "Estratega y teórico militar",
+   "la": "Rei militaris scriptor"
+  }
+ },
+ "darwin": {
+  "n": "Charles Darwin",
+  "i": "CD",
+  "r": "Naturalist",
+  "w": "a",
+  "y": "1809-1882",
+  "names": {
+   "la": "Carolus Darwin"
+  },
+  "roles": {
+   "it": "Naturalista",
+   "es": "Naturalista",
+   "la": "Rerum naturae investigator"
+  }
+ },
+ "vauvenargues": {
+  "n": "Vauvenargues",
+  "i": "VA",
+  "r": "French moralist",
+  "w": "a",
+  "y": "1715-1747",
+  "names": {},
+  "roles": {
+   "it": "Moralista francese",
+   "es": "Moralista francés",
+   "la": "Moralista Gallicus"
+  }
+ },
+ "robbins": {
+  "n": "Tony Robbins",
+  "i": "TR",
+  "r": "Peak-performance coach and author",
+  "w": "m",
+  "y": "b. 1960",
+  "names": {},
+  "roles": {
+   "it": "Coach di crescita personale e autore",
+   "es": "Coach de desarrollo personal y autor",
+   "la": "Vitae magister et scriptor"
+  }
+ },
+ "blount": {
+  "n": "Jeb Blount",
+  "i": "JB",
+  "r": "Sales trainer and author",
+  "w": "m",
+  "y": "b. 1967",
+  "names": {},
+  "roles": {
+   "it": "Formatore di vendite e autore",
+   "es": "Formador de ventas y autor",
+   "la": "Magister vendendi et scriptor"
+  }
+ },
+ "berger": {
+  "n": "Jonah Berger",
+  "i": "JB",
+  "r": "Marketing professor and author",
+  "w": "m",
+  "y": "b. 1980",
+  "names": {},
+  "roles": {
+   "it": "Docente di marketing e autore",
+   "es": "Profesor de marketing y autor",
+   "la": "Professor mercaturae et scriptor"
+  }
  }
 }

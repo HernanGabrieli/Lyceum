@@ -813,5 +813,58 @@
    "es": "Maquiavelo dice que construyas los diques en tiempo seco, antes de que la fortuna desborde; Rovira dice que prepares el terreno para que la suerte, al pasar, te encuentre listo. La fortuna premia el trabajo hecho de antemano.",
    "la": "Machiavelli aggerem, Rovira agrum parat; fortuna paratos amat."
   }
+ },
+ {
+  "ids": [
+   "v95",
+   "a90",
+   "m11"
+  ],
+  "th": "focus",
+  "br": {
+   "en": "Argyris corrects the assumption behind the error, not just the act; Darwin lets variation and selection keep what fits and discard what does not; Dweck holds that ability itself grows when effort meets honest feedback. In each, improvement comes from revising the model, not repeating it.",
+   "it": "Argyris corregge l'ipotesi dietro l'errore, non solo l'atto; Darwin lascia che variazione e selezione mantengano ciò che si adatta e scartino il resto; Dweck ritiene che la stessa capacità cresca quando lo sforzo incontra un riscontro onesto. In ognuno, il miglioramento nasce dal rivedere il modello, non dal ripeterlo.",
+   "es": "Argyris corrige el supuesto tras el error, no solo el acto; Darwin deja que la variación y la selección conserven lo que encaja y descarten lo demás; Dweck sostiene que la propia capacidad crece cuando el esfuerzo encuentra una respuesta honesta. En cada uno, la mejora nace de revisar el modelo, no de repetirlo.",
+   "la": "Exemplar muta, ne errorem itera."
+  }
+ },
+ {
+  "ids": [
+   "a89",
+   "v05"
+  ],
+  "th": "strategy",
+  "br": {
+   "en": "Jomini wins by massing force at the decisive point instead of spreading it thin along the front; Thiel wins by dominating one small market before expanding instead of competing everywhere. Both refuse the even, divided effort and concentrate until they are overwhelming.",
+   "it": "Jomini vince concentrando la forza nel punto decisivo invece di diluirla lungo il fronte; Thiel vince dominando un piccolo mercato prima di espandersi invece di competere ovunque. Entrambi rifiutano lo sforzo uniforme e diviso e si concentrano finché non sono schiaccianti.",
+   "es": "Jomini vence concentrando la fuerza en el punto decisivo en vez de diluirla por el frente; Thiel vence dominando un pequeño mercado antes de expandirse en vez de competir en todas partes. Ambos rechazan el esfuerzo uniforme y dividido y se concentran hasta ser abrumadores.",
+   "la": "Vim conge; noli ubique pugnare."
+  }
+ },
+ {
+  "ids": [
+   "a91",
+   "m35"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Vauvenargues held that great thoughts and deeds spring from the heart, from conviction, not cold wit; Robbins holds that it is decisions, not conditions, that shape a life. Both locate the source of action inside, in what you commit to, rather than in circumstance.",
+   "it": "Vauvenargues riteneva che i grandi pensieri e le grandi azioni nascano dal cuore, dalla convinzione, non dallo spirito freddo; Robbins ritiene che siano le decisioni, non le circostanze, a plasmare una vita. Entrambi collocano la fonte dell'azione dentro, in ciò a cui ti impegni, più che nelle circostanze.",
+   "es": "Vauvenargues sostenía que los grandes pensamientos y actos brotan del corazón, de la convicción, no del ingenio frío; Robbins sostiene que son las decisiones, no las circunstancias, las que dan forma a una vida. Ambos sitúan la fuente de la acción dentro, en aquello a lo que te comprometes, más que en las circunstancias.",
+   "la": "Cor et consilium, non sors, agunt."
+  }
+ },
+ {
+  "ids": [
+   "m37",
+   "a65"
+  ],
+  "th": "persuasion",
+  "br": {
+   "en": "Demosthenes moved a comfortable crowd by rousing it to act; Berger moves people by removing the barriers that keep them from acting. One pushes with fire, the other clears the road, and both aim at the same end: a mind that finally shifts.",
+   "it": "Demostene smuoveva una folla comoda spronandola ad agire; Berger smuove le persone rimuovendo le barriere che impediscono loro di agire. Uno spinge col fuoco, l'altro sgombra la strada, ed entrambi mirano allo stesso fine: una mente che finalmente si muove.",
+   "es": "Demóstenes movía a una multitud cómoda incitándola a actuar; Berger mueve a las personas retirando las barreras que les impiden actuar. Uno empuja con fuego, el otro despeja el camino, y ambos buscan lo mismo: una mente que por fin se mueve.",
+   "la": "Demosthenes incitat, Berger impedimenta tollit."
+  }
  }
 ]

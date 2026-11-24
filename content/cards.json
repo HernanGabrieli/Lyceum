@@ -7289,5 +7289,352 @@
   },
   "added": "2026-11-23T09:00:00Z",
   "batch": "2026-11-23-01"
+ },
+ {
+  "id": "v95",
+  "t": "argyris",
+  "era": "1977",
+  "src": "Double Loop Learning in Organizations, Harvard Business Review, 1977",
+  "h": "When results disappoint, question the assumptions, not just the actions.",
+  "b": "Argyris distinguished two kinds of correction. Single-loop learning adjusts behaviour to hit an existing target: push harder, patch the error, try again. Double-loop learning goes deeper and asks whether the target, the policy or the assumption behind it was right at all. Organisations default to the first because the second feels threatening. Yet only questioning the governing variables stops the same failure returning in a new disguise.",
+  "d": "After the next missed result, before fixing the action, write down the assumption it rested on and test whether that belief, not the effort, is what failed.",
+  "tg": [
+   "leadership",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Double-loop_learning",
+  "note": "Wikipedia and HBR store: Argyris, 'Double Loop Learning in Organizations,' Harvard Business Review 55 (1977), pp. 115-125; single- versus double-loop learning.",
+  "tr": {
+   "it": [
+    "Quando i risultati deludono, metti in discussione le ipotesi, non solo le azioni.",
+    "Argyris distinse due tipi di correzione. L'apprendimento a ciclo singolo aggiusta il comportamento per centrare un obiettivo già dato: spingere di più, rattoppare l'errore, riprovare. L'apprendimento a doppio ciclo va più a fondo e chiede se l'obiettivo, la politica o l'ipotesi che vi sta dietro fossero giusti. Le organizzazioni scelgono per default il primo perché il secondo minaccia. Ma solo mettere in discussione le variabili di fondo impedisce allo stesso fallimento di tornare sotto nuova veste.",
+    "Dopo il prossimo risultato mancato, prima di correggere l'azione, scrivi l'ipotesi su cui poggiava e verifica se è quella convinzione, non lo sforzo, ad aver fallito.",
+    "Double Loop Learning in Organizations, Harvard Business Review, 1977"
+   ],
+   "es": [
+    "Cuando los resultados decepcionan, cuestiona los supuestos, no solo las acciones.",
+    "Argyris distinguió dos tipos de corrección. El aprendizaje de bucle simple ajusta la conducta para alcanzar un objetivo ya fijado: esforzarse más, parchear el error, reintentar. El aprendizaje de bucle doble va más hondo y pregunta si el objetivo, la política o el supuesto que lo sostiene eran acertados. Las organizaciones optan por defecto por el primero porque el segundo amenaza. Pero solo cuestionar las variables de fondo evita que el mismo fracaso vuelva con otro disfraz.",
+    "Tras el próximo resultado fallido, antes de corregir la acción, anota el supuesto en que se apoyaba y comprueba si es esa creencia, no el esfuerzo, lo que falló.",
+    "Double Loop Learning in Organizations, Harvard Business Review, 1977"
+   ],
+   "la": [
+    "Rationem, non actum solum, interroga."
+   ]
+  },
+  "added": "2026-11-24T09:00:00Z",
+  "batch": "2026-11-24-01"
+ },
+ {
+  "id": "v96",
+  "t": "kroc",
+  "era": "1977",
+  "src": "Grinding It Out, 1977",
+  "h": "A franchise's real product is a standard that repeats everywhere.",
+  "b": "Kroc's memoir credits McDonald's scale less to the hamburger than to an obsession he summed up as QSC: quality, service and cleanliness, identical in every restaurant. A customer in one town had to meet exactly what he met in another. Kroc enforced the system without exception, since a chain is only as strong as its weakest outlet. Consistency, not novelty, turned a local stand into a global one.",
+  "d": "Define the three things a customer must experience identically every visit, write them as a checklist, and audit your worst location against it this month.",
+  "tg": [
+   "building",
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/en/book/show/498886.Grinding_It_Out",
+  "note": "Goodreads and book summaries: Kroc, Grinding It Out, 1977; the QSC (quality, service, cleanliness) standard and relentless consistency across franchises.",
+  "tr": {
+   "it": [
+    "Il vero prodotto di un franchising è uno standard che si ripete ovunque.",
+    "Il memoir di Kroc attribuisce la scala di McDonald's meno all'hamburger che a un'ossessione riassunta nella sigla QSC: qualità, servizio e pulizia, identici in ogni ristorante. Un cliente in una città doveva trovare esattamente ciò che trovava in un'altra. Kroc imponeva il sistema senza eccezioni, perché una catena vale quanto il suo punto vendita più debole. La costanza, non la novità, trasformò un chiosco locale in uno globale.",
+    "Definisci le tre cose che un cliente deve vivere identiche a ogni visita, scrivile come una checklist e verifica il tuo punto vendita peggiore questo mese.",
+    "Grinding It Out, 1977"
+   ],
+   "es": [
+    "El verdadero producto de una franquicia es un estándar que se repite en todas partes.",
+    "Las memorias de Kroc atribuyen la escala de McDonald's menos a la hamburguesa que a una obsesión resumida en las siglas QSC: calidad, servicio y limpieza, idénticos en cada restaurante. Un cliente en una ciudad debía encontrar exactamente lo mismo que en otra. Kroc imponía el sistema sin excepción, porque una cadena vale lo que su local más débil. La constancia, no la novedad, convirtió un puesto local en uno global.",
+    "Define las tres cosas que un cliente debe vivir idénticas en cada visita, escríbelas como una lista de control y audita tu peor local este mes.",
+    "Grinding It Out, 1977"
+   ],
+   "la": [
+    "Idem ubique: norma firma crescit."
+   ]
+  },
+  "added": "2026-11-24T09:00:00Z",
+  "batch": "2026-11-24-01"
+ },
+ {
+  "id": "v97",
+  "t": "branson",
+  "era": "1998",
+  "src": "Losing My Virginity, 1998",
+  "h": "Take the bold bet, but cap the downside first.",
+  "b": "Branson's autobiography reads as a string of audacious ventures, yet beneath the showmanship runs a rule he states plainly: if you are a risk-taker, the art is to protect the downside. Before launching an airline he secured the right to hand the planes back, so a failure would wound but not kill. Boldness and prudence are not opposites; the entrepreneur dares precisely because the worst case has been made survivable.",
+  "d": "Before your next bold commitment, define the worst realistic outcome and negotiate an exit, cap or return clause that keeps it survivable. Then move fast.",
+  "tg": [
+   "risk",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Losing_My_Virginity",
+  "note": "Wikipedia and the book: Branson, Losing My Virginity, 1998; the stated rule to 'protect the downside,' such as the return clause on the first airline's planes.",
+  "tr": {
+   "it": [
+    "Fai la scommessa audace, ma prima limita le perdite.",
+    "L'autobiografia di Branson è una sequenza di imprese audaci, ma sotto lo spettacolo corre una regola che enuncia senza giri: se ami il rischio, l'arte sta nel proteggere il lato peggiore. Prima di lanciare una compagnia aerea si assicurò il diritto di restituire gli aerei, così un fallimento avrebbe ferito senza uccidere. Audacia e prudenza non sono opposte: l'imprenditore osa proprio perché ha reso sopravvivibile lo scenario peggiore.",
+    "Prima del prossimo impegno audace, definisci il peggior esito realistico e negozia un'uscita, un tetto o una clausola di restituzione che lo renda sopravvivibile. Poi muoviti in fretta.",
+    "Losing My Virginity, 1998"
+   ],
+   "es": [
+    "Haz la apuesta audaz, pero limita primero las pérdidas.",
+    "La autobiografía de Branson es una sucesión de empresas audaces, pero bajo el espectáculo corre una regla que enuncia sin rodeos: si eres amante del riesgo, el arte está en proteger el lado peor. Antes de lanzar una aerolínea se aseguró el derecho a devolver los aviones, de modo que un fracaso heriría sin matar. Audacia y prudencia no se oponen: el emprendedor se atreve precisamente porque ha hecho sobrevivible el peor escenario.",
+    "Antes de tu próximo compromiso audaz, define el peor desenlace realista y negocia una salida, un tope o una cláusula de devolución que lo haga sobrevivible. Luego muévete rápido.",
+    "Losing My Virginity, 1998"
+   ],
+   "la": [
+    "Aude, sed casum pessimum munito."
+   ]
+  },
+  "added": "2026-11-24T09:00:00Z",
+  "batch": "2026-11-24-01"
+ },
+ {
+  "id": "v98",
+  "t": "kamprad",
+  "era": "1976",
+  "src": "The Testament of a Furniture Dealer, 1976",
+  "h": "Fear of mistakes breeds the bureaucracy that stalls progress.",
+  "b": "Kamprad distilled IKEA's culture into a short testament handed to new employees for decades. Its sharpest claim links two things most firms keep apart: the fear of error and the spread of bureaucracy. When people dread being wrong, he argued, they retreat into analyses, committees and endless meetings, and decisions stall. Simplicity, humility and the freedom to make honest mistakes are what keep a large company fast.",
+  "d": "Give your team explicit permission to make one reversible mistake this week without penalty, then remove an approval step that exists only to prevent error.",
+  "tg": [
+   "character",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://ikeamuseum.com/en/explore/the-story-of-ikea/the-testament-of-a-furniture-dealer/",
+  "note": "IKEA Museum and the published testament: Kamprad, The Testament of a Furniture Dealer, 1976; 'the fear of making mistakes is the root of bureaucracy,' and simplicity as a virtue.",
+  "tr": {
+   "it": [
+    "La paura di sbagliare alimenta la burocrazia che blocca il progresso.",
+    "Kamprad condensò la cultura di IKEA in un breve testamento consegnato per decenni ai nuovi dipendenti. La sua affermazione più tagliente lega due cose che molte aziende tengono separate: la paura dell'errore e il dilagare della burocrazia. Quando si teme di sbagliare, sosteneva, ci si rifugia in analisi, comitati e riunioni infinite, e le decisioni si bloccano. Semplicità, umiltà e libertà di commettere errori onesti sono ciò che tiene veloce una grande impresa.",
+    "Dai al tuo team il permesso esplicito di commettere un errore reversibile questa settimana senza penalità, poi elimina un passaggio di approvazione che esiste solo per prevenire l'errore.",
+    "The Testament of a Furniture Dealer, 1976"
+   ],
+   "es": [
+    "El miedo a equivocarse alimenta la burocracia que frena el progreso.",
+    "Kamprad condensó la cultura de IKEA en un breve testamento entregado durante décadas a los nuevos empleados. Su afirmación más afilada une dos cosas que muchas empresas mantienen separadas: el miedo al error y la expansión de la burocracia. Cuando se teme equivocarse, sostenía, uno se refugia en análisis, comités y reuniones interminables, y las decisiones se paralizan. Sencillez, humildad y libertad para cometer errores honestos son lo que mantiene ágil a una gran empresa.",
+    "Da a tu equipo permiso explícito para cometer un error reversible esta semana sin penalización, y luego elimina un paso de aprobación que solo existe para prevenir el error.",
+    "The Testament of a Furniture Dealer, 1976"
+   ],
+   "la": [
+    "Timor erroris cunctationem parit."
+   ]
+  },
+  "added": "2026-11-24T09:00:00Z",
+  "batch": "2026-11-24-01"
+ },
+ {
+  "id": "a89",
+  "t": "jomini",
+  "era": "1838",
+  "src": "The Art of War (Precis de l'art de la guerre), 1838",
+  "h": "Mass your strength at the decisive point.",
+  "b": "Jomini studied Napoleon's campaigns and reduced them to one governing idea: at the moment that matters, throw the bulk of your force against the decisive point, the place where a win unhinges the enemy's whole position. Spreading effort evenly across a front guarantees weakness everywhere. Superiority is local: it is made by choosing where to concentrate, and arriving there faster than the opponent can react.",
+  "d": "Identify the one objective whose capture would collapse the rest of the problem, then move most of your people and budget there and deliberately thin the other fronts.",
+  "tg": [
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Summary_of_the_Art_of_War",
+  "note": "Wikipedia (Summary of the Art of War) and Project Gutenberg: Jomini, Precis de l'art de la guerre, 1838; the principle of massing force at the decisive point.",
+  "tr": {
+   "it": [
+    "Concentra la forza nel punto decisivo.",
+    "Jomini studiò le campagne di Napoleone e le ridusse a un'unica idea guida: nel momento che conta, getta il grosso delle tue forze sul punto decisivo, il luogo dove una vittoria scardina l'intera posizione nemica. Distribuire lo sforzo uniformemente su un fronte garantisce debolezza ovunque. La superiorità è locale: si crea scegliendo dove concentrarsi e arrivandoci più in fretta di quanto l'avversario possa reagire.",
+    "Individua l'unico obiettivo la cui conquista farebbe crollare il resto del problema, poi sposta lì la maggior parte di persone e budget e assottiglia di proposito gli altri fronti.",
+    "Precis de l'art de la guerre, 1838"
+   ],
+   "es": [
+    "Concentra la fuerza en el punto decisivo.",
+    "Jomini estudió las campañas de Napoleón y las redujo a una sola idea rectora: en el momento que importa, lanza el grueso de tus fuerzas sobre el punto decisivo, el lugar donde una victoria desarticula toda la posición enemiga. Repartir el esfuerzo de manera uniforme por un frente garantiza debilidad en todas partes. La superioridad es local: se crea eligiendo dónde concentrarse y llegando antes de que el adversario pueda reaccionar.",
+    "Identifica el único objetivo cuya conquista haría caer el resto del problema, luego lleva allí a la mayoría de tu gente y presupuesto y adelgaza a propósito los demás frentes.",
+    "Precis de l'art de la guerre, 1838"
+   ],
+   "la": [
+    "Vim in puncto decretorio congere."
+   ]
+  },
+  "added": "2026-11-24T09:00:00Z",
+  "batch": "2026-11-24-01"
+ },
+ {
+  "id": "a90",
+  "t": "darwin",
+  "era": "1859",
+  "src": "On the Origin of Species, 1859",
+  "h": "Variation and selection, over time, reshape what endures.",
+  "b": "Darwin's argument rests on three plain facts: individuals vary, some variations are inherited, and more are born than can survive. From these follows natural selection, the variants that fit current conditions leave more offspring, so over generations the population shifts. No foresight guides it, only the steady filtering of what works. What endures is not the strongest but simply what kept fitting as conditions changed.",
+  "d": "Treat your strategy as a population, not a single bet: run several small variants at once, retire the ones the market rejects, and scale the few that fit.",
+  "tg": [
+   "strategy",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+  "note": "Wikipedia and Darwin Online: Darwin, On the Origin of Species, 1859; natural selection from variation, inheritance and the struggle for existence.",
+  "tr": {
+   "it": [
+    "Variazione e selezione, nel tempo, rimodellano ciò che dura.",
+    "L'argomento di Darwin poggia su tre fatti semplici: gli individui variano, alcune variazioni sono ereditate e ne nascono più di quanti possano sopravvivere. Ne segue la selezione naturale: le varianti adatte alle condizioni presenti lasciano più discendenti, così nel corso delle generazioni la popolazione si sposta. Nessuna preveggenza la guida, solo il costante filtrare di ciò che funziona. A durare non è il più forte, ma ciò che ha continuato ad adattarsi al mutare delle condizioni.",
+    "Tratta la tua strategia come una popolazione, non come una singola scommessa: fai girare insieme più piccole varianti, ritira quelle che il mercato rifiuta e fai crescere le poche che si adattano.",
+    "L'origine delle specie, 1859"
+   ],
+   "es": [
+    "La variación y la selección, con el tiempo, remodelan lo que perdura.",
+    "El argumento de Darwin se apoya en tres hechos sencillos: los individuos varían, algunas variaciones se heredan y nacen más de los que pueden sobrevivir. De ahí se sigue la selección natural: las variantes que encajan con las condiciones actuales dejan más descendientes, de modo que a lo largo de las generaciones la población se desplaza. Ninguna previsión la guía, solo el filtrado constante de lo que funciona. Lo que perdura no es lo más fuerte, sino lo que siguió encajando al cambiar las condiciones.",
+    "Trata tu estrategia como una población, no como una sola apuesta: haz correr a la vez varias pequeñas variantes, retira las que el mercado rechaza y escala las pocas que encajan.",
+    "El origen de las especies, 1859"
+   ],
+   "la": [
+    "Quod aptum est, superest."
+   ]
+  },
+  "added": "2026-11-24T09:00:00Z",
+  "batch": "2026-11-24-01"
+ },
+ {
+  "id": "a91",
+  "t": "vauvenargues",
+  "era": "1746",
+  "src": "Reflexions et maximes, 1746",
+  "h": "Great thoughts come from the heart.",
+  "b": "Against an age that prized cool wit, Vauvenargues insisted that the greatest thoughts are born in the heart, not only the intellect. Courage, generosity and conviction, he held, give reason its force and move people to act; cleverness without feeling stays sterile. His maxims defend magnanimity and energy of soul as the engine behind every worthy achievement.",
+  "d": "Before presenting a plan, name plainly what you genuinely care about in it and say that first; conviction, not logic alone, is what moves a room to act.",
+  "tg": [
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://fr.wikisource.org/wiki/%C5%92uvres_de_Vauvenargues/Texte_entier",
+  "note": "Wikisource (Oeuvres de Vauvenargues) and quotation catalogues: Reflexions et maximes, 1746; maxim 127, 'Les grandes pensees viennent du coeur.'",
+  "tr": {
+   "it": [
+    "I grandi pensieri vengono dal cuore.",
+    "Contro un'epoca che esaltava lo spirito freddo, Vauvenargues insisteva che i pensieri più grandi nascono nel cuore, non solo nell'intelletto. Coraggio, generosità e convinzione, sosteneva, danno forza alla ragione e spingono le persone ad agire; l'astuzia senza sentimento resta sterile. Le sue massime difendono la magnanimità e l'energia dell'animo come motore dietro ogni impresa degna.",
+    "Prima di presentare un piano, di' con chiarezza che cosa ti sta davvero a cuore in esso e dillo per primo; è la convinzione, non la sola logica, a smuovere una sala.",
+    "Reflexions et maximes, 1746"
+   ],
+   "es": [
+    "Los grandes pensamientos vienen del corazón.",
+    "Frente a una época que ensalzaba el ingenio frío, Vauvenargues insistía en que los pensamientos más grandes nacen en el corazón, no solo en el intelecto. El coraje, la generosidad y la convicción, sostenía, dan fuerza a la razón y mueven a las personas a actuar; la astucia sin sentimiento queda estéril. Sus máximas defienden la magnanimidad y la energía del alma como motor detrás de toda empresa digna.",
+    "Antes de presentar un plan, di con claridad qué te importa de verdad en él y dilo primero; es la convicción, no solo la lógica, lo que mueve a una sala a actuar.",
+    "Reflexions et maximes, 1746"
+   ],
+   "la": [
+    "Magnae cogitationes a corde veniunt."
+   ]
+  },
+  "added": "2026-11-24T09:00:00Z",
+  "batch": "2026-11-24-01"
+ },
+ {
+  "id": "m35",
+  "t": "robbins",
+  "era": "1991",
+  "src": "Awaken the Giant Within, 1991",
+  "h": "It is decisions, not conditions, that shape a life.",
+  "b": "Robbins opens his book with a claim he repeats throughout: your destiny is set not by your circumstances but by the decisions you make about them. Most people, he argues, never truly decide; they drift, preferring outcomes without committing to them. A real decision cuts off retreat and sets focus, meaning and action. Conditions constrain, but within them the deciding mind, not the situation, determines what happens next.",
+  "d": "Take one area where you have been drifting, make a genuine decision today with a deadline and a first action, and close off the option of not choosing.",
+  "tg": [
+   "character",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://www.simonandschuster.com/books/Awaken-the-Giant-Within/Tony-Robbins/9780743568456",
+  "note": "Simon & Schuster and book summaries: Robbins, Awaken the Giant Within, 1991; 'it is in your moments of decision that your destiny is shaped,' decisions over conditions.",
+  "tr": {
+   "it": [
+    "Sono le decisioni, non le circostanze, a plasmare una vita.",
+    "Robbins apre il libro con una tesi che ripete ovunque: il tuo destino non è fissato dalle circostanze ma dalle decisioni che prendi su di esse. La maggior parte delle persone, sostiene, non decide mai davvero; va alla deriva, preferendo esiti senza impegnarsi. Una decisione vera taglia la ritirata e fissa attenzione, significato e azione. Le condizioni vincolano, ma al loro interno è la mente che decide, non la situazione, a determinare ciò che accade dopo.",
+    "Prendi un ambito in cui sei andato alla deriva, prendi oggi una decisione vera con una scadenza e una prima azione, e chiudi l'opzione di non scegliere.",
+    "Awaken the Giant Within, 1991"
+   ],
+   "es": [
+    "Son las decisiones, no las circunstancias, las que dan forma a una vida.",
+    "Robbins abre el libro con una tesis que repite a lo largo de él: tu destino no lo fijan las circunstancias sino las decisiones que tomas sobre ellas. La mayoría de la gente, sostiene, nunca decide de verdad; se deja llevar, prefiriendo resultados sin comprometerse. Una decisión real corta la retirada y fija foco, significado y acción. Las condiciones limitan, pero dentro de ellas es la mente que decide, no la situación, la que determina lo que viene después.",
+    "Toma un ámbito en el que te hayas dejado llevar, toma hoy una decisión real con un plazo y una primera acción, y cierra la opción de no elegir.",
+    "Awaken the Giant Within, 1991"
+   ],
+   "la": [
+    "Consilia, non sortem, vitam fingunt."
+   ]
+  },
+  "added": "2026-11-24T09:00:00Z",
+  "batch": "2026-11-24-01"
+ },
+ {
+  "id": "m36",
+  "t": "blount",
+  "era": "2015",
+  "src": "Fanatical Prospecting, 2015",
+  "h": "An empty pipeline, not a weak pitch, is what sinks a seller.",
+  "b": "Blount's blunt thesis is that most sales failures trace to too few prospects, not to poor closing. The cure is unglamorous: prospect every day, by phone, email and in person, as a non-negotiable habit. He frames it with a thirty-day rule, the outreach you do now pays off about ninety days later, so a skipped week quietly becomes a dry quarter. Fill the pipe before you need it.",
+  "d": "Block a fixed prospecting hour every working day this month and protect it like a client meeting; count new contacts made, not hours spent feeling busy.",
+  "tg": [
+   "building",
+   "persuasion"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/en/book/show/26270465-fanatical-prospecting",
+  "note": "Goodreads (Wiley, 2015) and book summaries: Blount, Fanatical Prospecting, 2015; the 30-Day Rule and prospecting as a daily discipline.",
+  "tr": {
+   "it": [
+    "È una pipeline vuota, non un discorso debole, ad affondare un venditore.",
+    "La tesi netta di Blount è che la maggior parte dei fallimenti di vendita nasce da troppi pochi potenziali clienti, non da chiusure deboli. La cura è poco glamour: fare prospezione ogni giorno, per telefono, email e di persona, come abitudine non negoziabile. La inquadra con una regola dei trenta giorni: i contatti che fai ora rendono circa novanta giorni dopo, così una settimana saltata diventa in sordina un trimestre arido. Riempi la pipeline prima di averne bisogno.",
+    "Blocca ogni giorno lavorativo di questo mese un'ora fissa di prospezione e proteggila come una riunione con un cliente; conta i nuovi contatti, non le ore di finta attività.",
+    "Fanatical Prospecting, 2015"
+   ],
+   "es": [
+    "Es un embudo vacío, no un mal discurso, lo que hunde a un vendedor.",
+    "La tesis tajante de Blount es que la mayoría de los fracasos de ventas nacen de tener muy pocos prospectos, no de cerrar mal. La cura es poco glamorosa: prospectar cada día, por teléfono, correo y en persona, como hábito no negociable. La enmarca con una regla de treinta días: los contactos que haces ahora rinden unos noventa días después, así que una semana saltada se vuelve, sin ruido, un trimestre seco. Llena el embudo antes de necesitarlo.",
+    "Reserva cada día laborable de este mes una hora fija de prospección y protégela como una reunión con un cliente; cuenta los nuevos contactos, no las horas de falsa ocupación.",
+    "Fanatical Prospecting, 2015"
+   ],
+   "la": [
+    "Vacua fistula, non verba, mercatorem mergit."
+   ]
+  },
+  "added": "2026-11-24T09:00:00Z",
+  "batch": "2026-11-24-01"
+ },
+ {
+  "id": "m37",
+  "t": "berger",
+  "era": "2020",
+  "src": "The Catalyst: How to Change Anyone's Mind, 2020",
+  "h": "To change a mind, remove the barriers rather than push harder.",
+  "b": "Berger argues that persuasion usually fails because we add force, more facts, more pressure, which only triggers resistance. A catalyst does the opposite: it finds and removes the obstacles that keep someone from changing, reactance, distrust, the cost of switching, uncertainty. Lowering those barriers lets people talk themselves into the change you wanted. Ask not how to push harder, but what is stopping them, and clear it.",
+  "d": "Before your next attempt to convince someone, list the specific barriers holding them back and remove one of them, instead of adding another argument.",
+  "tg": [
+   "persuasion"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/book/show/50815803-the-catalyst",
+  "note": "Goodreads (Simon & Schuster, 2020) and Wharton Executive Education: Berger, The Catalyst, 2020; change minds by reducing barriers and friction, not by pushing harder.",
+  "tr": {
+   "it": [
+    "Per cambiare un'idea, rimuovi gli ostacoli invece di spingere di più.",
+    "Berger sostiene che la persuasione di solito fallisce perché aggiungiamo forza, più dati, più pressione, il che scatena resistenza. Un catalizzatore fa l'opposto: trova e rimuove gli ostacoli che impediscono a qualcuno di cambiare, reattanza, sfiducia, il costo del cambiamento, l'incertezza. Abbassare quelle barriere permette alle persone di convincersi da sole del cambiamento che volevi. Non chiederti come spingere di più, ma che cosa le trattiene, e rimuovilo.",
+    "Prima del prossimo tentativo di convincere qualcuno, elenca gli ostacoli concreti che lo frenano e rimuovine uno, invece di aggiungere un altro argomento.",
+    "The Catalyst: How to Change Anyone's Mind, 2020"
+   ],
+   "es": [
+    "Para cambiar una mente, retira las barreras en vez de empujar más.",
+    "Berger sostiene que la persuasión suele fracasar porque añadimos fuerza, más datos, más presión, lo que dispara resistencia. Un catalizador hace lo contrario: encuentra y retira los obstáculos que impiden que alguien cambie, reactancia, desconfianza, el coste de cambiar, la incertidumbre. Bajar esas barreras deja que las personas se convenzan solas del cambio que buscabas. No te preguntes cómo empujar más, sino qué las detiene, y despéjalo.",
+    "Antes de tu próximo intento de convencer a alguien, enumera las barreras concretas que lo frenan y retira una de ellas, en vez de añadir otro argumento.",
+    "The Catalyst: How to Change Anyone's Mind, 2020"
+   ],
+   "la": [
+    "Ad mutandam mentem, tolle impedimenta."
+   ]
+  },
+  "added": "2026-11-24T09:00:00Z",
+  "batch": "2026-11-24-01"
  }
 ]
