@@ -2837,5 +2837,135 @@
    "es": "Profesor de marketing y autor",
    "la": "Professor mercaturae et scriptor"
   }
+ },
+ "schultz": {
+  "n": "Howard Schultz",
+  "i": "HS",
+  "r": "Chairman and CEO, Starbucks",
+  "w": "v",
+  "y": "b. 1953",
+  "names": {},
+  "roles": {
+   "it": "Presidente e CEO, Starbucks",
+   "es": "Presidente y CEO, Starbucks",
+   "la": "Praeses et praefectus Starbucks"
+  }
+ },
+ "dell": {
+  "n": "Michael Dell",
+  "i": "MD",
+  "r": "Founder and CEO, Dell",
+  "w": "v",
+  "y": "b. 1965",
+  "names": {},
+  "roles": {
+   "it": "Fondatore e CEO, Dell",
+   "es": "Fundador y CEO, Dell",
+   "la": "Conditor et praefectus Dell"
+  }
+ },
+ "schmidtrosenberg": {
+  "n": "Eric Schmidt & Jonathan Rosenberg",
+  "i": "SR",
+  "r": "Chairman and product chief, Google",
+  "w": "v",
+  "y": "fl. 2014",
+  "names": {},
+  "roles": {
+   "it": "Presidente e capo prodotto, Google",
+   "es": "Presidente y jefe de producto, Google",
+   "la": "Praeses et rector operum, Google"
+  }
+ },
+ "klarman": {
+  "n": "Seth Klarman",
+  "i": "SK",
+  "r": "Founder, Baupost Group",
+  "w": "v",
+  "y": "b. 1957",
+  "names": {},
+  "roles": {
+   "it": "Fondatore, Baupost Group",
+   "es": "Fundador, Baupost Group",
+   "la": "Conditor Baupost Group"
+  }
+ },
+ "cervantes": {
+  "n": "Miguel de Cervantes",
+  "i": "MC",
+  "r": "Novelist, Spain",
+  "w": "a",
+  "y": "1547–1616",
+  "names": {},
+  "roles": {
+   "it": "Romanziere, Spagna",
+   "es": "Novelista, España",
+   "la": "Scriptor, Hispania"
+  }
+ },
+ "usgrant": {
+  "n": "Ulysses S. Grant",
+  "i": "UG",
+  "r": "General and 18th U.S. President",
+  "w": "a",
+  "y": "1822–1885",
+  "names": {},
+  "roles": {
+   "it": "Generale e 18º Presidente degli Stati Uniti",
+   "es": "General y 18.º Presidente de los Estados Unidos",
+   "la": "Dux et praeses duodevicesimus"
+  }
+ },
+ "ghazali": {
+  "n": "Al-Ghazali",
+  "i": "AG",
+  "r": "Theologian and philosopher, Persia",
+  "w": "a",
+  "y": "1058–1111",
+  "names": {},
+  "roles": {
+   "it": "Teologo e filosofo, Persia",
+   "es": "Teólogo y filósofo, Persia",
+   "la": "Theologus et philosophus, Persia"
+  }
+ },
+ "duckworth": {
+  "n": "Angela Duckworth",
+  "i": "AD",
+  "r": "Psychologist, University of Pennsylvania",
+  "w": "m",
+  "y": "b. 1970",
+  "names": {},
+  "roles": {
+   "it": "Psicologa, University of Pennsylvania",
+   "es": "Psicóloga, University of Pennsylvania",
+   "la": "Psychologa, Universitas Pennsylvaniensis"
+  }
+ },
+ "willink": {
+  "n": "Jocko Willink",
+  "i": "JW",
+  "r": "Former U.S. Navy SEAL officer and author",
+  "w": "m",
+  "y": "b. 1971",
+  "names": {},
+  "roles": {
+   "it": "Ex ufficiale dei Navy SEAL e autore",
+   "es": "Exoficial de los Navy SEAL y autor",
+   "la": "Olim praefectus classiarius et scriptor"
+  }
+ },
+ "newport": {
+  "n": "Cal Newport",
+  "i": "CN",
+  "r": "Computer scientist and author, Georgetown",
+  "w": "m",
+  "y": "b. 1982",
+  "names": {},
+  "roles": {
+   "it": "Informatico e autore, Georgetown",
+   "es": "Informático y autor, Georgetown",
+   "la": "Computatrorum doctor et scriptor"
+  }
  }
 }

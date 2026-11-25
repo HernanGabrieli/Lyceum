@@ -7636,5 +7636,351 @@
   },
   "added": "2026-11-24T09:00:00Z",
   "batch": "2026-11-24-01"
+ },
+ {
+  "id": "v99",
+  "t": "schultz",
+  "era": "1997",
+  "src": "Pour Your Heart Into It, 1997",
+  "h": "Give the front line a stake, and they protect the brand.",
+  "b": "Schultz extended health coverage and stock options to Starbucks baristas, including part-timers, long before rivals did. His reasoning was commercial, not sentimental: the person handing over the cup is the company the customer actually meets. Owners of a small piece of the enterprise serve differently from hired hands, and that daily care compounds into the brand itself.",
+  "d": "Pick one frontline role that defines your customer's experience, and give it a real stake this quarter: ownership, profit share, or decision rights.",
+  "tg": [
+   "building",
+   "leadership"
+  ],
+  "v": true,
+  "source_url": "https://openlibrary.org/books/OL291713M/Pour_your_heart_into_it",
+  "note": "",
+  "tr": {
+   "it": [
+    "Dai alla prima linea una quota, e proteggerà il marchio.",
+    "Schultz estese l'assicurazione sanitaria e le stock option ai baristi di Starbucks, inclusi i part-time, molto prima dei concorrenti. Il motivo era commerciale, non sentimentale: chi porge la tazza è l'azienda che il cliente incontra davvero. Chi possiede una piccola parte dell'impresa serve diversamente da un semplice dipendente, e quella cura quotidiana si accumula nel marchio stesso.",
+    "Scegli un ruolo di prima linea che definisce l'esperienza del cliente e dagli una quota reale questo trimestre: proprietà, partecipazione agli utili o potere decisionale.",
+    "Pour Your Heart Into It, 1997"
+   ],
+   "es": [
+    "Da a la primera línea una participación y protegerá la marca.",
+    "Schultz amplió el seguro médico y las opciones sobre acciones a los baristas de Starbucks, incluidos los de media jornada, mucho antes que sus rivales. Su razón era comercial, no sentimental: quien entrega la taza es la empresa que el cliente realmente encuentra. Quien posee una pequeña parte del negocio sirve distinto a un simple empleado, y ese cuidado diario se acumula en la propia marca.",
+    "Elige un puesto de primera línea que defina la experiencia del cliente y dale una participación real este trimestre: propiedad, reparto de beneficios o poder de decisión.",
+    "Pour Your Heart Into It, 1997"
+   ],
+   "la": [
+    "Da primae aciei partem, et nomen tuebitur."
+   ]
+  },
+  "added": "2026-11-25T08:00:00Z",
+  "batch": "2026-11-25-01"
+ },
+ {
+  "id": "v100",
+  "t": "dell",
+  "era": "1999",
+  "src": "Direct from Dell, 1999",
+  "h": "Sell direct and build only what is already sold.",
+  "b": "Dell skipped the retailer and sold computers straight to the buyer, then assembled each machine only after the order arrived. Cutting the middle gave him the customer's real preferences and a fatter margin; building to order meant components were bought after the sale, so suppliers financed his growth. He carried days of inventory where rivals carried months.",
+  "d": "Map where inventory or middlemen sit between you and the buyer, and remove one layer so you build against real orders, not forecasts.",
+  "tg": [
+   "building",
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://openlibrary.org/books/OL16942247M/Direct_from_Dell",
+  "note": "",
+  "tr": {
+   "it": [
+    "Vendi diretto e costruisci solo ciò che è già venduto.",
+    "Dell saltò il rivenditore e vendette i computer direttamente all'acquirente, poi assemblò ogni macchina solo dopo l'arrivo dell'ordine. Tagliare l'intermediario gli diede le preferenze reali del cliente e un margine più ampio; costruire su ordinazione significava comprare i componenti dopo la vendita, così i fornitori finanziavano la sua crescita. Teneva giorni di scorte dove i rivali ne tenevano mesi.",
+    "Individua dove scorte o intermediari si frappongono tra te e l'acquirente, e togli uno strato così costruisci su ordini reali, non su previsioni.",
+    "Direct from Dell, 1999"
+   ],
+   "es": [
+    "Vende directo y fabrica solo lo que ya está vendido.",
+    "Dell se saltó al minorista y vendió los ordenadores directamente al comprador, y luego ensamblaba cada máquina solo después de llegar el pedido. Eliminar al intermediario le dio las preferencias reales del cliente y un margen mayor; fabricar bajo pedido significaba comprar los componentes tras la venta, así los proveedores financiaban su crecimiento. Tenía días de inventario donde los rivales tenían meses.",
+    "Localiza dónde se interponen inventario o intermediarios entre tú y el comprador, y quita una capa para fabricar contra pedidos reales, no contra pronósticos.",
+    "Direct from Dell, 1999"
+   ],
+   "la": [
+    "Vende recta via et fac tantum quod iam venditum est."
+   ]
+  },
+  "added": "2026-11-25T08:00:00Z",
+  "batch": "2026-11-25-01"
+ },
+ {
+  "id": "v101",
+  "t": "schmidtrosenberg",
+  "era": "2014",
+  "src": "How Google Works, 2014",
+  "h": "Hire smart creatives, then get out of their way.",
+  "b": "Schmidt and Rosenberg argue that technology collapsed the cost of building and distributing products, so advantage now comes from people who fuse technical depth, business sense and creativity. These 'smart creatives' resist command and thrive on freedom and information. The manager's job shifts from directing tasks to hiring such people, framing hard problems, and clearing the obstacles in front of them.",
+  "d": "Before adding process to a team, ask whether you have hired people who could run without it; if not, fix hiring before you add rules.",
+  "tg": [
+   "leadership",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/How_Google_Works",
+  "note": "",
+  "tr": {
+   "it": [
+    "Assumi menti creative, poi togliti di mezzo.",
+    "Schmidt e Rosenberg sostengono che la tecnologia ha azzerato il costo di costruire e distribuire prodotti, così il vantaggio nasce dalle persone che uniscono competenza tecnica, senso degli affari e creatività. Queste «menti creative» rifiutano il comando e prosperano su libertà e informazione. Il compito del manager passa dal dirigere i compiti all'assumere tali persone, porre problemi difficili e rimuovere gli ostacoli davanti a loro.",
+    "Prima di aggiungere processi a una squadra, chiediti se hai assunto persone capaci di lavorare senza; se no, sistema le assunzioni prima delle regole.",
+    "How Google Works, 2014"
+   ],
+   "es": [
+    "Contrata mentes creativas y luego apártate de su camino.",
+    "Schmidt y Rosenberg sostienen que la tecnología desplomó el coste de crear y distribuir productos, así que la ventaja nace de las personas que combinan profundidad técnica, sentido comercial y creatividad. Estas «mentes creativas» rechazan el mando y prosperan con libertad e información. La tarea del directivo pasa de dirigir tareas a contratar a esa gente, plantear problemas difíciles y despejar los obstáculos ante ellos.",
+    "Antes de añadir procesos a un equipo, pregúntate si has contratado a gente capaz de funcionar sin ellos; si no, arregla la contratación antes que las reglas.",
+    "How Google Works, 2014"
+   ],
+   "la": [
+    "Conduc ingeniosos et da illis viam liberam."
+   ]
+  },
+  "added": "2026-11-25T08:00:00Z",
+  "batch": "2026-11-25-01"
+ },
+ {
+  "id": "v102",
+  "t": "klarman",
+  "era": "1991",
+  "src": "Margin of Safety, 1991",
+  "h": "Avoid loss first; let the upside take care of itself.",
+  "b": "Klarman built his method on risk aversion: the investor's first duty is not to lose money, because a steep loss needs an outsized gain merely to recover. He buys only at a wide discount to conservative value, so an error or bad luck still leaves room. Chasing the next winner feels active; refusing bad odds is what compounds.",
+  "d": "Before any commitment, size the downside first: ask what you lose if you are wrong, and pass unless the price already pays you for that risk.",
+  "tg": [
+   "risk",
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Margin_of_Safety_(book)",
+  "note": "",
+  "tr": {
+   "it": [
+    "Evita prima la perdita; il guadagno si curerà da sé.",
+    "Klarman fondò il suo metodo sull'avversione al rischio: il primo dovere dell'investitore è non perdere denaro, perché una perdita forte richiede un guadagno enorme solo per recuperare. Compra solo con un ampio sconto su un valore prudente, così un errore o la sfortuna lasciano ancora margine. Inseguire il prossimo vincitore sembra attivo; rifiutare le cattive probabilità è ciò che capitalizza.",
+    "Prima di ogni impegno, misura prima il ribasso: chiediti cosa perdi se sbagli, e rinuncia a meno che il prezzo non ti paghi già per quel rischio.",
+    "Margin of Safety, 1991"
+   ],
+   "es": [
+    "Evita primero la pérdida; la ganancia se cuidará sola.",
+    "Klarman basó su método en la aversión al riesgo: el primer deber del inversor es no perder dinero, porque una pérdida fuerte exige una ganancia enorme solo para recuperarse. Compra únicamente con un amplio descuento sobre un valor prudente, de modo que un error o la mala suerte aún dejan margen. Perseguir al próximo ganador parece activo; rechazar las malas probabilidades es lo que capitaliza.",
+    "Antes de cualquier compromiso, mide primero la caída: pregúntate qué pierdes si te equivocas, y renuncia salvo que el precio ya te pague por ese riesgo.",
+    "Margin of Safety, 1991"
+   ],
+   "la": [
+    "Damnum prius vita; lucrum se ipsum curabit."
+   ]
+  },
+  "added": "2026-11-25T08:00:00Z",
+  "batch": "2026-11-25-01"
+ },
+ {
+  "id": "a92",
+  "t": "cervantes",
+  "era": "1605",
+  "src": "Don Quixote, 1605",
+  "h": "Diligence is the mother of good fortune.",
+  "b": "In Don Quixote, Cervantes repeats a proverb his age already trusted: diligence mothers good fortune, while idleness, its opposite, never reaches what a good wish asks for. The point is not that effort guarantees luck, but that steady work widens the field of chances and readies you to seize the one that appears. Fortune favours the prepared hand.",
+  "d": "Name one outcome you are hoping luck will bring, and convert it into a daily action you repeat whether or not it feels productive yet.",
+  "tg": [
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikiquote.org/wiki/Miguel_de_Cervantes",
+  "note": "",
+  "tr": {
+   "it": [
+    "La diligenza è madre della buona sorte.",
+    "Nel Don Chisciotte, Cervantes ripete un proverbio di cui il suo tempo già si fidava: la diligenza è madre della buona sorte, mentre l'ozio, suo contrario, non raggiunge mai ciò che un buon desiderio chiede. Non significa che lo sforzo garantisca la fortuna, ma che il lavoro costante allarga il campo delle occasioni e ti prepara a cogliere quella che appare. La sorte aiuta la mano pronta.",
+    "Indica un risultato che speri la fortuna ti porti, e trasformalo in un'azione quotidiana che ripeti che ti sembri produttiva o no.",
+    "Don Chisciotte, 1605"
+   ],
+   "es": [
+    "La diligencia es madre de la buena ventura.",
+    "En el Quijote, Cervantes repite un refrán en el que su época ya confiaba: la diligencia es madre de la buena ventura, mientras que la pereza, su contrario, jamás llega a lo que pide un buen deseo. No es que el esfuerzo garantice la suerte, sino que el trabajo constante amplía el campo de oportunidades y te prepara para tomar la que aparece. La fortuna ayuda a la mano dispuesta.",
+    "Nombra un resultado que esperas que la suerte te traiga, y conviértelo en una acción diaria que repites te parezca productiva o no todavía.",
+    "Don Quijote, 1605"
+   ],
+   "la": [
+    "Diligentia bonae fortunae mater est."
+   ]
+  },
+  "added": "2026-11-25T08:00:00Z",
+  "batch": "2026-11-25-01"
+ },
+ {
+  "id": "a93",
+  "t": "usgrant",
+  "era": "1885",
+  "src": "Personal Memoirs of U. S. Grant, 1885",
+  "h": "Once begun, never turn back until it is done.",
+  "b": "Grant recalls in his memoirs a lifelong rule: once he set out to go somewhere or do something, he would not turn back or stop until the thing was finished. The habit spared him the energy that retreat and second-guessing consume, and it steadied men who took their cue from his unbroken forward motion. Momentum, once surrendered, is dearly rebought.",
+  "d": "Before you commit to a course this week, make it small enough to finish without retreat; then refuse to reopen the decision until it is done.",
+  "tg": [
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://en.wikiquote.org/wiki/Ulysses_S._Grant",
+  "note": "",
+  "tr": {
+   "it": [
+    "Una volta iniziato, non tornare indietro finché non è compiuto.",
+    "Grant ricorda nelle sue memorie una regola di tutta la vita: una volta deciso di andare da qualche parte o di fare qualcosa, non tornava indietro né si fermava finché la cosa non era finita. L'abitudine gli risparmiava l'energia che ritirata e ripensamenti consumano, e rassicurava gli uomini che prendevano esempio dal suo moto in avanti ininterrotto. Lo slancio, una volta ceduto, si ricompra caro.",
+    "Prima di impegnarti in un percorso questa settimana, rendilo abbastanza piccolo da finirlo senza ritirata; poi rifiuta di riaprire la decisione finché non è compiuta.",
+    "Memorie personali di U. S. Grant, 1885"
+   ],
+   "es": [
+    "Una vez empezado, no vuelvas atrás hasta terminarlo.",
+    "Grant recuerda en sus memorias una regla de toda la vida: una vez que se proponía ir a algún sitio o hacer algo, no volvía atrás ni se detenía hasta que la cosa estaba terminada. El hábito le ahorraba la energía que consumen la retirada y la duda, y serenaba a los hombres que seguían su avance ininterrumpido. El impulso, una vez cedido, se recompra caro.",
+    "Antes de comprometerte con un rumbo esta semana, hazlo lo bastante pequeño para terminarlo sin retirada; luego niégate a reabrir la decisión hasta acabarla.",
+    "Memorias personales de U. S. Grant, 1885"
+   ],
+   "la": [
+    "Coeptum iter noli retro ferre, donec perficiatur."
+   ]
+  },
+  "added": "2026-11-25T08:00:00Z",
+  "batch": "2026-11-25-01"
+ },
+ {
+  "id": "a94",
+  "t": "ghazali",
+  "era": "c. 1100",
+  "src": "Deliverance from Error, c. 1100",
+  "h": "Doubt everything, then rebuild on what cannot be shaken.",
+  "b": "Seeking certain knowledge, al-Ghazali doubted in turn his senses and even his reason, since each can deceive, as a dream feels true until we wake. He refused to rest on any claim that mere habit or authority had planted. Only what survived that scrutiny deserved to bear weight. The method clears inherited assumptions and forces belief to earn its ground.",
+  "d": "Take one belief steering a current decision, and ask what evidence would overturn it; keep it only if it survives your honest attempt to break it.",
+  "tg": [
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://iep.utm.edu/al-ghazali/",
+  "note": "",
+  "tr": {
+   "it": [
+    "Dubita di tutto, poi ricostruisci su ciò che non vacilla.",
+    "In cerca di conoscenza certa, al-Ghazali mise in dubbio a turno i sensi e perfino la ragione, poiché ciascuno può ingannare, come un sogno sembra vero finché non ci svegliamo. Rifiutò di poggiare su qualsiasi affermazione piantata dalla sola abitudine o autorità. Solo ciò che sopravviveva a quell'esame meritava di reggere peso. Il metodo sgombra le assunzioni ereditate e costringe la convinzione a guadagnarsi il terreno.",
+    "Prendi una convinzione che guida una tua decisione attuale e chiediti quale prova la rovescerebbe; tienila solo se resiste al tuo onesto tentativo di abbatterla.",
+    "La liberazione dall'errore, c. 1100"
+   ],
+   "es": [
+    "Duda de todo y reconstruye sobre lo que no se tambalea.",
+    "En busca de conocimiento cierto, al-Ghazali dudó por turnos de sus sentidos e incluso de su razón, pues cada uno puede engañar, como un sueño parece verdadero hasta que despertamos. Se negó a apoyarse en cualquier afirmación plantada por la mera costumbre o autoridad. Solo lo que sobrevivía a ese examen merecía sostener peso. El método despeja los supuestos heredados y obliga a la creencia a ganarse el terreno.",
+    "Toma una creencia que guíe una decisión actual y pregúntate qué prueba la derribaría; consérvala solo si resiste tu intento honesto de romperla.",
+    "La liberación del error, c. 1100"
+   ],
+   "la": [
+    "Dubita de omnibus, deinde super firma reaedifica."
+   ]
+  },
+  "added": "2026-11-25T08:00:00Z",
+  "batch": "2026-11-25-01"
+ },
+ {
+  "id": "m38",
+  "t": "duckworth",
+  "era": "2016",
+  "src": "Grit: The Power of Passion and Perseverance, 2016",
+  "h": "Grit — passion plus perseverance — outlasts raw talent.",
+  "b": "Studying cadets, spellers and salespeople, Duckworth found that sustained effort toward one long-term aim predicted success better than talent or IQ. Talent sets a starting point; grit, the marriage of enduring passion and daily perseverance, decides how far it travels. Because skill and achievement both compound with effort over years, the steady finisher overtakes the brilliant starter who quits.",
+  "d": "Choose one goal worth years, not weeks, and protect a small daily block for it, so perseverance can compound while others chase novelty.",
+  "tg": [
+   "character",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/Grit_(personality_trait)",
+  "note": "",
+  "tr": {
+   "it": [
+    "La grinta — passione più perseveranza — batte il talento grezzo.",
+    "Studiando cadetti, campioni di spelling e venditori, Duckworth scoprì che lo sforzo costante verso un unico fine di lungo periodo prevedeva il successo meglio del talento o del QI. Il talento fissa un punto di partenza; la grinta, unione di passione duratura e perseveranza quotidiana, decide quanto lontano arriva. Poiché abilità e risultati si accumulano con lo sforzo negli anni, chi finisce con costanza supera il brillante che parte e molla.",
+    "Scegli un obiettivo che valga anni, non settimane, e proteggi un piccolo blocco quotidiano per esso, così la perseveranza si accumula mentre altri inseguono la novità.",
+    "Grit: The Power of Passion and Perseverance, 2016"
+   ],
+   "es": [
+    "La determinación — pasión más perseverancia — supera al talento puro.",
+    "Al estudiar cadetes, campeones de deletreo y vendedores, Duckworth halló que el esfuerzo sostenido hacia un único fin de largo plazo predecía el éxito mejor que el talento o el CI. El talento fija un punto de partida; la determinación, unión de pasión duradera y perseverancia diaria, decide cuán lejos llega. Como la destreza y el logro se acumulan con el esfuerzo a lo largo de los años, quien termina con constancia supera al brillante que empieza y abandona.",
+    "Elige una meta que valga años, no semanas, y protege un pequeño bloque diario para ella, para que la perseverancia se acumule mientras otros persiguen novedades.",
+    "Grit: El poder de la pasión y la perseverancia, 2016"
+   ],
+   "la": [
+    "Constantia et ardor ingenium crudum superant."
+   ]
+  },
+  "added": "2026-11-25T08:00:00Z",
+  "batch": "2026-11-25-01"
+ },
+ {
+  "id": "m39",
+  "t": "willink",
+  "era": "2015",
+  "src": "Extreme Ownership, 2015",
+  "h": "The leader owns everything; there is no one else to blame.",
+  "b": "Drawing on command in Ramadi, Willink argues that a leader must take total responsibility for the team's results, including failures caused by subordinates. Blaming people or circumstances ends learning; owning the outcome forces you to fix the plan, the training or your own orders. Teams copy this upward: when the top stops making excuses, so does everyone below.",
+  "d": "After the next setback, name your own contribution first, before anyone else's, and change one thing you control: the plan, the brief, or the standard.",
+  "tg": [
+   "leadership",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/book/show/23848190-extreme-ownership",
+  "note": "",
+  "tr": {
+   "it": [
+    "Il leader si prende tutto; non c'è nessun altro da incolpare.",
+    "Attingendo al comando a Ramadi, Willink sostiene che un leader deve assumersi la totale responsabilità dei risultati della squadra, compresi i fallimenti causati dai subordinati. Incolpare persone o circostanze ferma l'apprendimento; farsi carico dell'esito ti obbliga a correggere il piano, l'addestramento o i tuoi stessi ordini. Le squadre lo imitano verso l'alto: quando il vertice smette di trovare scuse, lo fa anche chi sta sotto.",
+    "Dopo il prossimo rovescio, nomina per primo il tuo contributo, prima di quello altrui, e cambia una cosa che controlli: il piano, le istruzioni o lo standard.",
+    "Extreme Ownership, 2015"
+   ],
+   "es": [
+    "El líder asume todo; no hay nadie más a quien culpar.",
+    "Apoyándose en su mando en Ramadi, Willink sostiene que un líder debe asumir la responsabilidad total de los resultados del equipo, incluidos los fallos causados por los subordinados. Culpar a las personas o a las circunstancias detiene el aprendizaje; hacerse cargo del resultado te obliga a corregir el plan, la formación o tus propias órdenes. Los equipos lo imitan hacia arriba: cuando la cúpula deja de poner excusas, también lo hace quien está debajo.",
+    "Tras el próximo revés, nombra primero tu propia aportación, antes que la ajena, y cambia una cosa que controles: el plan, las instrucciones o el estándar.",
+    "Extreme Ownership, 2015"
+   ],
+   "la": [
+    "Dux omnia in se recipit; nemo alius culpandus."
+   ]
+  },
+  "added": "2026-11-25T08:00:00Z",
+  "batch": "2026-11-25-01"
+ },
+ {
+  "id": "m40",
+  "t": "newport",
+  "era": "2016",
+  "src": "Deep Work, 2016",
+  "h": "Depth, not busyness, creates work that is hard to copy.",
+  "b": "Newport separates deep work — distraction-free concentration that stretches your ability — from shallow busyness that merely fills the day. Valuable, hard-to-replicate output comes from the first, yet open offices, chat and constant notifications corrode the capacity for it. As the skill grows rare while demand for it rises, those who protect long stretches of focus command a premium.",
+  "d": "Block one ninety-minute stretch tomorrow with notifications off and door shut, spent on your hardest task, and guard it like a meeting you cannot miss.",
+  "tg": [
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/book/show/25744928-deep-work",
+  "note": "",
+  "tr": {
+   "it": [
+    "La profondità, non l'affaccendarsi, crea lavoro difficile da imitare.",
+    "Newport distingue il lavoro profondo — concentrazione senza distrazioni che tende le tue capacità — dall'affaccendarsi superficiale che riempie soltanto la giornata. Il risultato prezioso e difficile da replicare nasce dal primo, eppure uffici aperti, chat e notifiche continue corrodono la capacità di raggiungerlo. Mentre l'abilità si fa rara e la domanda cresce, chi protegge lunghi tratti di concentrazione spunta un premio.",
+    "Blocca domani un tratto di novanta minuti con le notifiche spente e la porta chiusa, dedicato al compito più difficile, e difendilo come una riunione irrinunciabile.",
+    "Deep Work, 2016"
+   ],
+   "es": [
+    "La profundidad, no el ajetreo, crea trabajo difícil de copiar.",
+    "Newport distingue el trabajo profundo — concentración sin distracciones que tensa tu capacidad — del ajetreo superficial que solo llena el día. El resultado valioso y difícil de replicar nace del primero, pero las oficinas abiertas, el chat y las notificaciones constantes corroen la capacidad de lograrlo. Como la destreza se vuelve rara mientras crece su demanda, quien protege largos tramos de concentración cobra una prima.",
+    "Bloquea mañana un tramo de noventa minutos con las notificaciones apagadas y la puerta cerrada, dedicado a tu tarea más difícil, y defiéndelo como una reunión ineludible.",
+    "Deep Work, 2016"
+   ],
+   "la": [
+    "Altitudo, non occupatio, opus facit quod aemulari difficile est."
+   ]
+  },
+  "added": "2026-11-25T08:00:00Z",
+  "batch": "2026-11-25-01"
  }
 ]

@@ -866,5 +866,58 @@
    "es": "Demóstenes movía a una multitud cómoda incitándola a actuar; Berger mueve a las personas retirando las barreras que les impiden actuar. Uno empuja con fuego, el otro despeja el camino, y ambos buscan lo mismo: una mente que por fin se mueve.",
    "la": "Demosthenes incitat, Berger impedimenta tollit."
   }
+ },
+ {
+  "ids": [
+   "a92",
+   "m34"
+  ],
+  "th": "focus",
+  "br": {
+   "en": "Cervantes and Rovira, four centuries apart, strip the magic from luck: fortune lands on the diligent because steady work builds the ground where chance can take root. Prepare, and more 'luck' finds you.",
+   "it": "Cervantes e Rovira, a quattro secoli di distanza, tolgono la magia alla fortuna: la sorte si posa sul diligente perché il lavoro costante prepara il terreno in cui il caso può attecchire. Preparati, e più «fortuna» ti troverà.",
+   "es": "Cervantes y Rovira, a cuatro siglos de distancia, le quitan la magia a la suerte: la fortuna se posa en el diligente porque el trabajo constante prepara el terreno donde el azar puede arraigar. Prepárate, y más «suerte» te encontrará.",
+   "la": "Fortuna diligentem sequitur."
+  }
+ },
+ {
+  "ids": [
+   "a93",
+   "v42"
+  ],
+  "th": "strategy",
+  "br": {
+   "en": "Grant on the march and Slootman in the boardroom name the same enemy: hesitation. One refused to turn back until the task was done; the other blames lost tempo, not weak strategy, for stalled firms. Keep moving.",
+   "it": "Grant in marcia e Slootman in consiglio nominano lo stesso nemico: l'esitazione. Uno rifiutava di tornare indietro finché il compito non era finito; l'altro imputa alle aziende ferme il ritmo perduto, non la strategia debole. Continua a muoverti.",
+   "es": "Grant en marcha y Slootman en el consejo nombran al mismo enemigo: la vacilación. Uno se negaba a volver atrás hasta terminar la tarea; el otro culpa del estancamiento de las empresas al ritmo perdido, no a la estrategia débil. Sigue avanzando.",
+   "la": "Perge; mora hostis est."
+  }
+ },
+ {
+  "ids": [
+   "a94",
+   "v26"
+  ],
+  "th": "focus",
+  "br": {
+   "en": "Nine centuries apart, al-Ghazali and Musk share a discipline: strip a question down to what you can be sure of, discard what rests only on habit or analogy, and rebuild from the ground. Certainty is earned, not inherited.",
+   "it": "A nove secoli di distanza, al-Ghazali e Musk condividono una disciplina: ridurre una questione a ciò di cui puoi essere certo, scartare ciò che poggia solo su abitudine o analogia, e ricostruire dal fondamento. La certezza si guadagna, non si eredita.",
+   "es": "A nueve siglos de distancia, al-Ghazali y Musk comparten una disciplina: reducir una cuestión a lo que puedes dar por cierto, descartar lo que se apoya solo en la costumbre o la analogía, y reconstruir desde los cimientos. La certeza se gana, no se hereda.",
+   "la": "Certitudo acquiritur, non hereditate datur."
+  }
+ },
+ {
+  "ids": [
+   "a66",
+   "v25",
+   "m38"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Three ages, one verdict: Smiles the Victorian, Huang the chipmaker and Duckworth the psychologist all find that staying power, not raw gift, decides who finishes. Talent opens the door; perseverance walks the distance.",
+   "it": "Tre epoche, un solo verdetto: Smiles il vittoriano, Huang il costruttore di chip e Duckworth la psicologa trovano tutti che la tenuta, non il dono, decide chi arriva. Il talento apre la porta; la perseveranza percorre la distanza.",
+   "es": "Tres épocas, un mismo veredicto: Smiles el victoriano, Huang el fabricante de chips y Duckworth la psicóloga coinciden en que el aguante, no el don, decide quién llega. El talento abre la puerta; la perseverancia recorre la distancia.",
+   "la": "Perseverantia, non ingenium, metam tenet."
+  }
  }
 ]
