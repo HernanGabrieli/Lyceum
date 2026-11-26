@@ -2967,5 +2967,128 @@
    "es": "Informático y autor, Georgetown",
    "la": "Computatrorum doctor et scriptor"
   }
+ },
+ "mccord": {
+  "n": "Patty McCord",
+  "i": "PM",
+  "r": "Former Chief Talent Officer, Netflix",
+  "w": "v",
+  "y": "contemporary",
+  "names": {},
+  "roles": {
+   "it": "Ex responsabile dei talenti, Netflix",
+   "es": "Exresponsable de talento, Netflix",
+   "la": "Olim praefecta ingeniorum, Netflix"
+  }
+ },
+ "olivetti": {
+  "n": "Adriano Olivetti",
+  "i": "AO",
+  "r": "Industrialist, Olivetti; founder of Edizioni di Comunità",
+  "w": "v",
+  "y": "1901–1960",
+  "names": {},
+  "roles": {
+   "it": "Industriale, Olivetti; fondatore delle Edizioni di Comunità",
+   "es": "Industrial, Olivetti; fundador de Edizioni di Comunità",
+   "la": "Industrius, Olivetti; conditor Edizioni di Comunità"
+  }
+ },
+ "cucinelli": {
+  "n": "Brunello Cucinelli",
+  "i": "BC",
+  "r": "Founder of Brunello Cucinelli; 'humanistic capitalism'",
+  "w": "v",
+  "y": "b. 1953",
+  "names": {},
+  "roles": {
+   "it": "Fondatore di Brunello Cucinelli; 'capitalismo umanistico'",
+   "es": "Fundador de Brunello Cucinelli; 'capitalismo humanista'",
+   "la": "Conditor Brunello Cucinelli; capitalismi humanistici"
+  }
+ },
+ "goethe": {
+  "n": "Johann Wolfgang von Goethe",
+  "i": "JG",
+  "r": "Poet, playwright and statesman, Weimar",
+  "w": "a",
+  "y": "1749–1832",
+  "names": {
+   "la": "Ioannes Wolfgang Goethe"
+  },
+  "roles": {
+   "it": "Poeta, drammaturgo e statista, Weimar",
+   "es": "Poeta, dramaturgo y estadista, Weimar",
+   "la": "Poeta, fabularum scriptor et vir publicus, Weimar"
+  }
+ },
+ "pliny": {
+  "n": "Pliny the Younger",
+  "i": "PY",
+  "r": "Roman senator and letter-writer",
+  "w": "a",
+  "y": "c. 61–113",
+  "names": {
+   "it": "Plinio il Giovane",
+   "es": "Plinio el Joven",
+   "la": "Plinius Minor"
+  },
+  "roles": {
+   "it": "Senatore romano ed epistolografo",
+   "es": "Senador romano y autor de cartas",
+   "la": "Senator Romanus et epistularum scriptor"
+  }
+ },
+ "sunbin": {
+  "n": "Sun Bin",
+  "i": "SBi",
+  "r": "Military strategist, state of Qi",
+  "w": "a",
+  "y": "c. 4th century BC",
+  "names": {},
+  "roles": {
+   "it": "Stratega militare, stato di Qi",
+   "es": "Estratega militar, estado de Qi",
+   "la": "Strategus militaris, regnum Qi"
+  }
+ },
+ "blanchard": {
+  "n": "Ken Blanchard",
+  "i": "KB",
+  "r": "Management author and trainer",
+  "w": "m",
+  "y": "b. 1939",
+  "names": {},
+  "roles": {
+   "it": "Autore e formatore di management",
+   "es": "Autor y formador de gestión",
+   "la": "Scriptor et magister administrationis"
+  }
+ },
+ "puig": {
+  "n": "Mario Alonso Puig",
+  "i": "MAP",
+  "r": "Surgeon and speaker on human performance, Spain",
+  "w": "m",
+  "y": "b. 1955",
+  "names": {},
+  "roles": {
+   "it": "Chirurgo e divulgatore sulla prestazione umana, Spagna",
+   "es": "Cirujano y conferenciante sobre el rendimiento humano, España",
+   "la": "Chirurgus et orator de humano opere, Hispania"
+  }
+ },
+ "beckwith": {
+  "n": "Harry Beckwith",
+  "i": "HB",
+  "r": "Marketing consultant and author",
+  "w": "m",
+  "y": "b. 1949",
+  "names": {},
+  "roles": {
+   "it": "Consulente di marketing e autore",
+   "es": "Consultor de marketing y autor",
+   "la": "Mercaturae consultor et scriptor"
+  }
  }
 }

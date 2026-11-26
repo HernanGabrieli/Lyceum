@@ -919,5 +919,58 @@
    "es": "Tres épocas, un mismo veredicto: Smiles el victoriano, Huang el fabricante de chips y Duckworth la psicóloga coinciden en que el aguante, no el don, decide quién llega. El talento abre la puerta; la perseverancia recorre la distancia.",
    "la": "Perseverantia, non ingenium, metam tenet."
   }
+ },
+ {
+  "ids": [
+   "v103",
+   "a95",
+   "m41"
+  ],
+  "th": "leadership",
+  "br": {
+   "en": "Three readings of one craft: McCord fields the team the future needs, Goethe lifts people by treating them as they could be, Blanchard praises the right act at once. Each makes the leader's expectation the lever that forms talent.",
+   "it": "Tre letture di un solo mestiere: McCord schiera la squadra che serve al futuro, Goethe solleva le persone trattandole come potrebbero essere, Blanchard loda subito l'atto giusto. Ognuno fa dell'attesa del leader la leva che forma il talento.",
+   "es": "Tres lecturas de un mismo oficio: McCord alinea el equipo que el futuro necesita, Goethe eleva a las personas tratándolas como podrían ser, Blanchard elogia al instante el acto correcto. Cada uno convierte la expectativa del líder en la palanca que forma el talento.",
+   "la": "Exspectatio ducis talentum fingit."
+  }
+ },
+ {
+  "ids": [
+   "v105",
+   "a81"
+  ],
+  "th": "money",
+  "br": {
+   "en": "Cucinelli prices dignity into profit; Ruskin, a century earlier, insists there is no wealth but life. Both measure an enterprise by the lives it enlarges, not the margin alone.",
+   "it": "Cucinelli mette la dignità nel prezzo del profitto; Ruskin, un secolo prima, insiste che non c'è altra ricchezza che la vita. Entrambi misurano un'impresa dalle vite che allarga, non dal solo margine.",
+   "es": "Cucinelli incorpora la dignidad al precio del beneficio; Ruskin, un siglo antes, insiste en que no hay más riqueza que la vida. Ambos miden una empresa por las vidas que agranda, no por el margen.",
+   "la": "Non est opulentia nisi vita."
+  }
+ },
+ {
+  "ids": [
+   "m42",
+   "a18"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Puig says you never step back into the same self; Heraclitus, that you never step into the same river. Both deny a fixed nature, which is why reinvention is possible and permanent stagnation a choice.",
+   "it": "Puig dice che non rientri mai nello stesso sé; Eraclito, che non entri mai nello stesso fiume. Entrambi negano una natura fissa, perciò la reinvenzione è possibile e la stasi permanente una scelta.",
+   "es": "Puig dice que nunca vuelves al mismo yo; Heráclito, que nunca entras al mismo río. Ambos niegan una naturaleza fija, por eso la reinvención es posible y el estancamiento una elección.",
+   "la": "Idem flumen bis non intratur."
+  }
+ },
+ {
+  "ids": [
+   "m43",
+   "v64"
+  ],
+  "th": "persuasion",
+  "br": {
+   "en": "Levitt says you sell the need, not the product; Beckwith, that in services you sell a promise, not a thing. Both move the seller's eye from the object to what the buyer actually wants.",
+   "it": "Levitt dice che vendi il bisogno, non il prodotto; Beckwith, che nei servizi vendi una promessa, non una cosa. Entrambi spostano lo sguardo del venditore dall'oggetto a ciò che il cliente vuole davvero.",
+   "es": "Levitt dice que vendes la necesidad, no el producto; Beckwith, que en los servicios vendes una promesa, no una cosa. Ambos mueven la mirada del vendedor del objeto a lo que el comprador realmente quiere.",
+   "la": "Vende desiderium, non rem."
+  }
  }
 ]

@@ -567,5 +567,36 @@
    "m40": "https://www.goodreads.com/book/show/25744928-deep-work"
   },
   "note": "4 Valley, 3 Ancients, 3 Masters; grit trio + 3 pairs"
+ },
+ {
+  "at": "2026-11-26T17:40:32Z",
+  "batch": "2026-11-26-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v103",
+   "v104",
+   "v105",
+   "v106",
+   "a95",
+   "a96",
+   "a97",
+   "m41",
+   "m42",
+   "m43"
+  ],
+  "verified": 10,
+  "sources": {
+   "v103": "https://www.goodreads.com/book/show/36417234-powerful",
+   "v104": "http://www.federica-alatri.it/wp-content/uploads/2015/09/Ai-lavoratori-di-Pozzuoli_Discorso-Adriano-Olivetti-inaugurazione-stabilimento_23-aprile-1955.pdf",
+   "v105": "https://www.lafeltrinelli.it/sogno-di-solomeo-mia-vita-libro-brunello-cucinelli/e/9788807492372",
+   "v106": "https://www.goodreads.com/en/book/show/48019.The_Effective_Executive",
+   "a95": "https://en.wikiquote.org/wiki/Johann_Wolfgang_von_Goethe",
+   "a96": "http://www.vroma.org/vromans/hwalker/Pliny/Pliny09-36-E.html",
+   "a97": "https://en.wikipedia.org/wiki/Sun_Bin",
+   "m41": "https://en.wikipedia.org/wiki/The_One_Minute_Manager",
+   "m42": "https://www.goodreads.com/book/show/11104912-reinventarse",
+   "m43": "https://openlibrary.org/books/OL979422M/Selling_the_invisible"
+  },
+  "note": "4 Valley, 3 Ancients, 3 Masters; leadership trio (McCord/Goethe/Blanchard) + 3 cross-wing duos; 10/10 verified"
  }
 ]
