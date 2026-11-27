@@ -972,5 +972,45 @@
    "es": "Levitt dice que vendes la necesidad, no el producto; Beckwith, que en los servicios vendes una promesa, no una cosa. Ambos mueven la mirada del vendedor del objeto a lo que el comprador realmente quiere.",
    "la": "Vende desiderium, non rem."
   }
+ },
+ {
+  "ids": [
+   "a98",
+   "v110",
+   "m28"
+  ],
+  "th": "persuasion",
+  "br": {
+   "en": "Three crafts of making a case: Cicero's orator must teach, delight and move; Bezos trades slides for prose that exposes loose thinking; Cialdini wins the audience's attention before the message lands. Structure, medium and timing of a single act—persuasion.",
+   "it": "Tre arti del perorare una causa: l'oratore di Cicerone deve istruire, dilettare e commuovere; Bezos scambia le slide con una prosa che smaschera il pensiero fiacco; Cialdini conquista l'attenzione del pubblico prima che il messaggio arrivi. Struttura, mezzo e tempismo di un solo atto: la persuasione.",
+   "es": "Tres oficios de defender una causa: el orador de Cicerón debe enseñar, deleitar y conmover; Bezos cambia las diapositivas por una prosa que delata el pensamiento flojo; Cialdini gana la atención del público antes de que llegue el mensaje. Estructura, medio y oportunidad de un solo acto: la persuasión.",
+   "la": "Structura, medium, tempus: unius artis persuadendi."
+  }
+ },
+ {
+  "ids": [
+   "a99",
+   "m45"
+  ],
+  "th": "character",
+  "br": {
+   "en": "Seneca inserts delay to cool anger; Carnegie seals off each day to stop worry leaking in from a dead past or an unborn future. Both quarantine an emotion in time so that judgment, not impulse, can act.",
+   "it": "Seneca frappone l'indugio per raffreddare l'ira; Carnegie chiude a tenuta ogni giorno per impedire che l'ansia filtri da un passato morto o da un futuro non nato. Entrambi mettono in quarantena un'emozione nel tempo, perché ad agire sia il giudizio, non l'impulso.",
+   "es": "Séneca interpone la demora para enfriar la ira; Carnegie sella cada día para impedir que la preocupación se filtre desde un pasado muerto o un futuro no nacido. Ambos ponen en cuarentena una emoción en el tiempo, para que actúe el juicio y no el impulso.",
+   "la": "Tempore clausa, iudicium pro impetu agit."
+  }
+ },
+ {
+  "ids": [
+   "v108",
+   "a100"
+  ],
+  "th": "strategy",
+  "br": {
+   "en": "Porter reads the five structural forces that fix an industry's fate; Thucydides reads the structural shift—rising power, rival's fear—beneath a war's surface quarrels. Both tell you to look past the incident to the structure that is really driving it.",
+   "it": "Porter legge le cinque forze strutturali che fissano il destino di un settore; Thucydides legge lo spostamento strutturale—potenza che sale, paura del rivale—sotto le dispute di superficie di una guerra. Entrambi dicono di guardare oltre l'episodio, alla struttura che davvero lo muove.",
+   "es": "Porter lee las cinco fuerzas estructurales que fijan el destino de un sector; Tucídides lee el desplazamiento estructural—poder que asciende, miedo del rival—bajo las disputas superficiales de una guerra. Ambos piden mirar más allá del incidente, a la estructura que de verdad lo impulsa.",
+   "la": "Ultra casum structuram quae regit specta."
+  }
  }
 ]

@@ -8323,5 +8323,351 @@
   },
   "added": "2026-11-26T17:00:00Z",
   "batch": "2026-11-26-01"
+ },
+ {
+  "id": "v107",
+  "t": "buffett",
+  "era": "1986",
+  "src": "Berkshire Hathaway shareholder letter, 1986",
+  "h": "Be fearful when others are greedy, and greedy when others are fearful.",
+  "b": "Buffett treats fear and greed as recurring, contagious epidemics that detach prices from the value of the businesses underneath them. His discipline is contrarian: the crowd's panic is when good assets go cheap, and its euphoria is when they turn dear. You cannot time the swings, but you can resolve in advance to buy what others are fleeing.",
+  "d": "Write down now, while calm, the price at which you would gladly buy a business you admire. When a panic drives it there, act on the note instead of the mood.",
+  "tg": [
+   "money",
+   "risk"
+  ],
+  "v": true,
+  "source_url": "https://www.berkshirehathaway.com/letters/1986.html",
+  "note": "",
+  "tr": {
+   "it": [
+    "Abbi paura quando gli altri sono avidi, e sii avido quando gli altri hanno paura.",
+    "Buffett tratta paura e avidità come epidemie ricorrenti e contagiose che staccano i prezzi dal valore delle aziende che vi stanno sotto. La sua disciplina è controcorrente: il panico della folla è quando i buoni beni costano poco, e la sua euforia quando diventano cari. Non puoi cronometrare le oscillazioni, ma puoi decidere in anticipo di comprare ciò da cui gli altri fuggono.",
+    "Scrivi ora, da lucido, il prezzo al quale compreresti volentieri un'azienda che stimi. Quando un panico lo raggiunge, agisci sulla nota, non sull'umore.",
+    "Lettera agli azionisti di Berkshire Hathaway, 1986"
+   ],
+   "es": [
+    "Ten miedo cuando los demás son codiciosos, y sé codicioso cuando los demás tienen miedo.",
+    "Buffett trata el miedo y la codicia como epidemias recurrentes y contagiosas que separan los precios del valor de las empresas que los sostienen. Su disciplina es contraria: el pánico de la multitud es cuando los buenos activos se abaratan, y su euforia cuando se encarecen. No puedes cronometrar los vaivenes, pero sí decidir de antemano comprar aquello de lo que los demás huyen.",
+    "Anota ahora, en calma, el precio al que comprarías con gusto una empresa que admiras. Cuando un pánico lo alcance, actúa según la nota, no según el ánimo.",
+    "Carta a los accionistas de Berkshire Hathaway, 1986"
+   ],
+   "la": [
+    "Time cum ceteri avent, ave cum ceteri timent"
+   ]
+  },
+  "added": "2026-11-27T17:00:00Z",
+  "batch": "2026-11-27-01"
+ },
+ {
+  "id": "v108",
+  "t": "porter",
+  "era": "1979",
+  "src": "How Competitive Forces Shape Strategy, Harvard Business Review, 1979",
+  "h": "Industry structure, not effort, sets the ceiling on profit.",
+  "b": "Porter showed that a firm's profitability is bounded by five forces: rivalry among competitors, the threat of new entrants, the threat of substitutes, and the bargaining power of buyers and suppliers. Where all five press hard, even well-run companies earn little; where they are weak, ordinary ones prosper. Strategy is the search for a position those forces cannot easily erode.",
+  "d": "Map the five forces on your main market. Mark the two that squeeze your margin hardest, and point your next move at loosening one of them.",
+  "tg": [
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "https://hbr.org/1979/03/how-competitive-forces-shape-strategy",
+  "note": "",
+  "tr": {
+   "it": [
+    "È la struttura del settore, non lo sforzo, a fissare il tetto del profitto.",
+    "Porter ha mostrato che la redditività di un'impresa è limitata da cinque forze: la rivalità tra i concorrenti, la minaccia di nuovi entranti, quella dei prodotti sostitutivi e il potere contrattuale di clienti e fornitori. Dove tutte e cinque premono forte, persino aziende ben gestite guadagnano poco; dove sono deboli, prosperano anche le mediocri. La strategia è la ricerca di una posizione che quelle forze non possano erodere facilmente.",
+    "Mappa le cinque forze sul tuo mercato principale. Segna le due che comprimono di più il margine e indirizza la mossa successiva ad allentarne una.",
+    "How Competitive Forces Shape Strategy, Harvard Business Review, 1979"
+   ],
+   "es": [
+    "Es la estructura del sector, no el esfuerzo, la que fija el techo del beneficio.",
+    "Porter demostró que la rentabilidad de una empresa está limitada por cinco fuerzas: la rivalidad entre competidores, la amenaza de nuevos entrantes, la de los sustitutos y el poder de negociación de clientes y proveedores. Donde las cinco aprietan con fuerza, hasta las empresas bien gestionadas ganan poco; donde son débiles, prosperan las mediocres. La estrategia es buscar una posición que esas fuerzas no puedan erosionar con facilidad.",
+    "Mapea las cinco fuerzas en tu mercado principal. Marca las dos que más comprimen tu margen y dirige tu próximo movimiento a aflojar una de ellas.",
+    "How Competitive Forces Shape Strategy (Cómo las fuerzas competitivas moldean la estrategia), Harvard Business Review, 1979"
+   ],
+   "la": [
+    "Structura mercatus, non labor, lucri modum ponit"
+   ]
+  },
+  "added": "2026-11-27T17:00:00Z",
+  "batch": "2026-11-27-01"
+ },
+ {
+  "id": "v109",
+  "t": "collins",
+  "era": "2001",
+  "src": "Good to Great, 2001",
+  "h": "The best leaders pair deep humility with fierce will.",
+  "b": "Collins found that the companies which made a durable leap to greatness were led not by charismatic stars but by what he named Level 5 leaders. They combine personal modesty with relentless resolve for the institution: ambitious for the company, not themselves, crediting others for success and taking the blame for failure. The ego is put at the service of the work.",
+  "d": "After your next win, name publicly who made it possible. After the next setback, take the blame first in the room, then fix the system that allowed it.",
+  "tg": [
+   "leadership",
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://hbr.org/2005/07/level-5-leadership-the-triumph-of-humility-and-fierce-resolve",
+  "note": "Level 5 Leadership is the finding of Good to Great (2001); Collins restates and sources it in his 2005 HBR article, used here to confirm the attribution.",
+  "tr": {
+   "it": [
+    "I leader migliori uniscono una profonda umiltà a una volontà feroce.",
+    "Collins scoprì che le aziende capaci di un salto duraturo verso la grandezza erano guidate non da star carismatiche, ma da ciò che chiamò leader di Livello 5. Uniscono la modestia personale a una risolutezza inflessibile verso l'istituzione: ambiziosi per l'azienda, non per sé, attribuiscono agli altri i successi e a sé le colpe. L'ego è messo al servizio del lavoro.",
+    "Dopo la prossima vittoria, dichiara in pubblico chi l'ha resa possibile. Dopo il prossimo rovescio, prenditi la colpa per primo nella stanza, poi aggiusta il sistema che l'ha permesso.",
+    "Good to Great, 2001"
+   ],
+   "es": [
+    "Los mejores líderes unen una humildad profunda a una voluntad feroz.",
+    "Collins descubrió que las empresas capaces de un salto duradero hacia la grandeza no las dirigían estrellas carismáticas, sino lo que llamó líderes de Nivel 5. Combinan la modestia personal con una resolución implacable por la institución: ambiciosos por la empresa, no por sí mismos, atribuyen a otros los éxitos y a sí mismos las culpas. El ego se pone al servicio del trabajo.",
+    "Tras tu próxima victoria, nombra en público a quien la hizo posible. Tras el próximo revés, asume la culpa primero en la sala y luego arregla el sistema que lo permitió.",
+    "Empresas que sobresalen (Good to Great), 2001"
+   ],
+   "la": [
+    "Optimus dux modestiam cum voluntate ferrea coniungit"
+   ]
+  },
+  "added": "2026-11-27T17:00:00Z",
+  "batch": "2026-11-27-01"
+ },
+ {
+  "id": "v110",
+  "t": "bezos",
+  "era": "2017",
+  "src": "Amazon shareholder letter, 2017",
+  "h": "Write the memo; good prose exposes weak thinking.",
+  "b": "Amazon bans slide decks for serious meetings and replaces them with six-page narrative memos, read in silence before any discussion begins. Bezos's reasoning is simple: prose forces full sentences, and full sentences expose the gaps a bullet list lets you hide. A strong memo cannot be dashed off in an hour; the effort of writing clearly is the work of thinking clearly.",
+  "d": "Before your next big decision, write the case as a two-page narrative rather than slides. Wherever a sentence turns vague, you have found the reasoning you still owe.",
+  "tg": [
+   "persuasion",
+   "building"
+  ],
+  "v": true,
+  "source_url": "https://www.aboutamazon.com/news/company-news/2017-letter-to-shareholders",
+  "note": "",
+  "tr": {
+   "it": [
+    "Scrivi il memo: la buona prosa smaschera il pensiero debole.",
+    "Amazon vieta le presentazioni a slide nelle riunioni serie e le sostituisce con memo narrativi di sei pagine, letti in silenzio prima che inizi la discussione. Il ragionamento di Bezos è semplice: la prosa impone frasi complete, e le frasi complete rivelano i vuoti che un elenco puntato permette di nascondere. Un buon memo non si butta giù in un'ora; lo sforzo di scrivere con chiarezza è il lavoro di pensare con chiarezza.",
+    "Prima della tua prossima decisione importante, scrivi il caso come un racconto di due pagine invece che a slide. Dove una frase si fa vaga, hai trovato il ragionamento che ancora devi.",
+    "Lettera agli azionisti di Amazon, 2017"
+   ],
+   "es": [
+    "Escribe el memo: la buena prosa delata el pensamiento débil.",
+    "Amazon prohíbe las presentaciones con diapositivas en las reuniones serias y las sustituye por memorandos narrativos de seis páginas, leídos en silencio antes de que empiece la discusión. El razonamiento de Bezos es simple: la prosa obliga a frases completas, y las frases completas revelan los huecos que una lista de viñetas permite ocultar. Un buen memo no se improvisa en una hora; el esfuerzo de escribir con claridad es el trabajo de pensar con claridad.",
+    "Antes de tu próxima decisión importante, escribe el caso como un relato de dos páginas en lugar de diapositivas. Donde una frase se vuelva vaga, has hallado el razonamiento que aún debes.",
+    "Carta a los accionistas de Amazon, 2017"
+   ],
+   "la": [
+    "Scribe oratione continua; prosa cogitationem infirmam prodit"
+   ]
+  },
+  "added": "2026-11-27T17:00:00Z",
+  "batch": "2026-11-27-01"
+ },
+ {
+  "id": "a98",
+  "t": "cicero",
+  "era": "55 BC",
+  "src": "De Oratore, 55 BC",
+  "h": "To persuade, you must teach, delight, and move.",
+  "b": "Cicero gave the orator three duties: to teach the case with clear argument, to delight the audience enough to keep them listening, and to move them to the feeling that prompts action. Proof alone convinces no one who is bored or unstirred. The complete speaker wins the mind, holds the attention, and reaches the heart—all three, in that order.",
+  "d": "Before your next pitch, test it on three counts: is the argument clear, is it interesting to sit through, and does it move the listener to act? Strengthen the weakest of the three.",
+  "tg": [
+   "persuasion"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/De_Oratore",
+  "note": "",
+  "tr": {
+   "it": [
+    "Per persuadere devi istruire, dilettare e commuovere.",
+    "Cicerone assegnò all'oratore tre compiti: istruire sulla causa con un argomento chiaro, dilettare l'uditorio quanto basta per tenerlo in ascolto e commuoverlo fino al sentimento che spinge all'azione. La sola prova non convince chi è annoiato o indifferente. L'oratore completo conquista la mente, trattiene l'attenzione e raggiunge il cuore: tutt'e tre, in quest'ordine.",
+    "Prima della tua prossima presentazione, provala su tre punti: l'argomento è chiaro, è interessante da ascoltare e spinge chi ascolta ad agire? Rafforza il più debole dei tre.",
+    "De Oratore (Dell'oratore), 55 a.C."
+   ],
+   "es": [
+    "Para persuadir debes enseñar, deleitar y conmover.",
+    "Cicerón asignó al orador tres deberes: enseñar la causa con un argumento claro, deleitar al público lo bastante para que siga escuchando y conmoverlo hasta el sentimiento que impulsa a actuar. La prueba sola no convence a quien está aburrido o indiferente. El orador completo gana la mente, retiene la atención y alcanza el corazón: los tres, en ese orden.",
+    "Antes de tu próxima presentación, pruébala en tres puntos: ¿el argumento es claro, es interesante de escuchar y mueve a actuar a quien escucha? Refuerza el más débil de los tres.",
+    "De Oratore (Sobre el orador), 55 a. C."
+   ],
+   "la": [
+    "Ut persuadeas, doce, delecta, move"
+   ]
+  },
+  "added": "2026-11-27T17:00:00Z",
+  "batch": "2026-11-27-01"
+ },
+ {
+  "id": "a99",
+  "t": "seneca",
+  "era": "c. 45 AD",
+  "src": "On Anger (De Ira), c. 45 AD",
+  "h": "The best cure for anger is delay.",
+  "b": "Seneca called anger a brief madness that does its worst in the first rush. His remedy is to interpose time: delay does not pardon the offence, it lets judgment catch up with impulse. Wait, and the heat subsides enough to weigh the matter clearly; what felt urgent to avenge often turns out not to be worth the cost.",
+  "d": "When anger spikes, impose a fixed pause before you respond—an hour, or a night. Draft the hot reply if you must, but send nothing until the delay has run out.",
+  "tg": [
+   "character"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/De_Ira",
+  "note": "",
+  "tr": {
+   "it": [
+    "Il miglior rimedio contro l'ira è l'indugio.",
+    "Seneca definì l'ira una breve follia che fa il suo peggio nel primo slancio. Il suo rimedio è frapporre tempo: l'indugio non perdona l'offesa, lascia che il giudizio raggiunga l'impulso. Aspetta, e il calore cala quanto basta a pesare la cosa con lucidità; ciò che pareva urgente vendicare spesso si rivela non valere il prezzo.",
+    "Quando l'ira divampa, imponiti una pausa fissa prima di rispondere: un'ora, o una notte. Scrivi pure la risposta a caldo, ma non inviare nulla finché l'indugio non è trascorso.",
+    "De Ira (L'ira), c. 45 d.C."
+   ],
+   "es": [
+    "El mejor remedio contra la ira es la demora.",
+    "Séneca llamó a la ira una breve locura que hace su peor daño en el primer arranque. Su remedio es interponer tiempo: la demora no perdona la ofensa, deja que el juicio alcance al impulso. Espera, y el ardor baja lo bastante para sopesar el asunto con claridad; lo que parecía urgente vengar a menudo resulta no valer el precio.",
+    "Cuando la ira estalle, imponte una pausa fija antes de responder: una hora, o una noche. Redacta la respuesta en caliente si hace falta, pero no envíes nada hasta que la demora haya pasado.",
+    "De Ira (Sobre la ira), c. 45 d. C."
+   ],
+   "la": [
+    "Maximum remedium irae mora est"
+   ]
+  },
+  "added": "2026-11-27T17:00:00Z",
+  "batch": "2026-11-27-01"
+ },
+ {
+  "id": "a100",
+  "t": "thucydides",
+  "era": "c. 400 BC",
+  "src": "History of the Peloponnesian War, Book 1, c. 400 BC",
+  "h": "Rising power and the fear it stirs is what brings war.",
+  "b": "Thucydides looked past the quarrels that triggered the Peloponnesian War to its real cause: the growth of Athenian power and the alarm this produced in Sparta. The stated grievances were pretexts; the structural shift was the engine. When a rising force meets an established one, fear itself can make collision feel inevitable to both sides.",
+  "d": "When a rival rises fast in your market, name the fear driving your board, not just the latest incident. Decide whether you are reacting to a slight or to the shift beneath it.",
+  "tg": [
+   "power",
+   "strategy"
+  ],
+  "v": true,
+  "source_url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0200:book%3D1:chapter%3D23",
+  "note": "",
+  "tr": {
+   "it": [
+    "È la potenza crescente, e la paura che suscita, a portare la guerra.",
+    "Thucydides guardò oltre le dispute che innescarono la guerra del Peloponneso fino alla sua vera causa: la crescita della potenza ateniese e l'allarme che essa produsse in Sparta. Le lagnanze dichiarate erano pretesti; il motore era lo spostamento strutturale. Quando una forza che sale incontra una già affermata, la paura stessa può far sembrare lo scontro inevitabile a entrambe.",
+    "Quando un rivale cresce in fretta nel tuo mercato, dai un nome alla paura che muove il tuo consiglio, non solo all'ultimo episodio. Decidi se stai reagendo a uno sgarbo o allo spostamento che gli sta sotto.",
+    "La guerra del Peloponneso, Libro I, c. 400 a.C."
+   ],
+   "es": [
+    "Es el poder creciente, y el miedo que despierta, lo que trae la guerra.",
+    "Tucídides miró más allá de las disputas que desataron la guerra del Peloponeso hasta su causa real: el crecimiento del poder ateniense y la alarma que produjo en Esparta. Los agravios declarados eran pretextos; el motor era el desplazamiento estructural. Cuando una fuerza que asciende se encuentra con otra ya establecida, el miedo mismo puede hacer que el choque parezca inevitable a ambas.",
+    "Cuando un rival crece deprisa en tu mercado, pon nombre al miedo que mueve a tu consejo, no solo al último incidente. Decide si reaccionas a un desaire o al desplazamiento que hay debajo.",
+    "Historia de la guerra del Peloponeso, Libro I, c. 400 a. C."
+   ],
+   "la": [
+    "Crescens potentia et timor eius bellum parit"
+   ]
+  },
+  "added": "2026-11-27T17:00:00Z",
+  "batch": "2026-11-27-01"
+ },
+ {
+  "id": "m44",
+  "t": "allen",
+  "era": "2001",
+  "src": "Getting Things Done, 2001",
+  "h": "Your mind is for having ideas, not holding them.",
+  "b": "Allen argues the brain is built to generate thought, not to store it, yet most people use it as a filing cabinet for unfinished tasks. Each open loop you try to remember quietly drains the attention you need to think. Capture every commitment into a single trusted system outside your head, and the mind is freed to do its real work.",
+  "d": "For one week, write every task and promise into one trusted list the instant it appears. When your mind raises it again, note that it is already captured—and let it go.",
+  "tg": [
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://www.goodreads.com/book/show/1633.Getting_Things_Done",
+  "note": "",
+  "tr": {
+   "it": [
+    "La tua mente serve ad avere idee, non a conservarle.",
+    "Allen sostiene che il cervello è fatto per generare pensiero, non per immagazzinarlo, eppure quasi tutti lo usano come schedario di compiti incompiuti. Ogni questione aperta che cerchi di ricordare prosciuga, in silenzio, l'attenzione che ti serve per pensare. Cattura ogni impegno in un unico sistema fidato fuori dalla testa, e la mente è libera di fare il suo vero lavoro.",
+    "Per una settimana scrivi ogni compito e promessa in un'unica lista fidata nell'istante in cui compare. Quando la mente te lo ripropone, nota che è già annotato e lascialo andare.",
+    "Getting Things Done, 2001"
+   ],
+   "es": [
+    "Tu mente sirve para tener ideas, no para guardarlas.",
+    "Allen sostiene que el cerebro está hecho para generar pensamiento, no para almacenarlo, y sin embargo casi todos lo usan como archivador de tareas inacabadas. Cada asunto abierto que intentas recordar drena, en silencio, la atención que necesitas para pensar. Captura cada compromiso en un único sistema de confianza fuera de tu cabeza, y la mente queda libre para su verdadero trabajo.",
+    "Durante una semana, escribe cada tarea y promesa en una sola lista de confianza en cuanto aparezca. Cuando tu mente la vuelva a plantear, anota que ya está capturada y suéltala.",
+    "Organízate con eficacia (Getting Things Done), 2001"
+   ],
+   "la": [
+    "Mens ideis gignendis, non servandis, est"
+   ]
+  },
+  "added": "2026-11-27T17:00:00Z",
+  "batch": "2026-11-27-01"
+ },
+ {
+  "id": "m45",
+  "t": "carnegie",
+  "era": "1948",
+  "src": "How to Stop Worrying and Start Living, 1948",
+  "h": "Live within the sealed walls of a single day.",
+  "b": "Carnegie, borrowing an image from the physician William Osler, urged readers to seal off each day like the watertight compartments of a ship. Shut the iron doors on a dead yesterday and an unborn tomorrow, and carry only today's load. Worry feeds on past regret and future dread; the present day, taken by itself, is almost always bearable.",
+  "d": "Each morning name only what must be done today, and refuse to rehearse yesterday's regrets or tomorrow's fears until the day is over. Reopen the next compartment tomorrow.",
+  "tg": [
+   "character",
+   "focus"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/How_to_Stop_Worrying_and_Start_Living",
+  "note": "",
+  "tr": {
+   "it": [
+    "Vivi dentro le pareti sigillate di un solo giorno.",
+    "Carnegie, riprendendo un'immagine del medico William Osler, invitava a chiudere ogni giorno come i compartimenti stagni di una nave. Serra le porte di ferro su un ieri morto e un domani non nato, e porta solo il carico di oggi. L'ansia si nutre del rimpianto passato e del timore futuro; la giornata presente, presa da sola, è quasi sempre sopportabile.",
+    "Ogni mattina nomina solo ciò che va fatto oggi, e rifiuta di ripassare i rimpianti di ieri o le paure di domani finché il giorno non è finito. Riapri il prossimo compartimento domani.",
+    "Come vincere lo stress e cominciare a vivere, 1948"
+   ],
+   "es": [
+    "Vive dentro de los muros sellados de un solo día.",
+    "Carnegie, tomando una imagen del médico William Osler, instaba a cerrar cada día como los compartimentos estancos de un barco. Cierra las puertas de hierro sobre un ayer muerto y un mañana no nacido, y carga solo con lo de hoy. La preocupación se alimenta del remordimiento pasado y del temor futuro; el día presente, tomado solo, casi siempre es llevadero.",
+    "Cada mañana nombra solo lo que debe hacerse hoy, y niégate a repasar los lamentos de ayer o los miedos de mañana hasta que el día termine. Reabre el siguiente compartimento mañana.",
+    "Cómo suprimir las preocupaciones y disfrutar de la vida, 1948"
+   ],
+   "la": [
+    "Vive intra unius diei clausos fines"
+   ]
+  },
+  "added": "2026-11-27T17:00:00Z",
+  "batch": "2026-11-27-01"
+ },
+ {
+  "id": "m46",
+  "t": "burg",
+  "era": "2007",
+  "src": "The Go-Giver, 2007",
+  "h": "Your worth is the value you give beyond what you take.",
+  "b": "In a short business parable, Burg and Mann set out a Law of Value: your true worth is measured by how much more you give in value than you take in payment. Chasing the transaction caps you; enlarging the value you deliver, and the number of people you serve, is what lifts your income. Serve first, and compensation follows.",
+  "d": "On your next deal, ask what you could add that plainly exceeds what you charge—a useful referral, faster help, a problem solved—and give it before you discuss price.",
+  "tg": [
+   "persuasion",
+   "money"
+  ],
+  "v": true,
+  "source_url": "https://en.wikipedia.org/wiki/The_Go-Giver",
+  "note": "Co-authored with John David Mann.",
+  "tr": {
+   "it": [
+    "Il tuo valore è ciò che dai oltre ciò che prendi.",
+    "In una breve parabola d'affari, Burg e Mann enunciano una Legge del Valore: il tuo valore reale si misura da quanto più dai in valore rispetto a ciò che prendi in pagamento. Rincorrere la transazione ti limita; ampliare il valore che offri, e il numero di persone che servi, è ciò che alza il tuo reddito. Servi per primo, e la ricompensa segue.",
+    "Nel tuo prossimo affare, chiediti cosa potresti aggiungere che superi chiaramente ciò che fai pagare—una segnalazione utile, un aiuto più rapido, un problema risolto—e offrilo prima di parlare di prezzo.",
+    "The Go-Giver (Il Go-Giver), 2007"
+   ],
+   "es": [
+    "Tu valor es lo que das por encima de lo que tomas.",
+    "En una breve parábola de negocios, Burg y Mann enuncian una Ley del Valor: tu valor real se mide por cuánto más das en valor de lo que tomas en pago. Perseguir la transacción te limita; ampliar el valor que entregas, y el número de personas a las que sirves, es lo que eleva tus ingresos. Sirve primero, y la compensación llega después.",
+    "En tu próximo trato, pregúntate qué podrías añadir que supere con claridad lo que cobras—una recomendación útil, una ayuda más rápida, un problema resuelto—y ofrécelo antes de hablar de precio.",
+    "El dar que recibe (The Go-Giver), 2007"
+   ],
+   "la": [
+    "Pretium tuum est quod ultra mercedem das"
+   ]
+  },
+  "added": "2026-11-27T17:00:00Z",
+  "batch": "2026-11-27-01"
  }
 ]

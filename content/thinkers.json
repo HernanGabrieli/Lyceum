@@ -3090,5 +3090,31 @@
    "es": "Consultor de marketing y autor",
    "la": "Mercaturae consultor et scriptor"
   }
+ },
+ "allen": {
+  "n": "David Allen",
+  "i": "DA",
+  "r": "Productivity consultant; creator of Getting Things Done",
+  "w": "m",
+  "y": "b. 1945",
+  "names": {},
+  "roles": {
+   "it": "Consulente di produttività; ideatore di Getting Things Done",
+   "es": "Consultor de productividad; creador de Getting Things Done",
+   "la": "Consultor efficientiae; auctor methodi Getting Things Done"
+  }
+ },
+ "burg": {
+  "n": "Bob Burg",
+  "i": "BB",
+  "r": "Author and speaker on selling and influence",
+  "w": "m",
+  "y": "b. 1958",
+  "names": {},
+  "roles": {
+   "it": "Autore e relatore su vendita e influenza",
+   "es": "Autor y conferenciante sobre venta e influencia",
+   "la": "Scriptor et orator de vendendo et suadendo"
+  }
  }
 }

@@ -598,5 +598,36 @@
    "m43": "https://openlibrary.org/books/OL979422M/Selling_the_invisible"
   },
   "note": "4 Valley, 3 Ancients, 3 Masters; leadership trio (McCord/Goethe/Blanchard) + 3 cross-wing duos; 10/10 verified"
+ },
+ {
+  "at": "2026-11-27T17:19:55Z",
+  "batch": "2026-11-27-01",
+  "by": "lyceum-curator",
+  "ids": [
+   "v107",
+   "v108",
+   "v109",
+   "v110",
+   "a98",
+   "a99",
+   "a100",
+   "m44",
+   "m45",
+   "m46"
+  ],
+  "verified": 10,
+  "sources": {
+   "v107": "https://www.berkshirehathaway.com/letters/1986.html",
+   "v108": "https://hbr.org/1979/03/how-competitive-forces-shape-strategy",
+   "v109": "https://hbr.org/2005/07/level-5-leadership-the-triumph-of-humility-and-fierce-resolve",
+   "v110": "https://www.aboutamazon.com/news/company-news/2017-letter-to-shareholders",
+   "a98": "https://en.wikipedia.org/wiki/De_Oratore",
+   "a99": "https://en.wikipedia.org/wiki/De_Ira",
+   "a100": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0200:book%3D1:chapter%3D23",
+   "m44": "https://www.goodreads.com/book/show/1633.Getting_Things_Done",
+   "m45": "https://en.wikipedia.org/wiki/How_to_Stop_Worrying_and_Start_Living",
+   "m46": "https://en.wikipedia.org/wiki/The_Go-Giver"
+  },
+  "note": "4 Valley, 3 Ancients, 3 Masters; 3 dialogues (persuasion trio, Seneca/Carnegie, Porter/Thucydides); 10/10 verified"
  }
 ]
